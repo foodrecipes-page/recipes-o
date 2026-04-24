@@ -1,0 +1,71 @@
+{
+  "title": "Buttery OatBabadoos",
+  "description": "A buttery and tender kid-friendly Argentinean dish featuring gluten-free oats prepared with sous-vide for an effortless meal.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Rolled Oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla Bean Paste or Puree",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide to 160°F (71°C).",
+    "Mix the oats with heavy cream, butter, vanilla paste, coconut sugar, and black pepper in a large bowl.",
+    "Pour the mixture into an appropriate-sized sous-vide bag and seal tightly. Place it in the preheated water bath for about 2 hours.",
+    "Remove from the sous-vide and let it cool to room temperature before serving as a snack or dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "buttery",
+    "tender",
+    "gluten-free-friendly",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "oatbabadoos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatbabadoos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:29:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "oats",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

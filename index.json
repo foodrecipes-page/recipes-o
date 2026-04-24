@@ -1,5 +1,19 @@
 [
   {
+    "slug": "oatbabadoos",
+    "title": "Buttery OatBabadoos",
+    "tags": [
+      "argentine",
+      "buttery",
+      "tender",
+      "gluten-free-friendly",
+      "kid-friendly"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 75,
+    "shard": "o"
+  },
+  {
     "slug": "oreo-bliss-air-fry",
     "title": "Oreo Bliss Air-Fry",
     "tags": [
