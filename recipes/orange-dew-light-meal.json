@@ -1,0 +1,62 @@
+{
+  "title": "Orange Dew Light Meal",
+  "description": "A smoky and light Portuguese brunch dish featuring orange juice, dumplings (dum), and a fodmap-friendly twist.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Orange Juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumplings (dum)",
+      "amount": "4-6"
+    },
+    {
+      "name": "Fodmap-Friendly Dipping Sauce",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Juice the oranges and set aside.",
+    "Warm up the orange juice in a saucepan over medium heat. Stir in any desired flavorings such as garlic, smoked paprika or chili flakes for extra smokiness.",
+    "Prepare your dumplings according to recipe instructions. Serve hot with some of the warm orange juice mixture poured over them.",
+    "Provide a side of your Fodmap-friendly dipping sauce alongside the meal for those who enjoy it."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "orange",
+    "dew",
+    "light",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "orange-dew-light-meal",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-dew-light-meal",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:51:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "orange juice",
+    "diet": "fodmap",
+    "region": null
+  }
+}
