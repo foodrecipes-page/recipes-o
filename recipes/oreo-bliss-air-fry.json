@@ -1,0 +1,67 @@
+{
+  "title": "Oreo Bliss Air-Fry",
+  "description": "A light and crispy Croatian dessert featuring creamy Oreo biscuits air-fried to perfection, ideal for those looking for a low-calorie-friendly treat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cookies",
+      "amount": "24"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "80 grams"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 175°C (345°F).",
+    "In a bowl, mix the vanilla extract with the coconut oil until well combined.",
+    "Gradually add brown sugar while continuously stirring to prevent lumps from forming.",
+    "Separate Oreo cookies into two piles: one for crumbs and one for chunks. Using your fingers, gently crumble about 12 cookies and break another 12 into bite-sized pieces.",
+    "Fold the crumbled and chunked Oreos into the melted oil mixture until evenly coated.",
+    "Evenly spread the coated Oreo mixture in a single layer inside the air fryer basket without overcrowding.",
+    "Air-fry for about 8-10 minutes or until golden brown, flipping once halfway through cooking.",
+    "Let it cool down slightly before serving to keep it crunchy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "oreo",
+    "air-fry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 25
+  },
+  "slug": "oreo-bliss-air-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oreo-bliss-air-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:52:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
