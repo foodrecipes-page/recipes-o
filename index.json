@@ -77,6 +77,19 @@
     "shard": "o"
   },
   {
+    "slug": "oatzimami-fluffy-dish",
+    "title": "Oatzimami Fluffy Dish",
+    "tags": [
+      "oat-milk",
+      "air-fry",
+      "umami-flavor",
+      "low-carb"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "olive-oasis",
     "title": "Olive Oasis",
     "tags": [

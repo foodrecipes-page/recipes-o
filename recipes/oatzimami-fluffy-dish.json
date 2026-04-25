@@ -1,0 +1,76 @@
+{
+  "title": "Oatzimami Fluffy Dish",
+  "description": "A light German dish featuring oat milk and air-fried elements for a low-carb, umami-flavored breakfast option.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oat Milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Herbs and Spices (optional)",
+      "notes": "For flavoring, such as salt, pepper, and garlic powder."
+    }
+  ],
+  "instructions": [
+    "Whisk the egg whites until stiff peaks form.",
+    "In a separate bowl, mix oat milk with baking powder, vegetable oil, and herbs/spices. If using, add in some of these to taste.",
+    "Fold the mixture gently into the beaten egg whites to incorporate.",
+    "Heat air fryer to 180°C (350°F).",
+    "Place folded mixture onto a parchment-lined tray for even cooking.",
+    "Cook at 180°C (350°F) for about 20 minutes or until golden brown.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oat-milk",
+    "air-fry",
+    "umami-flavor",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "oatzimami-fluffy-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatzimami-fluffy-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:31:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "oat milk",
+    "diet": "low-carb",
+    "region": null
+  }
+}
