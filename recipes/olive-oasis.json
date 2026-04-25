@@ -1,0 +1,67 @@
+{
+  "title": "Olive Oasis",
+  "description": "A floral, dense, cozy jamaican dish featuring olives that are air-fried for a halal-friendly snack.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "olives",
+      "amount": "1 cup pitted and chopped",
+      "notes": "Use extra virgin olive oil for healthier cooking."
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "8-10 pieces",
+      "notes": "Halal certified if available."
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For coating the olives and tortillas."
+    },
+    {
+      "name": "cooking spray or oil for air frying",
+      "amount": null,
+      "notes": "Ensure cooking at a safe temperature (350°F). Use only halal certified oils if necessary."
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F.",
+    "In a bowl, mix the pitted and chopped olives with 1 tablespoon of flour. Toss until well coated.",
+    "Roll each tortilla in a thin layer of flour (about 2 tablespoons total for all). Coat both sides evenly and place them in the air fryer basket.",
+    "Fry the olive-coated tortillas on medium heat for about 3-5 minutes, flipping halfway through. Check frequently to avoid burning.",
+    "Drain excess oil from the olives before serving if preferred. Optionally add a bit of lemon zest or another aromatic herb for extra flavor.",
+    "Serve hot and enjoy your floral, dense, cozy jamaican dish as a perfect halal-friendly snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "olive-oasis",
+    "floral-jamaican-snack",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 14
+  },
+  "slug": "olive-oasis",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/olive-oasis",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:06:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "olives",
+    "diet": "halal",
+    "region": null
+  }
+}

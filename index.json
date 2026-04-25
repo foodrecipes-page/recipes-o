@@ -38,6 +38,18 @@
     "shard": "o"
   },
   {
+    "slug": "olive-oasis",
+    "title": "Olive Oasis",
+    "tags": [
+      "olive-oasis",
+      "floral-jamaican-snack",
+      "halal-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "olive-s-caldo-verde",
     "title": "Olive's Caldo Verde",
     "tags": [
