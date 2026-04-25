@@ -101,6 +101,19 @@
     "shard": "o"
   },
   {
+    "slug": "onion-bliss-miso-soup",
+    "title": "Onion Bliss Miso Soup",
+    "tags": [
+      "onion-bliss",
+      "miso-soup",
+      "australian-dish",
+      "sweet-juicy"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "onion-monsoin-crunch",
     "title": "Onion Monsoin Crunch",
     "tags": [

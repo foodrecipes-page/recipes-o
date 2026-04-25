@@ -1,0 +1,88 @@
+{
+  "title": "Onion Bliss Miso Soup",
+  "description": "A sweet, juicy, and energizing Australian dish featuring chopped onion, pressure-cooked to perfection in a dairy-free-friendly broth.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Filtered"
+    },
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": "1 cube",
+      "notes": "Optional for added depth of flavor, can be replaced with 2-3 tablespoons miso paste if desired"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": "Choose a sweeter variety for this dish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added depth and sweetness, can be omitted if soy sensitivity is an issue"
+    },
+    {
+      "name": "Honey or Molasses",
+      "amount": "1 teaspoon",
+      "notes": "For sweetness, optional but recommended for a more balanced flavor profile"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional, adds a subtle umami flavor without overpowering the dish"
+    },
+    {
+      "name": "Chopped Fresh Herbs (e.g., cilantro or parsley)",
+      "amount": "A few sprigs",
+      "notes": "For garnish, optional"
+    }
+  ],
+  "instructions": [
+    "Place the chopped onions in a pressure cooker and add enough water to cover them.",
+    "Add the vegetable stock cube if using, or the miso paste with some water (2 tablespoons of water for each tablespoon of miso) to create a flavorful broth. Stir until dissolved and smooth.",
+    "Mix in the soy sauce, honey/molasses, and garlic powder; taste and adjust seasoning as needed. The goal is to have a slightly sweet yet savory broth.",
+    "Lock down the pressure cooker lid and secure with the lock mechanism. Bring the contents to high heat then reduce to low pressure setting. Allow it to cook under pressure for about 30 minutes or until all the liquid has been absorbed by the onions.",
+    "After the initial cooking period, allow the pressure to naturally release before opening the pot (manual venting is also acceptable).",
+    "Serve hot and garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "onion-bliss",
+    "miso-soup",
+    "australian-dish",
+    "sweet-juicy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 13,
+    "fat": 1
+  },
+  "slug": "onion-bliss-miso-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/onion-bliss-miso-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:22:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chopped onion",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
