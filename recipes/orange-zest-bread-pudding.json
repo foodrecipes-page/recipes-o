@@ -1,0 +1,88 @@
+{
+  "title": "Orange Zest Bread Pudding",
+  "description": "This nutty, dense German dish features orange juice, breadcrumbs and a touch of sweetness in a comforting bread pudding base.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 loaf day-old bread",
+      "amount": "2 slices",
+      "notes": "preferably day-old to allow for more absorption of the filling"
+    },
+    {
+      "name": "1/2 cup breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "all-purpose or store-bought breadcrumbs are fine, make sure they're dry"
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "3 tbsp",
+      "notes": "at room temperature for easier spreading and melting"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "juice of 1",
+      "notes": "preferably fresh, at least 1/2 cup minimum required for flavoring the pudding base"
+    },
+    {
+      "name": "3 tablespoons sugar",
+      "amount": "3 tbsp",
+      "notes": "can be reduced to 2 tbsp if you prefer less sweetness"
+    },
+    {
+      "name": "Dash of salt",
+      "amount": "dash",
+      "notes": "optional, can taste it out before adding more"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "1/4 cup",
+      "notes": "may be substituted with milk for non-dairy option"
+    },
+    {
+      "name": "1 teaspoon grated orange zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated, if unavailable use 1/2 tsp dried orange zest"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Gently toast the day-old bread slices until golden and slightly crisp. Let them cool.",
+    "In a large mixing bowl, combine the breadcrumbs, softened butter, orange juice, sugar, salt, heavy cream, and grated orange zest. Mix well with a spoon or spatula.",
+    "Fold in the cooled toasted bread pieces gently to distribute evenly throughout the pudding mixture. Ensure not to overmix as you don't want the bread to become too tough or dense.",
+    "Transfer the mixture into an oven-safe dish. Cover the top with aluminum foil if needed for easier removal of the dish from the oven, but leave it slightly open for some steam to escape during baking.",
+    "Bake in preheated oven for 40 minutes. After 40 minutes, remove the foil cover and continue baking until golden brown on top and a toothpick inserted near the center comes out clean, about another 15-20 minutes depending on your oven's performance.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bread pudding",
+    "orange zest",
+    "bready base"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 4.3,
+    "carbs": 27.9,
+    "fat": 11.3
+  },
+  "slug": "orange-zest-bread-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-zest-bread-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:05:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "orange juice",
+    "diet": "dash",
+    "region": null
+  }
+}

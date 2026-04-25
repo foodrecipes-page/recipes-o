@@ -127,6 +127,18 @@
     "shard": "o"
   },
   {
+    "slug": "orange-zest-bread-pudding",
+    "title": "Orange Zest Bread Pudding",
+    "tags": [
+      "bread pudding",
+      "orange zest",
+      "bready base"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oreo-bliss-air-fry",
     "title": "Oreo Bliss Air-Fry",
     "tags": [
