@@ -50,6 +50,19 @@
     "shard": "o"
   },
   {
+    "slug": "onion-monsoin-crunch",
+    "title": "Onion Monsoin Crunch",
+    "tags": [
+      "onion",
+      "monsoin",
+      "crunch",
+      "japanese"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
     "slug": "orange-dew-light-meal",
     "title": "Orange Dew Light Meal",
     "tags": [
