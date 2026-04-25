@@ -1,0 +1,71 @@
+{
+  "title": "Oatcrisp Crunch",
+  "description": "A peppery and crunchy low-carb-friendly oatmeal dish perfect for meal prepping in the British style.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oatmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flaxseeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "2 tbsp, finely chopped"
+    },
+    {
+      "name": "Clove",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together the oatmeal and all other ingredients. Stir well to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least one hour or overnight to allow flavors to meld together.",
+    "Once chilled, transfer the mixture into an airtight container for meal prepping.",
+    "Serve on its own as breakfast cereal or mixed with Greek yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "crunchy",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 34,
+    "fat": 12
+  },
+  "slug": "oatcrisp-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatcrisp-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:14:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "oatmeal",
+    "diet": "low-carb",
+    "region": null
+  }
+}
