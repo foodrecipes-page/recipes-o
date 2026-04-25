@@ -1,0 +1,80 @@
+{
+  "title": "Oyster Crumble Bliss",
+  "description": "A kid-friendly, fermented oyster crumble dish with a touch of garam masala to make it jain-friendly and perfect for breakfast.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "100g fresh oysters"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece, grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium onion, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp (fermented)"
+    }
+  ],
+  "instructions": [
+    "Blanch oysters in boiling water for 5-7 minutes.",
+    "Remove from heat and place the blanched oysters on a clean paper towel to drain any excess moisture, then lightly toast them in a dry pan until crispy.",
+    "In a blender or food processor, blend together the ginger, onion, garlic, cumin seeds, coriander powder, and flaxseed meal. Add water if needed to reach desired consistency.",
+    "Mix the oyster crumble with the blended ingredients, adding salt and pepper to taste.",
+    "Serve hot as a breakfast dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oyster",
+    "crumble",
+    "german",
+    "vegan",
+    "jain-friendly",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "oyster-crumble-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oyster-crumble-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:15:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "oysters",
+    "diet": "jain",
+    "region": null
+  }
+}

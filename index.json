@@ -113,6 +113,21 @@
     "shard": "o"
   },
   {
+    "slug": "oyster-crumble-bliss",
+    "title": "Oyster Crumble Bliss",
+    "tags": [
+      "oyster",
+      "crumble",
+      "german",
+      "vegan",
+      "jain-friendly",
+      "breakfast"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oyster-pazza",
     "title": "Herbal Oyster Pazza",
     "tags": [
