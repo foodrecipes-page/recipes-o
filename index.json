@@ -26,6 +26,19 @@
     "shard": "o"
   },
   {
+    "slug": "oatprotein-bowl",
+    "title": "OatProtein Bowl",
+    "tags": [
+      "oatmeal",
+      "protein",
+      "vegan",
+      "paleo"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oatsteam-bliss",
     "title": "OatSteam Bliss",
     "tags": [

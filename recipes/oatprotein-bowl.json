@@ -1,0 +1,70 @@
+{
+  "title": "OatProtein Bowl",
+  "description": "A rich and chewy Greek-style bowl featuring ground oats that are simmered for a high-protein, one-pot meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "paleo",
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups unsweetened almond milk or coconut water",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup hemp protein powder",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine oats and almond milk. Bring to a boil over medium heat.",
+    "Reduce heat to low, add hemp protein powder and sea salt. Stir well until combined.",
+    "Simmer for about 15-20 minutes or until thickened, stirring occasionally to prevent burning.",
+    "Serve hot, garnished with fresh fruits like berries, drizzled honey, or sprinkle of nuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "protein",
+    "vegan",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 31,
+    "carbs": 39,
+    "fat": 8
+  },
+  "slug": "oatprotein-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatprotein-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:56:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "ground oats",
+    "diet": "high-protein",
+    "region": null
+  }
+}
