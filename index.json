@@ -111,5 +111,18 @@
     "cuisine": "Croatian",
     "totalTimeMin": 25,
     "shard": "o"
+  },
+  {
+    "slug": "oyster-pazza",
+    "title": "Herbal Oyster Pazza",
+    "tags": [
+      "oyster",
+      "pazza",
+      "herbal",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]

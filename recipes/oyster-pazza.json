@@ -1,0 +1,66 @@
+{
+  "title": "Herbal Oyster Pazza",
+  "description": "A herbal, dense, nostalgic Uruguayan dish featuring oysters in a pressure-cooked dish that is also fodmap-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oysters",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Herbs (Thyme, Rosemary, Basil)",
+      "amount": "2 tbsp each"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olives",
+      "amount": "6-8 pitted"
+    }
+  ],
+  "instructions": [
+    "Wash and clean the oysters thoroughly.",
+    "In a pressure cooker, combine the cleaned oysters, chopped herbs (thyme, rosemary, basil), garlic, and olives. Season with salt to taste.",
+    "Pressure cook for about 15-20 minutes at high pressure or follow the manufacturer's instructions for your specific model.",
+    "Allow the mixture to naturally release pressure before carefully venting it."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oyster",
+    "pazza",
+    "herbal",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 27,
+    "carbs": 9,
+    "fat": 15
+  },
+  "slug": "oyster-pazza",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oyster-pazza",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:38:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "oysters",
+    "diet": "fodmap",
+    "region": null
+  }
+}
