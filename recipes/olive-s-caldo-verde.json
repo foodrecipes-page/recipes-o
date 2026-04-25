@@ -1,0 +1,74 @@
+{
+  "title": "Olive's Caldo Verde",
+  "description": "A buttery, flaky Venezuelan dish featuring olives in a paleo-friendly caldo verde style, perfect for a comforting lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paleo-Friendly Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olives (kalamata or green), pitted and halved",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pot over medium heat.",
+    "Add onions and garlic to sweat for about 5 minutes, until translucent.",
+    "Stir in red bell pepper slices and continue cooking for another 4-5 minutes.",
+    "Fold in olives ensuring they release their juices into the mixture.",
+    "Add chopped cilantro and mix well with remaining ingredients.",
+    "Reduce heat to low and let simmer gently for about 10 minutes until slightly thickened.",
+    "Serve hot as a side dish or over paleo-friendly bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caldo-verde",
+    "olive-oil",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 17
+  },
+  "slug": "olive-s-caldo-verde",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/olive-s-caldo-verde",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:10:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "olives",
+    "diet": "paleo",
+    "region": null
+  }
+}

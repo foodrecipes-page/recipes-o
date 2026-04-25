@@ -38,6 +38,18 @@
     "shard": "o"
   },
   {
+    "slug": "olive-s-caldo-verde",
+    "title": "Olive's Caldo Verde",
+    "tags": [
+      "caldo-verde",
+      "olive-oil",
+      "paleo"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "orange-dew-light-meal",
     "title": "Orange Dew Light Meal",
     "tags": [
