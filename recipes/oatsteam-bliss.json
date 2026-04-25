@@ -1,0 +1,85 @@
+{
+  "title": "OatSteam Bliss",
+  "description": "A fresh and light Egyptian brunch dish featuring gluten-free oatmeal steamed in a flavorful broth for a delightful start to the day.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oatmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "sugar or honey (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla bean",
+      "amount": "1"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "chopped almonds or pistachios (optional)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the oatmeal well and place it in a medium saucepan.",
+    "Add water, sugar or honey, cardamom pods, cinnamon sticks, and vanilla bean. Stir until sugar is dissolved.",
+    "Bring to a boil over high heat, then reduce to a simmer and let cook for 20 minutes, stirring occasionally.",
+    "Gently add chopped ginger root and almonds (if using). Continue cooking for an additional 5-10 minutes or until desired consistency is reached.",
+    "Taste the oatmeal for sweetness; adjust with more sugar if needed. Stir in fresh mint leaves to infuse the dish with its refreshing flavor.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "egyptian",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 2
+  },
+  "slug": "oatsteam-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatsteam-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:15:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "oatmeal",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

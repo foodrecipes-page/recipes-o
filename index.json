@@ -26,6 +26,18 @@
     "shard": "o"
   },
   {
+    "slug": "oatsteam-bliss",
+    "title": "OatSteam Bliss",
+    "tags": [
+      "oatmeal",
+      "egyptian",
+      "brunch"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "orange-dew-light-meal",
     "title": "Orange Dew Light Meal",
     "tags": [
