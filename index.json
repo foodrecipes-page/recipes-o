@@ -51,6 +51,20 @@
     "shard": "o"
   },
   {
+    "slug": "oatzara-sour",
+    "title": "Oatzara Sour",
+    "tags": [
+      "oatmeal",
+      "greek",
+      "sour",
+      "one-pot",
+      "dairy-free"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "olive-oasis",
     "title": "Olive Oasis",
     "tags": [

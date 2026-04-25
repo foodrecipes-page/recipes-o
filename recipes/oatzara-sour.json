@@ -1,0 +1,72 @@
+{
+  "title": "Oatzara Sour",
+  "description": "A low-fat-friendly sour and dense one-pot Greek dish featuring oats pressure-cooked with a tangy yogurt sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dill",
+      "amount": "a few sprigs (for garnish)"
+    },
+    {
+      "name": "ginger",
+      "amount": "a pinch (grated for zest, minced for flavoring, optional)"
+    }
+  ],
+  "instructions": [
+    "Combine oats and plain yogurt in a small saucepan. Add sour cream, lemon juice, and freshly grated ginger.",
+    "Bring to a boil over medium heat, then reduce heat and let simmer until the mixture thickens slightly (about 10 minutes).",
+    "Stir in dill for added freshness and garnish with extra dill before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "greek",
+    "sour",
+    "one-pot",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "oatzara-sour",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatzara-sour",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:35:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "pressure-cook",
+    "primaryIngredient": "oats",
+    "diet": "low-fat",
+    "region": null
+  }
+}
