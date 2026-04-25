@@ -1,0 +1,68 @@
+{
+  "title": "Oatcrisp Bites",
+  "description": "These buttery, crispy bites are a diabetic-friendly treat perfect for weeknight snacking.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "cup",
+      "notes": "preferably quick-cooking"
+    },
+    {
+      "name": "1/2 cup unsalted butter",
+      "amount": "cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "1/4 cup pure maple syrup",
+      "amount": "tablespoon",
+      "notes": "natural sweetener, optional for a less sweet version"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine rolled oats and butter. Mix until the mixture resembles coarse crumbs.",
+    "Stir in maple syrup and salt gently to ensure it's evenly distributed.",
+    "Using your hands or a spoon, shape the oat mixture into small balls about the size of a walnut. Place them on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "oatcrisp",
+    "bites",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 93,
+    "protein": 2,
+    "carbs": 16.5,
+    "fat": 7
+  },
+  "slug": "oatcrisp-bites",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatcrisp-bites",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:33:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "ground oats",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}

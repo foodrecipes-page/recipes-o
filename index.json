@@ -14,6 +14,18 @@
     "shard": "o"
   },
   {
+    "slug": "oatcrisp-bites",
+    "title": "Oatcrisp Bites",
+    "tags": [
+      "oatcrisp",
+      "bites",
+      "diabetic-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
     "slug": "oatcrisp-crunch",
     "title": "Oatcrisp Crunch",
     "tags": [
