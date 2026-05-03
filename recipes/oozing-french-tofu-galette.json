@@ -1,0 +1,108 @@
+{
+  "title": "Oozing French Tofu Galette",
+  "description": "A savory, gooey vegan galette with tofu, tomato sauce, and a cornstarch glaze, perfect for midnight cravings.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "60g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "15g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 30 minutes then cube it.",
+    "In a bowl mix the tofu cubes with 30g flour, 15g cornstarch, 1 tsp salt, and 1 tbsp soy sauce until coated.",
+    "Heat 1 tbsp of oil in a large skillet over medium heat, add the tofu mixture and cook 6-8 minutes, flipping until golden and crisp.",
+    "Remove the tofu to a plate and set aside; add the remaining 1 tbsp oil to the same skillet and sauté the diced onion until translucent.",
+    "Add the minced garlic, thyme, and tomato paste to the onion and cook for 1 minute.",
+    "Pour in 200ml water, stir to combine, and bring the mixture to a gentle simmer.",
+    "Return the tofu to the skillet, stir to coat with the sauce, and simmer for 4 minutes.",
+    "Increase the heat to high and let the sauce reduce until slightly thickened, about 3 minutes.",
+    "Serve the galette hot, spooning extra sauce over the tofu and optionally garnish with parsley.",
+    "Enjoy while still warm for the best gooey texture."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "midnight-craving",
+    "one-pan",
+    "soupy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 32,
+    "carbs": 91,
+    "fat": 37
+  },
+  "slug": "oozing-french-tofu-galette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-french-tofu-galette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:03:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "cornstarch",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Tofu",
+    "descriptor": "Oozing",
+    "dishForm": "Galette"
+  }
+}
