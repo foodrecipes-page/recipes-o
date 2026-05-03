@@ -1,0 +1,117 @@
+{
+  "title": "Oven Roasted Saudi Beef Stew",
+  "description": "A hearty, earthy one-pot stew featuring smoky lardons, appleton rum, and crisp root vegetables.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "carrots, sliced",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes, cubed",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "canned tomatoes, diced",
+      "amount": "400 g",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "400 ml",
+      "notes": null
+    },
+    {
+      "name": "appleton rum",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lardons",
+      "amount": "100 g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Heat olive oil in a Dutch oven over medium-high and brown the lardons until crisp, then remove and set aside.",
+    "Season the beef cubes with salt and pepper.",
+    "In the same pot, sear the beef cubes until browned on all sides.",
+    "Add the onion and garlic and cook until the onion becomes translucent.",
+    "Stir in carrots and potatoes and cook for 3 minutes.",
+    "Pour in canned tomatoes and beef broth, add appleton rum, and stir to combine.",
+    "Return the lardons to the pot, bring to a simmer, cover, and bake in the preheated oven for 105 minutes.",
+    "After baking, taste and adjust seasoning if needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 105,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumn",
+    "beef",
+    "nut-free",
+    "one-pot",
+    "saudi"
+  ],
+  "nutrition": {
+    "calories": 625,
+    "protein": 26,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "oven-roasted-saudi-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-saudi-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:16:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "appleton rum",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}
