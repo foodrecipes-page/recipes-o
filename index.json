@@ -458,6 +458,23 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-uruguayan-lamb-pilaf",
+    "title": "Uruguayan Lamb Pilaf",
+    "tags": [
+      "braised",
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
     "slug": "oyster-crumble-bliss",
     "title": "Oyster Crumble Bliss",
     "tags": [
