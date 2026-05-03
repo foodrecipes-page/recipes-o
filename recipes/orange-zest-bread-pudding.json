@@ -47,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Gently toast the day-old bread slices until golden and slightly crisp. Let them cool.",
     "In a large mixing bowl, combine the breadcrumbs, softened butter, orange juice, sugar, salt, heavy cream, and grated orange zest. Mix well with a spoon or spatula.",
     "Fold in the cooled toasted bread pieces gently to distribute evenly throughout the pudding mixture. Ensure not to overmix as you don't want the bread to become too tough or dense.",
@@ -61,15 +61,15 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "bread pudding",
-    "orange zest",
-    "bready base"
+    "bread-pudding",
+    "orange-zest",
+    "bready-base"
   ],
   "nutrition": {
     "calories": 285,
-    "protein": 4.3,
-    "carbs": 27.9,
-    "fat": 11.3
+    "protein": 4,
+    "carbs": 28,
+    "fat": 11
   },
   "slug": "orange-zest-bread-pudding",
   "source": "ollama-qwen2.5:3b",

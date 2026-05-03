@@ -28,7 +28,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a large mixing bowl, combine rolled oats and butter. Mix until the mixture resembles coarse crumbs.",
     "Stir in maple syrup and salt gently to ensure it's evenly distributed.",
     "Using your hands or a spoon, shape the oat mixture into small balls about the size of a walnut. Place them on a baking sheet lined with parchment paper.",
@@ -48,7 +48,7 @@
   "nutrition": {
     "calories": 93,
     "protein": 2,
-    "carbs": 16.5,
+    "carbs": 16,
     "fat": 7
   },
   "slug": "oatcrisp-bites",
