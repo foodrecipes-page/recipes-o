@@ -1,0 +1,99 @@
+{
+  "title": "Oily Glazed Argentinian Squid Skewers",
+  "description": "This dish features tender squid skewers smothered in a floral and silky glaze, perfect for a cozy dinner, and is macrobiotic-friendly by using wholesome ingredients and minimal processing.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, honey, garlic, salt, black pepper, and rosemary to create the glaze.",
+    "Add the squid pieces to the bowl and toss to coat evenly with the glaze.",
+    "Thread the squid pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the squid skewers for 2-3 minutes per side, or until they are cooked through and slightly charred.",
+    "Remove the skewers from the grill and sprinkle with parsley.",
+    "Serve immediately, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "glazed",
+    "grilled",
+    "macrobiotic",
+    "seafood",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oily-glazed-argentinian-squid-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-glazed-argentinian-squid-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:23:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "squid",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "squid",
+    "descriptor": "oily glazed",
+    "dishForm": "Skewers"
+  }
+}
