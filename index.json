@@ -156,6 +156,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-kenyan-yogurt-flatbread",
+    "title": "Oozing Kenyan Yogurt Flatbread",
+    "tags": [
+      "comfort-food",
+      "fermented",
+      "flatbread",
+      "kenyan",
+      "lunch",
+      "melting",
+      "yogurt"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-polish-tofu-curry",
     "title": "Oozing Polish Tofu Curry",
     "tags": [
@@ -244,6 +260,21 @@
       "dessert"
     ],
     "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-norwegian-tahini-flatbread",
+    "title": "Oven Baked Norwegian Tahini Flatbread",
+    "tags": [
+      "easy-snack",
+      "floral",
+      "low-fat",
+      "norwegian",
+      "oven-baked",
+      "quick-bread"
+    ],
+    "cuisine": "Norwegian",
     "totalTimeMin": 25,
     "shard": "o"
   },

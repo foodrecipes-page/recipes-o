@@ -1,0 +1,92 @@
+{
+  "title": "Oven Baked Norwegian Tahini Flatbread",
+  "description": "A quick and easy Norwegian flatbread featuring tahini, perfect for a snack or light meal, with a floral and aerated texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, salt, sugar, and rosemary.",
+    "In a separate bowl, whisk together the tahini, warm water, and beaten egg.",
+    "Add the wet ingredients to the dry ingredients and knead for 5 minutes.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes, or until the flatbread is golden brown.",
+    "Remove from the oven and let cool for 5 minutes before slicing.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snack",
+    "floral",
+    "low-fat",
+    "norwegian",
+    "oven-baked",
+    "quick-bread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "oven-baked-norwegian-tahini-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-norwegian-tahini-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:17:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "tahini",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tahini",
+    "descriptor": "Oven Baked",
+    "dishForm": "Flatbread"
+  }
+}

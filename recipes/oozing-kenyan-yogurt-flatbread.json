@@ -1,0 +1,112 @@
+{
+  "title": "Oozing Kenyan Yogurt Flatbread",
+  "description": "A fermented, molten flatbread with honey-infused yogurt filling, layered with delicate buttery lamination for a comforting bite.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "plain low-fat yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "100ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "25g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, and sugar in a large bowl.",
+    "Add warm water and yogurt, then mix until a dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth.",
+    "Let the dough rise in a warmed place for 45 minutes until doubled in size.",
+    "Divide the dough into four equal pieces and roll each into a thin circle.",
+    "Fold each circle in half, roll again to create a layered effect, and seal the edges.",
+    "Brush the top with olive oil and sprinkle lightly with cornstarch.",
+    "Place the flatbreads on a baking sheet lined with parchment paper.",
+    "Bake at 200°C for 12 minutes until golden and the layers puff up.",
+    "Brush the tops with honey, flip halfway, and bake for an additional 5 minutes while letting the yogurt inside ooze gently.",
+    "Serve warm, garnished with dried mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented",
+    "flatbread",
+    "kenyan",
+    "lunch",
+    "melting",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 36,
+    "carbs": 218,
+    "fat": 55
+  },
+  "slug": "oozing-kenyan-yogurt-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-kenyan-yogurt-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:18:03Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "honey",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Oozing",
+    "dishForm": "Flatbread"
+  }
+}
