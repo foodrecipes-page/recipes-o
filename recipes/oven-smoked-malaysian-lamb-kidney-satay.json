@@ -1,0 +1,107 @@
+{
+  "title": "Oven-Smoked Malaysian Lamb Kidney Satay",
+  "description": "A rich, smoky lamb kidney dish infused with coconut and spices, perfect for easing a hangover and satisfying a craving for bold flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb kidneys, trimmed",
+      "amount": "800g",
+      "notes": "trimmed and pitted"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "15g"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "2g"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "3g"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2g"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1g"
+    },
+    {
+      "name": "Salt",
+      "amount": "3g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 120°C and place soaked applewood chips in a small pan to create smoke.",
+    "In a bowl, whisk together coconut milk, soy sauce, lime juice, grated ginger, minced garlic, turmeric, coriander, cumin, chili flakes, salt, and pepper to make a sauce.",
+    "Pat kidneys dry, then coat them with the sauce mixture thoroughly.",
+    "Thread the kidneys onto skewers, leaving a small gap between each piece.",
+    "Arrange the skewers on a baking sheet lined with foil and bake for 30 minutes, turning halfway through.",
+    "While cooking, sprinkle a pinch of ground chili flakes over the kidneys for extra heat.",
+    "Remove from oven and let the kidneys rest for 5 minutes before serving.",
+    "Serve hot with fresh cucumber slices and a side of coconut yogurt dip."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fatty",
+    "hangover-cure",
+    "lamb",
+    "malaysian",
+    "nut-free",
+    "oven-smoked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 25
+  },
+  "slug": "oven-smoked-malaysian-lamb-kidney-satay",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-malaysian-lamb-kidney-satay",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:45:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "lamb kidney",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Oven-Smoked",
+    "dishForm": "Satay"
+  }
+}
