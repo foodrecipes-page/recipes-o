@@ -1,0 +1,107 @@
+{
+  "title": "Oozing Polish Tofu Curry",
+  "description": "Salty, gooey weeknight Polish tofu curry with smoked flavor from panang paste, served over rice.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tbsp",
+      "notes": "for pan"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "1 tbsp",
+      "notes": "low-FODMAP"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 tsp",
+      "notes": "for smoke flavor"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1 tbsp",
+      "notes": "fresh chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sunflower oil in a large skillet over medium heat until shimmering.",
+    "Add the tofu cubes and sauté until golden brown on all sides, about 4-5 minutes; remove to a plate.",
+    "Stir in the low-FODMAP panang curry paste, ground ginger, and ground turmeric for 30 seconds until fragrant.",
+    "Pour in the coconut milk and soy sauce, whisking to combine and bring to a gentle simmer.",
+    "Return the tofu to the skillet, stir to coat, and simmer for 5 minutes to let flavors meld.",
+    "Season the curry with smoked salt and lemon juice, stir well, and taste.",
+    "Remove from heat, fold in fresh chopped dill, and let the dish rest for 2 minutes.",
+    "Serve hot over steamed rice or low-FODMAP noodles, spooning extra coconut sauce over the tofu."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gooey",
+    "one-pan",
+    "panang-curry",
+    "polish",
+    "salty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1047,
+    "protein": 40,
+    "carbs": 18,
+    "fat": 100
+  },
+  "slug": "oozing-polish-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-polish-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:04:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "panang curry paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Oozing",
+    "dishForm": "Curry"
+  }
+}
