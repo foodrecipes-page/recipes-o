@@ -76,6 +76,22 @@
     "shard": "o"
   },
   {
+    "slug": "oily-brazilian-herbal-juicy-tart",
+    "title": "Brazilian Herbal Tart",
+    "tags": [
+      "gluten-free",
+      "herbs",
+      "high-protein",
+      "one-pan",
+      "summer-dinner",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oily-glazed-argentinian-squid-skewers",
     "title": "Oily Glazed Argentinian Squid Skewers",
     "tags": [
@@ -401,6 +417,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mediterranean-chicken-tagine",
+    "title": "Oven-Roasted Mediterranean Chicken Tagine",
+    "tags": [
+      "ayurvedic-friendly",
+      "date-night",
+      "low-carb",
+      "mediterranean",
+      "one-pan",
+      "oven-roasted"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {

@@ -1,0 +1,108 @@
+{
+  "title": "Oven-Roasted Mediterranean Chicken Tagine",
+  "description": "A tangy, oven-roasted Mediterranean chicken tagine that is tender, fragrant, and perfect for a date night. It blends aromatic coriander, a splash of lemon, and sweet dates for a flavor balance that suits an Ayurvedic Rajasic-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in skin-on chicken thighs",
+      "amount": "4",
+      "notes": "pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried dates",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pat the chicken thighs dry and season both sides with salt, pepper, ground coriander, ground cumin, smoked paprika, and cayenne pepper.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat and sear the thighs skin-side down until golden, about 4 minutes, then flip.",
+    "Add the diced onion and minced garlic to the skillet, sauté until translucent, then pour in the chicken broth and add the diced tomatoes, chopped dates, and lemon juice, stirring to combine.",
+    "Place the skillet in the preheated oven and roast for 25 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Remove the skillet from the oven, let the chicken rest for 5 minutes, then serve the tagine with the pan juices spooned over."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "date-night",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 536,
+    "protein": 40,
+    "carbs": 11,
+    "fat": 17
+  },
+  "slug": "oven-roasted-mediterranean-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mediterranean-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:44:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "flambe",
+    "primaryIngredient": "coriander",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tagine"
+  }
+}

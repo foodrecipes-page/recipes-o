@@ -1,0 +1,103 @@
+{
+  "title": "Brazilian Herbal Tart",
+  "description": "A flavorful and juicy tart that combines the tastes of Brazil with the freshness of herbs.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry (1 package)",
+      "amount": "1",
+      "notes": "Ready-rolled, thawed"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Oregano Leaves",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Sugarcane Syrup",
+      "amount": "1/4 cup",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 tablespoon",
+      "notes": "-"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "-"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the shortcrust pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, mix together the basil, oregano, coconut oil, sugarcane syrup, lemon juice, and confectioners' sugar until well combined.",
+    "Brush the pastry with the herb mixture, making sure to leave a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling to create a crust.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling up during baking.",
+    "Bake the tart for 40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the tart from the oven and let it cool in the pan for 5 minutes.",
+    "Transfer the tart to a wire rack to cool completely.",
+    "Serve the tart at room temperature, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herbs",
+    "high-protein",
+    "one-pan",
+    "summer-dinner",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "oily-brazilian-herbal-juicy-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-brazilian-herbal-juicy-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:44:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "herbal juicy",
+    "descriptor": "oily",
+    "dishForm": "Tart"
+  }
+}
