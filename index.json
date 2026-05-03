@@ -162,6 +162,20 @@
     "shard": "o"
   },
   {
+    "slug": "oregano-infused-croatian-cheese-flatbread",
+    "title": "Oregano-Infused Croatian Cheese Flatbread",
+    "tags": [
+      "gluten-free",
+      "cheese",
+      "tandoor",
+      "flatbread",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 85,
+    "shard": "o"
+  },
+  {
     "slug": "oreo-bliss-air-fry",
     "title": "Oreo Bliss Air-Fry",
     "tags": [
