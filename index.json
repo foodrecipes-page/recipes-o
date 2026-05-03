@@ -188,6 +188,17 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-turkish-walnut-pilaf",
+    "title": "Oven Roasted Turkish Walnut Pilaf",
+    "tags": [
+      "turkish",
+      "dinner"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oyster-crumble-bliss",
     "title": "Oyster Crumble Bliss",
     "tags": [

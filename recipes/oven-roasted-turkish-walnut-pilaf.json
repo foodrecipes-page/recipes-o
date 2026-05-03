@@ -1,0 +1,107 @@
+{
+  "title": "Oven Roasted Turkish Walnut Pilaf",
+  "description": "A nutty, crunchy pilaf featuring roasted walnuts, sultanas and aromatic spices, perfect for a warm, plant‑based meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "unsalted walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "steeped in 1 tbsp warm water"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large oven‑proof skillet, heat 1 tbsp olive oil over medium heat and sauté diced onion and minced garlic until translucent.",
+    "Add the chopped walnuts and toast for 3 minutes, stirring frequently to coat with oil.",
+    "Stir in cumin, coriander, saffron water and sultanas, cooking for 2 minutes until fragrant.",
+    "Add rinsed rice, stir to combine, then pour in vegetable broth and remaining 1 tbsp olive oil; season with salt.",
+    "Transfer skillet to the oven and roast for 20 minutes, then remove and let rest covered for 5 minutes.",
+    "Fluff the pilaf with a fork, garnish with chopped parsley, and serve hot."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "turkish",
+    "dinner"
+  ],
+  "slug": "oven-roasted-turkish-walnut-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-walnut-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:41:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "sultanas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "walnut",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pilaf"
+  }
+}
