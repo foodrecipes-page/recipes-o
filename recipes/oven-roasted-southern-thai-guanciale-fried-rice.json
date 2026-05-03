@@ -1,0 +1,116 @@
+{
+  "title": "Oven-Roasted Southern Thai Guanciale Fried-Rice",
+  "description": "A resinous, crisp fried rice with smoky guanciale, tangy tamarind, and zesty lime, perfect for monsoon Thai vibes and FODMAP-friendly meals.",
+  "cuisine": "Southern Thai",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "200g"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "3 cups cooked"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup trimmed"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "kaffir lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp minced"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chives",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and line a baking sheet with parchment paper.",
+    "Dice the guanciale into thin strips and spread them on the prepared sheet.",
+    "Roast the guanciale for 20 minutes until crisp, then set aside to cool.",
+    "In a large skillet, heat sesame oil over medium heat and sauté the carrots and green beans for 4 minutes.",
+    "Add the minced ginger and tamarind paste, cooking for another minute until fragrant.",
+    "Push the vegetables to one side of the skillet, crack the eggs on the empty side, and scramble until set.",
+    "Stir in the cooked rice, roasted guanciale, fish sauce, soy sauce, and lime zest, mixing until everything is evenly coated.",
+    "Season with salt and pepper, then sprinkle chopped chives over the top.",
+    "Serve hot, garnishing with extra lime zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "low-fodmap",
+    "one-pan",
+    "oven-roasted",
+    "quick",
+    "savory",
+    "southern-thai"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 34
+  },
+  "slug": "oven-roasted-southern-thai-guanciale-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-southern-thai-guanciale-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:57:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "guanciale",
+    "diet": "fodmap",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "Guanciale",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Fried-Rice"
+  }
+}

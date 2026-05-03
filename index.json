@@ -478,6 +478,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-southern-thai-guanciale-fried-rice",
+    "title": "Oven-Roasted Southern Thai Guanciale Fried-Rice",
+    "tags": [
+      "fried-rice",
+      "low-fodmap",
+      "one-pan",
+      "oven-roasted",
+      "quick",
+      "savory",
+      "southern-thai"
+    ],
+    "cuisine": "Southern Thai",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-turkish-lamb-lahmacun",
     "title": "Turkish Lamb Lahmacun",
     "tags": [
