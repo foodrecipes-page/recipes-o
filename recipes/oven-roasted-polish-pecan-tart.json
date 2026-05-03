@@ -1,0 +1,92 @@
+{
+  "title": "Oven-Roasted Polish Pecan Tart",
+  "description": "A buttery, chewy Polish pecan tart that roasts the nuts for extra flavor, and is a crowd-pleasing vegetarian dessert.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cold and cubed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pecan kernels",
+      "amount": "2 cups",
+      "notes": "blanched and sliced"
+    },
+    {
+      "name": "corn syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 F.",
+    "In a medium bowl, whisk together flour, sugar, and salt.",
+    "Cut in the cold butter with a pastry blender until the mixture resembles coarse crumbs.",
+    "Press the dough evenly into a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 12 minutes, then set aside.",
+    "While the crust bakes, whisk the blanched pecans, corn syrup, vanilla extract, and egg yolk in a bowl.",
+    "Pour the pecan filling over the baked crust and spread it evenly.",
+    "Return the tart to the oven and bake for an additional 15 minutes until the filling is set.",
+    "Allow the tart to cool, sprinkle with powdered sugar, slice, and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 27,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dessert",
+    "one-pan",
+    "polish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 433,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 28
+  },
+  "slug": "oven-roasted-polish-pecan-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-polish-pecan-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:12:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "pecan nuts",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pecan",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tart"
+  }
+}
