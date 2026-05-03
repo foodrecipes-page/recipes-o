@@ -1,0 +1,111 @@
+{
+  "title": "Oven-Smoked Ukrainian Trout Chowder",
+  "description": "Rich smoky chowder with flaky trout, caramelized onions, and a hint of candied ginger for subtle sweetness, served hot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian",
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh trout fillets",
+      "amount": "400 g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Low-sodium chicken or vegetable stock",
+      "amount": "800 ml"
+    },
+    {
+      "name": "Pearl onions",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "15 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "30 g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Candied ginger",
+      "amount": "20 g",
+      "notes": "grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Seasonings",
+      "amount": "pinch",
+      "notes": "salt and pepper, use only salt if desired"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Place trout fillets on the sheet, drizzle with 1 tsp liquid smoke and 1 tsp olive oil, and bake for 12-15 minutes until just cooked.",
+    "While trout cooks, heat butter in a large pot over medium heat and sauté pearl onions until translucent.",
+    "Add diced carrots to the pot and cook for another 5 minutes.",
+    "Pour in the low-sodium stock and bring to a gentle boil; reduce heat and simmer for 10 minutes.",
+    "Flake the baked trout into large chunks and add to the pot along with grated candied ginger and chopped dill.",
+    "Stir in the heavy cream, lemon juice, and season with pepper; simmer for 5 more minutes until flavors meld.",
+    "Serve hot, garnished with extra dill and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "low-sodium",
+    "one-pot",
+    "shojin-friendly",
+    "smoky",
+    "trout",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 666,
+    "protein": 29,
+    "carbs": 19,
+    "fat": 26
+  },
+  "slug": "oven-smoked-ukrainian-trout-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-ukrainian-trout-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:55:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "candy",
+    "primaryIngredient": "trout",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Trout",
+    "descriptor": "Oven-Smoked",
+    "dishForm": "Chowder"
+  }
+}
