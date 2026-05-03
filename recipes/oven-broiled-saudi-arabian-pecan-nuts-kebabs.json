@@ -1,0 +1,100 @@
+{
+  "title": "Saudi Arabian Pecan Nuts Kebabs",
+  "description": "A Middle Eastern-inspired snack featuring crunchy pecan nuts with a sweet and nutty flavor. This dish is perfect for a midnight craving.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecan nuts",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the pecan nuts and pat them dry with a paper towel.",
+    "In a large bowl, mix together ghee, salt, black pepper, cumin powder, and cayenne pepper.",
+    "Add the pecan nuts to the bowl and toss to coat evenly with the spice mixture.",
+    "Spread the pecan nuts on a baking sheet lined with parchment paper.",
+    "Drizzle lemon juice over the pecan nuts and toss to coat.",
+    "Sprinkle chopped cilantro over the pecan nuts and toss to combine.",
+    "Broil the pecan nuts in the preheated oven for 5-7 minutes or until fragrant and lightly toasted.",
+    "Remove the pecan nuts from the oven and sprinkle garlic powder over them.",
+    "Toss the pecan nuts to coat evenly with the garlic powder.",
+    "Serve the Saudi Arabian Pecan Nuts Kebabs hot.",
+    "Garnish with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "finger-food",
+    "gluten-free",
+    "jain-friendly",
+    "midnight-snack",
+    "quick-recipe",
+    "saudi-arabian-cuisine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "oven-broiled-saudi-arabian-pecan-nuts-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-broiled-saudi-arabian-pecan-nuts-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:00:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "pecan nuts",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Pecan Nuts",
+    "descriptor": "Oven-Broiled",
+    "dishForm": "Kebabs"
+  }
+}
