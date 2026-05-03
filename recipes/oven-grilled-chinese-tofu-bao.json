@@ -1,0 +1,130 @@
+{
+  "title": "oven-grilled chinese tofu bao",
+  "description": "a deliciously herbal and juicy chinese dish featuring grilled tofu and blueberries, perfect for a date night. this vegan-friendly recipe is easy to make and packed with nutrients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "300g",
+      "notes": "firm or extra-firm tofu works best for this recipe"
+    },
+    {
+      "name": "blueberries",
+      "amount": "200g",
+      "notes": "fresh or frozen blueberries can be used"
+    },
+    {
+      "name": "ginger",
+      "amount": "2cm",
+      "notes": "fresh or dried ginger can be used"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced garlic adds a nice depth of flavor"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "4tbsp",
+      "notes": "use a vegan version or make your own"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2tbsp",
+      "notes": "use a low-sodium version or tamari"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tbsp",
+      "notes": "use a high-quality sesame oil for the best flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1tbsp",
+      "notes": "use a gluten-free version or substitute with apple cider vinegar"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2tbsp",
+      "notes": "use a gluten-free version or substitute with tapioca starch"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1cup",
+      "notes": "use a gluten-free version or substitute with almond flour"
+    },
+    {
+      "name": "warm water",
+      "amount": "1cup",
+      "notes": "use a gluten-free version or substitute with non-dairy milk"
+    },
+    {
+      "name": "buns",
+      "amount": "4",
+      "notes": "use store-bought or homemade buns"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c) and prepare a baking sheet with parchment paper.",
+    "cut the tofu into small cubes and place them on the prepared baking sheet.",
+    "drizzle the sesame oil over the tofu and sprinkle with salt and pepper.",
+    "bake the tofu in the preheated oven for 20-25 minutes, or until golden brown.",
+    "while the tofu is baking, prepare the sauce by whisking together the hoisin sauce, soy sauce, brown sugar, rice vinegar, and cornstarch in a small bowl.",
+    "once the tofu is done, remove it from the oven and let it cool slightly.",
+    "place the buns on a baking sheet and warm them in the oven for 2-3 minutes.",
+    "assemble the bao by placing a few pieces of the baked tofu onto each bun, followed by a spoonful of the sauce and some fresh blueberries.",
+    "serve immediately and enjoy!",
+    "to make the sauce, heat a small saucepan over medium heat and whisk together the hoisin sauce, soy sauce, and brown sugar.",
+    "bring the mixture to a simmer and cook for 2-3 minutes, or until thickened and reduced slightly.",
+    "remove from heat and stir in the sesame oil and scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "chinese",
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-grilled-chinese-tofu-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-grilled-chinese-tofu-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:08:58Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "blueberries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Oven-Grilled",
+    "dishForm": "Bao"
+  }
+}

@@ -267,6 +267,23 @@
     "shard": "o"
   },
   {
+    "slug": "oven-grilled-chinese-tofu-bao",
+    "title": "oven-grilled chinese tofu bao",
+    "tags": [
+      "bao",
+      "chinese",
+      "date-night",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-indulgent-middle-eastern-chicken-tagine",
     "title": "Oven-Roasted Indulgent Middle-Eastern Chicken Tagine",
     "tags": [
