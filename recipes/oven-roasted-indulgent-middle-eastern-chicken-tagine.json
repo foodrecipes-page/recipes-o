@@ -1,0 +1,109 @@
+{
+  "title": "Oven-Roasted Indulgent Middle-Eastern Chicken Tagine",
+  "description": "A rich and creamy Middle-Eastern dish featuring the deep flavors of prunes, allspice, and cumin, roasted to perfection in the oven.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the allspice, cumin, cinnamon, ginger, garlic, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat with the spice mixture.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the chicken thighs until browned on both sides, about 5 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same pot, add the prunes and cook, stirring occasionally, until they start to soften, about 5 minutes.",
+    "Add the chicken back to the pot and pour in 1 cup of chicken broth.",
+    "Cover the pot with a lid and transfer it to the preheated oven. Roast for 30 minutes.",
+    "Remove the pot from the oven and season the chicken and sauce with salt and pepper to taste.",
+    "Serve the chicken and sauce over couscous or rice, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "prunes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "oven-roasted-indulgent-middle-eastern-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-indulgent-middle-eastern-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:50:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "prunes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Chicken",
+    "descriptor": "Oven-Roasted Indulgent",
+    "dishForm": "Tagine"
+  }
+}
