@@ -372,6 +372,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-greek-beef-pastitsio",
+    "title": "oven-roasted greek beef pastitsio",
+    "tags": [
+      "beef",
+      "casserole",
+      "comfort-food",
+      "greek",
+      "one-pan",
+      "pasta",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-indulgent-middle-eastern-chicken-tagine",
     "title": "Oven-Roasted Indulgent Middle-Eastern Chicken Tagine",
     "tags": [
@@ -413,6 +429,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 120,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-turkish-lamb-lahmacun",
+    "title": "Turkish Lamb Lahmacun",
+    "tags": [
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "oven-roasted",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {

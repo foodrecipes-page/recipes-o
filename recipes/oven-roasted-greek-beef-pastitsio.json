@@ -1,0 +1,120 @@
+{
+  "title": "oven-roasted greek beef pastitsio",
+  "description": "A classic Greek dish featuring a crispy, cheesy, and flavorful bechamel sauce, all on a bed of tender beef and pasta, without sacrificing any of the traditional Greek flavors. A vegan version is easily achieved by substituting the lamb with portobello mushrooms.",
+  "cuisine": "Greek",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 cups",
+      "notes": "reconstituted"
+    },
+    {
+      "name": "goose fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "cooked al dente"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the pasta according to the package instructions and set it aside.",
+    "In a large pan, heat the olive oil over medium heat and sauté the onion and garlic until softened.",
+    "Add the ground beef to the pan and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the kombu-cold-extract and cook for an additional 2 minutes.",
+    "In a separate saucepan, make the bechamel sauce by melting the butter over medium heat and whisking in the flour.",
+    "Gradually whisk in the beef broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 5 minutes, or until the sauce thickens.",
+    "In a large bowl, combine the cooked pasta, beef mixture, and bechamel sauce. Mix well to combine.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish.",
+    "Top the pasta with the crumbled feta cheese and grated parmesan cheese.",
+    "Dot the top of the cheese with the goose fat.",
+    "Bake the pastitsio in the preheated oven for 25-30 minutes, or until the cheese is golden brown and bubbly.",
+    "Remove the pastitsio from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "comfort-food",
+    "greek",
+    "one-pan",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 45,
+    "fat": 34
+  },
+  "slug": "oven-roasted-greek-beef-pastitsio",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-greek-beef-pastitsio",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:33:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "goose fat",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef",
+    "descriptor": "Oven-Roasted Yeasty",
+    "dishForm": "Pastitsio"
+  }
+}

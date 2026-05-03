@@ -1,0 +1,106 @@
+{
+  "title": "Turkish Lamb Lahmacun",
+  "description": "A delicious, oven-roasted Turkish dish featuring juicy lamb, flavorful spices, and a sweet golden syrup. Perfect for a post-workout meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, preferably with a slight fat layer"
+    },
+    {
+      "name": "Lahmacun spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade mix of paprika, cumin, garlic powder, and salt"
+    },
+    {
+      "name": "Golden syrup",
+      "amount": "1/4 cup",
+      "notes": "or substitute with a mixture of equal parts honey and pomegranate molasses"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 1/2 teaspoons",
+      "notes": "preferably kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "preferably freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the lamb shoulder under cold water, pat it dry with paper towels, and season with salt, black pepper, and crushed red pepper flakes.",
+    "In a large bowl, mix together the lahmacun spice mix, golden syrup, chopped parsley, and chopped mint.",
+    "Add the sliced red onion to the bowl and toss to combine.",
+    "Place the lamb shoulder in a large Dutch oven or oven-safe skillet with a tight-fitting lid.",
+    "Pour the spice mixture over the lamb, making sure to coat it evenly.",
+    "Cover the Dutch oven or skillet with a lid and place it in the preheated oven.",
+    "Roast the lamb for 2.5 hours, or until it reaches your desired level of tenderness.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing it thinly against the grain.",
+    "Serve the lamb with the roasted onions and a drizzle of the pan juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "oven-roasted",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 22,
+    "fat": 32
+  },
+  "slug": "oven-roasted-turkish-lamb-lahmacun",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-lamb-lahmacun",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:33:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "render-fat",
+    "primaryIngredient": "golden syrup",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Lahmacun"
+  }
+}
