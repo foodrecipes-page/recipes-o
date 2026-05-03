@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Filipino Quinoa Bowl",
+  "description": "A nutty and bouncy quinoa bowl with a miso-marinate, oven-roasted vegetables, and a low-sodium kick that will please any crowd.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 cup diced",
+      "notes": "cut into chunks before roasting"
+    },
+    {
+      "name": "low-sodium miso paste",
+      "amount": "2 tbsp",
+      "notes": "whisked with other liquids"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "use light for lower fat"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp minced",
+      "notes": "fresh for best flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated",
+      "notes": "fresh"
+    },
+    {
+      "name": "roasted coconut flakes",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and brown rice under cold water until clear.",
+    "In a bowl whisk miso paste, soy sauce, coconut milk, garlic, and ginger until smooth.",
+    "Add quinoa, rice, sweet potato, and coconut flakes to the bowl, stir to coat everything evenly.",
+    "Transfer the mixture to a sheet pan and spread out in a single layer.",
+    "Roast in a preheated oven at 400°F for 30 minutes, stirring halfway through.",
+    "Check that sweet potatoes are tender and grains are lightly browned.",
+    "Remove from oven and let sit for 5 minutes.",
+    "Serve warm in bowls, garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "budget-friendly",
+    "grain-bowl",
+    "low-sodium",
+    "one-pan",
+    "savory",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 5,
+    "carbs": 27,
+    "fat": 2
+  },
+  "slug": "oven-roasted-filipino-quinoa-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-filipino-quinoa-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:27:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "mixed grain",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bowl"
+  }
+}
