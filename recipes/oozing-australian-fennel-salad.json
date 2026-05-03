@@ -1,0 +1,87 @@
+{
+  "title": "Oozing Australian Fennel Salad",
+  "description": "A buttery, shattering fennel salad with a fermented citrus vinaigrette that melts in the mouth, perfect for a crowd-pleasing Aussie lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1 medium, trimmed and thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small, julienned"
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp, chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the fennel bulb into thin ribbons using a sharp knife or mandoline.",
+    "Toss the fennel ribbons with a pinch of salt and let them rest for 10 minutes to draw out bitterness.",
+    "In a small bowl, whisk together fermented soy sauce, lemon juice, olive oil, sesame seeds, dill, salt, and pepper to create the vinaigrette.",
+    "Drain the softened fennel, then sprinkle with red pepper julienned and pour the vinaigrette over the salad.",
+    "Gently toss to coat all ingredients evenly and let the salad sit for 5 minutes for flavors to meld.",
+    "Serve immediately on a chilled plate for a buttery, shattering experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "aromatic",
+    "fennel",
+    "fermented",
+    "fresh",
+    "no-cook"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "oozing-australian-fennel-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-australian-fennel-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:15:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "fennel bulb",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fennel",
+    "descriptor": "Oozing",
+    "dishForm": "Salad"
+  }
+}
