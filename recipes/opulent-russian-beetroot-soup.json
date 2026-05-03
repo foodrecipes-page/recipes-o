@@ -1,0 +1,112 @@
+{
+  "title": "Opulent Russian Beetroot Soup",
+  "description": "A rich and light Russian beetroot soup featuring cultured crème fraîche, cooked in a ttukbaegi earthenware pot for a halal-friendly experience.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "600g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "150g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "100g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "80g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "800ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cultured crème fraîche",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a ttukbaegi earthenware pot over medium heat until shimmering.",
+    "Add the diced onion, carrot, and celery and sauté until softened, about 5 minutes.",
+    "Stir in the chopped beetroot and cook for an additional 3 minutes, letting it brown slightly.",
+    "Pour in the white wine vinegar and stir, allowing the sugars to caramelize for 2 minutes.",
+    "Add the vegetable stock, bring the mixture to a gentle boil, then reduce heat and simmer uncovered for 30 minutes until the vegetables are tender.",
+    "Remove the pot from heat, add sugar, salt, and pepper to taste, and let the soup cool slightly.",
+    "Use an immersion blender or transfer to a countertop blender to puree the soup until smooth, then return to the pot.",
+    "Stir in the cultured crème fraîche and heat the soup gently, not boiling, for 5 minutes to meld flavors.",
+    "Ladle the soup into bowls, garnish with chopped dill, and serve hot.",
+    "Allow the soup to sit for 5 minutes before serving to thicken slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brain-food",
+    "comfort-food",
+    "halal-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 16,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "opulent-russian-beetroot-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/opulent-russian-beetroot-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:25:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "light",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Opulent",
+    "dishForm": "Soup"
+  }
+}
