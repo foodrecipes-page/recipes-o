@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Saudi Arabian Lamb Kebabs",
+  "description": "A solo dinner dish featuring lamb kebabs with gorgonzola dolce and caramelized onions, perfect for a keto friendly meal. This dish is inspired by Saudi Arabian cuisine and has a grassy and bouncy flavor profile.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "gorgonzola dolce",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, garlic powder, and paprika.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the lamb kebabs in the preheated oven for 20 minutes.",
+    "While the lamb is cooking, caramelize the sliced onions in a pan over medium heat.",
+    "After the lamb has cooked for 20 minutes, top each kebab with crumbled gorgonzola dolce and caramelized onions.",
+    "Return the kebabs to the oven and cook for an additional 5 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "lamb-kebabs",
+    "low-carb",
+    "middle-eastern",
+    "oven-roasted",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "oven-roasted-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:05:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kebabs"
+  }
+}
