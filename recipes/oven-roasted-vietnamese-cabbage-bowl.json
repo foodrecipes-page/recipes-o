@@ -1,0 +1,109 @@
+{
+  "title": "Oven Roasted Vietnamese Cabbage Bowl",
+  "description": "A hearty solo dinner bowl with earthy roasted vegetables, crunchy raw cabbage, and a tangy tamari-lime sauce, all Jain-friendly and packed with fresh flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "600g"
+    },
+    {
+      "name": "Carrot",
+      "amount": "200g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "150g"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "120g"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "30g"
+    },
+    {
+      "name": "Lime",
+      "amount": "1 wedge"
+    },
+    {
+      "name": "Tamari sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+    "Toss sliced cabbage, carrot, and bell pepper with 1 tbsp sesame oil, 1 tsp salt, and the tandoori spice mix until evenly coated.",
+    "Spread the seasoned vegetables in a single layer on the prepared baking sheet and roast for 18 minutes, stirring halfway, until edges are charred and vegetables are tender.",
+    "While the veggies roast, shred the remaining half of the cabbage into a bowl for the raw salad component.",
+    "In a small bowl, whisk together tamari sauce and lime juice from one wedge until lightly mixed.",
+    "Once roasted, remove the baking sheet from the oven and let the vegetables cool slightly.",
+    "Assemble the bowl by layering the roasted vegetables over the shredded raw cabbage, then drizzle the tamari-lime sauce over the top.",
+    "Sprinkle chopped cilantro over the entire bowl and optionally add extra lime wedges on the side for extra brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "jain-friendly",
+    "one-pan",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 16,
+    "carbs": 100,
+    "fat": 14
+  },
+  "slug": "oven-roasted-vietnamese-cabbage-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-vietnamese-cabbage-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:43:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "raw vegetables",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bowl"
+  }
+}
