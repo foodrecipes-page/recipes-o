@@ -338,6 +338,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-glassy-ukrainian-beef-bisque",
+    "title": "Ukrainian Beef Bisque",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pot",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-molten-irish-amazake-bake",
     "title": "Oozy Molten Irish Amazake Bake",
     "tags": [
@@ -610,6 +624,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-algerian-pork-shoulder-tagine",
+    "title": "oven-roasted algerian pork shoulder tagine",
+    "tags": [
+      "algerian",
+      "braising",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {

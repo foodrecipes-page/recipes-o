@@ -1,0 +1,124 @@
+{
+  "title": "oven-roasted algerian pork shoulder tagine",
+  "description": "a light and flavorful algerian dish featuring oven-roasted pork shoulder in a floral and aromatic sauce, perfect for a lazy sunday afternoon.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1.5 kg pork shoulder",
+      "amount": "2",
+      "notes": "bone-in"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "30",
+      "notes": "for brushing"
+    },
+    {
+      "name": "2 onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "5",
+      "notes": "dried"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "5",
+      "notes": "dried"
+    },
+    {
+      "name": "1 tsp ground ginger",
+      "amount": "5",
+      "notes": "dried"
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "5",
+      "notes": "dried"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "60",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "1/4 cup honey",
+      "amount": "60",
+      "notes": "raw"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "-"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300f (150c).",
+    "Rinse the pork shoulder and pat it dry with paper towels.",
+    "Season the pork shoulder with salt, pepper, and 1 tsp of the cumin, paprika, ginger, and cinnamon.",
+    "Heat 1 tbsp of the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork shoulder to a plate and set it aside.",
+    "Reduce the heat to medium and add the remaining 1 tbsp of olive oil to the pot.",
+    "Add the chopped onions and cook until they're lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the lemon juice, honey, and the remaining 1 tsp of cumin, paprika, ginger, and cinnamon to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Return the pork shoulder to the pot and cover it with a lid.",
+    "Transfer the pot to the preheated oven and braise the pork shoulder for 2 1/2 hours, or until it's tender and falls apart easily.",
+    "Remove the pot from the oven and stir in the chopped parsley.",
+    "Let the pork shoulder rest for 10-15 minutes before slicing it thinly against the grain."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "braising",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 63,
+    "carbs": 40,
+    "fat": 48
+  },
+  "slug": "oven-roasted-algerian-pork-shoulder-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-algerian-pork-shoulder-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:29:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "pork shoulder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tagine"
+  }
+}
