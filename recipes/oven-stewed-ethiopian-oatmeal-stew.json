@@ -1,0 +1,98 @@
+{
+  "title": "Oven-Stewed Ethiopian Oatmeal Stew",
+  "description": "A resinous, tender stew featuring oats and yakimono-grilled vegetables, perfect for a date-night Ethiopian meal and Whole30-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place diced carrots, celery, onion, and garlic on a yakimono grill and grill until lightly charred, about 4-5 minutes per side.",
+    "Transfer the charred vegetables to a large oven-safe pot.",
+    "Add olive oil to the pot and sauté the vegetables for 2 minutes to bloom aromatics.",
+    "Sprinkle berbere spice, ginger, salt, and pepper over the vegetables and stir to combine.",
+    "Pour in vegetable broth, bring to a gentle simmer, then stir in rolled oats.",
+    "Cover the pot with a lid and bake uncovered for 35 minutes, stirring every 10 minutes, until oats are tender and the stew thickened.",
+    "Remove from oven, let rest 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "comfort-food",
+    "oven-stewed",
+    "simple",
+    "vegan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "oven-stewed-ethiopian-oatmeal-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-stewed-ethiopian-oatmeal-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:29:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "oatmeal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Oatmeal",
+    "descriptor": "Oven-Stewed",
+    "dishForm": "Stew"
+  }
+}
