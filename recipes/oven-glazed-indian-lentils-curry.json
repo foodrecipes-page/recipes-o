@@ -1,0 +1,111 @@
+{
+  "title": "Oven-Glazed Indian Lentil Curry",
+  "description": "Jammy, shattering one-pot Indian dish featuring vanilla bean paste, lardons, low-fat friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "300g"
+    },
+    {
+      "name": "bacon lardons",
+      "amount": "25g"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200c.",
+    "In a large oven-safe pot, heat bacon lardons over medium until crisp, then remove and set aside on paper towel.",
+    "Add diced onion, minced garlic, and grated ginger to the bacon fat and sauté until onion is translucent.",
+    "Stir in ground cumin, ground coriander, turmeric, garam masala, and red chili flakes, cooking for 1 minute until fragrant.",
+    "Add tomato paste, canned diced tomatoes, and vanilla bean paste; stir to combine.",
+    "Rinse the lentils and add them to the pot, followed by 500ml water and a pinch of salt; stir well.",
+    "Bring mixture to a boil, reduce heat to low, cover, and simmer for 15 minutes until lentils are almost tender.",
+    "Transfer pot to preheated oven and bake uncovered for 20 minutes, stirring midway, until sauce thickens and lentils are fully cooked.",
+    "Return pot to stove, stir in crisp bacon lardons, adjust seasoning with salt if needed.",
+    "Serve hot, garnished with chopped cilantro and a splash of lemon juice for brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "jammy",
+    "low-fat",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 9,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "oven-glazed-indian-lentils-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-glazed-indian-lentils-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:14:02Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Oven-Glazed",
+    "dishForm": "Curry"
+  }
+}

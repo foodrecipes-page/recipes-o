@@ -1341,6 +1341,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-glazed-indian-lentils-curry",
+    "title": "Oven-Glazed Indian Lentil Curry",
+    "tags": [
+      "indian",
+      "jammy",
+      "low-fat",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-golden-algerian-lamb-tagine",
     "title": "oven-golden algerian lamb tagine",
     "tags": [
