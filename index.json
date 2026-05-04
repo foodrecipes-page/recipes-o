@@ -90,6 +90,23 @@
     "shard": "o"
   },
   {
+    "slug": "ocean-fresh-vietnamese-fruit-sashimi",
+    "title": "Ocean-Fresh Vietnamese Fruit Sashimi",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "fresh",
+      "gluten-free",
+      "healthy",
+      "snack",
+      "spring",
+      "vegan"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-crisp-moroccan-couscous-seffa",
     "title": "Oceanic Crisp Moroccan Couscous Seffa",
     "tags": [

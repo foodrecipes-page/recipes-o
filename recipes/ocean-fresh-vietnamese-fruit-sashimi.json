@@ -1,0 +1,111 @@
+{
+  "title": "Ocean-Fresh Vietnamese Fruit Sashimi",
+  "description": "A refreshing and energizing Vietnamese dish featuring a mix of sashimi-cut fruits, carefully selected for their springy texture and low-sodium content.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup chunks",
+      "notes": "Fresh, preferably organic"
+    },
+    {
+      "name": "Papaya",
+      "amount": "2 cups chunks",
+      "notes": "Honeydew or muskmelon varieties work well"
+    },
+    {
+      "name": "Dragon Fruit",
+      "amount": "1 cup chunks",
+      "notes": "Look for varieties with vibrant pink or yellow skin"
+    },
+    {
+      "name": "Watermelon",
+      "amount": "2 cups chunks",
+      "notes": "Seedless or with seeds, your choice"
+    },
+    {
+      "name": "Lime",
+      "amount": "1/2 cup wedges",
+      "notes": "Use for garnish and juice"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": "Fresh and peeled"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality and unflavored"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for a touch of sweetness"
+    },
+    {
+      "name": "Ice Cubes",
+      "amount": "1 cup",
+      "notes": "For chilling the fruits"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "4-6 leaves",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Chill the fruits in the refrigerator for at least 30 minutes before serving.",
+    "Grate the ginger and set aside.",
+    "Cut the fruits into small, sashimi-style pieces, about 1/4 inch thick.",
+    "Place the chilled fruits on a large serving platter or individual plates.",
+    "Drizzle the sesame oil over the fruits and sprinkle with grated ginger.",
+    "If desired, drizzle with a touch of honey for sweetness.",
+    "Garnish with fresh mint leaves and lime wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "fresh",
+    "gluten-free",
+    "healthy",
+    "snack",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "ocean-fresh-vietnamese-fruit-sashimi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ocean-fresh-vietnamese-fruit-sashimi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:46:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fruit mix",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fruit",
+    "descriptor": "ocean-fresh",
+    "dishForm": "sashimi"
+  }
+}
