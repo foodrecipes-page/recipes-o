@@ -508,6 +508,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-argentinian-cheese-stew",
+    "title": "Oozing Argentinian Cheese Stew",
+    "tags": [
+      "comfort-food",
+      "garlic",
+      "high-fat",
+      "kosher",
+      "one-pot",
+      "quick",
+      "sick-day"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-australian-fennel-salad",
     "title": "Oozing Australian Fennel Salad",
     "tags": [
@@ -2572,6 +2588,23 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-beef-burger",
+    "title": "Slovakian Beef Burger",
+    "tags": [
+      "beef-burger",
+      "easy-to-make",
+      "high-protein",
+      "low-carb",
+      "one-pan-meal",
+      "robata-grill",
+      "slovakian-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {

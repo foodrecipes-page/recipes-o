@@ -1,0 +1,120 @@
+{
+  "title": "Slovakian Beef Burger",
+  "description": "A hearty Slovakian-inspired burger featuring tender beef, rich flavors, and a hint of smokiness.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef (500g)",
+      "amount": "500g",
+      "notes": "High-quality beef with a fat content of 15%"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "Smoked paprika for added depth"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Traditional Slovakian spice"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "Soft, lightly toasted buns"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted, for brushing buns"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 head",
+      "notes": "Finely shredded"
+    },
+    {
+      "name": "Caraway mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh chives for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine ground beef, chopped onion, minced garlic, smoked paprika, caraway seeds, salt, and black pepper. Mix well with your hands until just combined.",
+    "Divide the beef mixture into 4 equal portions and shape each into a ball. Flatten each ball slightly into a patty.",
+    "Place the patties onto a baking sheet lined with parchment paper and bake for 12-15 minutes, or until cooked to your desired level of doneness.",
+    "While the burgers are baking, toast the buns by brushing them with unsalted butter and placing them under the broiler for 1-2 minutes, or until lightly toasted.",
+    "Spread a layer of caraway mayonnaise onto the bottom bun, followed by a cooked burger patty, a few slices of red cabbage, and finally the top bun.",
+    "Garnish each burger with chopped fresh chives and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-burger",
+    "easy-to-make",
+    "high-protein",
+    "low-carb",
+    "one-pan-meal",
+    "robata-grill",
+    "slovakian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "oven-roasted-slovakian-beef-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-slovakian-beef-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:52:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "stout",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Burger"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Oozing Argentinian Cheese Stew",
+  "description": "A garlicky, gooey stew that comforts on sick days, featuring a mustard-soffritto base and rich cheese.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Kosher Parmesan cheese",
+      "amount": "200 g shredded"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion, carrot, and celery and sauté for 5 minutes until softened.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Add the Dijon mustard and stir to coat the vegetables, cooking for another minute.",
+    "Pour in the vegetable broth, bring to a simmer, and let it cook for 10 minutes to develop flavor.",
+    "Reduce the heat to low, stir in the heavy cream and shredded cheese, and cook for 5 minutes until the cheese melts and the stew thickens.",
+    "Season with salt and pepper to taste, then simmer gently for an additional 3 minutes.",
+    "Ladle the stew into bowls, garnish with chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "garlic",
+    "high-fat",
+    "kosher",
+    "one-pot",
+    "quick",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 30
+  },
+  "slug": "oozing-argentinian-cheese-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-argentinian-cheese-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:53:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "soffritto-base",
+    "primaryIngredient": "mustard",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Oozing",
+    "dishForm": "Stew"
+  }
+}
