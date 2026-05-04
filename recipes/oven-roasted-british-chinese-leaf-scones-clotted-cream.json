@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted British Chinese Leaf Scones Clotted Cream",
+  "description": "A comforting British dish featuring Chinese leaf, with a crispy exterior and a soft interior, served with clotted cream and a hint of flambe, all while being keto-friendly.",
+  "cuisine": "British Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grand marnier",
+      "amount": "2 tablespoons",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the chopped Chinese leaf, almond flour, coconut cream, eggs, melted butter, and salt, and mix well.",
+    "Turn the mixture out onto a floured surface and knead for 5 minutes.",
+    "Pat the mixture into a circle that is about 1 inch thick.",
+    "Cut out scones using a biscuit cutter or the rim of a glass.",
+    "Place the scones on a baking sheet lined with parchment paper.",
+    "Roast the scones in the oven for 20 minutes, or until they are golden brown.",
+    "While the scones are baking, heat the grand marnier in a small saucepan over medium heat.",
+    "Ignite the grand marnier and let it flambe for 30 seconds.",
+    "Serve the scones with clotted cream and a drizzle of the flambeed grand marnier.",
+    "Let the scones cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-chinese",
+    "clotted-cream",
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "oven-roasted-british-chinese-leaf-scones-clotted-cream",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-british-chinese-leaf-scones-clotted-cream",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:58:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "chinese leaf",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chinese Leaf",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Scones Clotted Cream"
+  }
+}

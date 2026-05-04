@@ -1,0 +1,105 @@
+{
+  "title": "Outstandingly Oven Roasted Irish Vegetable Hash",
+  "description": "A charred and fluffy Irish dish featuring stir-fry vegetables and a sweet glaze, perfect for a show-stopping breakfast or brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes, carrots, brussels sprouts, red onion, and bell pepper with the olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables out in a single layer on a large baking sheet.",
+    "Roast the vegetables in the preheated oven for 30 minutes, stirring occasionally.",
+    "While the vegetables are roasting, whisk together the honey and apple cider vinegar in a small bowl.",
+    "After the vegetables have roasted for 30 minutes, brush the honey and apple cider vinegar glaze over them.",
+    "Continue to roast the vegetables for an additional 20 minutes, or until they are tender and lightly charred.",
+    "Remove the vegetables from the oven and let them cool slightly.",
+    "Serve the roasted vegetable hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "irish-cuisine",
+    "roasted-vegetables",
+    "sweet-potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "outstandingly-oven-roasted-irish-vegetable-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-oven-roasted-irish-vegetable-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:58:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Outstandingly oven roasted",
+    "dishForm": "Hash"
+  }
+}
