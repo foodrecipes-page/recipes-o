@@ -1,0 +1,90 @@
+{
+  "title": "Oil Rich Kenyan Hazelnuts Flatbread",
+  "description": "A jammy, dense, and delicious Kenyan dish featuring hazelnuts, perfect for a lazy Sunday, made with long-fermentation-dough and ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add water and olive oil to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment for 8 hours.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and roll it out into a flat circle.",
+    "Spread chopped hazelnuts evenly over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges over the hazelnuts to form a crust.",
+    "Bake the flatbread for 25 minutes or until it is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "hazelnuts",
+    "homemade",
+    "kenyan",
+    "lazy-sunday",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "oil-rich-kenyan-hazelnuts-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-rich-kenyan-hazelnuts-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:22:43Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "hazlenuts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "oil rich",
+    "dishForm": "Flatbread"
+  }
+}
