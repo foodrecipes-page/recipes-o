@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Peruvian Fish Tiradito",
+  "description": "A light and refreshing Peruvian dish featuring roasted fish, clotted cream, and sashimi-cut fish, perfect for a crowd, this recipe is a low sodium friendly version of the traditional tiradito.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "4 fillets",
+      "notes": "sashimi grade"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the halibut fillets with salt, black pepper, and coriander.",
+    "Place the halibut fillets on a baking sheet lined with parchment paper and drizzle with olive oil.",
+    "Roast the halibut in the preheated oven for 12 minutes or until cooked through.",
+    "While the fish is cooking, mix the clotted cream, lime juice, garlic, and ginger in a bowl.",
+    "Stir in the chopped aji amarillo peppers into the cream mixture.",
+    "Once the fish is done, let it cool for a few minutes before slicing it into thin pieces.",
+    "To serve, place the sliced fish on a plate and spoon the cream mixture over the top.",
+    "Garnish with additional aji amarillo peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "low-sodium",
+    "oven-roasted",
+    "peruvian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-peruvian-fish-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-peruvian-fish-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:17:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Tiradito"
+  }
+}
