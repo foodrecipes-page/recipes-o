@@ -1,0 +1,89 @@
+{
+  "title": "Oozing Rich Ethiopian Water Chestnut Flatbread",
+  "description": "A low‑fat, gooey injera‑style flatbread infused with water chestnut puree for a comforting sick‑day treat.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "150ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "50ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "water chestnut puree",
+      "amount": "50g"
+    },
+    {
+      "name": "egg white",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix flour, yeast, sugar, and salt.",
+    "In a separate jug whisk water, vegetable broth, and egg white until frothy.",
+    "Pour the liquid mixture into the dry ingredients and stir until a smooth batter forms, then fold in the water chestnut puree to emulsify.",
+    "Cover the batter and let it rise at room temperature for 60 minutes until doubled.",
+    "Preheat a nonstick skillet over medium heat and spray lightly with cooking spray.",
+    "Ladle a thin layer of batter onto the skillet, tilting to spread evenly.",
+    "Cook 3 minutes until bubbles appear and edges lift, then flip and cook another 2 minutes.",
+    "Transfer to a plate and serve warm, optionally sprinkling a pinch of salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethio",
+    "flatbread",
+    "injera",
+    "low-fat",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 10,
+    "carbs": 41,
+    "fat": 1
+  },
+  "slug": "oozing-rich-ethiopian-water-chestnut-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-rich-ethiopian-water-chestnut-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:52:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "water chestnut",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Oozing Rich",
+    "dishForm": "Flatbread"
+  }
+}
