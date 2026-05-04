@@ -760,6 +760,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-tangy-filipino-linguine-pasta-pinakbet",
+    "title": "Oozy Tangy Filipino Linguine Pasta Pinakbet",
+    "tags": [
+      "filipino-food",
+      "hangover-cure",
+      "one-pot",
+      "pasta-dish",
+      "tangy"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-velvety-moroccan-almond-chebakia",
     "title": "Oozy Velvety Moroccan Almond Chebakia",
     "tags": [
@@ -965,6 +979,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-crisp-thai-chicken-nam-prik",
+    "title": "Outstandingly Crisp Thai Chicken Nam Prik",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {

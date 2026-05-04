@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Tangy Filipino Linguine Pasta Pinakbet",
+  "description": "A tangy and chewy Filipino dish featuring linguine pasta, inspired by the traditional pinakbet recipe, served in a ramekin and perfect for a hangover cure.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "tandoor chicken",
+      "amount": "1 lb",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "okra",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the linguine pasta according to package instructions until al dente.",
+    "In a large skillet, heat the tomato sauce over medium heat.",
+    "Add the pre-cooked tandoor chicken, bitter melon, eggplant, and okra to the skillet and stir to combine.",
+    "Season the mixture with fish sauce and calamansi juice.",
+    "Combine the cooked linguine pasta and the vegetable mixture in a large bowl.",
+    "Transfer the pasta mixture to a ramekin and top with additional tomato sauce if desired.",
+    "Bake the pinakbet in the preheated oven for 10 minutes or until the sauce is bubbly.",
+    "Remove the pinakbet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "hangover-cure",
+    "one-pot",
+    "pasta-dish",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-tangy-filipino-linguine-pasta-pinakbet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-tangy-filipino-linguine-pasta-pinakbet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:18:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "linguine pasta",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "Oozy Tangy",
+    "dishForm": "Pinakbet"
+  }
+}

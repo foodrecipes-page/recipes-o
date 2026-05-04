@@ -1,0 +1,96 @@
+{
+  "title": "Outstandingly Crisp Thai Chicken Nam Prik",
+  "description": "A grassy and crisp Thai dish featuring vanilla bean paste, perfect for a weeknight dinner, made in a Dutch oven and served as a nam prik.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai bird eye chilies",
+      "amount": "4-6",
+      "notes": "depending on desired spice level"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the minced garlic and bruised lemon grass to the pot and cook for 1 minute.",
+    "Add the Thai bird eye chilies to the pot and cook for an additional minute.",
+    "Add the fish sauce, lime juice, and vanilla bean paste to the pot and stir to combine.",
+    "Return the chicken to the pot and simmer, uncovered, until the sauce has thickened and the chicken is cooked through, about 10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the chicken and sauce in individual bowls, garnished with additional lemon grass and chilies if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "outstandingly-crisp-thai-chicken-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-crisp-thai-chicken-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:18:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Outstandingly crisp",
+    "dishForm": "Nam Prik"
+  }
+}
