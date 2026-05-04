@@ -1,0 +1,92 @@
+{
+  "title": "Croatian Shrimp Spring Rolls",
+  "description": "A kid friendly Croatian dish featuring shrimp and rice paper sheets, this recipe is gluten free and easy to make.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl mix together the shrimp, smoked paprika, garlic powder, salt, and black pepper.",
+    "Lay a rice paper sheet flat on a work surface and place about 1/4 cup of the shrimp mixture in the center of the sheet.",
+    "Brush the edges of the sheet with water and fold the bottom half up over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining sheets and filling.",
+    "Place the spring rolls on a baking sheet lined with parchment paper and brush with vegetable oil.",
+    "Bake the spring rolls for 12 minutes, or until crispy and golden brown.",
+    "Serve the spring rolls hot with your favorite dipping sauce.",
+    "Garnish with chopped onion and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "easy-dinner",
+    "gluten-free",
+    "kid-friendly",
+    "oven-baked",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "original-oven-baked-croatian-shrimp-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-baked-croatian-shrimp-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:26:28Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "smoke-cold",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "original oven baked",
+    "dishForm": "Spring-Rolls"
+  }
+}
