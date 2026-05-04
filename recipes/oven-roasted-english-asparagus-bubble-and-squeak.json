@@ -1,0 +1,106 @@
+{
+  "title": "Oven-Roasted English Asparagus Bubble and Squeak",
+  "description": "A grassy, pillowy, lacto-vegetarian-friendly British dish featuring white asparagus, mashed potatoes, and onions, served in a mason jar.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Pound the asparagus in a mortar and pestle until it's slightly crushed. ",
+    "Toss the asparagus with butter, garlic powder, salt, and black pepper, and spread it on a baking sheet. ",
+    "Roast the asparagus in a 425°F oven for 12-15 minutes, or until tender and slightly browned. ",
+    "Meanwhile, mix the mashed potatoes with grated cheddar cheese and milk (if using). ",
+    "Heat a non-stick skillet over medium heat and add the mashed potato mixture. ",
+    "Press the potato mixture into a flat disk shape and let it cook for 3-4 minutes, or until the bottom is golden brown. ",
+    "Flip the potato disk and cook for an additional 3-4 minutes, or until the other side is golden brown. ",
+    "Transfer the potato disk to a mason jar and top with the roasted asparagus. ",
+    "Cover the jar with a lid and refrigerate for at least 30 minutes to allow the flavors to meld. ",
+    "Serve the asparagus bubble and squeak chilled, garnished with chopped chives or scallions if desired. "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "british",
+    "british-cuisine",
+    "lacto-vegetarian",
+    "mashed-potatoes",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "oven-roasted-english-asparagus-bubble-and-squeak",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-english-asparagus-bubble-and-squeak",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "white asparagus",
+    "diet": "lacto-vegetarian",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "asparagus",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Bubble and Squeak"
+  }
+}
