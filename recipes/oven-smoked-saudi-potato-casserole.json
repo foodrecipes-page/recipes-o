@@ -1,0 +1,98 @@
+{
+  "title": "Oven Smoked Saudi Potato Casserole",
+  "description": "A smoky, glassy-jelly casserole that blends traditional Saudi spices with a papillote technique for a late‑night, sugar‑free-friendly dinner.",
+  "cuisine": "saudi arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "1 kg",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "120 ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded reduced-fat cheddar",
+      "amount": "30 g"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C.",
+    "Arrange the sliced potatoes in a single layer on each parchment sheet.",
+    "Drizzle olive oil over the potatoes and sprinkle smoked paprika, cumin, salt, and pepper evenly.",
+    "Whisk the egg with the milk, then pour the mixture over the seasoned potatoes.",
+    "Sprinkle shredded cheddar on top of the liquid.",
+    "Fold each parchment sheet into a tight papillote, sealing the edges with tongs.",
+    "Place the papillotes on a baking sheet and bake for 45 minutes until the potatoes are tender and the glaze is set.",
+    "Open the papillotes carefully, let steam release, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "glassy",
+    "one-pan",
+    "saudi",
+    "smoked",
+    "sugar-free-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 8,
+    "carbs": 43,
+    "fat": 6
+  },
+  "slug": "oven-smoked-saudi-potato-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-saudi-potato-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:53:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "russet potato",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "potato",
+    "descriptor": "Oven Smoked",
+    "dishForm": "Casserole"
+  }
+}
