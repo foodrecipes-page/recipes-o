@@ -1,0 +1,104 @@
+{
+  "title": "Korean Chwinamul Stew",
+  "description": "A savory one-pot dish featuring chwinamul, cooked to perfection in a clay pot, egg-free and friendly for all, with a pillowy texture and Mediterranean twist",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "2 cups",
+      "notes": "parboiled and drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the clay pot over medium heat",
+    "Add the minced garlic and grated ginger and saute until fragrant",
+    "Add the parboiled chwinamul and stir to combine",
+    "Add the soy sauce, gochujang, and water, and bring to a boil",
+    "Reduce the heat to low and simmer for 20 minutes",
+    "Add the diced tofu and cook for an additional 5 minutes",
+    "Stir in the chopped green onions and sesame seeds",
+    "Serve hot, garnished with additional green onions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "mediterranean-inspired",
+    "one-pot",
+    "savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "outstandingly-savory-korean-chwinamul-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-savory-korean-chwinamul-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:31:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chwinamul",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chwinamul",
+    "descriptor": "outstandingly savory",
+    "dishForm": "Stew"
+  }
+}
