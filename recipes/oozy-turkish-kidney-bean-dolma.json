@@ -1,0 +1,103 @@
+{
+  "title": "Oozy Turkish Kidney Bean Dolma",
+  "description": "A peppery, gooey, nostalgic Turkish dish featuring kidney beans, air-fried to perfection in a claypot, lacto-vegetarian-friendly and served in a dolma form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "claypot",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the cooked kidney beans, chopped onion, minced garlic, tomato paste, paprika, black pepper, and salt, and mix well.",
+    "Spoon the kidney bean mixture into the claypot, leaving about 1 inch of space at the top.",
+    "Drizzle the vegetable oil over the top of the kidney bean mixture.",
+    "Place the claypot in the air fryer basket and cook for 20 minutes.",
+    "Remove the claypot from the air fryer and let it cool for a few minutes.",
+    "Serve the dolma hot, topped with a dollop of yogurt.",
+    "Garnish with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "claypot-cooking",
+    "comfort-food",
+    "kidney-beans",
+    "lacto-vegetarian",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oozy-turkish-kidney-bean-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-turkish-kidney-bean-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:09:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "kidney beans",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "kidney beans",
+    "descriptor": "oozy peppery",
+    "dishForm": "Dolma"
+  }
+}
