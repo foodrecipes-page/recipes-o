@@ -1,0 +1,133 @@
+{
+  "title": "oceanic rich and shattering Mexican uni Tacos",
+  "description": "Rich, shattering, energizing mexican dish featuring uni, ferment-jang, anti-inflammatory-friendly ingredients, served on a cedar plank.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "dairy-free",
+    "low-carb",
+    "low-fat",
+    "pescatarian",
+    "halal",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uni (sea urchin)",
+      "amount": "12 oz",
+      "notes": "Fresh, high-quality uni is essential for this dish."
+    },
+    {
+      "name": "Ferment-Jang (Korean chili paste)",
+      "amount": "2 tbsp",
+      "notes": "Available at most Asian grocery stores or online."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for maximum flavor."
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1",
+      "notes": "For serving."
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the cedar plank."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Cucumber",
+      "amount": "sliced",
+      "notes": "For serving."
+    },
+    {
+      "name": "Radish",
+      "amount": "thinly sliced",
+      "notes": "For serving."
+    },
+    {
+      "name": "Microgreens",
+      "amount": "for garnish",
+      "notes": "For added flavor and nutrition."
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "for serving",
+      "notes": "For added flavor and brightness."
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "to taste",
+      "notes": "For added heat."
+    }
+  ],
+  "instructions": [
+    "Soak the cedar plank in water for at least 30 minutes to prevent it from burning during cooking.",
+    "Preheat the grill to medium-high heat.",
+    "Rinse the uni under cold water and pat dry with paper towels.",
+    "Season the uni with salt and black pepper.",
+    "Brush the cedar plank with avocado oil and place the uni on top.",
+    "Grill the uni for 2-3 minutes per side, or until slightly charred and still tender.",
+    "Meanwhile, mix the ferment-jang with lime juice in a small bowl.",
+    "Brush the mix onto the uni during the last minute of grilling.",
+    "Remove the uni from the grill and garnish with cilantro, cucumber, and radish.",
+    "Serve immediately, with lime wedges and crushed red pepper flakes on the side.",
+    "Garnish with microgreens for added flavor and nutrition."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "celebratory",
+    "grilled",
+    "high-protein",
+    "mexican",
+    "seafood",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "oceanic-rich-and-shattering-mexican-uni-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-rich-and-shattering-mexican-uni-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "uni",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "uni",
+    "descriptor": "oceanic rich and shattering",
+    "dishForm": "Tacos"
+  }
+}
