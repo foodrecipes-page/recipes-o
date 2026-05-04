@@ -1,0 +1,113 @@
+{
+  "title": "Oven-Roasted Australian Cauliflower Roast",
+  "description": "A mustardy, velvety roast of cauliflower with ginger garlic paste, finished with cashews and parsley for a festive vegan treat.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower head",
+      "amount": "1",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Whole grain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger garlic paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tamari",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chopped plain cashews",
+      "amount": "50 g",
+      "notes": "optional but adds crunch"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Whisk together olive oil, mustard, ginger garlic paste, tamari, maple syrup, coconut milk, salt, and pepper until smooth.",
+    "Toss cauliflower florets with the sauce until evenly coated.",
+    "Spread the florets in a single layer on the prepared baking sheet.",
+    "Roast for 25 minutes, turning once, until edges are golden and florets are tender.",
+    "Remove from oven and sprinkle with chopped cashews and lemon zest.",
+    "Transfer the roast to a serving dish and garnish with fresh parsley.",
+    "Drizzle any remaining sauce over the top before serving.",
+    "Serve hot as a main or side with your choice of grains or salad.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "easy",
+    "festive",
+    "gluten-free",
+    "mustard",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "oven-roasted-australian-cauliflower-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-australian-cauliflower-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:26:20Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Roast"
+  }
+}
