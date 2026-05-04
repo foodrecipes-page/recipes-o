@@ -1,0 +1,117 @@
+{
+  "title": "Oven Roasted Indian Mushroom Aloo Gobi",
+  "description": "A crowd-pleasing Goan-inspired vegetarian dish that combines earthy mushrooms, potatoes, and cauliflower with aromatic Indian spices, all roasted to perfection in a single pan.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "button mushrooms",
+      "amount": "500g",
+      "notes": "cleaned and halved"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 medium head",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "In a large bowl toss mushrooms, potatoes, cauliflower, onion, garlic, and ginger with coconut oil, cumin, coriander, turmeric, garam masala, and salt until well coated.",
+    "Spread the mixture in a single layer on a rimmed baking sheet.",
+    "Roast for 25 minutes, stirring once, until vegetables are golden and tender.",
+    "Remove from oven and let rest 5 minutes before serving.",
+    "Optional: sprinkle fresh coriander or lime juice before serving.",
+    "Serve hot as a main dish or side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free",
+    "goan-flavor",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "oven-roasted-indian-mushroom-aloo-gobi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-indian-mushroom-aloo-gobi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:06:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "dairy-free",
+    "region": "goan",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Aloo Gobi"
+  }
+}
