@@ -1,0 +1,108 @@
+{
+  "title": "Oven‑Roasted Smoky MiddleEastern Tahini Toast",
+  "description": "A lazy‑Sunday MiddleEastern snack that pairs crispy pita with creamy tahini, smoky spices and a touch of pomegranate sweetness.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted pine nuts",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C.",
+    "Place the pita slices on a baking sheet and bake until crisp, about 5 to 7 minutes.",
+    "Brush one side of each warm pita slice with olive oil.",
+    "Whisk the tahini, lemon juice, minced garlic and salt in a small bowl until smooth.",
+    "Spread the tahini mixture evenly over each pita slice.",
+    "Sprinkle smoked paprika, ground cumin and sumac over the tahini.",
+    "Drizzle pomegranate molasses over the spices.",
+    "Return the bread to the oven and bake for 3 to 4 minutes until golden and fragrant.",
+    "Remove from the oven and top with chopped parsley and toasted pine nuts.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bake",
+    "easy",
+    "midweek",
+    "smoked",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "oven-roasted-smoky-middle-eastern-tahini-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoky-middle-eastern-tahini-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:27:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "smoke",
+    "primaryIngredient": "bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "MiddleEastern",
+    "mainIngredient": "tahini",
+    "descriptor": "Oven-Roasted Smoky",
+    "dishForm": "Toast"
+  }
+}
