@@ -1,0 +1,113 @@
+{
+  "title": "Oozing Resinous Filipino Pork Blood Dinuguan",
+  "description": "A rich and savory Filipino pork blood stew made by simmering pork blood with pork offal, vegetables, and spices. Perfect for a sick day or a special occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork Blood",
+      "amount": "1 cup",
+      "notes": "Fresh or store-bought"
+    },
+    {
+      "name": "Pork Offal",
+      "amount": "1/2 pound",
+      "notes": "Pig's liver and heart"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Kosher"
+    },
+    {
+      "name": "Molasses",
+      "amount": "2 tablespoons",
+      "notes": "Dark"
+    },
+    {
+      "name": "Cedar Plank",
+      "amount": "1 piece",
+      "notes": "For smoking"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    }
+  ],
+  "instructions": [
+    "Combine pork blood, pork offal, onion, garlic, ginger, black pepper, and salt in a large pot. Simmer over low heat for 10 minutes.",
+    "Add molasses and cook for an additional 5 minutes, stirring occasionally.",
+    "Meanwhile, prep the cedar plank by soaking it in water for 30 minutes.",
+    "Remove the plank from water and place it on a heat-proof surface.",
+    "Smoke the mixture over low heat for 10 minutes, or until fragrant.",
+    "Remove the plank and discard.",
+    "Stir in rice vinegar and cook for an additional minute.",
+    "Serve warm over rice."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blood",
+    "filipino",
+    "healthy",
+    "one-pan",
+    "pork",
+    "savory",
+    "smoked",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "oozing-resinous-filipino-pork-blood-dinuguan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-resinous-filipino-pork-blood-dinuguan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "molasses",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork blood",
+    "descriptor": "Oozing Resinous",
+    "dishForm": "Dinuguan"
+  }
+}

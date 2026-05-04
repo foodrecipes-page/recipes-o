@@ -1,0 +1,112 @@
+{
+  "title": "Oven-Roasted French Shungiku Pot-au-Feu",
+  "description": "A spicy, low-calorie French dish from Brittany, perfect for a romantic dinner featuring shungiku and potatoes in a rich vegetable broth.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Chop the shungiku, potatoes, carrots, and onions into bite-sized pieces.",
+    "Mince the garlic and chop the bay leaves and thyme.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the garlic, bay leaves, and thyme to the pot and cook for 2 minutes.",
+    "Add the shungiku, potatoes, carrots, onions, red pepper flakes, salt, and black pepper to the pot.",
+    "Pour in the lemon juice and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 45 minutes, then remove the pot from the oven and carefully remove the bay leaves and thyme.",
+    "Serve the pot-au-feu hot, garnished with lemon wedges and chopped fresh herbs.",
+    "Strain the cooking liquid and serve it on the side as a broth.",
+    "Garnish with a sprinkle of chopped fresh herbs, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "low-calorie",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oven-roasted-french-shungiku-pot-au-feu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-french-shungiku-pot-au-feu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "shungiku",
+    "diet": "low-calorie",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "shungiku",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Pot-au-Feu"
+  }
+}

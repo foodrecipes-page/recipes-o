@@ -1,0 +1,113 @@
+{
+  "title": "Oven-Roasted Australian Hazelnuts Paella",
+  "description": "Umami, aerated, one-pot australian dish featuring hazelnuts, yuzu-cure, low-glycemic-friendly.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Hazelnuts",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Yuzu-Cured Chorizo",
+      "amount": "1/2 cup",
+      "notes": "use low-sodium or homemade cure"
+    },
+    {
+      "name": "Uncured Smoked Paprika Chicken Sausage",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Long Grain Rice",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "Chicken Bone Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green Chili Pepper",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Heat 2 tablespoons of oil in a large paella pan over medium-high heat.",
+    "Sear chorizo for 2 minutes per side, then transfer to a plate.",
+    "Add more oil if necessary and cook sausage for 2 minutes, breaking up with a spoon as it cooks.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chicken broth, uncooked rice, sausage, and chorizo. Stir to combine, then bring to a simmer.",
+    "Cook for 5 minutes, then stir in hazelnuts, beaten egg, yuzu zest, parsley, red pepper flakes, salt, and black pepper.",
+    "Transfer the pan to the oven and roast for 20-25 minutes, or until the rice is cooked and the top is golden brown.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "australian",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "oven-roasted-australian-hazlenuts-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-australian-hazlenuts-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:03Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "hazlenuts",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Hazlenuts",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Paella"
+  }
+}

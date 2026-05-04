@@ -475,6 +475,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-ukrainian-pul-biber-bowl",
+    "title": "oily ukrainian pul biber bowl",
+    "tags": [
+      "comfort-food",
+      "cozy",
+      "fermented",
+      "one-pot",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-american-rice-stick-noodles",
     "title": "American Rice Stick Noodle Dish",
     "tags": [
@@ -981,6 +995,23 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-resinous-filipino-pork-blood-dinuguan",
+    "title": "Oozing Resinous Filipino Pork Blood Dinuguan",
+    "tags": [
+      "blood",
+      "filipino",
+      "healthy",
+      "one-pan",
+      "pork",
+      "savory",
+      "smoked",
+      "stew"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 90,
     "shard": "o"
   },
   {
@@ -2646,6 +2677,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-australian-hazlenuts-paella",
+    "title": "Oven-Roasted Australian Hazelnuts Paella",
+    "tags": [
+      "aerated",
+      "australian",
+      "gluten-free",
+      "low-glycemic",
+      "one-pan",
+      "umami"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-brazilian-parma-ham-skewers",
     "title": "Oven Roasted Brazilian Parma Ham Skewers",
     "tags": [
@@ -2943,6 +2989,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 85,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-french-shungiku-pot-au-feu",
+    "title": "Oven-Roasted French Shungiku Pot-au-Feu",
+    "tags": [
+      "french",
+      "low-calorie",
+      "one-pan",
+      "romantic",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {

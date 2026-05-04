@@ -1,0 +1,111 @@
+{
+  "title": "oily ukrainian pul biber bowl",
+  "description": "a cozy, fermented dish featuring pul biber and mushimono-steam, ideal for a cold evening",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pul biber",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mushimono-steam",
+      "amount": "1 cup",
+      "notes": "see notes for preparation"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz, crushed"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large pot, combine pul biber, mushimono-steam, sour cream, black beans, onions, garlic, tomatoes, caraway seeds, allspice, and salt",
+    "stir to combine, then bring to a simmer over medium heat",
+    "reduce heat to low and cook for 20 minutes, stirring occasionally",
+    "add water and continue cooking for another 10 minutes, or until the mixture has thickened slightly",
+    "taste and adjust seasoning as needed",
+    "serve hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "fermented",
+    "one-pot",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "oily-ukrainian-pul-biber-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-ukrainian-pul-biber-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "pul biber",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "pul biber",
+    "descriptor": "oily",
+    "dishForm": "bowl"
+  }
+}
