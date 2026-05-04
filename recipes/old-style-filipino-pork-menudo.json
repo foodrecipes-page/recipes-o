@@ -1,0 +1,102 @@
+{
+  "title": "Filipino Pork Menudo",
+  "description": "A classic Filipino dish made with pork, liver, and vegetables in a rich tomato-based sauce, served in a bento box, earthy and fluffy, perfect for a weeknight dinner, this recipe is egg-free-friendly and features piccalilli, using rest-meat for a hearty and satisfying meal",
+  "cuisine": "Filipino",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "pork liver",
+      "amount": "1/2 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork shoulder and pork liver, and cook until browned.",
+    "Add the tomato sauce, piccalilli, potato, salt, black pepper, and fish sauce, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the menudo hot in a bento box."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box-ideas",
+    "filipino-food",
+    "one-pot-meals",
+    "pork-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "old-style-filipino-pork-menudo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-style-filipino-pork-menudo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:34:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "piccalilli",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "old-style",
+    "dishForm": "Menudo"
+  }
+}

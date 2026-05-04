@@ -386,6 +386,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-style-filipino-pork-menudo",
+    "title": "Filipino Pork Menudo",
+    "tags": [
+      "bento-box-ideas",
+      "filipino-food",
+      "one-pot-meals",
+      "pork-recipes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "olive-oasis",
     "title": "Olive Oasis",
     "tags": [
