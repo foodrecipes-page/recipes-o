@@ -1,0 +1,92 @@
+{
+  "title": "Oven Roasted Thai Shrimp Nam Prik",
+  "description": "A charred and crisp weeknight Thai dish featuring shrimp and nam prik sauce, ready in under 30 minutes. This southern-Thai inspired recipe is perfect for a quick dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "nam prik sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together nam prik sauce, fish sauce, lime juice, brown sugar, and salt.",
+    "Add the shrimp to the bowl and toss to coat with the sauce.",
+    "Line a baking sheet with parchment paper and arrange the shrimp in a single layer.",
+    "Drizzle the vegetable oil over the shrimp and sprinkle with chopped parsley.",
+    "Roast the shrimp in the preheated oven for 8-10 minutes, or until pink and cooked through.",
+    "Remove the shrimp from the oven and serve immediately.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "quick-dinner",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "oven-roasted-thai-shrimp-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-thai-shrimp-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:43:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "candy",
+    "primaryIngredient": "chopped parsley",
+    "diet": "raw",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Nam Prik"
+  }
+}
