@@ -1,0 +1,113 @@
+{
+  "title": "Oozing Moroccan Chicken Couscous Royal",
+  "description": "A winey, fluffy solo dinner featuring braised chicken sweetened with dark brown soft sugar, served over fluffy couscous on a tagliere platter, low-fat friendly and bursting with Moroccan spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken breasts",
+      "amount": "4 (180g each)",
+      "notes": "skin removed"
+    },
+    {
+      "name": "couscous (dry)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken breasts dry and season both sides with salt, pepper, cumin, coriander, paprika, cinnamon, ginger, and a pinch of sugar.",
+    "Heat 1 tsp olive oil in a large skillet over medium-high heat and sear the chicken for 3 minutes per side until golden brown; remove and set aside.",
+    "In the same skillet, add the wine, deglaze by scraping brown bits, and let it reduce by half, about 2 minutes.",
+    "Return the chicken to the skillet, pour in the broth, cover, and simmer for 15 minutes or until the chicken reaches 74C internal temperature.",
+    "While the chicken braises, prepare couscous by sprinkling it on a heatproof dish, pouring 1 cup of hot water or broth, covering, and letting it steam for 5 minutes before fluffing with a fork.",
+    "Slit the cooked chicken and drizzle the braising liquid over it, then transfer everything onto a tagliere platter.",
+    "Sprinkle the couscous, lemon juice, parsley, and a little extra sugar over the chicken, tossing gently to combine flavors.",
+    "Garnish with additional parsley and optional toasted sesame seeds for crunch.",
+    "Serve immediately, ensuring each portion has an even distribution of chicken, couscous, and sauce.",
+    "Optional: pair with a chilled glass of dry white wine to enhance the winey notes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "couscous",
+    "low-fat",
+    "moroccan",
+    "one-pot",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 11,
+    "carbs": 13,
+    "fat": 2
+  },
+  "slug": "oozing-moroccan-chicken-couscous-royal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-moroccan-chicken-couscous-royal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:05:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Oozing",
+    "dishForm": "Couscous Royal"
+  }
+}
