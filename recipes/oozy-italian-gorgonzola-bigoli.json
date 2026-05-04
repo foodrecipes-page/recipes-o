@@ -1,0 +1,97 @@
+{
+  "title": "Oozy Italian Gorgonzola Bigoli",
+  "description": "A sweet and tender Italian dish featuring gorgonzola dolce, served in a terracotta dish, this bigoli recipe is a festive and low-calorie-friendly option for any meal. It is a classic Piedmontese recipe with a unique katsuramuki cut.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bigoli pasta",
+      "amount": "12 oz",
+      "notes": "preferably made from durum wheat semolina"
+    },
+    {
+      "name": "gorgonzola dolce",
+      "amount": "8 oz",
+      "notes": "crumbly and sweet"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bigoli pasta according to the package instructions until al dente.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and add the chopped walnuts, cooking until lightly toasted.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the crumbled gorgonzola dolce and cook until melted and smooth.",
+    "Drain the cooked bigoli pasta and add it to the skillet, tossing to coat with the gorgonzola sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the bigoli pasta to a terracotta dish and top with chopped fresh parsley.",
+    "Drizzle with the remaining 2 tablespoons of melted butter.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "italian-cuisine",
+    "low-calorie",
+    "one-pan",
+    "pasta-dishes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oozy-italian-gorgonzola-bigoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-italian-gorgonzola-bigoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:59:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "low-calorie",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "gorgonzola",
+    "descriptor": "Oozy",
+    "dishForm": "Bigoli"
+  }
+}

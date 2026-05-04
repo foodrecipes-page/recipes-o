@@ -366,6 +366,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-italian-gorgonzola-bigoli",
+    "title": "Oozy Italian Gorgonzola Bigoli",
+    "tags": [
+      "easy-weeknight",
+      "italian-cuisine",
+      "low-calorie",
+      "one-pan",
+      "pasta-dishes",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-molten-irish-amazake-bake",
     "title": "Oozy Molten Irish Amazake Bake",
     "tags": [
