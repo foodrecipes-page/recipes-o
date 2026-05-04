@@ -1,0 +1,97 @@
+{
+  "title": "Oozy Gooey Middle Eastern Chickpeas Tabbouleh",
+  "description": "A plant-based twist on traditional tabbouleh, featuring gooey chickpeas and a dash of dashi extract, this dish is a nostalgic and funky take on Middle Eastern cuisine. It is perfect for a snack or light lunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bulgur wheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "mint",
+      "amount": "1/2 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur wheat in a fine mesh sieve and drain well.",
+    "In a large bowl, combine the bulgur wheat, parsley, mint, and scallions.",
+    "In a small bowl, whisk together the dashi extract, lemon juice, and olive oil.",
+    "Pour the dressing over the bulgur mixture and toss to combine.",
+    "In a separate pan, heat the chickpeas over medium heat, stirring frequently, until they are lightly browned and fragrant.",
+    "Add the chickpeas to the bulgur mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the tabbouleh a good stir and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "healthy",
+    "middle-eastern",
+    "plant-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-gooey-middle-eastern-chickpeas-tabbouleh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-gooey-middle-eastern-chickpeas-tabbouleh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:10:58Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chickpeas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Oozy Gooey",
+    "dishForm": "Tabbouleh"
+  }
+}
