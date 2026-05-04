@@ -1,0 +1,103 @@
+{
+  "title": "Oozing Slovakian Tofu Wrap",
+  "description": "A tangy, cheese-pull wrap inspired by Slovakian flavors, featuring miso-marinated tofu, kaffir lime leaf, and a fresh agave-leaf vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh agave leaf",
+      "amount": "1 large",
+      "notes": "washed and blanched 2 min"
+    },
+    {
+      "name": "extra firm tofu",
+      "amount": "200g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kaffir lime leaf",
+      "amount": "1 tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp oil in a skillet over medium-high until shimmering.",
+    "Add tofu cubes, cook until golden brown on all sides, about 4 minutes per side, then remove.",
+    "Whisk miso paste, soy sauce, agave syrup, lime juice, chili flakes and chopped kaffir lime leaf in a bowl.",
+    "Toss the cooked tofu in the miso mixture until evenly coated.",
+    "Warm the fresh agave leaf in a dry skillet for 30 seconds to make it pliable.",
+    "Place a spoonful of tofu onto the center of the leaf, top with shredded cheese, and fold sides.",
+    "Wrap tightly, allowing the cheese to melt slightly over the tofu.",
+    "Serve immediately, optionally drizzled with extra lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "lacto-vegetarian-friendly",
+    "quick",
+    "slovakian",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "oozing-slovakian-tofu-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-slovakian-tofu-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:55:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tofu",
+    "descriptor": "Oozing",
+    "dishForm": "Wrap"
+  }
+}
