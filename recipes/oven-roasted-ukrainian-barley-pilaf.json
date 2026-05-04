@@ -1,0 +1,119 @@
+{
+  "title": "Oven Roasted Ukrainian Barley Pilaf",
+  "description": "A malty, snappy one-pan barley pilaf with tarragon and smoked paprika for a smoky, dairy-free Ukrainian flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole grain pearl barley",
+      "amount": "2 cups dry"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "4 cups liquid"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "finely diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced celery",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried tarragon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "toasted walnuts",
+      "amount": "1/4 cup",
+      "notes": "for crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "In a large oven-safe skillet, heat olive oil over medium-high until shimmering.",
+    "Add onion, garlic, carrot, celery and sauté until softened, about 5 minutes.",
+    "Stir in pearl barley, smoked paprika, tarragon, salt, pepper and coat grains evenly.",
+    "Pour vegetable broth over barley mixture and add bay leaf; bring to a boil.",
+    "Reduce heat to low, cover skillet with foil, and transfer to preheated oven.",
+    "Roast uncovered for 25 minutes, then uncover and roast another 15 minutes until grains are tender and liquid absorbed.",
+    "Remove skillet from oven, discard bay leaf, fluff barley with a fork and stir in chopped parsley.",
+    "Sprinkle toasted walnuts over pilaf for added crunch.",
+    "Serve warm, optionally drizzle with a splash of olive oil for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "easy",
+    "malty",
+    "one-pan",
+    "snappy",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 7
+  },
+  "slug": "oven-roasted-ukrainian-barley-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ukrainian-barley-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:03:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "tandoor",
+    "primaryIngredient": "tarragon-french",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Barley",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pilaf"
+  }
+}
