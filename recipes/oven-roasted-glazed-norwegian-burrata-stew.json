@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Roasted Glazed Norwegian Burrata Stew",
+  "description": "A charred, glassy-jelly Nordic stew that marries creamy burrata with sweet dates, roasted in a cataplana for a stunning date-night dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "200 g"
+    },
+    {
+      "name": "Ripe dates",
+      "amount": "200 g"
+    },
+    {
+      "name": "Red wine",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1 small (100 g)"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 minced"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Wash and slice the fennel bulb into thin rings.",
+    "Slice the cherry tomatoes in half and set aside.",
+    "Wash the dates, pit them if needed, and cut into quarters.",
+    "Heat a pan over medium heat and drizzle in 2 tbsp olive oil.",
+    "Add the sliced fennel, minced garlic, and smoked paprika; sauté until the fennel is translucent.",
+    "Transfer the fennel mixture to a cataplana and add the cherry tomatoes, dates, and lemon juice.",
+    "Pour the red wine over the mixture and stir in sea salt and pepper.",
+    "Place the cataplana in the preheated oven and roast for 25 minutes to develop a caramelized glaze.",
+    "Remove the cataplana from the oven and gently fold in the burrata, letting it melt into the stew.",
+    "Spoon the stew onto a serving platter, sprinkle with fresh dill, drizzle with remaining olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "date-night",
+    "flexitarian",
+    "glazed",
+    "norwegian",
+    "one-pot",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 27,
+    "carbs": 70,
+    "fat": 35
+  },
+  "slug": "oven-roasted-glazed-norwegian-burrata-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-glazed-norwegian-burrata-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:41:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "burrata",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "burrata",
+    "descriptor": "Oven-Roasted Glazed",
+    "dishForm": "Stew"
+  }
+}
