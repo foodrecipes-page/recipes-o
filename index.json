@@ -319,6 +319,17 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-chinese-pork-twice-cooked-pork",
+    "title": "Oozing Chinese Pork Twice Cooked Pork",
+    "tags": [
+      "chinese",
+      "dinner"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-french-tofu-galette",
     "title": "Oozing French Tofu Galette",
     "tags": [

@@ -1,0 +1,102 @@
+{
+  "title": "Oozing Chinese Pork Twice Cooked Pork",
+  "description": "A smoky, tender twice-cooked pork dish that cures hangovers and warms the soul, served on a wooden board with fresh scallion garnish.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g"
+    },
+    {
+      "name": "soy sauce and Shaoxing wine mixture",
+      "amount": "5 tbsp",
+      "notes": "3 tbsp soy sauce + 2 tbsp Shaoxing wine"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "scallion, sliced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoky sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Slice pork belly into 2cm cubes and pat dry.",
+    "In a bowl combine soy sauce, Shaoxing wine, brown sugar, five spice, salt, pepper, garlic, and ginger and whisk until sugar dissolved.",
+    "Toss pork cubes in the marinating mixture and refrigerate for at least 30 minutes.",
+    "Bring a pot of water to a boil, then add pork and simmer for 8 minutes until slightly cooked; remove and drain.",
+    "Heat a wok over medium‑high, add vegetable oil and sauté pork until it turns golden and releases fat, about 4 minutes.",
+    "Add scallion and stir to combine.",
+    "Drizzle smoky sesame oil over pork, toss quickly, and remove from heat.",
+    "Plate pork on a wooden board and garnish with sliced scallion.",
+    "Serve hot as a hangover cure with steamed rice."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "chinese",
+    "dinner"
+  ],
+  "slug": "oozing-chinese-pork-twice-cooked-pork",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-chinese-pork-twice-cooked-pork",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:19:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "emulsify",
+    "primaryIngredient": "smoky a oli",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Oozing",
+    "dishForm": "Twice Cooked Pork"
+  }
+}
