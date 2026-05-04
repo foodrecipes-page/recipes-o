@@ -1,0 +1,123 @@
+{
+  "title": "Oozing Charred Chinese Katsuobushi Wonton Soup",
+  "description": "A briny, creamy wonton soup with charred katsuobushi garnishes, perfect for a solo, flexitarian dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "8"
+    },
+    {
+      "name": "ground tofu",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "katsuobushi flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "seaweed flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "katsuobushi flakes",
+      "amount": "1 tsp",
+      "notes": "garnish"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp",
+      "notes": "shallow swirl"
+    }
+  ],
+  "instructions": [
+    "In a large pot over medium, combine chicken broth, coconut milk, soy sauce, mirin, sesame oil, grated ginger, and minced garlic, bringing to a gentle boil.",
+    "Add sliced shiitake mushrooms and simmer for 5 minutes until softened.",
+    "While the broth simmers, mix ground tofu, a pinch of salt, and 1 tsp katsuobushi flakes to create the filling.",
+    "Place about 1 tsp of filling in the center of each wonton wrapper, fold into triangles, seal edges with water, and set aside.",
+    "Heat a nonstick skillet over high heat and quickly char each wonton for 30 seconds on each side, giving them a smoky char.",
+    "Gently drop the charred wontons into the simmering broth and cook until they float and the wrappers are translucent, about 4 minutes.",
+    "Reduce the heat to low, stir in seaweed flakes for a briny finish, and swirl in a splash of coconut milk for creaminess.",
+    "Ladle soup into bowls, garnish with chopped scallions and additional katsuobushi flakes, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "creamy",
+    "flexitarian",
+    "katsuobushi",
+    "single-serving"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 28,
+    "carbs": 36,
+    "fat": 75
+  },
+  "slug": "oozing-charred-chinese-katsuobushi-wonton-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-charred-chinese-katsuobushi-wonton-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:27:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "katsuobushi",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Katsuobushi",
+    "descriptor": "Oozing Charred",
+    "dishForm": "Wonton Soup"
+  }
+}
