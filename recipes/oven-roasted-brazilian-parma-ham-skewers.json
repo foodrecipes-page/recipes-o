@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Brazilian Parma Ham Skewers",
+  "description": "A charred, crispy, comforting Brazilian dish featuring Parma ham, this recipe is perfect for a weeknight dinner or special occasion, and is satvik-friendly as it does not contain onions or garlic, and the ingredients are sashimi-cut for a delicate presentation.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "12 slices",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread a piece of Parma ham, a pineapple chunk, a bell pepper piece, a zucchini slice, and a cherry tomato onto each skewer.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the skewers and season with salt and black pepper.",
+    "Roast the skewers in the preheated oven for 15 minutes, or until the Parma ham is crispy and charred.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "easy-dinner",
+    "oven-roasted",
+    "parma-ham",
+    "skewers",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-brazilian-parma-ham-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-brazilian-parma-ham-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:08:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "parma ham",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "parma ham",
+    "descriptor": "oven roasted",
+    "dishForm": "Skewers"
+  }
+}
