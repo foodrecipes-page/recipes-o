@@ -1000,6 +1000,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-cooked-vietnamese-beef-stew",
+    "title": "Oven Cooked Vietnamese Beef Stew",
+    "tags": [
+      "beef",
+      "bitter",
+      "date-night",
+      "one-pot",
+      "oven-cooked",
+      "slow-cook",
+      "stew"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 140,
+    "shard": "o"
+  },
+  {
     "slug": "oven-crisp-ukrainian-cheddar-gratin",
     "title": "Oven Crisp Ukrainian Cheddar Gratin",
     "tags": [

@@ -1,0 +1,108 @@
+{
+  "title": "Oven Cooked Vietnamese Beef Stew",
+  "description": "A bold, bitter-tinged Vietnamese beef stew baked slowly, finished with creamy yogurt and a crunchy dash of fried shallots, perfect for a date night.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck",
+      "amount": "1 lb (450 g)"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "200 g"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (163°C).",
+    "In a large Dutch oven, heat olive oil over medium heat and brown the beef cubes on all sides.",
+    "Remove beef and set aside.",
+    "In the same pot, sauté onion, garlic, and ginger until fragrant, about 3 minutes.",
+    "Stir in tomato, soy sauce, fish sauce, brown sugar, rice vinegar, salt, pepper, and return beef to the pot.",
+    "Add enough water to cover the ingredients by 1 inch, bring to a simmer, then cover and transfer to the oven.",
+    "Bake uncovered for 2 hours, stirring occasionally.",
+    "Stir in plain yogurt and reheat gently until warmed through, ensuring the yogurt does not curdle.",
+    "Serve the stew hot, garnished with fried shallots and a drizzle of fresh lime juice if desired.",
+    "Let the stew rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "bitter",
+    "date-night",
+    "one-pot",
+    "oven-cooked",
+    "slow-cook",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "oven-cooked-vietnamese-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-cooked-vietnamese-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:16:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "yogurt",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Beef",
+    "descriptor": "Oven Cooked",
+    "dishForm": "Stew"
+  }
+}
