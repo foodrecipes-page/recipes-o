@@ -63,6 +63,21 @@
     "shard": "o"
   },
   {
+    "slug": "oaty-crunchy-adventurous-polish-oat-milk-hot-pot",
+    "title": "oaty, crunchy, adventurous polish oat milk hot-pot",
+    "tags": [
+      "ayurvedic-sattvic",
+      "gluten-free",
+      "high-protein",
+      "hot-pot",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oatzara-sour",
     "title": "Oatzara Sour",
     "tags": [
@@ -2722,6 +2737,23 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-delightful-chinese-pork-mu-shu",
+    "title": "Oven-Roasted Delightful Chinese Pork Mu-Shu",
+    "tags": [
+      "chinese",
+      "crowd-pleaser",
+      "delightful",
+      "hunan",
+      "mu-shu",
+      "nut-free-friendly",
+      "oven-roasted",
+      "pork"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

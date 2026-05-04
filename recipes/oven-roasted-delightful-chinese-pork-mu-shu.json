@@ -1,0 +1,133 @@
+{
+  "title": "Oven-Roasted Delightful Chinese Pork Mu-Shu",
+  "description": "A Hunan-style Chinese dish featuring crispy pork, crunchy vegetables, and a tangy sauce, all wrapped up in a crispy mu-shu pancake. This recipe is inspired by the flavors of Hunan Province, China.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "mu-shu pancake",
+      "amount": "4",
+      "notes": "available at most Asian markets or online"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together soy sauce, vinegar, hoisin sauce, and cornstarch. Add the pork and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and place it on a baking sheet lined with parchment paper. Roast in the preheated oven for 20 minutes, or until cooked through.",
+    "While the pork is roasting, heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat. Add the scallions and cook until crispy, about 3-4 minutes. Set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil. Add the garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add the cooked pork to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Add the soy sauce mixture to the skillet and stir to combine. Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "To assemble the mu-shu, place a few slices of the pork mixture onto a mu-shu pancake, followed by a few slices of scallion, a sprinkle of green onions, and a sprinkle of sesame seeds. Roll up the pancake tightly and serve immediately.",
+    "Repeat with the remaining pork mixture and pancakes.",
+    "Serve hot and enjoy!",
+    "Heat the remaining 2 tablespoons of vegetable oil in a small saucepan over medium heat. Add the hoisin sauce and bring to a simmer. Cook until thickened, about 5 minutes. Set aside to cool.",
+    "Strain the sauce through a fine-mesh sieve into a clean bowl. Discard the solids and stir in the soy sauce and vinegar. Set aside to cool.",
+    "To make the mu-shu pancakes, combine the flour, cornstarch, and salt in a large bowl. Gradually add the warm water, stirring with a fork until the dough comes together. Knead the dough for 5-7 minutes until smooth and elastic. Divide the dough into 4 equal pieces and roll each piece into a ball. Flatten each ball into a disk and wrap in plastic wrap. Let rest for 30 minutes before rolling out to a thin circle. Cook in a dry skillet over medium heat for 1-2 minutes on each side, until crispy and golden. Repeat with the remaining dough.",
+    "To assemble the mu-shu, place a few slices of the pork mixture onto a mu-shu pancake, followed by a few slices of scallion, a sprinkle of green onions, and a sprinkle of sesame seeds. Roll up the pancake tightly and serve immediately.",
+    "Repeat with the remaining pork mixture and pancakes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "crowd-pleaser",
+    "delightful",
+    "hunan",
+    "mu-shu",
+    "nut-free-friendly",
+    "oven-roasted",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-roasted-delightful-chinese-pork-mu-shu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-delightful-chinese-pork-mu-shu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "vinegar",
+    "diet": "nut-free",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Oven-Roasted Delightful",
+    "dishForm": "Mu-Shu"
+  }
+}
