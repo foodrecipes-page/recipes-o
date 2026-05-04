@@ -1,0 +1,109 @@
+{
+  "title": "Oven-Peppered Egyptian Pork Stew",
+  "description": "A dense, peppery pork stew infused with dried oregano and rendered lardons, finished in a bamboo steamer for a moist, flavorful keto-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, boneless",
+      "amount": "500g"
+    },
+    {
+      "name": "lardons",
+      "amount": "50g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-carb chicken broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Toss pork cubes with smoked paprika, black pepper, dried oregano, and a pinch of salt.",
+    "Heat a skillet and render the lardons until crisp, then set aside.",
+    "Sear the seasoned pork in the same skillet until browned on all sides.",
+    "Add minced garlic and diced onion to the skillet and cook until softened.",
+    "Stir in tomato paste and fresh thyme, coating the pork well.",
+    "Pour in the low-carb chicken broth and bring to a gentle simmer.",
+    "Transfer the mixture to a bamboo steamer basket and steam covered for 20 minutes.",
+    "Remove the steamer, stir in the rendered lardons, and serve hot.",
+    "Garnish with a sprinkle of fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "egyptian",
+    "family-friendly",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "oven-cooked"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 23,
+    "carbs": 3,
+    "fat": 25
+  },
+  "slug": "oven-peppered-egyptian-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-peppered-egyptian-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:48:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "lardons-render",
+    "primaryIngredient": "dried oregano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "pork",
+    "descriptor": "Oven-Peppered",
+    "dishForm": "Stew"
+  }
+}
