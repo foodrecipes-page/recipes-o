@@ -1,0 +1,100 @@
+{
+  "title": "Oily Creamy Peruvian Chicken Wrap",
+  "description": "A pungent and creamy Peruvian dish featuring chicken, aji amarillo sauce, and crunchy vegetables wrapped in a warm pita bread, with anti-inflammatory properties from turmeric and ginger.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast with salt, pepper, and turmeric.",
+    "Bake the chicken in the oven for 25 minutes or until cooked through.",
+    "Meanwhile, blend the aji amarillo peppers, ginger, and sour cream to make the sauce.",
+    "Warm the pita bread in the oven for 2 minutes.",
+    "Slice the cooked chicken into thin strips.",
+    "Assemble the wrap by spreading the aji amarillo sauce on the pita bread, then adding the chicken, cucumber, and red onion.",
+    "Fold the pita bread in half to enclose the filling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dairy-free",
+    "gluten-free",
+    "peruvian-cuisine",
+    "spicy-food",
+    "wrap-sandwiches"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oily-creamy-peruvian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-creamy-peruvian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:22:30Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "pita bread",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "oily creamy",
+    "dishForm": "Wrap"
+  }
+}

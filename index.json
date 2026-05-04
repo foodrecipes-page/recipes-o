@@ -239,6 +239,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-creamy-peruvian-chicken-wrap",
+    "title": "Oily Creamy Peruvian Chicken Wrap",
+    "tags": [
+      "chicken-recipes",
+      "dairy-free",
+      "gluten-free",
+      "peruvian-cuisine",
+      "spicy-food",
+      "wrap-sandwiches"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oily-filipino-chicken-stir-fry",
     "title": "Oily Filipino Chicken Stir Fry",
     "tags": [
