@@ -848,6 +848,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-venezuelan-beef-broth",
+    "title": "Oozing Venezuelan Beef Broth",
+    "tags": [
+      "beef-soup",
+      "fermented-beef",
+      "hearty-soup",
+      "quick-simmer",
+      "smoky-broth",
+      "spicy"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 150,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-argentinian-egg-frittata",
     "title": "Oozy Argentinian Egg Frittata",
     "tags": [

@@ -1,0 +1,111 @@
+{
+  "title": "Oozing Venezuelan Beef Broth",
+  "description": "A rich, fermented beef broth with smoky undertones, perfect for midnight cravings.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck, bone-in",
+      "amount": "2 lbs",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "water",
+      "amount": "12 cups"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "smashed"
+    },
+    {
+      "name": "onion, yellow",
+      "amount": "1 large",
+      "notes": "quartered"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wood chips for smoking",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Place beef chunks in a large pot and cover with 12 cups of cold water.",
+    "Add salt, peppercorns, bay leaves, garlic, onion, and cinnamon, then bring to a gentle boil over medium heat.",
+    "Reduce heat to low, cover, and simmer for 2 hours, skimming foam as needed.",
+    "After simmering, strain the broth through a fine-mesh sieve and return the liquid to the pot.",
+    "Add smoked paprika, fermented soy sauce, and lime juice, stirring until dissolved.",
+    "Increase heat to high, bring broth to a rolling boil, and let it simmer for an additional 20 minutes.",
+    "While the broth is still hot, pour it over a sheet of aluminum foil and lightly sprinkle with wood chips, then cover with a cloth to create a smoke chamber.",
+    "Let the broth rest, covered, at room temperature for 12 hours to allow gentle fermentation and smoky flavor infusion.",
+    "After fermentation, strain the broth again to remove solids, then reheat to a gentle simmer.",
+    "Taste and adjust seasoning with extra salt or lime as desired.",
+    "Ladle the broth into bowls, garnish with fresh cilantro, sliced red chilies, and a squeeze of lime.",
+    "Serve hot, optionally with a side of warm corn tortillas or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 140,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-soup",
+    "fermented-beef",
+    "hearty-soup",
+    "quick-simmer",
+    "smoky-broth",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "oozing-venezuelan-beef-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-venezuelan-beef-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:15:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "boiling water",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Beef",
+    "descriptor": "Oozing",
+    "dishForm": "Broth"
+  }
+}
