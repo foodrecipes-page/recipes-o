@@ -166,6 +166,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-saudi-arabian-toor-dal-dal",
+    "title": "Oily Saudi Arabian Toor Dal",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oily-tender-australian-rice-bowl",
     "title": "Oily tender Australian rice Bowl",
     "tags": [
@@ -392,6 +406,22 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-middle-eastern-pistachio-flatbread",
+    "title": "Oozy Middle Eastern Pistachio Flatbread",
+    "tags": [
+      "brunch",
+      "confit-tomato",
+      "flatbread",
+      "middle-eastern",
+      "pistachio",
+      "tava-griddle",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {

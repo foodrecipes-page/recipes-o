@@ -1,0 +1,101 @@
+{
+  "title": "Oozy Middle Eastern Pistachio Flatbread",
+  "description": "A resinous and chewy Middle Eastern dish featuring unsalted pistachio and confit-tomato, perfect for a brunch mood. This raw-friendly flatbread is cooked on a tava-griddle.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add olive oil and water, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Preheat the tava-griddle over medium heat.",
+    "Roll out the dough into a large circle, about 1/4 inch thick.",
+    "Spread the confit-tomato and chopped pistachio over the dough, leaving a 1 inch border.",
+    "Fold the border over the filling to form a crust.",
+    "Cook the flatbread for 2-3 minutes on each side, until golden brown.",
+    "Brush with pomegranate molasses and sprinkle with sumac.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "confit-tomato",
+    "flatbread",
+    "middle-eastern",
+    "pistachio",
+    "tava-griddle",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "oozy-middle-eastern-pistachio-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-middle-eastern-pistachio-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:20:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pistachio",
+    "descriptor": "Oozy Chewy",
+    "dishForm": "Flatbread"
+  }
+}
