@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Italian Pork Risotto",
+  "description": "A hearty and comforting Italian dish featuring roasted pork and a creamy risotto, made with palm sugar and a touch of mustard, perfect for a cozy evening meal. This low-glycemic-friendly recipe is a great option for those looking for a healthier take on a classic dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with salt, pepper, and mustard, and roast in the oven for 20 minutes.",
+    "In a large saucepan, heat the olive oil over medium heat and saute the Arborio rice for 2 minutes.",
+    "Add the white wine to the saucepan and cook until the liquid is almost completely absorbed.",
+    "Add 1 cup of chicken broth to the saucepan and stir until the liquid is mostly absorbed, then repeat this process until all the broth is used.",
+    "Stir in the palm sugar and cook for an additional 2 minutes.",
+    "Remove the pork from the oven and let it rest for 10 minutes before slicing it thinly.",
+    "Stir in the grated parmesan cheese and chopped parsley, and season with salt and pepper to taste.",
+    "To serve, slice the roasted pork and serve it on top of the creamy risotto.",
+    "Deglaze the saucepan with a little bit of chicken broth to get all the caramelized bits from the bottom."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "italian-food",
+    "low-glycemic",
+    "one-pan",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "oven-roasted-italian-pork-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-italian-pork-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:33:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "palm sugar",
+    "diet": "low-glycemic",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Risotto"
+  }
+}
