@@ -1,0 +1,106 @@
+{
+  "title": "Oven Roasted French Beef Pot Au Feu",
+  "description": "A hearty and romantic French dish featuring tender beef and vegetables in a rich herbal broth, served in a bento box.",
+  "cuisine": "French",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef short ribs with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat and sear the beef short ribs until browned on all sides.",
+    "Add the sliced red bell pepper, chopped onion, carrots, and celery to the pot and cook until the vegetables are tender.",
+    "Add the thyme, bay leaves, and garlic to the pot and stir to combine.",
+    "Pour in the beef broth and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the pot au feu for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the broth and discard the solids.",
+    "Serve the pot au feu in a bento box, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "romantic-dinner",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "oven-roasted-french-beef-pot-au-feu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-french-beef-pot-au-feu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:39:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "red pepper",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pot Au Feu"
+  }
+}

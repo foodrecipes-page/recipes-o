@@ -1,0 +1,111 @@
+{
+  "title": "Oozy Fluffy Tunisian Lentils Wrap",
+  "description": "A sour, fluffy Tunisian wrap filled with spiced lentils and creamy yogurt, wrapped in steamed spinach for a Mediterranean-friendly bite.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puy lentils",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Water",
+      "amount": "800ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g",
+      "notes": "plain, unsweetened"
+    },
+    {
+      "name": "Spinach leaves",
+      "amount": "8 large",
+      "notes": "fresh, washed"
+    }
+  ],
+  "instructions": [
+    "Rinse the puy lentils under cold water until the water runs clear.",
+    "In a medium saucepan, combine rinsed lentils and water; bring to a boil over high heat.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until lentils are tender but not mushy.",
+    "While the lentils cook, heat olive oil in a skillet over medium heat and sauté diced onion until translucent.",
+    "Add minced garlic, cumin, coriander, smoked paprika, and harissa paste to the skillet; cook for 1 minute until fragrant.",
+    "Stir the sautéed spice mixture into the cooked lentils, then add lemon juice, salt, and pepper; let the mixture cool slightly.",
+    "Fold in Greek yogurt until the lentils become fluffy and slightly soupy.",
+    "Warm the spinach leaves in a steamer basket over boiling water for 30 seconds, then pat dry.",
+    "Spoon the fluffy lentil mixture onto each spinach leaf, spread evenly, and roll tightly into wraps.",
+    "Serve the wraps immediately while still warm, optionally garnished with chopped mint and parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "healthy",
+    "lentil-wrap",
+    "quick",
+    "sour",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 392,
+    "protein": 17,
+    "carbs": 32,
+    "fat": 4
+  },
+  "slug": "oozy-fluffy-tunisian-lentils-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-fluffy-tunisian-lentils-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:39:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "puy-lentils",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lentils",
+    "descriptor": "Oozy Fluffy",
+    "dishForm": "Wrap"
+  }
+}

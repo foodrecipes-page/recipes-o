@@ -450,6 +450,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-fluffy-tunisian-lentils-wrap",
+    "title": "Oozy Fluffy Tunisian Lentils Wrap",
+    "tags": [
+      "fluffy",
+      "healthy",
+      "lentil-wrap",
+      "quick",
+      "sour",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-glassy-ukrainian-beef-bisque",
     "title": "Ukrainian Beef Bisque",
     "tags": [
@@ -988,6 +1003,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-french-beef-pot-au-feu",
+    "title": "Oven Roasted French Beef Pot Au Feu",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "french-cuisine",
+      "one-pot",
+      "romantic-dinner",
+      "winter-recipes"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
     "shard": "o"
   },
   {
