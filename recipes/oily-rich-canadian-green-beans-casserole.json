@@ -1,0 +1,97 @@
+{
+  "title": "Oily Rich Canadian Green Beans Casserole",
+  "description": "A rich and satisfying Canadian dish featuring green beans and double-rise-bread, perfect for a lazy Sunday, and is egg-free-friendly. It is a fatty and springy casserole that is sure to please.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large skillet, saute the green beans, onion, and garlic in butter until tender.",
+    "In a separate bowl, mix the milk, cheddar cheese, salt, and black pepper.",
+    "Add the bread cubes to the bowl and toss until the bread is well coated.",
+    "Add the cooked green bean mixture to the bread mixture and stir until combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "easy-dinner",
+    "green-beans",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oily-rich-canadian-green-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-rich-canadian-green-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:16:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "green beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "green beans",
+    "descriptor": "oily rich",
+    "dishForm": "Casserole"
+  }
+}
