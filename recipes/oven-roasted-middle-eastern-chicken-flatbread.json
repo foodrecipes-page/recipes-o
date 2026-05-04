@@ -1,0 +1,99 @@
+{
+  "title": "Oven Roasted Middle Eastern Chicken Flatbread",
+  "description": "A flaky, pepper‑infused flatbread crowned with tender roasted chicken, caramelized onions, and a hint of bitter sumac, perfect for a crowd‑pleasing Middle Eastern feast.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, bone‑in, skin‑on",
+      "amount": "800 g"
+    },
+    {
+      "name": "Flatbread dough (laminated, puff pastry style)",
+      "amount": "250 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt, fine",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onions, thinly sliced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Sumac, ground",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "In a large bowl, toss chicken thighs with olive oil, black pepper, salt, and 1 tbsp lemon juice until well coated.",
+    "Spread the chicken skins side down on a baking tray and roast for 25 minutes, then flip and add sliced onions on top, continuing to roast for another 15 minutes until chicken is cooked through and crispy.",
+    "While chicken roasts, roll out the laminated dough into a rectangle, dust lightly with flour, and cut into 6 equal pieces.",
+    "Brush each dough piece with a thin layer of olive oil, sprinkle with minced garlic and sumac, then place on a parchment‑lined sheet.",
+    "Bake the dough for 10 minutes, flipping halfway, until puffed and golden.",
+    "Remove chicken and onions from the oven; let rest 5 minutes, then shred the meat with a fork, discarding skin and bone.",
+    "Assemble each flatbread by placing a spoonful of shredded chicken and onions in the center, topping with chopped parsley, and folding the edges over to create a pocket.",
+    "Return assembled flatbread pockets to the oven for 5 minutes to warm through.",
+    "Serve hot, accompanied by a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "crowd-pleaser",
+    "family-friendly",
+    "flaky",
+    "middle-eastern",
+    "one-pan",
+    "puff-dough"
+  ],
+  "nutrition": {
+    "calories": 291,
+    "protein": 13,
+    "carbs": 21,
+    "fat": 18
+  },
+  "slug": "oven-roasted-middle-eastern-chicken-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-middle-eastern-chicken-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:04:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "black pepper",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Flatbread"
+  }
+}
