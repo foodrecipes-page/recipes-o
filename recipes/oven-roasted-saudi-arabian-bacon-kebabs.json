@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted Saudi Arabian Bacon Kebabs",
+  "description": "Savory and energizing Saudi Arabian dish featuring bacon lardon, this recipe combines the flavors of the Middle East with the convenience of oven roasting. It is a perfect dish for a weeknight dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bacon lardon",
+      "amount": "12 oz",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, and black pepper.",
+    "Add the bacon lardon, chicken breast, red onion, red bell pepper, and garlic to the bowl and toss to coat.",
+    "Thread the ingredients onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 25 minutes, or until the chicken is cooked through.",
+    "Remove from the oven and let rest for 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "oven-roasted-saudi-arabian-bacon-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-saudi-arabian-bacon-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:50:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "bacon lardon",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "bacon",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kebabs"
+  }
+}
