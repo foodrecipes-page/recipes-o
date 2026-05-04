@@ -1,0 +1,143 @@
+{
+  "title": "Oven Roasted Egyptian Lamb Tagine",
+  "description": "Sweet, dense lamb tagine perfect for a sick day, made low‑fat and still packed with flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1.0 kg",
+      "notes": "lean cut, trimmed of excess fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "crushed"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dates",
+      "amount": "6",
+      "notes": "chopped"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180C.",
+    "Pat the lamb dry and season it with salt, pepper, cumin, coriander, paprika, and cinnamon.",
+    "Seared the lamb in a skillet with one teaspoon of olive oil until browned on all sides.",
+    "Transfer the lamb to a baking dish and add the sliced onions, carrots, celery, garlic, and chopped apricots.",
+    "Drizzle honey over the lamb, spread tomato paste over the vegetables, and sprinkle crushed rosemary.",
+    "Roast the lamb in the preheated oven for 25 minutes.",
+    "Remove the dish from the oven and pour the chicken broth over the lamb, adding raisins and chopped dates.",
+    "Transfer the entire dish to a pressure cooker, seal, and cook on high pressure for 30 minutes.",
+    "Release the pressure naturally, then remove the lamb and shred or slice it as desired.",
+    "Serve hot, optionally garnishing with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "family-friendly",
+    "healthy",
+    "low-fat",
+    "oven-roasted",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 33,
+    "carbs": 32,
+    "fat": 25
+  },
+  "slug": "oven-roasted-egyptian-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-egyptian-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:59:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lamb leg",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Tagine"
+  }
+}
