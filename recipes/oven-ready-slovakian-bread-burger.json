@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Ready Slovakian Bread Burger",
+  "description": "A yeasty, bouncy Slovakian bread burger with spicy red pepper paste and a delicate layer of bonito flakes, baked to perfection on a binchotan grill.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "500 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "300 ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7 g"
+    },
+    {
+      "name": "sugar",
+      "amount": "15 g"
+    },
+    {
+      "name": "salt",
+      "amount": "10 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "50 g"
+    },
+    {
+      "name": "grated tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "10 ml"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "20 g",
+      "notes": "use vegetarian bonito flakes if following satvik"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, yeast, sugar, and salt, stirring until evenly mixed.",
+    "Add warm water and olive oil to the dry mixture, mixing until a sticky dough forms.",
+    "Knead the dough on a lightly floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let it rise for 60 minutes until doubled in size.",
+    "While the dough rests, mix grated tofu, red pepper paste, soy sauce, basil, and oregano until well combined.",
+    "Divide the dough into four equal portions and shape each into a loaf shape.",
+    "Place the loaves on a parchment-lined pan and let them proof for 20 minutes.",
+    "Preheat the oven to 200°C and bake the loaves for 12 minutes until golden.",
+    "Slice the loaves horizontally and top each with the tofu mixture, then sprinkle bonito flakes on top.",
+    "Return the assembled burgers to the oven for 6 minutes to meld flavors and toast the topping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "bread-burger",
+    "oven-ready",
+    "quick",
+    "slovakian",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 20,
+    "carbs": 99,
+    "fat": 7
+  },
+  "slug": "oven-ready-slovakian-bread-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-ready-slovakian-bread-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:58:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "red pepper paste",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bread",
+    "descriptor": "Oven-Ready",
+    "dishForm": "Burger"
+  }
+}
