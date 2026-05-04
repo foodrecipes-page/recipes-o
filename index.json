@@ -1755,6 +1755,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-thai-chicken-bake",
+    "title": "Oven Baked Thai Chicken Bake",
+    "tags": [
+      "gluten-free",
+      "nut-free",
+      "one-pan",
+      "post-workout",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-tunisian-fish-bake",
     "title": "Oven Baked Tunisian Fish Bake",
     "tags": [

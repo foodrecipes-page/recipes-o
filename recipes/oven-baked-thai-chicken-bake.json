@@ -1,0 +1,95 @@
+{
+  "title": "Oven Baked Thai Chicken Bake",
+  "description": "A cultured and flaky post-workout Thai dish featuring golden syrup, baked to perfection in a lazy-susan-spinner vessel, this central-Thai inspired recipe is nut-free-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4 lbs",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together golden syrup, fish sauce, lime juice, and olive oil.",
+    "Add the chicken to the bowl and toss to coat with the sauce.",
+    "In a small bowl, mix together garlic and ginger.",
+    "Add the garlic and ginger mixture to the bowl with the chicken and toss to combine.",
+    "Add the Thai red curry paste to the bowl and toss to coat the chicken.",
+    "Transfer the chicken to a lazy-susan-spinner vessel and bake for 25 minutes.",
+    "Increase the oven temperature to broil and bake for an additional 5 minutes, or until the chicken is cooked through and slightly caramelized.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "nut-free",
+    "one-pan",
+    "post-workout",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "oven-baked-thai-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-thai-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:21:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "golden syrup",
+    "diet": "nut-free",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "oven baked",
+    "dishForm": "Bake"
+  }
+}
