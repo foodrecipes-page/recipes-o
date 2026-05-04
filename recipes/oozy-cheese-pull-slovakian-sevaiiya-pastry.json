@@ -1,0 +1,108 @@
+{
+  "title": "Sevaiiya Cheese Pull Pastry",
+  "description": "A traditional Slovakian dessert made with sevaiiya, cheese, and pastry, perfect for a sweet snack or dessert.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "1 package (200g)",
+      "notes": "find at an Asian grocery store or online"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Combine the ricotta cheese, grated cheddar cheese, and granulated sugar in a bowl.",
+    "Unroll the sevaiiya and place it on a flat surface.",
+    "Roll out the sevaiiya to a thickness of about 1/8 inch.",
+    "Spread the ricotta cheese mixture evenly over the sevaiiya, leaving a 1 inch border around the edges.",
+    "Fold the edges of the sevaiiya over the filling, creating a compact square.",
+    "Brush the top of the pastry with the beaten egg.",
+    "Cut the pastry into 6 equal pieces.",
+    "Place the pastry pieces on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm, with a scoop of your favorite ice cream or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "dessert",
+    "high-protein",
+    "one-pot",
+    "slovakian-cuisine",
+    "sweet-treat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "oozy-cheese-pull-slovakian-sevaiiya-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-cheese-pull-slovakian-sevaiiya-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:41:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "spherify",
+    "primaryIngredient": "sevaiiya",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Oozy cheese-pull",
+    "dishForm": "Pastry"
+  }
+}
