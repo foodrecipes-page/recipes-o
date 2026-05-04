@@ -1,0 +1,94 @@
+{
+  "title": "Outstandingly Buttery Kenyan Mincemeat Pilaf",
+  "description": "A tender and adventurous Kenyan dish featuring mincemeat, this pilaf is buttery and dairy-free-friendly, perfect for a unique dinner experience.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter substitute",
+      "amount": "1/2 cup",
+      "notes": "melted, dairy-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mincemeat and cook, stirring constantly, for 2 minutes.",
+    "Add the basmati rice and stir to combine with the mincemeat mixture.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the melted butter substitute, salt, and pepper.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "kenyan-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "outstandingly-buttery-kenyan-mincemeat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-buttery-kenyan-mincemeat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:34:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "mincemeat",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "mincemeat",
+    "descriptor": "outstandingly buttery",
+    "dishForm": "Pilaf"
+  }
+}
