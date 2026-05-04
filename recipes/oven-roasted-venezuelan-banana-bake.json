@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Venezuelan Banana Bake",
+  "description": "A mustardy and silky Venezuelan dish featuring fried ripe bananas, wood-fired-bake style, nut-free-friendly, perfect for a cozy dessert. This recipe is a twist on traditional Venezuelan cuisine, using oven roasting to mimic the wood-fired flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "fried until golden brown"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the brown sugar, unsalted butter, Dijon mustard, large eggs, vanilla extract, cinnamon powder, and salt until well combined.",
+    "Add the fried ripe bananas to the bowl and toss until they are evenly coated with the sugar mixture.",
+    "Transfer the banana mixture to a 9x9 inch baking dish and bake for 25 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes.",
+    "Serve the Oven Roasted Venezuelan Banana Bake warm, garnished with additional cinnamon powder if desired.",
+    "This dish can be served as a dessert or a snack.",
+    "To enhance the wood-fired flavor, cook the bananas in a skillet over medium heat for 2-3 minutes on each side before baking.",
+    "Let the dish cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dessert",
+    "delicious-banana-bake",
+    "easy-to-make",
+    "nut-free",
+    "venezuelan-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "oven-roasted-venezuelan-banana-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-venezuelan-banana-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:50:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bananas",
+    "descriptor": "oven roasted",
+    "dishForm": "Bake"
+  }
+}
