@@ -1,0 +1,101 @@
+{
+  "title": "Oven-Baked Norwegian Salmon Gratin",
+  "description": "A malty and juicy Norwegian salmon gratin that feels romantic and Mediterranean-friendly, topped with creamy gorgonzola-dolce and a fragrant tadka.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 salmon fillets",
+      "amount": "(200g each)"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gorgonzola-dolce cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted sliced almonds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "2 tbsp, chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and lightly oil a slate tile baking dish.",
+    "Place salmon fillets skin-side down in the dish and season with salt, pepper, smoked paprika, and dried dill.",
+    "In a small saucepan, heat olive oil and butter over medium heat until butter foams, then whisk in heavy cream and gorgonzola-dolce until smooth.",
+    "Pour the creamy sauce evenly over the salmon fillets.",
+    "Sprinkle toasted sliced almonds on top of the sauce.",
+    "Bake in preheated oven for 20 minutes or until salmon is cooked through and flakes easily with a fork.",
+    "Remove from oven, garnish with chopped chives, and let rest for 5 minutes before serving.",
+    "Serve immediately with a side of steamed vegetables or a fresh salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "malty",
+    "mediterranean-friendly",
+    "one-pan",
+    "romantic",
+    "salmon",
+    "slate-tile"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "oven-baked-norwegian-salmon-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-norwegian-salmon-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:15:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Oven-Baked",
+    "dishForm": "Gratin"
+  }
+}
