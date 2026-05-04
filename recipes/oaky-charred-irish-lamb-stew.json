@@ -1,0 +1,106 @@
+{
+  "title": "oaky charred Irish lamb Stew",
+  "description": "A hearty and flavorful stew featuring charred Irish lamb, dulce de leche, and nuka-pickle, served in a mason jar. This dish is inspired by traditional Irish cuisine with a twist of international flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oak chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb cubes with 2 tablespoons of olive oil and 1 teaspoon of salt until they are evenly coated.",
+    "Spread the lamb cubes on a baking sheet and roast in the oven for 20 minutes, or until they are browned on all sides.",
+    "In a large pot, combine the roasted lamb, dulce de leche, nuka-pickle, carrots, potatoes, onions, and garlic.",
+    "Add the oak chips, lamb broth, and tomato paste to the pot and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Transfer the stew to a mason jar and seal the lid.",
+    "Let the stew cool to room temperature before refrigerating or freezing."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "oaky-charred-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oaky-charred-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:39:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dulce de leche",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "oaky charred",
+    "dishForm": "Stew"
+  }
+}
