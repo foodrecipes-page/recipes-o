@@ -1,0 +1,106 @@
+{
+  "title": "Opulent Smoky Malaysian Olives Wrap",
+  "description": "A buttery, fluffy, comforting wrap filled with green olives and smoky spices, served on a fragrant lotus leaf.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaf, dried",
+      "amount": "6 sheets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kecap manis",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh coriander, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green olives, pitted",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Warm a skillet over medium heat and add olive oil and butter until melted.",
+    "Add minced garlic and sliced onion, cooking until onions soften and fragrant.",
+    "Stir in red chili flakes, green olives, kecap manis, lime juice, black pepper and salt, cooking for 5 minutes while stirring.",
+    "Reduce heat to low, add chopped coriander, and cook for another 2 minutes.",
+    "Lay a lotus leaf on a heatproof surface and spoon a portion of the olive mixture onto the center.",
+    "Fold the lotus leaf into a wrap, securing edges with a toothpick if desired.",
+    "Reheat each wrap in the skillet for 2 minutes on each side until the leaf is slightly crisp and the filling is hot.",
+    "Remove from skillet, discard toothpick, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lotus-leaf",
+    "malaysian",
+    "nut-free",
+    "quick",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "opulent-smoky-malaysian-olives-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/opulent-smoky-malaysian-olives-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:12:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "green olives",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Olives",
+    "descriptor": "Opulent Smoky",
+    "dishForm": "Wrap"
+  }
+}

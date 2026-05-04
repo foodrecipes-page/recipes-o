@@ -1411,6 +1411,21 @@
     "shard": "o"
   },
   {
+    "slug": "opulent-smoky-malaysian-olives-wrap",
+    "title": "Opulent Smoky Malaysian Olives Wrap",
+    "tags": [
+      "comfort-food",
+      "lotus-leaf",
+      "malaysian",
+      "nut-free",
+      "quick",
+      "smoky"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
     "slug": "opulent-thai-tofu-curry",
     "title": "Opulent Thai Tofu Curry",
     "tags": [
@@ -2025,6 +2040,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-crispy-irish-carnaroli-rice-pilaf",
+    "title": "Oven Crispy Irish Carnaroli Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "irish-cuisine",
+      "one-pan",
+      "oven-baked",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {

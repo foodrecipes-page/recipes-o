@@ -1,0 +1,107 @@
+{
+  "title": "Oven Crispy Irish Carnaroli Rice Pilaf",
+  "description": "Savory and crispy Irish dish featuring Carnaroli rice, perfect for a monsoon evening, this egg-free friendly recipe is sure to delight.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 1/2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the Carnaroli rice, chopped onion, carrot, celery, and mushroom.",
+    "In a separate bowl, whisk together the vegetable broth, olive oil, salt, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and stir until the rice is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes, or until the top is crispy and golden brown.",
+    "Remove from the oven and sprinkle with chopped fresh parsley.",
+    "Let it rest for 5 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "irish-cuisine",
+    "one-pan",
+    "oven-baked",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oven-crispy-irish-carnaroli-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-crispy-irish-carnaroli-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:11:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "carnaroli rice",
+    "descriptor": "Oven Crispy",
+    "dishForm": "Pilaf"
+  }
+}
