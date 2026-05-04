@@ -880,6 +880,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-malaysian-curry-biryani",
+    "title": "Oozing Malaysian Curry Biryani",
+    "tags": [
+      "biryani",
+      "curry",
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-middle-eastern-turkey-labneh-soup",
     "title": "Oozing Middle Eastern Turkey Labneh Soup",
     "tags": [
