@@ -1,0 +1,118 @@
+{
+  "title": "Oozing Italian Chickpeas Casserole",
+  "description": "A cozy, herbal Puglian-inspired casserole that oozes with pickle juice and parmesan, perfect for a high-protein dinner in individual mini-cocottes.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas, cooked, drained",
+      "amount": "800 g",
+      "notes": ""
+    },
+    {
+      "name": "Pickle juice, from jar",
+      "amount": "200 ml",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30 ml",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano, chopped",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil, chopped",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated parmesan cheese",
+      "amount": "50 g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and lightly grease four mini-cocotte dishes with olive oil.",
+    "In a skillet, heat olive oil over medium heat and sauté onion and garlic until fragrant, about 3 minutes.",
+    "Stir in tomato paste and red pepper flakes, cooking for 1 minute to caramelize the paste.",
+    "Add the cooked chickpeas and pickle juice to the skillet, mixing well to coat.",
+    "Transfer the chickpea mixture into the greased cocottes, spreading evenly.",
+    "Sprinkle chopped oregano, basil, and grated parmesan over the top of each dish.",
+    "Bake in the preheated oven for 15 minutes, or until the top is golden and the mixture oozes slightly.",
+    "Remove from oven and let cool for 5 minutes before serving.",
+    "Season with salt and black pepper to taste before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "cozy",
+    "herbal",
+    "high-protein",
+    "mini-cocotte",
+    "pickle-juice",
+    "puglian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 17,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "oozing-italian-chickpeas-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-italian-chickpeas-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:48:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "pickle juice",
+    "diet": "high-protein",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Oozing",
+    "dishForm": "Casserole"
+  }
+}
