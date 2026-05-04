@@ -1,0 +1,109 @@
+{
+  "title": "oven-roasted dutch challots pilaf",
+  "description": "savory, shaggy, date-night dutch dish featuring challots, ferment-kimchi, vegan-friendly",
+  "cuisine": "dutch",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "spicy and sour"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegan broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the sliced challots and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the ferment-kimchi, thyme, salt, and pepper, and cook until the flavors are well combined, about 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 9,
+    "carbs": 84,
+    "fat": 12
+  },
+  "slug": "oven-roasted-dutch-challots-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-dutch-challots-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "challots",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Challots",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Pilaf"
+  }
+}
