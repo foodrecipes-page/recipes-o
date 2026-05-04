@@ -1,0 +1,107 @@
+{
+  "title": "Oozy Silky Malaysian Rice Bowl",
+  "description": "A sour, silky, kid-friendly rice bowl that blends coconut milk, tamarind, and fermented sauces in a bamboo tray for a gluten-free feast.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "50ml"
+    },
+    {
+      "name": "vin-santo sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "ferment-jang jam",
+      "amount": "15g"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "10g",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "5g",
+      "notes": "crushed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice until the water runs clear, then soak it for 20 minutes.",
+    "Drain the rice and transfer it to a steamer basket; steam over simmering water for 15 minutes until fluffy.",
+    "In a saucepan, combine coconut milk, tamarind paste, vin-santo sauce, ferment-jang jam, grated ginger, minced garlic, and sesame oil; heat over medium until the mixture is hot but not boiling, stirring constantly.",
+    "Remove the sauce from heat and stir in lime juice.",
+    "Spread the cooked rice evenly in a bamboo tray, then pour the warm sauce over the rice, letting it soak for 5 minutes.",
+    "Sprinkle chopped cilantro and crushed roasted peanuts over the rice.",
+    "Gently fold the rice and sauce together in the tray to create a silky, saucy layer.",
+    "Serve the bowl warm, optionally providing extra lime wedges for kids to squeeze."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 30,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "gluten-free",
+    "kid-friendly",
+    "malaysian",
+    "quick",
+    "silky",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 21,
+    "fat": 16
+  },
+  "slug": "oozy-silky-malaysian-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-silky-malaysian-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:55:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "vin-santo",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Rice",
+    "descriptor": "Oozy Silky",
+    "dishForm": "Bowl"
+  }
+}
