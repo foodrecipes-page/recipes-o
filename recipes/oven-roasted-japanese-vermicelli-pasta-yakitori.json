@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Japanese Vermicelli Pasta Yakitori",
+  "description": "A sour and springy Japanese dish featuring vermicelli pasta, stir-fry, and macrobiotic-friendly ingredients in a festive yakitori form",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "8 oz",
+      "notes": "made from rice flour"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grilled shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "yakitori sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the vermicelli pasta according to package instructions and set aside.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, and sesame oil.",
+    "Add the cooked pasta, grilled shiitake mushrooms, green onions, pickled ginger, and tofu to the bowl and toss to combine.",
+    "Thread the pasta mixture onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with yakitori sauce.",
+    "Sprinkle sesame seeds over the top of the skewers.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until lightly browned.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "macrobiotic-friendly",
+    "oven-roasted",
+    "pasta-dish",
+    "stir-fry",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oven-roasted-japanese-vermicelli-pasta-yakitori",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-japanese-vermicelli-pasta-yakitori",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:35:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "macrobiotic",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "vermicelli pasta",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Yakitori"
+  }
+}
