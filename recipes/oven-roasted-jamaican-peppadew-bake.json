@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Roasted Jamaican Peppadew Bake",
+  "description": "A grassy, aerated, and satisfying Jamaican dish featuring sweet Peppadew peppers, perfect for a relaxing Sunday afternoon.",
+  "cuisine": "Jamaican",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peppadew peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Jerk seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the Peppadew peppers and remove the seeds and membranes.",
+    "In a large bowl, whisk together the olive oil, onion, garlic, thyme, allspice, and jerk seasoning.",
+    "Add the Peppadew peppers to the bowl and toss to coat with the spice mixture.",
+    "Transfer the peppers to a cazuela or a 9x13-inch baking dish.",
+    "Roast in the preheated oven for 25 minutes or until the peppers are tender and slightly caramelized.",
+    "Stir in the honey and Greek yogurt.",
+    "Return the peppers to the oven and roast for an additional 5 minutes or until the yogurt is slightly browned and the peppers are coated.",
+    "Garnish with cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "autumn",
+    "comfort-food",
+    "easy",
+    "jamaican",
+    "one-pan",
+    "peppadew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "oven-roasted-jamaican-peppadew-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-peppadew-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "peppadew peppers",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Bake"
+  }
+}
