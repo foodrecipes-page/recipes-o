@@ -1,0 +1,94 @@
+{
+  "title": "Oven-Roasted Smoky Middle-Eastern Eggplant Harees",
+  "description": "A comforting, egg-free friendly harees dish from the Middle East, featuring smoky roasted eggplant and savory spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup shio-cured tuna",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant into 1-inch cubes and place on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the eggplant and sprinkle with cumin, smoked paprika, salt, and black pepper.",
+    "Roast the eggplant in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "While the eggplant is roasting, mix the shio-cured tuna with chopped parsley in a bowl.",
+    "Once the eggplant is done, remove from the oven and let cool slightly.",
+    "Flake the eggplant into the bowl with the tuna and parsley mixture.",
+    "Stir well to combine and adjust seasoning as needed.",
+    "Serve the harees hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "oven-roasted-smoky-middle-eastern-eggplant-harees",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoky-middle-eastern-eggplant-harees",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:45:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "eggplant",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Oven-Roasted Smoky",
+    "dishForm": "Harees"
+  }
+}
