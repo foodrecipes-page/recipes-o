@@ -1,0 +1,104 @@
+{
+  "title": "Oozy Molten Irish Amazake Bake",
+  "description": "A festive and floral dessert featuring amazake, binchotan charcoal, and a bamboo tray. Perfect for special occasions.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Amazake",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried lavender buds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bamboo tray",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line the bamboo tray with parchment paper.",
+    "Mix together the amazake, brown sugar, coconut oil, vanilla extract, and lemon zest in a large bowl.",
+    "Add the binchotan charcoal, almond flour, dried lavender buds, and salt to the bowl and mix until well combined.",
+    "Pour the mixture into the prepared bamboo tray.",
+    "Bake for 25 minutes or until the edges are set and the center is still slightly jiggly.",
+    "Remove from oven and let cool for a few minutes.",
+    "Top with fresh berries and serve warm.",
+    "Enjoy the oozy molten center!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "special-occasion",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "oozy-molten-irish-amazake-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-molten-irish-amazake-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:09:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "amazake",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Amazake",
+    "descriptor": "Oozy Molten",
+    "dishForm": "Bake"
+  }
+}
