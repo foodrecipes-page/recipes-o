@@ -1,0 +1,111 @@
+{
+  "title": "Oven Roasted Silky Dutch Cauliflower Roast",
+  "description": "A low-glycemic, caramelized cauliflower roast with a silky sauce infused with Thai bird chilies, perfect for a comforting dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 large head (about 800g)",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "tamari (low sodium soy sauce)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Thai bird chilies",
+      "amount": "2, finely sliced"
+    },
+    {
+      "name": "coconut milk (full fat)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C and line a sheet pan with parchment paper.",
+    "In a large bowl, toss cauliflower florets with olive oil, smoked paprika, cumin, cinnamon, cayenne, and a pinch of salt until well coated.",
+    "Spread the florets in a single layer on the prepared sheet pan and roast for 25 minutes, turning halfway, until caramelized and golden.",
+    "While cauliflower roasts, combine tamari, maple syrup, lime juice, sliced Thai bird chilies, and coconut milk in a small saucepan over low heat; stir until lightly simmering.",
+    "Reduce heat to low and let the sauce thicken for 5 minutes, whisking occasionally, then remove from heat.",
+    "When cauliflower is done, drizzle the silky sauce over the florets and gently toss to coat.",
+    "Return the pan to the oven for an additional 5 minutes to meld flavors.",
+    "Remove from oven and let rest for 3 minutes.",
+    "Sprinkle fresh chopped cilantro or parsley if desired, and serve hot.",
+    "Garnish with a lime wedge for extra brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "low-glycemic",
+    "one-pan",
+    "slow-roast",
+    "thai-flavor",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "oven-roasted-silky-dutch-cauliflower-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-silky-dutch-cauliflower-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:38:54Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Roast"
+  }
+}
