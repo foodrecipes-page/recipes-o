@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Filipino Okra Stew",
+  "description": "Fresh, crunchy okra roasted with garlic, tomatoes, and a sweet vinegar glaze that evokes nostalgic Filipino flavor in one pan.",
+  "cuisine": "Filipino",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh okra",
+      "amount": "400g",
+      "notes": "trim ends"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 F (220 C) and line a slate tile baking sheet with parchment paper.",
+    "Toss the trimmed okra in olive oil, minced garlic, sea salt, and black pepper until evenly coated.",
+    "Spread the seasoned okra in a single layer on the prepared baking sheet.",
+    "Roast for 15 minutes, or until the edges start to brown.",
+    "Remove the sheet from the oven and add halved cherry tomatoes and sliced bell pepper to the pan.",
+    "Drizzle rice vinegar and sprinkle coconut sugar over the vegetables, then stir to combine.",
+    "Return the pan to the oven and roast for an additional 10 minutes, or until all vegetables are tender and slightly caramelized.",
+    "Transfer the stew to a serving dish and serve hot, optionally garnished with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "one-pan",
+    "oven-roasted",
+    "quick",
+    "vegetarian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 343,
+    "protein": 6,
+    "carbs": 49,
+    "fat": 15
+  },
+  "slug": "oven-roasted-filipino-okra-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-filipino-okra-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:23:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "rice vinegar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Okra",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}
