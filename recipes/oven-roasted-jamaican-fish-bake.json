@@ -1,0 +1,114 @@
+{
+  "title": "Oven-Roasted Jamaican Fish Bake",
+  "description": "A yeasty, shaggy sick-day Jamaican fish dish with lime leaves and bright spices baked to perfection.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper",
+      "amount": "2 whole",
+      "notes": "cleaned, gutted"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 tbsp",
+      "notes": "Jamaican pimento"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "sliced into wedges"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Pat the snapper dry with paper towels.",
+    "In a small bowl mix allspice, thyme, minced garlic, salt, pepper, olive oil, and lime juice to form a paste.",
+    "Rub the spice paste all over the fish, inside and out, then place inside a large baking dish.",
+    "Arrange sliced onion, bell pepper, carrot, and lime wedges around the fish in the dish.",
+    "Cover the dish tightly with foil to trap moisture and prevent over-drying.",
+    "Bake for 25 minutes, then remove foil and continue baking for another 10 minutes until the fish flakes easily.",
+    "Let the fish rest for 5 minutes before serving.",
+    "Garnish with fresh thyme leaves if desired and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "jamaican",
+    "one-pan",
+    "pescatarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 11
+  },
+  "slug": "oven-roasted-jamaican-fish-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-fish-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:08:59Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "lime leaves",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Bake"
+  }
+}
