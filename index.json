@@ -240,6 +240,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-brazilian-pao-pastry",
+    "title": "Oily Brazilian Pao Pastry",
+    "tags": [
+      "bonito-flakes",
+      "brazilian",
+      "breakfast",
+      "egg-free",
+      "pastry",
+      "poppy-seeds"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oily-charred-japanese-chicken-yakitori",
     "title": "Oily Charred Japanese Chicken Yakitori",
     "tags": [

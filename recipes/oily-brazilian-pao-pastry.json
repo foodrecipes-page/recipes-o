@@ -1,0 +1,102 @@
+{
+  "title": "Oily Brazilian Pao Pastry",
+  "description": "A fresh, crumbly, and festive Brazilian pastry featuring poppy seeds and a unique flavor from bonito flakes.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-quality, unbleached flour"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened, but not melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "white sugar"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tablespoon",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use fine salt"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "dried and flaked"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk or substitute"
+    },
+    {
+      "name": "large eggs",
+      "amount": "1",
+      "notes": "for egg-based version"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "Combine the flour, sugar, and salt in a large mixing bowl.",
+    "Add the softened butter and, using a pastry blender or your fingers, work it into the flour mixture until it resembles coarse crumbs.",
+    "In a small bowl, whisk together the milk and a large egg (if using).",
+    "Pour the wet ingredients into the dry ingredients and gently fold until a shaggy dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it comes together.",
+    "Divide the dough into 8-10 equal pieces and roll each one into a ball.",
+    "Place the balls onto the prepared baking sheet, leaving about 1 inch (2.5 cm) of space between each one.",
+    "Brush the tops with a little extra milk and sprinkle with toasted poppy seeds.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Remove from the oven and let cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bonito-flakes",
+    "brazilian",
+    "breakfast",
+    "egg-free",
+    "pastry",
+    "poppy-seeds"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oily-brazilian-pao-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-brazilian-pao-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "poppy seeds",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pao",
+    "descriptor": "oily",
+    "dishForm": "Pastry"
+  }
+}
