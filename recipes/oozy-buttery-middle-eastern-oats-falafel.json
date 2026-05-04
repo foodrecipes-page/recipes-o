@@ -1,0 +1,110 @@
+{
+  "title": "Oozy Buttery Middle Eastern Oats Falafel",
+  "description": "A buttery, crisp, and indulgent Middle Eastern dish featuring oats, served in a ramekin and grilled to perfection using a robata grill, with a Mediterranean twist in the form of falafel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375 degrees Fahrenheit.",
+    "In a food processor, combine oats, chickpeas, onion, garlic, cumin, paprika, salt, and black pepper, and process until well combined.",
+    "Transfer the mixture to a bowl and stir in the melted butter and lemon juice until a thick batter forms.",
+    "Divide the batter into 6 equal portions and shape each portion into a ball, then flatten slightly into a disk shape.",
+    "Place each falafel in a ramekin and brush the tops with a little extra melted butter.",
+    "Place the ramekins on the robata grill and cook for 12 minutes, or until the falafel are golden brown and crispy on the outside.",
+    "Flip the falafel over and cook for an additional 8 minutes, or until the other side is also golden brown.",
+    "Remove the falafel from the grill and serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "falafel",
+    "gluten-free",
+    "mediterranean",
+    "middle-eastern",
+    "oats",
+    "robata-grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-buttery-middle-eastern-oats-falafel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-buttery-middle-eastern-oats-falafel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:59:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "robata-grill",
+    "primaryIngredient": "oats",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "oats",
+    "descriptor": "Oozy Buttery",
+    "dishForm": "Falafel"
+  }
+}
