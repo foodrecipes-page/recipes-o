@@ -746,6 +746,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-argentinian-mustard-stew",
+    "title": "Oven Roasted Argentinian Mustard Stew",
+    "tags": [
+      "argentine",
+      "mustard",
+      "no-garlic",
+      "one-pot",
+      "oven-roasted",
+      "stew"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-british-chinese-leaf-scones-clotted-cream",
     "title": "Oven Roasted British Chinese Leaf Scones Clotted Cream",
     "tags": [

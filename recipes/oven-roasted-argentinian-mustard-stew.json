@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Argentinian Mustard Stew",
+  "description": "A fiery, mustardy stew that melds tangy kimchi and creamy onions, roasted to a gooey perfection in a classic kazan cauldron.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "150g",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and place a cast-iron kazan cauldron on the rack.",
+    "Drizzle the olive oil into the empty cauldron and swirl until it coats the base.",
+    "Add the sliced onions and cook for 5 minutes, stirring occasionally, until they soften.",
+    "Stir in the chopped kimchi, whole grain mustard, and smoked paprika, coating everything evenly.",
+    "Pour in the beef broth and red wine, then drop in the bay leaf, and bring the mixture to a gentle simmer.",
+    "Cover the cauldron with its lid, transfer it to the preheated oven, and roast for 30 minutes, turning once halfway through.",
+    "After 30 minutes, remove the lid, stir the stew, and season with salt and pepper to taste.",
+    "Return the cauldron to the oven, uncovered, and continue roasting for another 15 minutes to deepen the flavors.",
+    "Once done, let the stew rest for 5 minutes before removing the bay leaf.",
+    "Ladle the stew into bowls, serve hot, and enjoy the gooey mustard-infused flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "mustard",
+    "no-garlic",
+    "one-pot",
+    "oven-roasted",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 4
+  },
+  "slug": "oven-roasted-argentinian-mustard-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-argentinian-mustard-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:34:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "onions",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "mustard",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}
