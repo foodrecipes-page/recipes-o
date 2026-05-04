@@ -1,0 +1,96 @@
+{
+  "title": "Vietnamese Chicken Wings Wrap",
+  "description": "A fresh and juicy Vietnamese dish featuring chicken wings, ssam-wrap, and served on a talavera plate, perfect for a quick fix meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, garlic, and ginger.",
+    "Add the chicken wings to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Arrange the chicken wings on the baking sheet in a single layer.",
+    "Bake the chicken wings for 25-30 minutes or until cooked through.",
+    "While the chicken is cooking, prepare the ssam wrap by cutting it into smaller pieces.",
+    "To assemble the wrap, place a few pieces of the chicken on a ssam wrap, garnish with cilantro, and serve.",
+    "Serve the chicken wings wrap on a talavera plate.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-wings",
+    "quick-fix",
+    "shojin-friendly",
+    "ssam-wrap",
+    "talavera-plate",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "outstandingly-juicy-vietnamese-chicken-wings-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-juicy-vietnamese-chicken-wings-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:23:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chicken wings",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken wings",
+    "descriptor": "outstandingly juicy",
+    "dishForm": "Wrap"
+  }
+}
