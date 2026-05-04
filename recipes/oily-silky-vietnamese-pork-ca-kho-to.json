@@ -1,0 +1,95 @@
+{
+  "title": "Oily Silky Vietnamese Pork Ca Kho To",
+  "description": "A fermented and silky Vietnamese dish featuring serrano ham and shio-koji cure, this recipe is ayurvedic-sattvic friendly and served in a corn husk wrap.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together shio-koji, fish sauce, and black pepper to create the cure.",
+    "Add the diced serrano ham to the cure and mix well.",
+    "Place the pork belly in the bowl and coat it evenly with the cure mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for 24 hours to allow the pork to ferment.",
+    "After fermentation, remove the pork from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the minced garlic to the skillet and saute until fragrant.",
+    "Add the fermented pork to the skillet and cook until browned on all sides.",
+    "Wrap each piece of pork in a corn husk and secure with a toothpick.",
+    "Serve the Ca Kho To hot, garnished with additional serrano ham if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "fermented-food",
+    "gluten-free",
+    "pork-recipes",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "oily-silky-vietnamese-pork-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-silky-vietnamese-pork-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:41:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "serrano ham",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "oily silky",
+    "dishForm": "Ca Kho To"
+  }
+}
