@@ -1,0 +1,130 @@
+{
+  "title": "Oozing Brass Greek Rice Curry",
+  "description": "A cultured, fluffy one‑pot rice curry combining Thai green curry paste with a Greek-inspired soffritto, served in a Korean‑brass bowl.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "satvik-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear.",
+    "Heat the olive oil in a Korean‑brass bowl over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking for 30 seconds.",
+    "Add the Thai green curry paste and cook while stirring until fragrant, about 1 minute.",
+    "Incorporate the diced carrot and zucchini, sautéing for another 3 minutes.",
+    "Add the uncooked rice, stirring to coat it in the aromatics.",
+    "Pour in the vegetable broth, bring to a boil, then reduce heat, cover, and simmer for 18 minutes.",
+    "Stir in the tofu cubes, fresh spinach, oregano, lemon juice, salt, and pepper, and cover to steam until the rice is tender, about 5 minutes.",
+    "Remove the bowl from heat, let it rest for 5 minutes, then fluff the rice with a fork before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brass-bowl",
+    "greek-flavor",
+    "one-pot",
+    "satvik-friendly",
+    "thai-curry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 24,
+    "carbs": 53,
+    "fat": 37
+  },
+  "slug": "oozing-brass-greek-rice-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-brass-greek-rice-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:36:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "soffritto-base",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "rice",
+    "descriptor": "Oozing Brass",
+    "dishForm": "Curry"
+  }
+}

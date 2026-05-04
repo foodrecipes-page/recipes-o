@@ -409,6 +409,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-brass-greek-rice-curry",
+    "title": "Oozing Brass Greek Rice Curry",
+    "tags": [
+      "brass-bowl",
+      "greek-flavor",
+      "one-pot",
+      "satvik-friendly",
+      "thai-curry",
+      "vegan"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-charred-chinese-katsuobushi-wonton-soup",
     "title": "Oozing Charred Chinese Katsuobushi Wonton Soup",
     "tags": [
@@ -1799,6 +1814,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-irish-lamb-stew",
+    "title": "Oven-Roasted Irish Lamb Stew",
+    "tags": [
+      "high-protein",
+      "lamb",
+      "low-fodmap",
+      "one-pan",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
