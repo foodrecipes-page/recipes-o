@@ -1,0 +1,104 @@
+{
+  "title": "Oozing American Figs Pasta",
+  "description": "A malty, molten pasta dish that celebrates figs with a creamy pasta-water emulsion, perfect for a festive American dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh figs",
+      "amount": "12 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "walnut halves",
+      "amount": "50g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook 200g spaghetti until al dente, 8-10 minutes.",
+    "While pasta cooks, slice 12 figs into quarters and set aside.",
+    "In a large skillet, heat 2 tbsp olive oil over medium heat and add figs, cooking 2 minutes until caramelized.",
+    "Add a pinch of red pepper flakes to the skillet and stir for 30 seconds.",
+    "Stir in 1 tbsp lemon juice, 1 tsp lemon zest, and a handful of chopped basil, cooking for another minute.",
+    "Drain pasta, reserving 1 cup of pasta water, and add to skillet, tossing to coat.",
+    "Pour in 1 cup reserved pasta water to create an emulsion, allowing sauce to thicken for 2 minutes.",
+    "Sprinkle 1/4 cup grated parmesan and 50g walnut halves, tossing until cheese melts and nuts are lightly toasted.",
+    "Season with salt and pepper to taste, and garnish with remaining basil leaves.",
+    "Serve immediately, optionally adding extra parmesan if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "festive",
+    "holiday",
+    "nutty",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 25
+  },
+  "slug": "oozing-american-figs-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-american-figs-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:21:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "figs",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "figs",
+    "descriptor": "Oozing",
+    "dishForm": "Pasta"
+  }
+}

@@ -479,6 +479,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-american-figs-pasta",
+    "title": "Oozing American Figs Pasta",
+    "tags": [
+      "anti-inflammatory",
+      "comfort-food",
+      "festive",
+      "holiday",
+      "nutty",
+      "pasta"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-australian-fennel-salad",
     "title": "Oozing Australian Fennel Salad",
     "tags": [
@@ -2164,6 +2179,21 @@
       "rapeseed-oil"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-japanese-chicken-ozoni",
+    "title": "Oven Roasted Japanese Chicken Ozoni",
+    "tags": [
+      "chicken-recipes",
+      "diabetic-friendly",
+      "japanese-cuisine",
+      "low-carb",
+      "oven-roasted",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
     "totalTimeMin": 45,
     "shard": "o"
   },

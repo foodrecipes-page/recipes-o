@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Japanese Chicken Ozoni",
+  "description": "A weeknight Japanese dish featuring roasted chicken in a sour cream and shio-koji cure sauce, served in a traditional ozoni form. This diabetic-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shio-koji, sour cream, soy sauce, rice vinegar, and sesame oil.",
+    "Add the chicken to the bowl and toss to coat with the sauce.",
+    "Line a baking sheet with parchment paper and arrange the chicken in a single layer.",
+    "Roast the chicken in the preheated oven for 25 minutes.",
+    "While the chicken is cooking, prepare the ozoni bowls by placing a small amount of chicken broth in the bottom of each bowl.",
+    "Once the chicken is cooked, remove it from the oven and let it rest for 5 minutes.",
+    "To assemble the ozoni, place a few pieces of the roasted chicken in each bowl, then garnish with green onions and mitsuba.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "diabetic-friendly",
+    "japanese-cuisine",
+    "low-carb",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "oven-roasted-japanese-chicken-ozoni",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-japanese-chicken-ozoni",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:22:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sour cream",
+    "diet": "diabetic-friendly",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Ozoni"
+  }
+}
