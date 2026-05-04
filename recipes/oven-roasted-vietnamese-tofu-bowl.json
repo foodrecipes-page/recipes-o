@@ -1,0 +1,102 @@
+{
+  "title": "Oven Roasted Vietnamese Tofu Bowl",
+  "description": "A savory and crunchy Vietnamese dish featuring shaoxing wine and shio-cure, served in a dolsot-stone-bowl, perfect for a solo dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shaoxing wine, shio-cure, soy sauce, rice vinegar, and sesame oil.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Let the tofu marinate for at least 10 minutes.",
+    "Line a baking sheet with parchment paper and arrange the marinated tofu in a single layer.",
+    "Roast the tofu in the preheated oven for 20 minutes, flipping halfway through.",
+    "While the tofu is roasting, heat a small saucepan over medium heat and add the minced garlic and grated ginger.",
+    "Cook the garlic and ginger for 1 minute, until fragrant.",
+    "To assemble the bowl, place a portion of the roasted tofu in the dolsot-stone-bowl, followed by a spoonful of the garlic and ginger mixture, and top with mixed greens and pickled carrots."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bowls",
+    "one-pan",
+    "oven-roasted",
+    "plant-based",
+    "tofu",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-roasted-vietnamese-tofu-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-vietnamese-tofu-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:33:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bowl"
+  }
+}
