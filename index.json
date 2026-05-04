@@ -1999,6 +1999,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-crisp-argentinian-shrimp-empanadas",
+    "title": "Oven Crisp Argentinian Shrimp Empanadas",
+    "tags": [
+      "argentinian",
+      "crispy",
+      "empanadas",
+      "oven-baked",
+      "savory",
+      "shrimp"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "oven-crisp-ukrainian-cheddar-gratin",
     "title": "Oven Crisp Ukrainian Cheddar Gratin",
     "tags": [

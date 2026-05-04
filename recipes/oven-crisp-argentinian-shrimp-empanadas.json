@@ -1,0 +1,120 @@
+{
+  "title": "Oven Crisp Argentinian Shrimp Empanadas",
+  "description": "Earthy, crispy, festive empanadas featuring rehydrated shrimp and a touch of tempered dark chocolate for depth.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "tamasic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": null
+    },
+    {
+      "name": "dried shrimp",
+      "amount": "80g",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomato",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1tsp",
+      "notes": null
+    },
+    {
+      "name": "oregano dried",
+      "amount": "1tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika mild",
+      "amount": "1tsp",
+      "notes": null
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "20g",
+      "notes": "tempered, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "In a bowl mix flour, water, olive oil, and salt to form dough; knead until smooth; cover for 20 min.",
+    "While dough rests, rehydrate dried shrimp in hot water for 10 min, then drain and chop.",
+    "In a skillet, heat olive oil, sauté onion and garlic until translucent.",
+    "Add chopped shrimp, tomato, cumin, oregano, paprika; cook for 5 minutes until flavors meld.",
+    "Stir in a pinch of salt and a small amount of melted tempered chocolate; remove from heat.",
+    "Divide dough into 12 portions, roll each into circles, place filling and fold into empanadas, sealing edges with fork.",
+    "Place empanadas on a parchment-lined tray, brush tops with olive oil.",
+    "Bake for 20 minutes until golden and crisp.",
+    "Let cool briefly, serve with fresh lime wedges."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 35,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crispy",
+    "empanadas",
+    "oven-baked",
+    "savory",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "oven-crisp-argentinian-shrimp-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-crisp-argentinian-shrimp-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:25:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "dried shrimp",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "shrimp",
+    "descriptor": "oven crisp",
+    "dishForm": "empanadas"
+  }
+}
