@@ -1441,6 +1441,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-uruguayan-kimchi-salad",
+    "title": "Oozy Uruguayan Kimchi Salad",
+    "tags": [
+      "brunch-ideas",
+      "kimchi-lovers",
+      "mushroom-dishes",
+      "plant-based",
+      "salad-recipes",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-velvety-moroccan-almond-chebakia",
     "title": "Oozy Velvety Moroccan Almond Chebakia",
     "tags": [
@@ -1767,6 +1782,22 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "outstanding-herbal-polish-cookies",
+    "title": "Outstanding Herbal Polish Cookies",
+    "tags": [
+      "brunch",
+      "cookies",
+      "fondue",
+      "herbal",
+      "plant-based",
+      "polish",
+      "snack"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {

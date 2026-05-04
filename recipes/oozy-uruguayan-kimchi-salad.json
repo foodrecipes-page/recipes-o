@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Uruguayan Kimchi Salad",
+  "description": "A salty and shaggy Uruguayan dish featuring baby lettuce leaves and ferment-kimchi, perfect for a plant-based friendly brunch",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "4 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "spicy"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade"
+    },
+    {
+      "name": "grilled portobello mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "crumbly tofu",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the baby lettuce leaves, ferment-kimchi, and chimichurri sauce",
+    "In a separate pan, grill the portobello mushrooms until tender",
+    "Add the roasted red peppers and crumbly tofu to the bowl",
+    "Drizzle the olive oil over the salad and sprinkle with salt",
+    "Toss the salad gently to combine",
+    "Top the salad with the grilled portobello mushrooms",
+    "Serve immediately and enjoy",
+    "Garnish with additional chimichurri sauce if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "kimchi-lovers",
+    "mushroom-dishes",
+    "plant-based",
+    "salad-recipes",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oozy-uruguayan-kimchi-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-uruguayan-kimchi-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:21:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "kimchi",
+    "descriptor": "Oozy",
+    "dishForm": "Salad"
+  }
+}

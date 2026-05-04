@@ -1,0 +1,89 @@
+{
+  "title": "Outstanding Herbal Polish Cookies",
+  "description": "A plant-based friendly Polish dish featuring herbal and juicy cookies, perfect for a brunch mood, served in a fondue pot. The combination of herbs and lemon juice creates a unique flavor profile.",
+  "cuisine": "Polish",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oat flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried lemon balm",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the oat flour, dried mint, and dried lemon balm.",
+    "In a separate bowl, whisk together the lemon juice, coconut oil, maple syrup, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness and cut into desired shapes.",
+    "Place the cookies on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Allow the cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve the cookies in a fondue pot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "cookies",
+    "fondue",
+    "herbal",
+    "plant-based",
+    "polish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "outstanding-herbal-polish-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-herbal-polish-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:21:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "cookies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cookies",
+    "descriptor": "outstanding herbal",
+    "dishForm": "Cookies"
+  }
+}
