@@ -1,0 +1,113 @@
+{
+  "title": "Oven Crispy Ethiopian Lamb Tibs",
+  "description": "A salty, crisp one-pot lamb dish with garlic powder and a flambé finish, perfect for a keto-friendly dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "In a bowl, combine lamb cubes with olive oil, garlic powder, smoked paprika, cumin, coriander, chili flakes, salt, and pepper until fully coated.",
+    "Spread the seasoned lamb in a single layer on a parchment-lined baking sheet.",
+    "Roast in preheated oven for 15 minutes, then flip the lamb and roast for an additional 10 minutes until edges are crisp and golden brown.",
+    "While lamb roasts, melt butter in a skillet over medium heat, add white wine, and ignite carefully to flambé, letting the flame die off.",
+    "Add the roasted lamb to the skillet, stir to coat with the buttery wine mixture, and cook for 2 minutes to absorb the flavors.",
+    "Stir in lemon juice and remove from heat.",
+    "Plate the lamb tibs, garnish with chopped fresh cilantro.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve hot with a side of cauliflower rice or low-carb greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "high-protein",
+    "keto-friendly",
+    "one-pot",
+    "oven-cooked"
+  ],
+  "nutrition": {
+    "calories": 428,
+    "protein": 25,
+    "carbs": 1,
+    "fat": 23
+  },
+  "slug": "oven-crispy-ethiopian-lamb-tibs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-crispy-ethiopian-lamb-tibs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:10:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "garlic powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Crispy",
+    "dishForm": "Tibs"
+  }
+}
