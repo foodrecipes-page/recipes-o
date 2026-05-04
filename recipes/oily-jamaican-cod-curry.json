@@ -1,0 +1,110 @@
+{
+  "title": "Oily Jamaican Cod Curry",
+  "description": "A peppery, juicy, lazy-sunday Jamaican dish featuring English mustard and fermented kimchi, cooked in a bamboo steamer for a silky finish.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1200g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "mixed spice blend",
+      "amount": "3 tsp",
+      "notes": "cumin, coriander, smoked paprika, cayenne"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium heat and sauté onion until translucent.",
+    "Add garlic and ginger and cook for 1 minute until fragrant.",
+    "Stir in the mixed spice blend and cook for another minute, letting the spices toast.",
+    "Add the chopped kimchi and red bell pepper, cooking until the pepper softens about 3 minutes.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer, stirring to combine the flavors.",
+    "Gently fold in the cod fillets, ensuring they are submerged in the sauce.",
+    "Cover the wok and steam the curry in a bamboo steamer set over simmering water for 10 minutes, or until the cod flakes easily.",
+    "Remove from heat, season with salt, drizzle with English mustard, and sprinkle fresh cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "cozy",
+    "flavorful",
+    "jamaican-curry",
+    "lazy-sunday",
+    "pescatarian-friendly",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "oily-jamaican-cod-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-jamaican-cod-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:27:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "english mustard",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cod",
+    "descriptor": "Oily",
+    "dishForm": "Curry"
+  }
+}
