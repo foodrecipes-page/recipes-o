@@ -1605,6 +1605,17 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-argentinian-lamb-gratin",
+    "title": "Oven Roasted Argentinian Lamb Gratin",
+    "tags": [
+      "argentinian",
+      "dinner"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-argentinian-mustard-stew",
     "title": "Oven Roasted Argentinian Mustard Stew",
     "tags": [

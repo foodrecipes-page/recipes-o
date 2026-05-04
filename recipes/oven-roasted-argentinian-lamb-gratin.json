@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Argentinian Lamb Gratin",
+  "description": "A floral, crisp lamb mince gratin inspired by monsoon flavors, finished with a burst of bonito shavings and served from a raclette grill.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bonito shavings",
+      "amount": "20g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your raclette grill to medium-high heat.",
+    "In a bowl mix the lamb mince, chopped onion, minced garlic, sliced bell pepper, tomato paste, soy sauce, salt, pepper and lemon zest until well combined.",
+    "Transfer the mixture into a shallow baking dish and spread evenly.",
+    "Drizzle olive oil over the top and sprinkle bonito shavings evenly.",
+    "Place the dish on the raclette grill and roast for 30 minutes, or until the lamb is cooked through and the top is golden.",
+    "Remove the gratin from the grill, let it rest for five minutes.",
+    "Serve hot, garnishing with extra bonito shavings if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "argentinian",
+    "dinner"
+  ],
+  "slug": "oven-roasted-argentinian-lamb-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-argentinian-lamb-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:00:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "bonito-shave",
+    "primaryIngredient": "lamb mince",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Gratin"
+  }
+}
