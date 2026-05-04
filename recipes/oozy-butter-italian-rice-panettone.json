@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Butter Italian Rice Panettone",
+  "description": "A romantic Italian dish featuring butter and rice in a pillowy panettone form, with a hint of mustard and a dairy-free friendly twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "2 cups",
+      "notes": "fry-grind rice"
+    },
+    {
+      "name": "khao khuah powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg replacer",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "panettone mold",
+      "amount": "1"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the melted butter, fry-grind rice, khao khuah powder, mustard powder, and salt.",
+    "In a separate bowl, whisk together the non-dairy milk and egg replacer.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Pour the mixture into the panettone mold and smooth the top.",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Sprinkle the chopped parsley on top and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "dairy-free",
+    "italian-food",
+    "one-pan",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-butter-italian-rice-panettone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-butter-italian-rice-panettone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:18:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "butter",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Oozy Butter",
+    "dishForm": "Panettone"
+  }
+}
