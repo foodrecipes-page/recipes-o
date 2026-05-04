@@ -196,6 +196,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-golden-american-butter-scrambled",
+    "title": "oily golden American Butter Scrambled",
+    "tags": [
+      "american",
+      "breakfast",
+      "high-calorie",
+      "scrambled-eggs",
+      "tava-griddle",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "oily-saudi-arabian-toor-dal-dal",
     "title": "Oily Saudi Arabian Toor Dal",
     "tags": [
@@ -931,6 +946,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-infused-turkish-tofu-doner-kebab",
+    "title": "Orange Infused Turkish Tofu Doner Kebab",
+    "tags": [
+      "citrus",
+      "macrobiotic",
+      "one-pan",
+      "tofu-doner",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {

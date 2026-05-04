@@ -1,0 +1,92 @@
+{
+  "title": "oily golden American Butter Scrambled",
+  "description": "Buttery, fluffy, crowd-pleaser American dish featuring dried red chillies, caramelize, satvik-friendly, vessel=tava-griddle.",
+  "cuisine": "American",
+  "diet": [
+    "Satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "2g"
+    },
+    {
+      "name": "onion",
+      "amount": "60g"
+    },
+    {
+      "name": "garlic",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5g"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and a few grinds of black pepper.",
+    "Melt 20g of butter in a tava-griddle over medium heat.",
+    "Once the butter is melted, add the diced onion and cook until it is translucent, stirring occasionally.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the dried red chillies and cook for 2-3 minutes, stirring occasionally.",
+    "Pour the whisked eggs over the onion mixture and cook until the edges start to set.",
+    "Use a spatula to gently scramble the eggs, breaking them up into small curds.",
+    "Continue cooking and stirring the eggs until they are cooked through and fluffy.",
+    "Stir in the remaining 40g of butter until it is fully incorporated and the scrambled eggs are oily and golden.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "breakfast",
+    "high-calorie",
+    "scrambled-eggs",
+    "tava-griddle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "oily-golden-american-butter-scrambled",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-golden-american-butter-scrambled",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:04:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "dried red chillies",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "butter",
+    "descriptor": "oily golden",
+    "dishForm": "Scrambled"
+  }
+}

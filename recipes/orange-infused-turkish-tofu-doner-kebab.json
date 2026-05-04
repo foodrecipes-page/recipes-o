@@ -1,0 +1,113 @@
+{
+  "title": "Orange Infused Turkish Tofu Doner Kebab",
+  "description": "A citrusy, one‑pot Turkish-style tofu doner that blends orange juice, fresh tomatoes and fragrant spices for a flavorful, macrobiotic-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "pressed and sliced into thin strips"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (400g)",
+      "notes": "drained lightly"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tbsp",
+      "notes": "fresh grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for at least 30 minutes to remove excess moisture, then cut into thin strips.",
+    "Whisk together orange juice, tomato paste, cumin, paprika, coriander, salt, pepper, and olive oil until smooth.",
+    "Add the tofu strips to the bowl, stir to coat, and whisk in orange zest; let marinate at room temperature for 20 minutes.",
+    "Pour the diced tomatoes into the same bowl and mix gently to combine all ingredients.",
+    "Heat a large non‑stick skillet over medium heat and pour the tofu‑tomato mixture, spreading evenly.",
+    "Cook for 10 minutes, stirring occasionally, until the sauce thickens and the tofu turns slightly golden.",
+    "Remove from heat and transfer the mixture onto a plate.",
+    "Sprinkle chopped parsley over the top before serving.",
+    "Serve the orange infused Turkish tofu doner kebab over cooked bulgur or cauliflower rice for a macrobiotic option."
+  ],
+  "prepTimeMin": 50,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "macrobiotic",
+    "one-pan",
+    "tofu-doner",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 34,
+    "carbs": 47,
+    "fat": 51
+  },
+  "slug": "orange-infused-turkish-tofu-doner-kebab",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-infused-turkish-tofu-doner-kebab",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:04:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Orange Infused",
+    "dishForm": "Doner Kebab"
+  }
+}
