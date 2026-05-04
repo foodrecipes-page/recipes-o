@@ -1,0 +1,94 @@
+{
+  "title": "Oven Glazed Saudi Dates Pudding",
+  "description": "A sweet, bouncy pudding made from caramelized dates and a fragrant sugar sauce, finished in the oven for a glossy glaze and a hint of cardamom. It is entirely egg-free and perfect for energizing any meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "250g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "softened"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "honey",
+      "amount": "30g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "50g"
+    },
+    {
+      "name": "puffed rice",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line a baking dish with parchment paper. ",
+    "Place dates, butter, brown sugar, water, honey, vanilla and cardamom in the dish and stir until the butter is melted and the mixture is smooth. ",
+    "Bake for 25 minutes, stirring every 10 minutes, until the dates soften and the sauce turns a golden caramel color. ",
+    "Remove from oven and let cool slightly, then stir in almond flour and puffed rice until evenly distributed. ",
+    "Return the dish to the oven and bake for another 20 minutes until the mixture is firm and the surface is glossy. ",
+    "Remove from oven and cool completely on a wire rack; the pudding will set into a bouncy, chewy texture. ",
+    "Slice into squares and serve warm or at room temperature. ",
+    "Store leftovers in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "egg-free",
+    "middle-eastern",
+    "oven",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "oven-glazed-saudi-dates-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-glazed-saudi-dates-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:49:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "dates",
+    "descriptor": "Oven Glazed",
+    "dishForm": "Pudding"
+  }
+}
