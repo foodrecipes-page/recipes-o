@@ -1,0 +1,99 @@
+{
+  "title": "Oozy Molten Italian Pork Lasagna",
+  "description": "A sour and molten Italian dish featuring slow-cooked pork and low-glycemic ingredients, perfect for a special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "jerk seasoned"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and cook the ground pork until browned.",
+    "Add the marinara sauce to the skillet and stir to combine.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, and parmesan cheese.",
+    "Spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the meat sauce, then the noodles, and finally the remaining cheese mixture.",
+    "Top the lasagna with the chopped fresh basil.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "italian-food",
+    "low-glycemic",
+    "pork-recipes",
+    "slow-cooked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "oozy-molten-italian-pork-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-molten-italian-pork-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:43:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "jerk",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Oozy molten",
+    "dishForm": "Lasagna"
+  }
+}

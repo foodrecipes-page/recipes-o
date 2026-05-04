@@ -1,0 +1,94 @@
+{
+  "title": "Venezuelan Cheese Empanadas",
+  "description": "A pungent and molten Venezuelan dish featuring coriander seeds and miso-marinate, perfect for vegetarians, this crowd-pleaser is a must try at any gathering.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": "for miso-marinate"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly Venezuelan cheese"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, toasted coriander seeds, and salt.",
+    "Gradually add water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of miso-marinate and a sprinkle of queso fresco in the center of each circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops with vegetable oil and bake for 15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "crowd-pleaser",
+    "latin-american",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "oily-molten-venezuelan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-molten-venezuelan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:43:35Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "coriander seeds",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "oily molten",
+    "dishForm": "Empanadas"
+  }
+}

@@ -315,6 +315,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-molten-venezuelan-cheese-empanadas",
+    "title": "Venezuelan Cheese Empanadas",
+    "tags": [
+      "baked",
+      "cheesy",
+      "crowd-pleaser",
+      "latin-american",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oily-rich-canadian-green-beans-casserole",
     "title": "Oily Rich Canadian Green Beans Casserole",
     "tags": [
@@ -1322,6 +1337,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-molten-italian-pork-lasagna",
+    "title": "Oozy Molten Italian Pork Lasagna",
+    "tags": [
+      "cheesy",
+      "italian-food",
+      "low-glycemic",
+      "pork-recipes",
+      "slow-cooked",
+      "special-occasion"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
