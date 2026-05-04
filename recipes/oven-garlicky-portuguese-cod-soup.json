@@ -1,0 +1,110 @@
+{
+  "title": "Oven Garlicky Portuguese Cod Soup",
+  "description": "A tender, garlicky cod soup baked to perfection, infused with matcha, fermented jang, and a splash of white wine for a comforting lazy Sunday meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "150g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for coating the dish"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium (180g)",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small (70g)",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "5g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "In a baking dish, drizzle olive oil and spread it thinly.",
+    "Toss cod fillets with garlic, salt, pepper, and lemon zest, then lay them in the dish.",
+    "Pour in white wine, water, and fermented jang, letting the liquid cover the fish.",
+    "Scatter chopped tomato and onion over the cod.",
+    "Cover the dish with foil and bake for 25 minutes until the cod flakes easily.",
+    "Remove foil, stir in matcha powder until dissolved and the soup turns a gentle green hue.",
+    "Let cool slightly, then blend on low until smooth, adding water if necessary for desired consistency.",
+    "Serve hot, garnished with a sprinkle of extra matcha powder and a squeeze of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ferment-jang",
+    "garlic",
+    "gluten-free",
+    "lazy-sunday",
+    "matcha",
+    "oven-soup"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 33,
+    "carbs": 17,
+    "fat": 5
+  },
+  "slug": "oven-garlicky-portuguese-cod-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-garlicky-portuguese-cod-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:56:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "matcha",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Cod",
+    "descriptor": "Oven Garlicky",
+    "dishForm": "Soup"
+  }
+}
