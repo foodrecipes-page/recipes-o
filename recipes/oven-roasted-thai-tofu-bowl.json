@@ -1,0 +1,110 @@
+{
+  "title": "Oven Roasted Thai Tofu Bowl",
+  "description": "A citrusy, crispy bowl featuring roasted tofu, fresh veggies, and plant-based friendly flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "14 oz",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Drain tofu, press to remove moisture, and cut into 1-inch cubes.",
+    "In a bowl, whisk sesame oil, soy sauce, lime juice, grated ginger, minced garlic, and a pinch of salt.",
+    "Toss tofu cubes in the sauce, ensuring even coating, then spread them on a parchment-lined baking sheet.",
+    "Roast tofu for 25 minutes, flipping halfway through, until golden and crisp.",
+    "While tofu roasts, steam or microwave cooked brown rice until heated through.",
+    "In a mixing bowl, combine roasted peanuts, shredded cucumber, shredded carrot, and basil leaves.",
+    "Once tofu is done, transfer it to the bowl with the veggies and drizzle any remaining sauce over the top.",
+    "Serve the tofu mixture over a bed of warm brown rice, garnish with lime slices, and squeeze extra lime juice if desired.",
+    "Toss gently before eating, and enjoy a bright, crunchy Thai-inspired bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "high-protein",
+    "one-pan",
+    "quick-meal",
+    "southern-thai",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 28,
+    "carbs": 47,
+    "fat": 35
+  },
+  "slug": "oven-roasted-thai-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-thai-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:26:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "seeds",
+    "diet": "plant-based",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bowl"
+  }
+}
