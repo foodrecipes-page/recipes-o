@@ -1,0 +1,108 @@
+{
+  "title": "Oven-Roasted Thai Mung Bean Sprouts Skewers",
+  "description": "Savory and creamy oven-roasted mung bean sprout skewers that capture the essence of Thai street food with a lazy Sunday twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "200g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sunflower seed butter",
+      "amount": "2 tbsp",
+      "notes": "nut-free alternative to tahini"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat and lightly oil the grate.",
+    "Toss mung bean sprouts, bell pepper, carrot, and zucchini with olive oil, lime juice, garlic powder, cumin, coriander, salt, and pepper in a bowl until evenly coated.",
+    "Thread the seasoned vegetables onto skewers, packing them tightly to help them stay together during grilling.",
+    "Brush the skewers with sunflower seed butter, creating a creamy coating that glazes while roasting.",
+    "Place the skewers on the preheated grill and cook for 10 minutes, turning every 2-3 minutes, until the vegetables are tender and slightly charred.",
+    "Remove the skewers from the grill and let them rest for 2 minutes so the flavors meld.",
+    "Serve the hot skewers on a platter, optionally drizzling with extra lime juice or a splash of coconut milk for extra creaminess.",
+    "Garnish with fresh herbs if desired and enjoy the savory, creamy Thai-inspired dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "nut-free",
+    "quick",
+    "thai",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 17,
+    "carbs": 36,
+    "fat": 49
+  },
+  "slug": "oven-roasted-thai-mung-bean-sprouts-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-thai-mung-bean-sprouts-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:25:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Skewers"
+  }
+}

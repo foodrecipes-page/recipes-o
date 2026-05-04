@@ -1,0 +1,94 @@
+{
+  "title": "Old Fashioned Oven Roasted Dutch Endive Gratin",
+  "description": "A traditional Dutch dish featuring roasted endive, this gratin is a bitter, fluffy, and romantic delight, with the brightness of lime juice and the earthiness of terracotta cooking.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch endive",
+      "amount": "4 large heads",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large terracotta dish, arrange the endive halves in a single layer, cut side up.",
+    "Dot the top of each endive half with unsalted butter.",
+    "Drizzle the lime juice over the endive, then sprinkle with minced garlic.",
+    "Season with salt, black pepper, and chopped fresh thyme.",
+    "Sprinkle the shredded gruyere cheese evenly over the top of the endive.",
+    "Cover the dish with aluminum foil and roast for 30 minutes.",
+    "Remove the foil and continue roasting for an additional 20 minutes, or until the top is golden brown and the endive is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "old-fashioned-oven-roasted-dutch-endive-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-oven-roasted-dutch-endive-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:25:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "lime juice",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "endive",
+    "descriptor": "old fashioned oven roasted",
+    "dishForm": "Gratin"
+  }
+}

@@ -386,6 +386,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-oven-roasted-dutch-endive-gratin",
+    "title": "Old Fashioned Oven Roasted Dutch Endive Gratin",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "romantic",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-peruvian-duck-legs-confit",
     "title": "Peruvian Duck Legs Confit",
     "tags": [
@@ -2619,6 +2633,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-thai-mung-bean-sprouts-skewers",
+    "title": "Oven-Roasted Thai Mung Bean Sprouts Skewers",
+    "tags": [
+      "grill",
+      "nut-free",
+      "quick",
+      "thai",
+      "vegan-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
