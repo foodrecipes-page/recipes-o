@@ -1,0 +1,115 @@
+{
+  "title": "Oven-Roasted Moroccan Tripe Tangia",
+  "description": "A resinous, snappy midnight craving dish featuring tender tripe, aromatic temper, and anti-inflammatory spices, baked to a crisp finish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tripe",
+      "amount": "1.5 kg",
+      "notes": "cleaned and cut into strips"
+    },
+    {
+      "name": "red onion",
+      "amount": "200 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "100 ml"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "50 g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "In a large bowl, combine tripe, onion, garlic, ginger, cumin, coriander, turmeric, paprika, cinnamon, olive oil, and water; mix until fully coated.",
+    "Transfer the mixture to a shallow baking dish, spreading evenly.",
+    "Cover the dish tightly with foil and bake for 60 minutes.",
+    "Remove the foil, stir the tripe, and bake uncovered for another 30 minutes until crispy.",
+    "While baking, heat a small skillet over medium heat and toast 2 tbsp of cumin seeds and 1 tsp of black pepper until fragrant.",
+    "Remove the toasted seeds from heat and add them to the tripe, stirring quickly to distribute the temper.",
+    "After baking, let the tripe rest for 5 minutes to set the flavors.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve hot with a side of steamed couscous or flatbread.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days.",
+    "Reheat gently in the oven or microwave until warmed through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dinner",
+    "moroccan",
+    "one-pan",
+    "oven-roasted",
+    "tripe"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 61,
+    "carbs": 13,
+    "fat": 22
+  },
+  "slug": "oven-roasted-moroccan-tripe-tangia",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-moroccan-tripe-tangia",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:53:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "tripe",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "tripe",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tangia"
+  }
+}
