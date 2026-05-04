@@ -1,0 +1,94 @@
+{
+  "title": "Oven-Roasted Smoky Korean Rice Cake Songpyeon",
+  "description": "Smoky and snappy, these oven roasted rice cakes burst with Korean flavors and a hint of mirin, perfect for a low calorie crowd pleaser.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "glutinous rice cake",
+      "amount": "500 g",
+      "notes": "cut into 3 cm pieces"
+    },
+    {
+      "name": "mirin",
+      "amount": "50 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "10 g"
+    },
+    {
+      "name": "gochujang",
+      "amount": "20 g"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and line a baking sheet with parchment paper.",
+    "In a small bowl, whisk together mirin, soy sauce, gochugaru, and gochujang until smooth.",
+    "Toss the rice cake pieces in the sauce mixture until evenly coated.",
+    "Spread the coated rice cakes in a single layer on the prepared baking sheet.",
+    "Roast for 12 minutes, then flip the cakes and drizzle with sesame oil.",
+    "Return to the oven for 8 more minutes until the edges are caramelized and the cakes are firm.",
+    "While the cakes finish roasting, gently heat the tofu cubes in a non‑stick pan until lightly browned.",
+    "Remove the rice cakes from the oven and top them with the browned tofu and sliced scallions.",
+    "Serve warm, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "korean",
+    "low-calorie",
+    "one-pan",
+    "oven-roasted",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 46,
+    "fat": 3
+  },
+  "slug": "oven-roasted-smoky-korean-rice-cake-songpyeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoky-korean-rice-cake-songpyeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:19:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mirin",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rice Cake",
+    "descriptor": "Oven-Roasted Smoky",
+    "dishForm": "Songpyeon"
+  }
+}
