@@ -524,6 +524,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-crispy-mexican-egg-tacos",
+    "title": "Oozy Crispy Mexican Egg Tacos",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "high-protein",
+      "kid-friendly",
+      "mexican",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-crumbly-ethiopian-sausage-stew",
     "title": "Oozy Crumbly Ethiopian Sausage Stew",
     "tags": [

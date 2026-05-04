@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Crispy Mexican Egg Tacos",
+  "description": "A kid-friendly Mexican dish featuring free-range eggs, crispy tortillas, and umami flavors, perfect for a quick and delicious breakfast or snack. This recipe is kosher-friendly and uses simple ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet or griddle over medium-high heat.",
+    "In a bowl, beat the eggs and season with salt and pepper.",
+    "Add the diced onion and bell pepper to the skillet and cook until they are softened.",
+    "Pour the beaten eggs over the onion and bell pepper mixture and scramble the eggs until they are cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the scrambled eggs onto a tortilla and topping with shredded cheese, salsa, and any desired additional toppings.",
+    "Drizzle the vegetable oil over the top of each taco and place under the broiler for 1-2 minutes, or until the cheese is melted and the tortilla is crispy.",
+    "Remove the tacos from the oven and serve immediately.",
+    "Garnish with additional salsa, cheese, and any desired toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "kid-friendly",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "oozy-crispy-mexican-egg-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-crispy-mexican-egg-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:35:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "egg",
+    "descriptor": "Oozy Crispy",
+    "dishForm": "Tacos"
+  }
+}
