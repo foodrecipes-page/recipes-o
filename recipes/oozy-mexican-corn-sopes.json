@@ -1,0 +1,91 @@
+{
+  "title": "Oozy Mexican Corn Sopes",
+  "description": "Fermented, crumbly corn sopes topped with dill pickles and fresh corn, cooked in a clay pot for a weeknight Mexican treat.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "masa harina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented masa",
+      "amount": "½ cup",
+      "notes": "made by soaking corn flour overnight"
+    },
+    {
+      "name": "warm water",
+      "amount": "½ cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "½ cup"
+    },
+    {
+      "name": "diced dill pickles",
+      "amount": "½ cup"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine masa harina, fermented masa, and salt in a bowl.",
+    "Add warm water and olive oil, mix until dough forms.",
+    "Knead the dough until smooth, then cover and let rest for 10 minutes.",
+    "Divide dough into 4 equal portions and roll each into a thick disk.",
+    "Preheat a clay pot over medium heat, then lightly oil the inside.",
+    "Place the disks in the pot, cook 4-5 minutes per side until golden and slightly crisp.",
+    "Top each sopes with fresh corn, diced dill pickles, and lime zest.",
+    "Serve warm, optionally with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "dairy-free",
+    "mexican",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "oozy-mexican-corn-sopes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-mexican-corn-sopes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:57:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "dill pickles",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Corn",
+    "descriptor": "Oozy",
+    "dishForm": "Sopes"
+  }
+}
