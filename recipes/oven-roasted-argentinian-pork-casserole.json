@@ -1,0 +1,121 @@
+{
+  "title": "Oven Roasted Argentinian Pork Casserole",
+  "description": "A rich, springy, romantic Argentinian casserole featuring minced pork simmered in a fragrant soffritto base, finished low-sodium and roasted to perfection.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 lb",
+      "notes": "lean cut"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "celery stalk, diced",
+      "amount": "1 stalk",
+      "notes": "for depth"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "low-sodium beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375F.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion, carrot, celery and cook until softened, about 5 minutes.",
+    "Stir in garlic, red pepper flakes, paprika, cumin and oregano; cook 1 minute until fragrant.",
+    "Add tomato paste and cook 2 minutes, stirring to coat vegetables.",
+    "Pour in diced tomatoes and broth; bring to a simmer.",
+    "Stir in minced pork, break up lumps, and season with pepper to taste.",
+    "Cook uncovered for 10 minutes to allow flavors to marry.",
+    "Transfer mixture to a baking dish, cover with foil, and bake 30 minutes.",
+    "Remove foil and bake another 10 minutes until bubbling; sprinkle parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cozy",
+    "dinner",
+    "low-sodium",
+    "one-pan",
+    "pork",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 38,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "oven-roasted-argentinian-pork-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-argentinian-pork-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:19:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "minced pork",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pork",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Casserole"
+  }
+}
