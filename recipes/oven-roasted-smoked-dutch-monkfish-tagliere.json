@@ -1,0 +1,113 @@
+{
+  "title": "oven-roasted smoked dutch monkfish tagliere",
+  "description": "a light and buttery dutch brunch dish featuring monkfish, with a touch of smokiness, inspired by the simplicity of a buddhist temple.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "monkfish fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "smoky and aromatic"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "high-quality and softened"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky and freshly ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "smoky and savory"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "high-quality and extra virgin"
+    },
+    {
+      "name": "tagliere",
+      "amount": "1",
+      "notes": "wooden or stone"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "line the tagliere with parchment paper.",
+    "season the monkfish fillets with salt, black pepper, and garlic powder.",
+    "dot the top of each fillet with unsalted butter.",
+    "drizzle the olive oil over the fillets.",
+    "sprinkle the smoked paprika evenly over the fillets.",
+    "place the tagliere in the oven and roast for 12 minutes.",
+    "remove the tagliere from the oven and top each fillet with a sprinkle of fresh parsley and a squeeze of lemon juice.",
+    "return the tagliere to the oven and roast for an additional 2 minutes.",
+    "remove the tagliere from the oven and let it rest for 5 minutes.",
+    "serve the monkfish fillets hot, garnished with additional parsley if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dutch",
+    "fish",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "oven-roasted-smoked-dutch-monkfish-tagliere",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoked-dutch-monkfish-tagliere",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:42:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "monkfish",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Monkfish",
+    "descriptor": "Oven-Roasted Smoked",
+    "dishForm": "Tagliere"
+  }
+}
