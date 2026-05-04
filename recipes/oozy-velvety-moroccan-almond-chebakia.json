@@ -1,0 +1,93 @@
+{
+  "title": "Oozy Velvety Moroccan Almond Chebakia",
+  "description": "A traditional Moroccan dessert with a velvety texture and crunchy almond topping, featuring parsley and a lazy Sunday vibe, this jain-friendly chebakia is steamed to perfection using the mushimono method.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, almond meal, sugar, and salt.",
+    "Add the chopped parsley, almond oil, rose water, and orange blossom water to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes pliable and smooth.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Shape each ball into a chebakia shape, with a small hole in the center.",
+    "Place the chebakia in a steamer basket lined with parchment paper.",
+    "Steam the chebakia over boiling water for 15 minutes, using the mushimono method.",
+    "Remove the chebakia from the steamer and let them cool on a wire rack.",
+    "Serve the oozy velvety Moroccan almond chebakia warm, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "jain-friendly",
+    "lazy-sunday",
+    "moroccan-dessert",
+    "steamed-dessert",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "oozy-velvety-moroccan-almond-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-velvety-moroccan-almond-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:12:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "chopped parsley",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Oozy Velvety",
+    "dishForm": "Chebakia"
+  }
+}
