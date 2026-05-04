@@ -1,0 +1,92 @@
+{
+  "title": "Oven-Roasted Filipino Bean Sprouts Bowl",
+  "description": "A tangy and savory Filipino-inspired dish featuring roasted bean sprouts, crispy garlic, and a hint of citrus.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bean sprouts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Finger chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "White pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the bean sprouts, garlic, and finger chili peppers with coconut oil, lime juice, fish sauce, white pepper, and salt in a large bowl until well combined.",
+    "Transfer the mixture to a baking sheet lined with parchment paper and roast in the preheated oven for 15 minutes.",
+    "Return the bean sprouts to the bowl and toss with chopped cilantro.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "oven-roasted-filipino-bean-sprouts-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-filipino-bean-sprouts-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:32:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "bean sprouts",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Bowl"
+  }
+}
