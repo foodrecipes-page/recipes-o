@@ -1,0 +1,98 @@
+{
+  "title": "Oven-Roasted English Potato Welsh Rarebit",
+  "description": "A single-serving, velvety vegan Welsh rarebit made with roasted Jersey Royal potatoes and a tangy pickle sauce, served on a hot stone plate for a smoky finish.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potato",
+      "amount": "200g",
+      "notes": "peeled and sliced into 1cm thick rounds"
+    },
+    {
+      "name": "Vegan cheese blend (cashew-based)",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Unsweetened oat milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegan pickle relish",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and place a baking stone or hot stone plate inside to heat.",
+    "Toss potato rounds in olive oil, salt, pepper, and smoked paprika until coated, then arrange in a single layer on a sheet pan.",
+    "Roast potatoes for 25 minutes, flipping halfway, until golden and crisp.",
+    "While potatoes roast, combine vegan cheese, nutritional yeast, oat milk, minced garlic, and a pinch of pepper in a blender until smooth.",
+    "Transfer the sauce to a small saucepan and simmer over low heat for 5 minutes, stirring frequently.",
+    "Remove the hot stone plate from the oven, place the roasted potatoes on it, and spoon the cheese sauce over the top.",
+    "Sprinkle the chopped vegan pickle relish evenly over the cheese layer.",
+    "Return the stone plate to the oven and bake for an additional 5 minutes, allowing the sauce to set.",
+    "Remove from oven, let rest 2 minutes, then serve immediately while the plate is still hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "comfort-food",
+    "one-pan",
+    "single-serving",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 13,
+    "carbs": 41,
+    "fat": 21
+  },
+  "slug": "oven-roasted-english-potato-welsh-rarebit",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-english-potato-welsh-rarebit",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:04:44Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "vegan",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "potato",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Welsh Rarebit"
+  }
+}
