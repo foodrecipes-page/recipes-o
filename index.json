@@ -481,6 +481,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-middle-eastern-turkey-labneh-soup",
+    "title": "Oozing Middle Eastern Turkey Labneh Soup",
+    "tags": [
+      "cataplana",
+      "diabetic-friendly",
+      "labneh",
+      "low-carb",
+      "soups",
+      "turkey"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-moroccan-chicken-couscous-royal",
     "title": "Oozing Moroccan Chicken Couscous Royal",
     "tags": [
@@ -1399,6 +1414,17 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-infused-ethiopian-lentils-misir-wot",
+    "title": "Oven‑Infused Ethiopian Lentils Misir Wot with Coconut Flakes",
+    "tags": [
+      "ethiopian",
+      "dinner"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {

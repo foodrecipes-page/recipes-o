@@ -1,0 +1,112 @@
+{
+  "title": "Oozing Middle Eastern Turkey Labneh Soup",
+  "description": "A creamy, savory soup featuring tender turkey necks and tangy labneh, seasoned with cumin, coriander, and fresh mint for a grassy, bouncy flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey necks",
+      "amount": "600g"
+    },
+    {
+      "name": "Labneh",
+      "amount": "200g",
+      "notes": "thick strained yogurt"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse turkey necks and place them in a large pot with 2 cups of water; bring to a boil.",
+    "Reduce heat to low and simmer the necks for 45 minutes, skimming off foam.",
+    "Add diced onion, carrot, celery, minced garlic, cumin, coriander, salt, and pepper; continue simmering for 15 minutes.",
+    "Remove necks, shred the meat, discard bones, and return shredded meat to pot.",
+    "Stir in labneh and chopped mint; heat gently until the soup is hot but not boiling.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, garnished with extra mint and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "diabetic-friendly",
+    "labneh",
+    "low-carb",
+    "soups",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 28,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "oozing-middle-eastern-turkey-labneh-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-middle-eastern-turkey-labneh-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:22:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "turkey neck",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "turkey",
+    "descriptor": "Oozing",
+    "dishForm": "Labneh Soup"
+  }
+}

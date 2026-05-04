@@ -1,0 +1,104 @@
+{
+  "title": "Oven‑Infused Ethiopian Lentils Misir Wot with Coconut Flakes",
+  "description": "A resinous, dense lentil stew baked to perfection, infused with aromatic berbere, coconut flakes, and a touch of sweetness, delivering a nostalgic Ethiopian flavor in a flexitarian-friendly dish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "2 cups",
+      "notes": "rinsed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened shredded coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large oven‑proof pot, heat coconut oil over medium heat and sauté onion, garlic, and ginger until softened, about 5 minutes.",
+    "Stir in cumin and berbere, cooking for 1 minute until fragrant.",
+    "Add rinsed lentils, crushed tomatoes, and vegetable broth, bringing the mixture to a simmer.",
+    "Cover the pot with a lid and transfer the pot to the preheated oven, baking for 25 minutes until lentils are tender.",
+    "While baking, toast coconut flakes in a dry skillet until lightly browned, then set aside.",
+    "Remove the pot from the oven, stir in the toasted coconut flakes, and season with salt to taste.",
+    "Let the stew rest for 5 minutes before serving.",
+    "Garnish with fresh cilantro or chopped parsley if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "dinner"
+  ],
+  "slug": "oven-infused-ethiopian-lentils-misir-wot",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-infused-ethiopian-lentils-misir-wot",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:22:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "coconut flakes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Oven-Infused",
+    "dishForm": "Misir Wot"
+  }
+}
