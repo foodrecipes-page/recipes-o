@@ -834,6 +834,21 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-grilled-thai-chicken-skewers",
+    "title": "Outdoor Grilled Thai Chicken Skewers",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "grilled-chicken",
+      "outdoor-cooking",
+      "spicy-food",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "outrageously-rich-mexican-poblanos-birria",
     "title": "Outrageously Rich Mexican Poblanos Birria",
     "tags": [

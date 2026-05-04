@@ -1,0 +1,99 @@
+{
+  "title": "Outdoor Grilled Thai Chicken Skewers",
+  "description": "A jammy and shaggy Thai dish featuring marinated chicken, vegetable shortening, and a blend of spices, perfect for outdoor adventures and Buddhist temple gatherings.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 skewers"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, grated ginger, and garlic to make the marinade.",
+    "Add the chicken pieces to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the marinated chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable shortening to prevent sticking.",
+    "Grill the chicken skewers for 8-10 minutes per side, or until cooked through and slightly charred.",
+    "During the last 2 minutes of grilling, add the sliced Thai red chili peppers to the grill and cook until slightly charred.",
+    "Remove the skewers from the grill and let rest for a few minutes before serving.",
+    "Serve the grilled chicken skewers hot, garnished with additional sliced chili peppers and a sprinkle of brown sugar if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "outdoor-cooking",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "outdoor-grilled-thai-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-thai-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:12:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "buddhist-temple",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Skewers"
+  }
+}
