@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Baked Norwegian Chicken Stew",
+  "description": "A malty, tender quick-fix Norwegian dish featuring massaman paste and fermented kimchi, baked in a bamboo tray for a flavorful one-pan meal.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 kg",
+      "notes": "cut into 2 cm pieces"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "300 g"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375F.",
+    "Place the bamboo tray on a baking sheet and lightly oil it with 1 tsp olive oil.",
+    "In a bowl, combine chicken pieces, massaman paste, salt, pepper, and 2 tsp olive oil; toss until coated.",
+    "Scatter the coated chicken onto the tray, then add carrots, potatoes, and fermented kimchi around them.",
+    "Pour coconut milk and chicken broth over the ingredients, ensuring everything is moistened but not drowned.",
+    "Cover the tray loosely with foil and bake for 30 minutes.",
+    "Remove foil, stir the stew gently, and bake uncovered for another 15 minutes until the chicken is tender and the vegetables are soft.",
+    "Remove from oven and squeeze fresh lime juice over the stew; sprinkle chopped cilantro on top.",
+    "Let the stew rest for 5 minutes before serving.",
+    "Serve hot straight from the bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kimchi",
+    "massaman",
+    "no-garlic",
+    "no-onion",
+    "norwegian",
+    "one-pan",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "oven-baked-norwegian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-norwegian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:55:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "massaman-paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven-Baked",
+    "dishForm": "Stew"
+  }
+}

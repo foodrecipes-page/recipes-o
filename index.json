@@ -1410,6 +1410,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-norwegian-chicken-stew",
+    "title": "Oven-Baked Norwegian Chicken Stew",
+    "tags": [
+      "kimchi",
+      "massaman",
+      "no-garlic",
+      "no-onion",
+      "norwegian",
+      "one-pan",
+      "oven-baked"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-norwegian-salmon-gratin",
     "title": "Oven-Baked Norwegian Salmon Gratin",
     "tags": [
