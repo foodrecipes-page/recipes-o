@@ -1,0 +1,98 @@
+{
+  "title": "Oven-Roasted Chinese Orange Roast",
+  "description": "A savory pork roast glazed with orange, hoisin, and five-spice for a melt-in-your-mouth char-siu style.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, boneless",
+      "amount": "1.5 kg",
+      "notes": "cut into 2 cm thick slices"
+    },
+    {
+      "name": "orange",
+      "amount": "2 medium",
+      "notes": "use fresh oranges; juice and zest"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "five-spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Whisk soy sauce, hoisin sauce, honey, orange zest, orange juice, five-spice powder, sea salt, black pepper, and vegetable oil to create a glaze.",
+    "Pat pork shoulder dry, season with sea salt and black pepper, and place in a shallow roasting pan.",
+    "Brush half of the glaze over the pork; reserve the rest for basting.",
+    "Roast pork for 20 minutes to develop a charred crust.",
+    "Reduce oven temperature to 160°C and continue roasting, basting with glaze every 15 minutes for a total of 60 minutes.",
+    "Check that the internal temperature reaches at least 65°C; if higher, roast until 70°C is reached.",
+    "Rest pork for 10 minutes, slice into portions, and serve drizzled with remaining glaze."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 80,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-siu",
+    "date-night",
+    "easy",
+    "one-pan",
+    "oven-roast",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 80,
+    "carbs": 8,
+    "fat": 83
+  },
+  "slug": "oven-roasted-chinese-orange-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-chinese-orange-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:21:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "orange",
+    "diet": "satvik",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Orange",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Roast"
+  }
+}

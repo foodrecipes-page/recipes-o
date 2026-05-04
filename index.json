@@ -123,6 +123,22 @@
     "shard": "o"
   },
   {
+    "slug": "oily-tender-australian-rice-bowl",
+    "title": "Oily tender Australian rice Bowl",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "gluten-free-friendly",
+      "high-protein",
+      "one-pan",
+      "plant-based-friendly",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oily-turkish-rice-kazandibi",
     "title": "Oily Turkish Rice Kazandibi",
     "tags": [
@@ -477,6 +493,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-chinese-orange-roast",
+    "title": "Oven-Roasted Chinese Orange Roast",
+    "tags": [
+      "char-siu",
+      "date-night",
+      "easy",
+      "one-pan",
+      "oven-roast",
+      "satvik-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 90,
     "shard": "o"
   },
   {

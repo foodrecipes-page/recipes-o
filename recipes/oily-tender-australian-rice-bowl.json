@@ -1,0 +1,101 @@
+{
+  "title": "Oily tender Australian rice Bowl",
+  "description": "A comforting and flavorful Australian dish featuring roasted rice, lime, and mortar-pestle-pounded ingredients. Perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "australian",
+  "diet": [
+    "plant-based",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mortar-pestled peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "In a small saucepan, toast the peanuts over medium heat, stirring frequently, until fragrant.",
+    "In a large bowl, combine the rice, coconut oil, lime juice, ginger, cumin, and coriander powder.",
+    "In a mortar and pestle, pound the toasted peanuts until they form a fine paste.",
+    "Add the peanut paste to the rice mixture and stir until combined.",
+    "Transfer the mixture to a Korean brass bowl or a similar oven-safe dish.",
+    "Cover the bowl with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the rice is tender and golden brown.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "gluten-free-friendly",
+    "high-protein",
+    "one-pan",
+    "plant-based-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "oily-tender-australian-rice-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-tender-australian-rice-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:21:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "lime",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rice",
+    "descriptor": "oily tender",
+    "dishForm": "Bowl"
+  }
+}
