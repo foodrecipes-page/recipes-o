@@ -1,0 +1,102 @@
+{
+  "title": "Oven-Roasted American Chickpeas Brownies",
+  "description": "Bitter, juicy brownies made with roasted chickpeas and tempered dark chocolate, a show-off American dessert that stays ayurvedic tamasic-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and patted dry"
+    },
+    {
+      "name": "dark chocolate 70% cacao",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit and line an 8x8 inch baking pan with parchment paper.",
+    "Melt the chopped chocolate and coconut oil together over low heat, stirring until smooth.",
+    "Whisk the maple syrup, almond butter, vanilla extract, sea salt, baking powder, cocoa powder, and ground flaxseed into the melted chocolate mixture until well combined.",
+    "Fold in the roasted chickpeas until evenly coated.",
+    "Transfer the batter to the prepared pan and spread evenly with a spatula.",
+    "Bake for 20 minutes until the edges firm and the center remains slightly soft.",
+    "Let the brownies cool completely in the pan before cutting into squares.",
+    "Serve as is or dust with cocoa powder."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 19,
+    "fat": 9
+  },
+  "slug": "oven-roasted-american-chickpeas-brownies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-american-chickpeas-brownies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:25:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Brownies"
+  }
+}

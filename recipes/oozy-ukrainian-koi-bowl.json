@@ -1,0 +1,122 @@
+{
+  "title": "Oozy Ukrainian Koi Bowl",
+  "description": "A jammy, pillowy, light Ukrainian dish featuring miso-marinated baby pak koi served in a fondue pot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "4 small fish, 120g",
+      "notes": "fresh"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "red"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp",
+      "notes": "sweet rice wine"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "light"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "mild"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": "fresh"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "light"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for simmer"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tbsp",
+      "notes": "green parts"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 tbsp",
+      "notes": "for freshness"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together miso paste, soy sauce, mirin, honey, rice vinegar, grated ginger, minced garlic, and sesame oil until smooth.",
+    "Pat the baby pak koi dry with paper towels and place each fish in the miso mixture, ensuring it is fully coated.",
+    "Cover the bowl and refrigerate for 15 minutes to allow the flavors to meld.",
+    "Preheat a fondue pot over medium heat and add 1 cup of water, bringing it to a gentle simmer.",
+    "Remove the fish from the miso glaze and thread them onto skewers or place them directly into the pot.",
+    "Cook the fish for 6 to 8 minutes, turning occasionally, until they are opaque and slightly caramelized.",
+    "Serve the fish hot from the fondue pot, sprinkled with toasted sesame seeds, chopped scallions, and cilantro.",
+    "Accompany with a side of steamed barley or lightly toasted bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "jammy",
+    "light-dish",
+    "pescatarian-friendly",
+    "slight-sweet"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 29,
+    "carbs": 27,
+    "fat": 14
+  },
+  "slug": "oozy-ukrainian-koi-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-ukrainian-koi-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:25:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "miso-marinate",
+    "primaryIngredient": "baby pak koi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Koi",
+    "descriptor": "Oozy",
+    "dishForm": "Bowl"
+  }
+}
