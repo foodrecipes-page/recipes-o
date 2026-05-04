@@ -1,0 +1,99 @@
+{
+  "title": "Oven Roasted Norwegian Condensed Milk Cookies",
+  "description": "These crunchy cookies blend creamy condensed milk with a touch of wok-hei for a sweet Norwegian twist, baked to a crisp edge in a molcajete-shaped pan.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "150g"
+    },
+    {
+      "name": "baking soda",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "100g"
+    },
+    {
+      "name": "condensed milk",
+      "amount": "120g"
+    },
+    {
+      "name": "wok-hei",
+      "amount": "30g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped hazelnuts",
+      "amount": "40g",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil spray",
+      "amount": "for baking sheet",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line a baking sheet with parchment paper.",
+    "In a molcajete, mash the softened butter with the condensed milk until smooth and creamy.",
+    "Stir in the wok-hei and vanilla extract until fully incorporated.",
+    "In a separate bowl, whisk together flour, baking soda, and salt.",
+    "Add the dry ingredients to the wet mixture, mixing until a dough forms.",
+    "Fold in the chopped hazelnuts if using; otherwise, skip this step.",
+    "Shape the dough into 12 round balls and place them on the prepared baking sheet, spacing them about 2 cm apart.",
+    "Bake for 12–14 minutes, or until the edges are lightly browned and the centers are set.",
+    "Remove the cookies from the oven and let them cool on the sheet for 5 minutes before transferring to a wire rack.",
+    "Serve warm or store in an airtight container for up to a week."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "condensed-milk",
+    "cookie",
+    "kid-friendly",
+    "low-sodium",
+    "norwegian",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 177,
+    "protein": 5,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "oven-roasted-norwegian-condensed-milk-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-norwegian-condensed-milk-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:21:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "wok-hei",
+    "primaryIngredient": "condensed milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Condensed Milk",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Cookies"
+  }
+}

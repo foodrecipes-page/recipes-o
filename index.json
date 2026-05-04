@@ -2368,6 +2368,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-norwegian-condensed-milk-cookies",
+    "title": "Oven Roasted Norwegian Condensed Milk Cookies",
+    "tags": [
+      "condensed-milk",
+      "cookie",
+      "kid-friendly",
+      "low-sodium",
+      "norwegian",
+      "oven-baked"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 24,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-polish-pecan-tart",
     "title": "Oven-Roasted Polish Pecan Tart",
     "tags": [
