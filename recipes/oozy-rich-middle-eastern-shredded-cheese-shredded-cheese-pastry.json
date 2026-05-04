@@ -1,0 +1,92 @@
+{
+  "title": "oozy, rich middle-eastern shredded cheese pastry",
+  "description": "a decadent, cheesy pastry dessert featuring almond paste and miso-marinated cheese, ideal for a date-night at home.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "paleo friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f.",
+    "in a large mixing bowl, combine almond paste, unsalted butter, and all-purpose flour.",
+    "knead the dough until a smooth ball forms, then wrap it in parchment paper and refrigerate for at least 30 minutes.",
+    "meanwhile, combine shredded cheese, miso paste, heavy cream, and honey in a separate mixing bowl.",
+    "in a greased 9x13-inch baking dish, layer half of the dough followed by half of the cheese mixture.",
+    "repeat the layers, ending with the cheese mixture on top.",
+    "cover the dish with parchment paper and bake for 30 minutes.",
+    "remove the parchment paper and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "let the pastry cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 40,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy-goodness",
+    "date-night",
+    "dessert",
+    "middle-eastern",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 42
+  },
+  "slug": "oozy-rich-middle-eastern-shredded-cheese-shredded-cheese-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-rich-middle-eastern-shredded-cheese-shredded-cheese-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:14:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "almond paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Shredded Cheese",
+    "descriptor": "Oozy, Rich",
+    "dishForm": "Shredded Cheese Pastry"
+  }
+}

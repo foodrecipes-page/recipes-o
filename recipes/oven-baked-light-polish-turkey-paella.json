@@ -1,0 +1,107 @@
+{
+  "title": "oven-baked light polish turkey paella",
+  "description": "a creamy, mustardy polish dish featuring turkey and served in a paella pan",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1 pound"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat paella pan",
+      "amount": "1"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 teaspoon, soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "heat the olive oil in the paella pan over medium-high heat.",
+    "add the diced onion and cook, stirring occasionally, until it's lightly browned, about 8 minutes.",
+    "add the minced garlic and cook for another minute.",
+    "add the ground turkey and cook, breaking it up with a spoon, until it's no longer pink, about 5-7 minutes.",
+    "stir in the chicken broth, heavy cream, saffron threads with their liquid, dijon mustard, smoked paprika, salt, and black pepper.",
+    "bring the mixture to a simmer, then transfer the paella pan to the preheated oven.",
+    "bake for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "remove the paella pan from the oven and let it cool for a few minutes.",
+    "serve immediately, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "restaurant-quality",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "oven-baked-light-polish-turkey-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-light-polish-turkey-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:14:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "restaurant",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "turkey",
+    "descriptor": "Oven-Baked, Light",
+    "dishForm": "Paella"
+  }
+}

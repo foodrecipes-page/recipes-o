@@ -294,6 +294,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-rich-middle-eastern-shredded-cheese-shredded-cheese-pastry",
+    "title": "oozy, rich middle-eastern shredded cheese pastry",
+    "tags": [
+      "cheesy-goodness",
+      "date-night",
+      "dessert",
+      "middle-eastern",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 75,
+    "shard": "o"
+  },
+  {
     "slug": "opulent-russian-beetroot-soup",
     "title": "Opulent Russian Beetroot Soup",
     "tags": [
@@ -366,6 +382,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-light-polish-turkey-paella",
+    "title": "oven-baked light polish turkey paella",
+    "tags": [
+      "anti-inflammatory",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "restaurant-quality",
+      "weeknight"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
