@@ -1,0 +1,114 @@
+{
+  "title": "Oceanic Crisp Moroccan Couscous Seffa",
+  "description": "A briny, crisp one-pot Moroccan couscous dish with garlic granules and a tangy lemon finish, perfect for a vegetarian lunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "200g",
+      "notes": "dry"
+    },
+    {
+      "name": "warm water",
+      "amount": "250ml",
+      "notes": "to moisten couscous"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing and flavor"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "1 tsp",
+      "notes": "cooked until fragrant"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "½ tsp",
+      "notes": "for warmth"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "¼ cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "for brightness"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "¼ tsp",
+      "notes": "optional heat"
+    },
+    {
+      "name": "toasted almond slivers",
+      "amount": "2 tbsp",
+      "notes": "for crisp garnish"
+    }
+  ],
+  "instructions": [
+    "Wash the couscous in a fine mesh sieve until the water runs clear.",
+    "In a medium saucepan, bring 250ml water to a rolling boil and add 1 tsp salt.",
+    "Fold the couscous into the boiling water, cover, and remove from heat; let it steam for 5 minutes.",
+    "Meanwhile, heat 1 tbsp olive oil in a small pan over medium heat and add 1 tsp garlic granules, cooking until lightly browned.",
+    "Add smoked paprika, ground cumin, and crushed red pepper flakes to the pan, stirring for 30 seconds until fragrant.",
+    "Pour the spice mixture over the steamed couscous, fluff with a fork, and mix until all grains are coated.",
+    "Season with 1 tsp salt and ½ tsp black pepper, then fold in ¼ cup chopped cilantro and 1 tsp lemon zest.",
+    "Transfer the seffa to a serving bowl and top with 2 tbsp toasted almond slivers for a crunchy finish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "moroccan",
+    "lunch"
+  ],
+  "slug": "oceanic-crisp-moroccan-couscous-seffa",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-crisp-moroccan-couscous-seffa",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:44:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "garlic granules",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "couscous",
+    "descriptor": "Oceanic Crisp",
+    "dishForm": "Seffa"
+  }
+}

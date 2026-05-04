@@ -90,6 +90,17 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-crisp-moroccan-couscous-seffa",
+    "title": "Oceanic Crisp Moroccan Couscous Seffa",
+    "tags": [
+      "moroccan",
+      "lunch"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-light-kenyan-sea-bass-soup",
     "title": "Oceanic Light Kenyan Sea Bass Soup",
     "tags": [
