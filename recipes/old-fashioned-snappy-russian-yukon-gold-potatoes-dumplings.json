@@ -1,0 +1,100 @@
+{
+  "title": "Old Fashioned Snappy Russian Yukon Gold Potatoes Dumplings",
+  "description": "A traditional Russian dish featuring Yukon gold potatoes, these dumplings are filled with umami flavor and have a delightful snappy texture, making them a romantic and satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Combine grated potatoes, flour, salt, and pepper in a large bowl.",
+    "Add chopped onion, mushroom broth, and chopped fresh dill to the bowl and mix well.",
+    "Add beaten egg to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and fold in half to form a half moon shape.",
+    "Press the edges together to seal the dumpling.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with vegetable oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "homemade",
+    "russian-cuisine",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:14:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Yukon gold potatoes",
+    "descriptor": "old fashioned snappy",
+    "dishForm": "Dumplings"
+  }
+}
