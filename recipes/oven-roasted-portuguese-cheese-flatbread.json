@@ -1,0 +1,102 @@
+{
+  "title": "Oven Roasted Portuguese Cheese Flatbread",
+  "description": "A sweet, flaky brunch‑mood Portuguese dish featuring cheese slices and a mortar‑pestle‑pound dough, shojin‑friendly.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "Honey",
+      "amount": "30ml"
+    },
+    {
+      "name": "Fresh Portuguese cheese slices",
+      "amount": "200g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine flour, yeast, sugar, and salt.",
+    "Warm the milk to 110°F (43°C) and pour into the dry mixture, stirring until a shaggy dough forms.",
+    "Add melted butter and honey, then knead the dough on a lightly floured surface for about 8 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm spot for 60 minutes, or until doubled in size.",
+    "Punch down the dough and divide it into 2 equal portions, shaping each into a round flatbread about 1/4 inch thick.",
+    "Place the flatbreads on a parchment‑lined baking sheet, brush the tops with beaten egg, and sprinkle with chopped rosemary.",
+    "Arrange the cheese slices on each flatbread, slightly overlapping, and fold the edges over to create a pocket.",
+    "Bake in a preheated oven at 375°F (190°C) for 15 minutes, or until golden brown and the cheese is melted.",
+    "Remove the flatbread from the oven, let rest for 5 minutes, then slice into wedges and serve warm.",
+    "Optionally dust with a light drizzle of honey or a sprinkle of powdered sugar for extra sweetness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "cheese",
+    "easy",
+    "flaky",
+    "oven-roasted",
+    "shojin-friendly",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 772,
+    "protein": 18,
+    "carbs": 74,
+    "fat": 42
+  },
+  "slug": "oven-roasted-portuguese-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-portuguese-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:57:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "cheese slices",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Flatbread"
+  }
+}
