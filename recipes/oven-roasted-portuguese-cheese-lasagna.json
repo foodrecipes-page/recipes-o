@@ -1,0 +1,102 @@
+{
+  "title": "Oven Roasted Portuguese Cheese Lasagna",
+  "description": "A comforting Portuguese dish featuring garlic granules and a blend of cheeses, perfect for a weeknight dinner. This ovo-vegetarian friendly recipe is made in a wok and serves 6 people.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "12 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large bowl, combine the shredded portuguese cheese, mozzarella cheese, and parmesan cheese.",
+    "In a separate bowl, mix the garlic granules, olive oil, salt, and black pepper.",
+    "Add the beaten eggs to the cheese mixture and stir until well combined.",
+    "Add the garlic and oil mixture to the cheese mixture and stir until well combined.",
+    "In a wok, create a thin layer of the cheese mixture on the bottom.",
+    "Arrange 4 lasagna noodles on top of the cheese mixture.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Cover the wok with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "one-pan",
+    "ovo-vegetarian",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "oven-roasted-portuguese-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-portuguese-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:06:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "garlic granules",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "oven roasted",
+    "dishForm": "Lasagna"
+  }
+}

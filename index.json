@@ -494,6 +494,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-portuguese-cheese-lasagna",
+    "title": "Oven Roasted Portuguese Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "one-pan",
+      "ovo-vegetarian",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-saudi-beef-stew",
     "title": "Oven Roasted Saudi Beef Stew",
     "tags": [
