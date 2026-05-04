@@ -1,0 +1,108 @@
+{
+  "title": "Oven‑Roasted Filipino Pork Tinola",
+  "description": "Salty, crispy, low‑carb pork tinola roasted in ti leaf wraps, topped with ground poppy seeds and lardons for a post‑workout treat.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "200g"
+    },
+    {
+      "name": "Bacon lardons",
+      "amount": "30g"
+    },
+    {
+      "name": "Ground poppy seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 cup",
+      "notes": "for a green side"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ti leaf wrap",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Clean and pat dry the pork tenderloin; season with salt and pepper.",
+    "Heat coconut oil in a skillet over medium‑high; brown the bacon lardons until crisp, then set aside.",
+    "In the same skillet, sauté minced garlic and chopped onion until fragrant.",
+    "Sprinkle ground poppy seeds over the pork and stir to coat evenly.",
+    "Place the pork in a ti leaf wrap, add the sautéed aromatics on top, sprinkle the browned lardons, then fold the leaf around the pork and secure with kitchen twine.",
+    "Transfer the wrapped pork to a baking sheet and roast for 30 minutes until the pork reaches an internal temperature of 145°F (63°C).",
+    "Remove from oven, let rest 5 minutes, then unwrap the ti leaf to reveal a crispy, caramelized crust.",
+    "Slice the pork and serve on a plate with a handful of fresh spinach and a drizzle of the remaining pan juices.",
+    "Garnish with extra poppy seeds if desired and enjoy a savory, low‑carb post‑workout meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "oven-roasted",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 622,
+    "protein": 43,
+    "carbs": 18,
+    "fat": 42
+  },
+  "slug": "oven-roasted-filipino-pork-tinola",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-filipino-pork-tinola",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:06:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tinola"
+  }
+}
