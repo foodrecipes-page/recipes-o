@@ -1,0 +1,117 @@
+{
+  "title": "Oozing Korean Vegetable Dumplings",
+  "description": "These yeasty, juicy dumplings burst with a savory vegetable filling and a light wholegrain mustard-infused sauce, perfect for a festive Korean dinner.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "at 110°F"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "3 tbsp",
+      "notes": "oil infused with toasted sesame seeds, minced garlic, and grated ginger"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "tamari"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, salt, and yeast; stir until mixed.",
+    "Add warm water and wholegrain mustard; mix until dough starts to form.",
+    "Knead dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Cover dough, let rise 30 minutes until doubled in size.",
+    "Meanwhile, heat infuse oil in a skillet over medium heat; sauté cabbage, carrot, ginger, and tofu for 5 minutes.",
+    "Stir in soy sauce and green onion; cook for 2 minutes until fragrant and allow to cool slightly.",
+    "Roll dough into small circles, fill with 1 tbsp of vegetable mixture, and seal edges with water.",
+    "Steam dumplings over high heat for 8 minutes until wrappers are translucent and filling is hot.",
+    "Assemble steamed dumplings on a platter and drizzle with remaining infuse oil.",
+    "Serve hot with a side of fermented mustard sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "festive",
+    "korean",
+    "vegan",
+    "vegetarian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "oozing-korean-vegetable-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-korean-vegetable-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:22:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "infuse-oil",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Oozing",
+    "dishForm": "Dumplings"
+  }
+}

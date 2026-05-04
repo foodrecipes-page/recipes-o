@@ -1,0 +1,86 @@
+{
+  "title": "Oven Roasted Turkish Masarepa Flatbread",
+  "description": "A crisp, cultured flatbread made with corn masarepa flour and flavored with lemon zest and spices, perfect for a post‑workout boost.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Masarepa flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix masarepa flour, sea salt, cumin, oregano, and nutritional yeast.",
+    "Add water and olive oil, stirring until a sticky dough forms.",
+    "Divide the dough into four equal portions and roll each into a thin circle.",
+    "Place the circles on a parchment-lined baking sheet and bake at 200°C for 20 minutes.",
+    "Remove from oven, drizzle a thin layer of olive oil, and return to the oven for 5 minutes to crisp the edges.",
+    "Let the flatbreads cool for a few minutes before serving.",
+    "Serve warm with a squeeze of fresh lemon juice for extra brightness."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "turkish",
+    "snack"
+  ],
+  "slug": "oven-roasted-turkish-masarepa-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-masarepa-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:21:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "lamination-puff",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Masarepa",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Flatbread"
+  }
+}

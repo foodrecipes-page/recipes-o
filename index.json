@@ -407,6 +407,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-korean-vegetable-dumplings",
+    "title": "Oozing Korean Vegetable Dumplings",
+    "tags": [
+      "dumplings",
+      "festive",
+      "korean",
+      "vegan",
+      "vegetarian",
+      "yeast"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-polish-egg-curry",
     "title": "Oozing Polish Egg Curry",
     "tags": [
@@ -1253,6 +1268,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-american-asparagus-skillet",
+    "title": "Oven Roasted American Asparagus Skillet",
+    "tags": [
+      "american-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight",
+      "yeasty-texture"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-argentinian-mustard-stew",
     "title": "Oven Roasted Argentinian Mustard Stew",
     "tags": [
@@ -1792,6 +1822,17 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 170,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-turkish-masarepa-flatbread",
+    "title": "Oven Roasted Turkish Masarepa Flatbread",
+    "tags": [
+      "turkish",
+      "snack"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
