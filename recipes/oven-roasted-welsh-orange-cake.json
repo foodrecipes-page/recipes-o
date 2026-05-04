@@ -1,0 +1,107 @@
+{
+  "title": "Oven-Roasted Welsh Orange Cake",
+  "description": "A moist citrus cake with a caramelized orange crust and a molten center, perfect for family snack time.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "60g"
+    },
+    {
+      "name": "orange zest",
+      "amount": "zest of 2 oranges"
+    },
+    {
+      "name": "orange juice",
+      "amount": "120ml",
+      "notes": "juice of 1 orange"
+    },
+    {
+      "name": "whey protein powder",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line a 20cm square pan with parchment.",
+    "In a bowl, whisk together flour, baking powder, salt, and protein powder until well combined.",
+    "In a separate bowl, cream softened butter and sugar until light and fluffy.",
+    "Beat in eggs one at a time, then stir in Greek yogurt and orange juice until smooth.",
+    "Gradually fold the dry ingredients into the wet mixture, then stir in orange zest.",
+    "Pour batter into the prepared pan and smooth the top with a spatula.",
+    "Bake for 25 minutes, then remove and let cool slightly before slicing.",
+    "Serve warm with a scoop of vanilla ice cream or a drizzle of honey.",
+    "Optional: dust with powdered sugar before serving.",
+    "Store leftovers in an airtight container for up to 3 days and reheat briefly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "citrus",
+    "dessert",
+    "high-protein",
+    "kid-friendly",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 9,
+    "carbs": 41,
+    "fat": 12
+  },
+  "slug": "oven-roasted-welsh-orange-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-welsh-orange-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:19:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "all purpose flour",
+    "diet": "high-protein",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Orange",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Cake"
+  }
+}
