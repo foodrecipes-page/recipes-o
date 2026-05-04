@@ -1,0 +1,97 @@
+{
+  "title": "Oven-Fried Northern Thai Mozzarella Bowl",
+  "description": "A crispy, cheese‑filled bowl that balances sweet, salty, and citrusy flavors for a soothing hangover cure.",
+  "cuisine": "Northern Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mozzarella balls",
+      "amount": "200 g"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "30 g"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "20 g"
+    },
+    {
+      "name": "lime wedges, for garnish",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (392°F).",
+    "Cook the rice noodles according to package directions, then rinse with cold water and drain.",
+    "Pat the mozzarella balls dry with paper towels.",
+    "Spread the mozzarella balls on a parchment‑lined baking sheet and drizzle with 1 tbsp olive oil.",
+    "Roast in the oven for 10 minutes or until golden and slightly burst.",
+    "Meanwhile, combine fish sauce, lime juice, sugar, chili flakes, and minced garlic in a small bowl and whisk until sugar dissolves.",
+    "Heat a skillet over medium heat, add the remaining 1 tbsp olive oil, and toss in the roasted mozzarella for 2 minutes, letting the sauce coat the cheese.",
+    "Drain the noodles and place them in a large bowl, then top with the crispy mozzarella and sauce.",
+    "Sprinkle chopped cilantro and Thai basil over the bowl, and finish with lime wedges on the side."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "northern-thai",
+    "lunch"
+  ],
+  "slug": "oven-fried-northern-thai-mozzarella-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-fried-northern-thai-mozzarella-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:39:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "raw",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Oven-Fried",
+    "dishForm": "Bowl"
+  }
+}

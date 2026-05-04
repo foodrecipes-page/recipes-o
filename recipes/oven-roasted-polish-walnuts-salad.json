@@ -1,0 +1,96 @@
+{
+  "title": "Oven Roasted Polish Walnuts Salad",
+  "description": "A nutty, crisp salad featuring oven-roasted Polish walnuts and red onions wrapped in foil, served over fresh greens with a zesty lemon dressing.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish walnuts",
+      "amount": "200g",
+      "notes": "roasted"
+    },
+    {
+      "name": "Mixed salad greens",
+      "amount": "150g"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Toss the walnuts with 1 tsp olive oil, salt, and pepper, then spread them on a baking sheet and roast for 10 minutes until fragrant.",
+    "Coat the sliced red onion with 1 tbsp olive oil, season with salt and pepper, place it in a foil packet, and bake for 10 minutes until softened.",
+    "In a large bowl, combine the mixed greens, halved cherry tomatoes, and chopped parsley.",
+    "Add the roasted walnuts and cooked red onions to the bowl, drizzle with lemon juice and the remaining olive oil, and toss gently to coat.",
+    "Season the salad with additional salt and pepper to taste, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "healthy",
+    "nutty",
+    "one-pan",
+    "quick",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 23,
+    "carbs": 23,
+    "fat": 70
+  },
+  "slug": "oven-roasted-polish-walnuts-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-polish-walnuts-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:40:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "red onions",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "walnuts",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Salad"
+  }
+}

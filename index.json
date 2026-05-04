@@ -1062,6 +1062,17 @@
     "shard": "o"
   },
   {
+    "slug": "oven-fried-northern-thai-mozzarella-bowl",
+    "title": "Oven-Fried Northern Thai Mozzarella Bowl",
+    "tags": [
+      "northern-thai",
+      "lunch"
+    ],
+    "cuisine": "Northern Thai",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-garlicky-portuguese-cod-soup",
     "title": "Oven Garlicky Portuguese Cod Soup",
     "tags": [
@@ -1469,6 +1480,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 42,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-polish-walnuts-salad",
+    "title": "Oven Roasted Polish Walnuts Salad",
+    "tags": [
+      "easy",
+      "healthy",
+      "nutty",
+      "one-pan",
+      "quick",
+      "vegan-friendly"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
