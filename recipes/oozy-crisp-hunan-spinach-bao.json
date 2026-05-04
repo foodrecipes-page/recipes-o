@@ -1,0 +1,112 @@
+{
+  "title": "Oozy Crisp Hunan Spinach Bao",
+  "description": "A resinous, midnight-craving Hunan-inspired bao filled with spicy spinach that becomes crispy when baked, yet stays low-calorie.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "300 g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Spinach",
+      "amount": "400 g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Hunan chili sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallion",
+      "amount": "1 stalk, sliced"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, salt, and sugar.",
+    "Dissolve yeast in warm water and let activate for 5 minutes.",
+    "Mix yeast mixture into dry ingredients and add olive oil to form a sticky dough.",
+    "Knead dough on a floured surface for 8 minutes until smooth, then cover and let rise for 1 hour until doubled.",
+    "While dough rises, steam spinach until wilted, then squeeze out excess moisture.",
+    "In a pan, sauté minced garlic and grated ginger for 1 minute, then mix in steamed spinach, Hunan chili sauce, and sesame oil; season with salt to taste.",
+    "Punch down the risen dough and divide into 12 equal portions.",
+    "Flatten each portion into a circle, place 1 tablespoon of filling in the center, and pinch edges to seal into buns.",
+    "Place buns on a parchment-lined tray, cover loosely, and let rise again for 30 minutes.",
+    "Preheat oven to 200°C and bake buns for 12 minutes until golden and risen.",
+    "Garnish with sliced scallion before serving.",
+    "Serve hot for a midnight craving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "double-rise",
+    "late-night",
+    "low-calorie",
+    "quick",
+    "spicy",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 4,
+    "carbs": 19,
+    "fat": 2
+  },
+  "slug": "oozy-crisp-hunan-spinach-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-crisp-hunan-spinach-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:44:47Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "spinach",
+    "diet": "low-calorie",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "Spinach",
+    "descriptor": "Oozy Crisp",
+    "dishForm": "Bao"
+  }
+}
