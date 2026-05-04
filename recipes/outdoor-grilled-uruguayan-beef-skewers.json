@@ -1,0 +1,93 @@
+{
+  "title": "Uruguayan Beef Skewers",
+  "description": "A kid-friendly Uruguayan dish featuring grape tomatoes and rest-meat, cooked to perfection on a comal",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "grape tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal to medium-high heat",
+    "Thread the beef, grape tomatoes, onion, and bell pepper onto skewers",
+    "Brush the skewers with olive oil and season with salt, garlic, and black pepper",
+    "Cook the skewers for 10 minutes, turning occasionally",
+    "Check the internal temperature of the beef to ensure it reaches 145 degrees",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the skewers hot, garnished with fresh parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "grilled",
+    "kid-friendly",
+    "outdoor",
+    "skewers",
+    "uruguayan",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "outdoor-grilled-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:07:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "rest-meat",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Skewers"
+  }
+}

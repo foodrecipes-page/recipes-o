@@ -926,6 +926,22 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-grilled-uruguayan-beef-skewers",
+    "title": "Uruguayan Beef Skewers",
+    "tags": [
+      "beef",
+      "grilled",
+      "kid-friendly",
+      "outdoor",
+      "skewers",
+      "uruguayan",
+      "vegetables"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "outrageously-rich-mexican-poblanos-birria",
     "title": "Outrageously Rich Mexican Poblanos Birria",
     "tags": [
