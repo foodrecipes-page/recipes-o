@@ -1,0 +1,107 @@
+{
+  "title": "Orange Glazed Northern Thai Chicken Skewers",
+  "description": "A spicy and light Northern Thai dish featuring a sweet and sticky orange glaze, perfect for a date night, and diabetic-friendly due to the use of demerara sugar.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together demerara sugar, orange juice, fish sauce, lime juice, and Thai red curry paste to make the glaze.",
+    "Add the chicken pieces to the bowl and toss to coat with the glaze.",
+    "Thread the marinated chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the chicken skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "Season the grilled chicken with salt and black pepper.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Serve with additional orange glaze for dipping, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "diabetic-friendly",
+    "grilled-chicken",
+    "orange-glaze",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "orange-glazed-northern-thai-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-glazed-northern-thai-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:48:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "demerara sugar",
+    "diet": "diabetic-friendly",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "orange glazed",
+    "dishForm": "Skewers"
+  }
+}
