@@ -1,0 +1,116 @@
+{
+  "title": "Oven-Shattering Earthy Syrian Soybean-Sprout-Kongnamul Grill",
+  "description": "Comforting Syrian dish featuring soybean-sprouts-kongnamul, knead, and earthy flavors, perfect for a Buddhist temple-friendly meal on a raclette-grill.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "rinsed, drained"
+    },
+    {
+      "name": "kongnamul",
+      "amount": "1 cup",
+      "notes": "rinsed, drained"
+    },
+    {
+      "name": "labneh",
+      "amount": "1/2 cup",
+      "notes": "crumbly, drained"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat for 10 minutes.",
+    "Rinse and chop the onion, and mince the garlic.",
+    "Combine soybean sprouts, kongnamul, labneh, pomegranate molasses, sumac, cumin, and black pepper in a large bowl.",
+    "Add chopped onion and minced garlic to the bowl and mix well.",
+    "Heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Transfer the mixture to the raclette-grill and press down firmly to create a solid layer.",
+    "Heat the remaining 1 tablespoon of olive oil in the pan.",
+    "Place the pan on top of the raclette-grill to add extra flavor and texture.",
+    "Grill for 15-20 minutes, or until the edges start to shatter and caramelize.",
+    "Remove from heat and garnish with chopped parsley and pomegranate seeds if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist",
+    "comforting",
+    "earthly",
+    "kongnamul",
+    "raclette-grill",
+    "soybean",
+    "syrian",
+    "temple-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-shattering-earthy-syrian-soybean-sprout-kongnamul-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-shattering-earthy-syrian-soybean-sprout-kongnamul-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "soybean-sprout-kongnamul",
+    "descriptor": "Oven-Shattering Earthy",
+    "dishForm": "Grill"
+  }
+}

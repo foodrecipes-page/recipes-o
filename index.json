@@ -3705,6 +3705,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-russian-rice-pilaf",
+    "title": "Oven-Roasted Russian Rice Pilaf",
+    "tags": [
+      "dinner-party",
+      "lacto-vegetarian",
+      "one-pan",
+      "russian",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-saudi-arabian-bacon-kebabs",
     "title": "Oven Roasted Saudi Arabian Bacon Kebabs",
     "tags": [
@@ -4131,6 +4146,23 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-shattering-earthy-syrian-soybean-sprout-kongnamul-grill",
+    "title": "Oven-Shattering Earthy Syrian Soybean-Sprout-Kongnamul Grill",
+    "tags": [
+      "buddhist",
+      "comforting",
+      "earthly",
+      "kongnamul",
+      "raclette-grill",
+      "soybean",
+      "syrian",
+      "temple-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
