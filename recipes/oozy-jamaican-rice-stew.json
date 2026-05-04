@@ -1,0 +1,109 @@
+{
+  "title": "Oozy Jamaican Rice Stew",
+  "description": "A buttery, springy stew that soothes hangovers with fragrant sage, coconut milk, and a splash of lime, cooked in a bamboo tray for a touch of island tradition.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kidney beans, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh sage, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "small onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped spinach",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice until water runs clear, then set aside.",
+    "In a bamboo tray, heat the butter and olive oil over medium heat until melted.",
+    "Add the diced onion and minced garlic to the tray and sauté until translucent, about 3 minutes.",
+    "Stir in the ground ginger and chopped fresh sage, cooking for an additional minute until fragrant.",
+    "Pour in the coconut milk and vegetable broth, bringing the mixture to a gentle simmer.",
+    "Add the rinsed rice, cooked kidney beans, and lime juice, stirring to combine.",
+    "Cover the bamboo tray with foil and let the stew simmer for 18 minutes, or until the rice absorbs the liquid.",
+    "Fold in the chopped spinach during the last 2 minutes of cooking, allowing it to wilt.",
+    "Season the stew with salt and pepper to taste, then remove from heat.",
+    "Serve the stew hot, optionally garnishing with sliced scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "hangover-cure",
+    "high-fiber",
+    "soupy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "oozy-jamaican-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-jamaican-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:07:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "sage",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "Oozy",
+    "dishForm": "Stew"
+  }
+}
