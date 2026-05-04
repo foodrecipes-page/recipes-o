@@ -1,0 +1,124 @@
+{
+  "title": "Oven Roasted Russian Beef Bowl",
+  "description": "A peppery, creamy bowl featuring roasted beef and vegetables infused with sake, wrapped in a papillote for an effortless lazy Sunday dish.",
+  "cuisine": "Russian",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck roast",
+      "amount": "800 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "baby potatoes",
+      "amount": "500 g",
+      "notes": "halved"
+    },
+    {
+      "name": "carrots",
+      "amount": "300 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "sour cream",
+      "amount": "200 g",
+      "notes": "egg-free version"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "In a large bowl, combine the cubed beef, potatoes, carrots, onion, garlic, smoked paprika, thyme, salt, and pepper.",
+    "Drizzle the sake over the mixture and toss to coat evenly.",
+    "Place the seasoned ingredients onto a large sheet of parchment paper.",
+    "Sprinkle the butter pieces over the top of the mixture.",
+    "Fold the parchment over the ingredients to seal into a papillote pouch.",
+    "Bake the papillote in the preheated oven for 45 minutes, or until the beef is tender and vegetables are cooked.",
+    "Remove from the oven and carefully open the pouch, letting steam escape.",
+    "Transfer the contents to a bowl, fold in the sour cream and chopped dill, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-bowl",
+    "comfort-food",
+    "creamy",
+    "lazy-sunday",
+    "one-pan",
+    "sake-flavor"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 48,
+    "carbs": 32,
+    "fat": 37
+  },
+  "slug": "oven-roasted-russian-beef-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-russian-beef-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:09:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "sake",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bowl"
+  }
+}
