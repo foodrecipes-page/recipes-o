@@ -1,0 +1,94 @@
+{
+  "title": "Ozzy Croatian Linguine Pasta",
+  "description": "A buttery, glassy-jelly linguine dish infused with shio-koji, perfect for a sick day.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "shio-koji paste",
+      "amount": "20g"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "5ml"
+    }
+  ],
+  "instructions": [
+    "Fill a pot with 4 cups of water, add 2g salt, and bring to a rolling boil.",
+    "Add linguine pasta and cook for 8 minutes, stirring occasionally until al dente, then drain and reserve 1 cup of pasta water.",
+    "In a skillet, heat 5ml vegetable oil over medium heat, then melt 30g butter.",
+    "Stir in 20g shio-koji paste until fragrant and the butter turns golden.",
+    "Pour 400ml low-sodium chicken broth into the skillet and bring to a gentle simmer.",
+    "Whisk in 100ml heavy cream and 15ml lemon juice, then reduce heat and let the sauce thicken to a glossy glaze.",
+    "Toss the drained linguine into the skillet, adding reserved pasta water as needed to coat each strand evenly.",
+    "Finish with 10g chopped parsley and 1g black pepper, serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "glassy-sauce",
+    "halal-friendly",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 22,
+    "carbs": 48,
+    "fat": 19
+  },
+  "slug": "oozy-croatian-linguine-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-croatian-linguine-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:33:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "linguine pasta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Linguine",
+    "descriptor": "Oozy",
+    "dishForm": "Pasta"
+  }
+}

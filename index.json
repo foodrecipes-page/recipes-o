@@ -1105,6 +1105,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-croatian-linguine-pasta",
+    "title": "Ozzy Croatian Linguine Pasta",
+    "tags": [
+      "buttery",
+      "glassy-sauce",
+      "halal-friendly",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-crumbly-ethiopian-sausage-stew",
     "title": "Oozy Crumbly Ethiopian Sausage Stew",
     "tags": [
@@ -2887,6 +2901,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-korean-tofu-fried-chicken",
+    "title": "Oven Roasted Korean Tofu Fried Chicken",
+    "tags": [
+      "flaky",
+      "korean",
+      "oven-baked",
+      "spicy",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {

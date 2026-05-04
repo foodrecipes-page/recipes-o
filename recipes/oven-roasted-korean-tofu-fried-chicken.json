@@ -1,0 +1,114 @@
+{
+  "title": "Oven Roasted Korean Tofu Fried Chicken",
+  "description": "A tangy, flaky plant‑based dish that mimics Korean fried chicken using roasted tofu, bird's‑eye chilies, and a coconut‑cream glaze.",
+  "cuisine": "korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "500 g",
+      "notes": "pressed and cut into 2 cm cubes"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "50 g"
+    },
+    {
+      "name": "gochujang",
+      "amount": "20 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 g"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "10 g"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "10 g"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 g"
+    },
+    {
+      "name": "onion powder",
+      "amount": "2 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 g"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 g"
+    },
+    {
+      "name": "bird's eye chili",
+      "amount": "5 g",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "10 g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "5 g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Whisk coconut cream, gochujang, soy sauce, rice vinegar, agave syrup, garlic powder, onion powder, salt, pepper, and sesame oil until smooth.",
+    "Gently fold tofu cubes into the sauce, ensuring each piece is well coated.",
+    "Sprinkle chopped bird's eye chilies over the tofu.",
+    "Arrange tofu on the prepared sheet in a single layer, leaving space between cubes.",
+    "Roast for 25 minutes, flipping halfway, until edges are golden and slightly crisp.",
+    "Remove from oven and let rest 5 minutes.",
+    "Sprinkle toasted sesame seeds over the tofu and drizzle with a light drizzle of soy sauce if desired.",
+    "Serve hot with a side of steamed rice or lettuce wraps.",
+    "Enjoy your plant‑based Korean fried chicken experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "korean",
+    "oven-baked",
+    "spicy",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 14,
+    "carbs": 31,
+    "fat": 51
+  },
+  "slug": "oven-roasted-korean-tofu-fried-chicken",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-korean-tofu-fried-chicken",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:33:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "plant-based",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Fried Chicken"
+  }
+}
