@@ -721,6 +721,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-jamaican-pork-chops-skewers",
+    "title": "Oven Roasted Jamaican Pork Chops Skewers",
+    "tags": [
+      "jamaican-cuisine",
+      "oven-roasted",
+      "pork-chops",
+      "skewers",
+      "vegetarian-friendly",
+      "yuzu-cure"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-mediterranean-chicken-tagine",
     "title": "Oven-Roasted Mediterranean Chicken Tagine",
     "tags": [
