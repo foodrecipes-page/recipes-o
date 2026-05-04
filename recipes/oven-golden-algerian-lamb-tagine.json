@@ -1,0 +1,110 @@
+{
+  "title": "oven-golden algerian lamb tagine",
+  "description": "a flavorful and aromatic tagine dish made with lamb, spices, and a hint of mustard, perfect for a crowd-pleasing dinner",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5",
+      "notes": "boneless and tied with kitchen twine"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 300f (150c).",
+    "season the lamb shoulder with salt and set aside.",
+    "heat 1 tbsp of olive oil in the raclette grill over medium-high heat.",
+    "add the chopped onion and cook until lightly browned, about 5 minutes.",
+    "add the minced garlic and grated ginger and cook for another minute.",
+    "add the ground cumin, coriander, cinnamon powder, and mustard seeds, and cook for 1 minute.",
+    "add the lamb shoulder to the raclette grill and cook until browned on all sides, about 5 minutes.",
+    "transfer the lamb shoulder to a large oven-safe dish and pour in the lamb broth.",
+    "cover the dish with aluminum foil and bake in the preheated oven for 2 hours, or until the lamb is tender.",
+    "remove the lamb shoulder from the oven and let it cool slightly in an ice bath to stop the cooking process.",
+    "shred the lamb shoulder with two forks and return it to the oven dish.",
+    "serve the oven-golden algerian lamb tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free",
+    "one-pan",
+    "raw-friendly",
+    "tagine-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "oven-golden-algerian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-golden-algerian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:01:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cinnamon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven-Golden",
+    "dishForm": "Tagine"
+  }
+}

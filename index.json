@@ -567,6 +567,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-golden-algerian-lamb-tagine",
+    "title": "oven-golden algerian lamb tagine",
+    "tags": [
+      "algerian-cuisine",
+      "gluten-free",
+      "one-pan",
+      "raw-friendly",
+      "tagine-dish",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 150,
+    "shard": "o"
+  },
+  {
     "slug": "oven-grilled-chinese-tofu-bao",
     "title": "oven-grilled chinese tofu bao",
     "tags": [
