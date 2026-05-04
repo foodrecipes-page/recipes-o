@@ -1,0 +1,115 @@
+{
+  "title": "Open Air Mexican Nectarine Wrap",
+  "description": "A fresh, tangy wrap that showcases Sonoran flavors with sweet nectarines, crisp veggies, and lightly steamed corn tortillas.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "8 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "10 inch"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the ingredients by dicing the nectarines, chopping the cucumber and bell pepper, thinly slicing the red onion, slicing the avocado, and chopping the cilantro.",
+    "Whisk together the lime juice, chili powder, garlic powder, and olive oil in a bowl to create the dressing.",
+    "Toss the diced nectarines, cucumber, bell pepper, onion, avocado, and cilantro with the dressing until well coated.",
+    "Heat a steamer basket over medium heat and lay each corn tortilla flat, brushing it lightly with olive oil, then steam for 30 seconds on each side until softened.",
+    "Lay a steamed tortilla on a flat surface, place a spoonful of the nectarine mixture in the center, fold the sides over, and roll into a tight wrap.",
+    "Repeat the wrapping process with the remaining tortillas and arrange all wraps on a platter.",
+    "If desired, sprinkle shredded lettuce over the tops of the wraps and squeeze a little fresh lime juice over each one.",
+    "Serve immediately or refrigerate for up to one hour before serving.",
+    "Enjoy the light, tangy flavors of this open‑air Mexican nectarine wrap."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "leaf-wrap",
+    "light",
+    "mexican",
+    "open-air",
+    "quick",
+    "raw-friendly",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 2100,
+    "protein": 40,
+    "carbs": 410,
+    "fat": 85
+  },
+  "slug": "open-air-mexican-nectarine-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/open-air-mexican-nectarine-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:03:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "nectarines",
+    "diet": "raw",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "nectarine",
+    "descriptor": "Open Air",
+    "dishForm": "Wrap"
+  }
+}
