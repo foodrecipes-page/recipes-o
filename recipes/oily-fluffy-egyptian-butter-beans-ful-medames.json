@@ -1,0 +1,105 @@
+{
+  "title": "Egyptian Butter Beans Ful Medames",
+  "description": "A hearty, pungent, and fluffy Ful Medames recipe, made with tender butter beans in a rich, aromatic sauce, served with a side of crusty bread and a dollop of zesty tahini sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butter beans (1 1/2 cups dried)",
+      "amount": "250g",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion (1 small)",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "9g",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley (1/4 cup chopped)",
+      "amount": "15g",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice (2 tablespoons)",
+      "amount": "30ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "tahini (2 tablespoons)",
+      "amount": "30g",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil (2 tablespoons)",
+      "amount": "30ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked butter beans and drain well.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned (8-10 minutes).",
+    "Add the minced garlic and cook for an additional 1-2 minutes, stirring constantly.",
+    "Add the butter beans, lemon juice, and 1 cup of water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the beans are tender.",
+    "Season the Ful Medames with salt and black pepper to taste.",
+    "Serve the Ful Medames hot, garnished with chopped fresh parsley and a dollop of tahini sauce (if using).",
+    "Offer crusty bread on the side for dipping into the Ful Medames."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-fiber",
+    "middle-eastern",
+    "one-pot",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oily-fluffy-egyptian-butter-beans-ful-medames",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-fluffy-egyptian-butter-beans-ful-medames",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T15:11:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "butter beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "butter beans",
+    "descriptor": "oily fluffy",
+    "dishForm": "Ful Medames"
+  }
+}
