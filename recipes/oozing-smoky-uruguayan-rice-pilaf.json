@@ -1,0 +1,104 @@
+{
+  "title": "Oozing Smoky Uruguayan Rice Pilaf",
+  "description": "A silky, smoky rice pilaf with caramelized flavors, cooked in a claypot for a velvety finish and a touch of indulgence.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain white rice",
+      "amount": "1 cup",
+      "notes": "rinsed until clear"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "caramelized brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "loosely chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup of short-grain white rice until water runs clear and drain.",
+    "Heat 2 tablespoons olive oil in a claypot over medium heat and sauté 1 chopped onion until translucent.",
+    "Add 2 minced garlic cloves, 1 teaspoon smoked paprika, and 1/2 teaspoon cumin, stirring for one minute.",
+    "Stir in 1 cup vegetable broth, 1 tablespoon tomato paste, and 1 tablespoon caramelized brown sugar, bringing to a low boil.",
+    "Add the rinsed rice, reduce heat to low, cover the pot, and simmer for 15 minutes.",
+    "Remove the pot from heat, let it sit covered for 10 minutes to absorb liquid and become velvety.",
+    "Fluff the rice with a fork and stir in 1 tablespoon fresh cilantro.",
+    "Serve hot, optionally garnishing with a drizzle of extra olive oil and a sprinkle of smoked paprika."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "diabetic-friendly",
+    "indulgent",
+    "rice-pilaf",
+    "smoky",
+    "uruguayan",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "oozing-smoky-uruguayan-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-smoky-uruguayan-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:56:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "caramel",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Rice",
+    "descriptor": "Oozing Smoky",
+    "dishForm": "Pilaf"
+  }
+}
