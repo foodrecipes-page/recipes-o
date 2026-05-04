@@ -1471,6 +1471,21 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-braised-australian-lamb-stew",
+    "title": "Outdoor Braised Australian Lamb Stew",
+    "tags": [
+      "australian-cuisine",
+      "hearty-stew",
+      "lamb-based",
+      "low-fat",
+      "one-pot",
+      "outdoor-cooking"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
     "slug": "outdoor-grilled-thai-chicken-skewers",
     "title": "Outdoor Grilled Thai Chicken Skewers",
     "tags": [

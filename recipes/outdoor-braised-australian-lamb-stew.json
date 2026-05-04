@@ -1,0 +1,109 @@
+{
+  "title": "Outdoor Braised Australian Lamb Stew",
+  "description": "A rich and hearty one-pot Australian dish featuring tender lamb, onions, and a blend of spices, perfect for a cold evening outdoors, this low-fat-friendly stew is made with lean lamb and minimal oil.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion to the pot and cook until it is lightly browned, about 5 minutes.",
+    "Add the garlic, carrots, and potatoes to the pot and cook for 5 minutes.",
+    "Add the tomato paste, red wine, beef broth, thyme, salt, and pepper to the pot and stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven, where it will cook at 300 degrees Fahrenheit for 2.5 hours.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "hearty-stew",
+    "lamb-based",
+    "low-fat",
+    "one-pot",
+    "outdoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "outdoor-braised-australian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-braised-australian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:53:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "onions",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "outdoor braised",
+    "dishForm": "Stew"
+  }
+}
