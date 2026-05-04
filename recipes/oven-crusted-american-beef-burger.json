@@ -1,0 +1,82 @@
+{
+  "title": "Oven Crusted American Beef Burger",
+  "description": "Charred and dense American burger en-croute with sweet gorgonzola-dolce, cooked in a kadhai for a show‑off twist, served lettuce‑wrapped for a diabetic‑friendly option.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "gorgonzola-dolce",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "45g"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Form the ground beef into 2 equal patties, mixing in crumbled gorgonzola, salt, pepper, and flour to bind the mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "diabetic-friendly",
+    "high-protein",
+    "no-bun",
+    "oven-cooked"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 42,
+    "carbs": 36,
+    "fat": 48
+  },
+  "slug": "oven-crusted-american-beef-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-crusted-american-beef-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:15:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "en-croute",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Beef",
+    "descriptor": "Oven Crusted",
+    "dishForm": "Burger"
+  }
+}

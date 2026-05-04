@@ -1,0 +1,92 @@
+{
+  "title": "Ovenless Thai Rice Flatbread",
+  "description": "Yeasty, flaky flatbread with Chinese five spice, perfect for post-workout meals.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 sachet (7g)"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chinese five spice powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lime zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine rice flour, salt, and Chinese five spice powder.",
+    "In a separate bowl, dissolve yeast and sugar in warm water and let sit for 5 minutes until frothy.",
+    "Pour the yeast mixture into the dry ingredients and stir until a shaggy dough forms.",
+    "Add coconut oil to the dough and knead by hand for 5 minutes until smooth and elastic.",
+    "Cover the dough with a damp cloth and let rise at room temperature for 45 minutes until doubled in size.",
+    "Punch down the dough and divide it into 4 equal portions.",
+    "Roll each portion into a thin circle about 8 inches in diameter.",
+    "Heat a non-stick tava or griddle over medium heat and lightly spray with oil.",
+    "Place a flatbread on the hot surface and cook for 2 minutes on each side until golden brown and flaky.",
+    "Sprinkle fresh lime zest over the cooked flatbread and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "no-oven",
+    "post-workout",
+    "quick",
+    "thai",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 10,
+    "carbs": 156,
+    "fat": 15
+  },
+  "slug": "ovenless-thai-rice-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ovenless-thai-rice-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:15:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "Ovenless",
+    "dishForm": "Flatbread"
+  }
+}

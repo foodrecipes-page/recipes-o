@@ -1476,6 +1476,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-crusted-american-beef-burger",
+    "title": "Oven Crusted American Beef Burger",
+    "tags": [
+      "american",
+      "diabetic-friendly",
+      "high-protein",
+      "no-bun",
+      "oven-cooked"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-fried-northern-thai-mozzarella-bowl",
     "title": "Oven-Fried Northern Thai Mozzarella Bowl",
     "tags": [
@@ -2508,6 +2522,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "ovenless-thai-rice-flatbread",
+    "title": "Ovenless Thai Rice Flatbread",
+    "tags": [
+      "flatbread",
+      "no-oven",
+      "post-workout",
+      "quick",
+      "thai",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
