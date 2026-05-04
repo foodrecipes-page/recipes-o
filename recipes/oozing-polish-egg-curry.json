@@ -1,0 +1,105 @@
+{
+  "title": "Oozing Polish Egg Curry",
+  "description": "A pungent, light midnight craving dish that marries Polish simplicity with Indian spice.",
+  "cuisine": "Polish-Indian fusion",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "freshly ground with mortar and pestle"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "100 ml"
+    }
+  ],
+  "instructions": [
+    "Warm the olive oil in a hot pot vessel over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and grated ginger and cook for 1 minute until fragrant.",
+    "Sprinkle the freshly ground garam masala, cumin, and coriander into the pot, stirring to coat the aromatics for 30 seconds.",
+    "Pour in the diced tomatoes and vegetable broth, then bring the mixture to a gentle simmer.",
+    "Crack the eggs directly into the simmering curry, spacing them evenly, and cover the pot with a lid.",
+    "Simmer the eggs for 5 to 7 minutes until the whites are set but yolks remain runny.",
+    "Remove the pot from heat and stir in a teaspoon of sugar and lemon juice to balance acidity.",
+    "Garnish with chopped parsley before serving into bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "hot-pot",
+    "light",
+    "midnight-craving",
+    "ovo-vegetarian",
+    "polish-indian-fusion",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 51,
+    "carbs": 20,
+    "fat": 47
+  },
+  "slug": "oozing-polish-egg-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-polish-egg-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:35:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "garam masala",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Egg",
+    "descriptor": "Oozing",
+    "dishForm": "Curry"
+  }
+}
