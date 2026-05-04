@@ -1,0 +1,97 @@
+{
+  "title": "Outdoor Australian Melon Skewers",
+  "description": "A festive Australian dish featuring melons, perfect for outdoor gatherings, this vegetarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rockmelon",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "watermelon",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "honeydew melon",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon myrtle",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "binchotan grill oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1/4 cup",
+      "notes": "such as violas or pansies"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat.",
+    "Thread the diced melons, chopped fresh mint leaves, and edible flowers onto skewers.",
+    "Drizzle the binchotan grill oil over the skewers.",
+    "Sprinkle the dried lemon myrtle and chopped macadamia nuts over the skewers.",
+    "Place the skewers on the preheated grill and cook for 2-3 minutes per side.",
+    "Steam the skewers using a mushimono steam method for an additional 2 minutes.",
+    "Serve the melon skewers warm, garnished with additional fresh mint leaves and edible flowers if desired.",
+    "Repeat the cooking process for the remaining skewers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "easy-to-make",
+    "festive-food",
+    "grilled-fruit",
+    "outdoor-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "outdoor-australian-melon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-australian-melon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:36:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "melons",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "melons",
+    "descriptor": "Outdoor Oven",
+    "dishForm": "Skewers"
+  }
+}
