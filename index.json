@@ -154,6 +154,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-french-beef-fillet-wrap",
+    "title": "Old Fashioned French Beef Fillet Wrap",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "french-cuisine",
+      "leafy-greens",
+      "shojin-friendly",
+      "steamed-dishes"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "olive-oasis",
     "title": "Olive Oasis",
     "tags": [

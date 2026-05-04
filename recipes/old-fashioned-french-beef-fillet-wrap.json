@@ -1,0 +1,88 @@
+{
+  "title": "Old Fashioned French Beef Fillet Wrap",
+  "description": "A traditional Brittany dish featuring tender beef fillet wrapped in leafy greens and steamed to perfection, this recipe is a comforting and flavorful treat. It is also shojin-friendly, making it accessible to those with dietary restrictions.",
+  "cuisine": "French",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "kale leaves",
+      "amount": "4 large",
+      "notes": "or other leafy greens"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the beef fillet with salt, black pepper, and thyme.",
+    "Melt one tablespoon of butter in a skillet over medium heat and sear the beef fillet until browned on all sides.",
+    "Wrap the beef fillet in kale leaves, making sure to cover it completely.",
+    "Place the wrapped beef fillet in a steamer basket and steam for 10 minutes.",
+    "Melt the remaining tablespoon of butter and brush it over the kale leaves.",
+    "Return the beef fillet to the oven and cook for an additional 10 minutes, or until the internal temperature reaches 130 degrees Fahrenheit.",
+    "Let the beef fillet rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "french-cuisine",
+    "leafy-greens",
+    "shojin-friendly",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "old-fashioned-french-beef-fillet-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-french-beef-fillet-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:31:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "beef fillet",
+    "diet": "shojin",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef fillet",
+    "descriptor": "old fashioned",
+    "dishForm": "Wrap"
+  }
+}
