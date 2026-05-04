@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Mexican Lentils Chilaquiles",
+  "description": "A tangy and dense Mexican dish featuring French lentils, perfect for an adventurous meal, this recipe is also Buddhist-temple-friendly as it does not contain any animal products.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "tortilla chips",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the French lentils, shio-koji, onion, and garlic.",
+    "Spread the lentil mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the lentils are roasting, heat the diced tomatoes and vegetable broth in a large saucepan over medium heat.",
+    "Add the roasted lentil mixture to the saucepan and stir to combine.",
+    "Add the tortilla chips to the saucepan and stir until they are well coated with the lentil mixture.",
+    "Season with chili powder and salt to taste.",
+    "Transfer the mixture to a baking dish and bake in the oven for an additional 15 minutes.",
+    "Remove from the oven and stir in the lime juice.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "high-protein",
+    "lentil-based",
+    "mexican-inspired",
+    "oven-roasted",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oven-roasted-mexican-lentils-chilaquiles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mexican-lentils-chilaquiles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:12:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "french lentils",
+    "diet": "buddhist-temple",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "lentils",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Chilaquiles"
+  }
+}
