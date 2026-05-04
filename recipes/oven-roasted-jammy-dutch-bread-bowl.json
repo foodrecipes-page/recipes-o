@@ -1,0 +1,92 @@
+{
+  "title": "Oven-Roasted Jammy Dutch Bread Bowl",
+  "description": "A fluffy, jam-filled bread bowl baked in a stone dolsot, made with rapeseed oil and a long-fermentation dough, perfect for a jain-friendly indulgence.",
+  "cuisine": "Dutch",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "500g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "350g"
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "50g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "Salt",
+      "amount": "10g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "Strawberry jam",
+      "amount": "100g"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, salt, and sugar until evenly mixed.",
+    "In a separate bowl, dissolve the yeast in the warm water and let stand for 10 minutes until frothy.",
+    "Pour the yeast mixture and rapeseed oil into the dry ingredients, mixing until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for about 10 minutes until smooth and elastic.",
+    "Transfer the dough to a greased bowl, cover with a cloth, and let it bulk ferment at room temperature for 3 hours.",
+    "After fermentation, punch down the dough, shape it into a round, and place it in a greased dolsot stone bowl; cover and let proof for 1 hour.",
+    "Preheat the oven to 200°C; bake the bread bowl for 25 minutes until golden brown.",
+    "Remove from the oven, let it cool for 5 minutes, then fill the interior with strawberry jam and sprinkle with sesame seeds before serving warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dolsot",
+    "fluffy",
+    "indulgent",
+    "jain-friendly",
+    "jam",
+    "long-fermentation",
+    "oven-roasted",
+    "rapeseed-oil"
+  ],
+  "nutrition": {
+    "calories": 2900,
+    "protein": 65,
+    "carbs": 420,
+    "fat": 55
+  },
+  "slug": "oven-roasted-jammy-dutch-bread-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jammy-dutch-bread-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:17:25Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "bread",
+    "descriptor": "Oven-Roasted Jammy",
+    "dishForm": "Bowl"
+  }
+}
