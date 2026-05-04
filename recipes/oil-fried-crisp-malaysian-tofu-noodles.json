@@ -1,0 +1,99 @@
+{
+  "title": "Oil Fried Crisp Malaysian Tofu Noodles",
+  "description": "A plant-based Malaysian dish featuring crispy tofu and noodles in a rich tomato puree sauce, perfect for a post-workout meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat to 350 degrees Fahrenheit.",
+    "Add the tofu cubes to the skillet and fry until golden brown and crispy, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside on a paper towel-lined plate to drain excess oil.",
+    "Add the minced garlic and grated ginger to the skillet and stir-fry for 1 minute until fragrant.",
+    "Add the tomato puree to the skillet and stir to combine with the garlic and ginger, cooking for 2 minutes.",
+    "Add the cooked rice noodles to the skillet and stir to combine with the tomato puree sauce, cooking for 2 minutes.",
+    "Return the fried tofu to the skillet and stir to combine with the noodles and sauce, cooking for 1 minute.",
+    "Season the dish with soy sauce to taste, then transfer to a talavera plate to serve.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "plant-based",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oil-fried-crisp-malaysian-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-fried-crisp-malaysian-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:51:09Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "boil",
+    "primaryIngredient": "tomato puree",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "oil fried crisp",
+    "dishForm": "Noodles"
+  }
+}

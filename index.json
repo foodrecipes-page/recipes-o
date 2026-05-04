@@ -134,6 +134,20 @@
     "shard": "o"
   },
   {
+    "slug": "oil-fried-crisp-malaysian-tofu-noodles",
+    "title": "Oil Fried Crisp Malaysian Tofu Noodles",
+    "tags": [
+      "high-protein",
+      "malaysian-cuisine",
+      "one-pan",
+      "plant-based",
+      "post-workout"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oil-infused-middle-eastern-red-peppers-muhammara",
     "title": "Oil Infused Middle Eastern Red Peppers Muhammara",
     "tags": [
@@ -1678,6 +1692,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-juicy-turkish-lamb-manti",
+    "title": "Outstandingly Juicy Turkish Lamb Manti",
+    "tags": [
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "paleo-friendly",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
