@@ -1,0 +1,127 @@
+{
+  "title": "Oven-Roasted Indian Chicken Biryani",
+  "description": "A tangy and snappy Indian dish made with seasoned rice vinegar, perfect for a quick fix meal. This Gujarati-inspired dish is satvik-friendly and can be made using a yakimono-grill.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped 1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat 1 tablespoon of ghee or vegetable oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add coriander powder, turmeric powder, and red chili powder. Mix well.",
+    "Add chopped chicken breast and cook until browned on all sides.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "In a separate pan, heat the remaining 1 tablespoon of ghee or vegetable oil over medium heat.",
+    "Add soaked basmati rice and cook until lightly toasted.",
+    "In a large bowl, mix together cooked rice, cooked chicken, and chopped cilantro.",
+    "Add lemon juice and mix well.",
+    "Transfer the mixture to a baking dish and drizzle with rice vinegar.",
+    "Cover with aluminum foil and bake in the preheated oven for 20 minutes.",
+    "Remove the foil and bake for an additional 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "one-pan",
+    "quick-fix",
+    "satvik",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oven-roasted-indian-chicken-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-indian-chicken-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "satvik",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Biryani"
+  }
+}

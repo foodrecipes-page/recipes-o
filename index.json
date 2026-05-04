@@ -3084,6 +3084,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-indian-chicken-biryani",
+    "title": "Oven-Roasted Indian Chicken Biryani",
+    "tags": [
+      "indian",
+      "one-pan",
+      "quick-fix",
+      "satvik",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-indian-mushroom-aloo-gobi",
     "title": "Oven Roasted Indian Mushroom Aloo Gobi",
     "tags": [
