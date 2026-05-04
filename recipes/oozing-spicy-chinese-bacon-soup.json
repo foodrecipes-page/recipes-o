@@ -1,0 +1,117 @@
+{
+  "title": "Oozing Spicy Chinese Bacon Soup",
+  "description": "A velvety, low‑calorie wonton soup with smoky bacon and fiery chili, perfect for midnight cravings.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bacon lardon",
+      "amount": "150g"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "ground pork",
+      "amount": "100g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp minced"
+    },
+    {
+      "name": "dried chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks thinly sliced"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "800 ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the earthenware pot over medium heat and add the bacon lardon, cooking until slightly crispy.",
+    "Remove the bacon and set aside, leaving the rendered fat in the pot.",
+    "Add the ginger, garlic, and dried chili flakes to the pot and stir for 30 seconds until fragrant.",
+    "Pour in the chicken stock, soy sauce, and rice vinegar, and bring the mixture to a gentle boil.",
+    "Whisk the egg in a small bowl, then drizzle it slowly into the simmering broth while stirring gently to create silky ribbons.",
+    "Mix the ground pork, a pinch of salt, pepper, and the egg ribbons together, then spoon the mixture into the wonton wrappers.",
+    "Fold the wrappers into small triangles, sealing the edges with a little water.",
+    "Carefully drop the formed wontons into the simmering broth and cook for 4 minutes until they float and the filling is cooked through.",
+    "Add the reserved bacon lardon pieces back into the pot and heat for another minute.",
+    "Serve the soup hot, garnished with sliced scallions, and drizzle with a splash of sesame oil before eating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dongbei",
+    "earthenware-pot",
+    "low-calorie",
+    "quick",
+    "spicy",
+    "wonton-soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "oozing-spicy-chinese-bacon-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-spicy-chinese-bacon-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:22:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "bacon lardon",
+    "diet": "low-calorie",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Bacon",
+    "descriptor": "Oozing Spicy",
+    "dishForm": "Soup"
+  }
+}
