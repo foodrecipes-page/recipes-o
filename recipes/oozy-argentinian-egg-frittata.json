@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Argentinian Egg Frittata",
+  "description": "A funky Argentinian dish featuring eggs, cheese, and a dash of friendly ingredients, perfect for a brunch mood. This recipe combines the richness of eggs and cheese with the simplicity of a frittata.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "chopped ham",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and bell pepper and cook until they are softened.",
+    "Add the chopped ham and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the shredded provolone and grated parmesan cheese to the bowl and stir to combine.",
+    "Pour the egg mixture over the cooked ham and vegetables in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "brunch-recipe",
+    "cheese-lovers",
+    "easy-meal",
+    "one-pan-dish",
+    "weekend-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oozy-argentinian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-argentinian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:41:53Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "egg",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "egg",
+    "descriptor": "Oozy",
+    "dishForm": "Frittata"
+  }
+}

@@ -539,6 +539,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-argentinian-egg-frittata",
+    "title": "Oozy Argentinian Egg Frittata",
+    "tags": [
+      "argentinian-cuisine",
+      "brunch-recipe",
+      "cheese-lovers",
+      "easy-meal",
+      "one-pan-dish",
+      "weekend-meal"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-cheese-pull-slovakian-sevaiiya-pastry",
     "title": "Sevaiiya Cheese Pull Pastry",
     "tags": [
