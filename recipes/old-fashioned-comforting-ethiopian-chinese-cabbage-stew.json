@@ -1,0 +1,98 @@
+{
+  "title": "Ethiopian Chinese Cabbage Stew",
+  "description": "A comforting and peppery stew featuring Chinese cabbage and rest-meat, made with low-fat friendly ingredients. This dish is a unique fusion of Ethiopian and Chinese flavors.",
+  "cuisine": "Ethiopian Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the rest-meat and cook until browned, about 5 minutes.",
+    "Add the chopped Chinese cabbage, berbere spice, and black pepper, and cook until the cabbage is wilted.",
+    "Add the low-sodium chicken broth and tomato paste, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethnic-fusion",
+    "healthy-dinner",
+    "low-fat",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "old-fashioned-comforting-ethiopian-chinese-cabbage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-comforting-ethiopian-chinese-cabbage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:56:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chinese cabbage",
+    "descriptor": "old fashioned comforting",
+    "dishForm": "Stew"
+  }
+}
