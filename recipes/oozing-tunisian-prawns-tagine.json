@@ -1,0 +1,101 @@
+{
+  "title": "Oozing Tunisian Prawns Tagine",
+  "description": "A silky, comforting tagine bursting with fresh king prawns and aromatic spices, served in a rich tomato‑based sauce that stays moist and flavorful.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "200g",
+      "notes": "peeled, deveined, keep tails on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1",
+      "notes": "finely diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "100ml"
+    },
+    {
+      "name": "spice blend",
+      "amount": "1 tsp",
+      "notes": "ground cumin, coriander, paprika, cayenne"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "add as needed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "4 tbsp",
+      "notes": "cilantro and parsley, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wide skillet over medium heat and sauté the diced onion until translucent.",
+    "Add the minced garlic and cook for one minute until fragrant.",
+    "Stir in the tomato paste and the spice blend, cooking until the paste darkens and aromas release.",
+    "Pour in the chicken stock, bringing the mixture to a gentle simmer.",
+    "Add the prawns, cover, and let them cook for 4-5 minutes until they turn pink and opaque.",
+    "Stir in the lemon juice, salt, and pepper to taste, ensuring the sauce remains silky.",
+    "Fold in the chopped fresh herbs and remove from heat.",
+    "Serve the tagine hot over couscous or crusty bread, letting the sauce ooze."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 32,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "oozing-tunisian-prawns-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-tunisian-prawns-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:50:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "raw king prawns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Prawns",
+    "descriptor": "Oozing",
+    "dishForm": "Tagine"
+  }
+}
