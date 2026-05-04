@@ -1,0 +1,102 @@
+{
+  "title": "Oven-Roasted German Quinoa Wrap",
+  "description": "A crisp, anti-inflammatory quinoa filling roasted to perfection and wrapped in soft corn husks for a German-inspired twist.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "300 ml"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "5 g",
+      "notes": "adds depth"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tbsp",
+      "notes": "adds umami"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "20 g"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "30 g"
+    },
+    {
+      "name": "chopped kale",
+      "amount": "50 g"
+    },
+    {
+      "name": "turmeric",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4"
+    },
+    {
+      "name": "sea salt and pepper",
+      "amount": "1 tsp + 0.25 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Rinse quinoa until water runs clear.",
+    "In a saucepan combine quinoa, water, allspice berries, turmeric, and a pinch of sea salt; bring to a boil, then reduce heat, cover, and simmer 15 minutes until liquid is absorbed.",
+    "Remove quinoa from heat and fluff with a fork; stir in dashi extract, sliced almonds, grated carrot, and chopped kale.",
+    "Spread the quinoa mixture evenly onto a parchment-lined baking sheet and roast 10 minutes until golden.",
+    "Soak corn husk wraps in warm water for 30 minutes.",
+    "Remove quinoa from oven and let cool 5 minutes.",
+    "Place roasted quinoa onto each softened corn husk, fold sides, roll tightly.",
+    "Place wrapped rolls seam-side down on a second baking sheet and bake 5 minutes to seal edges.",
+    "Serve warm, enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "corn-husk-wrap",
+    "easy",
+    "german-inspired",
+    "oven-roasted",
+    "quinoa",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "oven-roasted-german-quinoa-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-german-quinoa-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:22:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "allspice berries",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Wrap"
+  }
+}
