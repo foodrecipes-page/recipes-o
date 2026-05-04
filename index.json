@@ -597,6 +597,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-garlicky-syrian-tofu-tacos",
+    "title": "Oozy Garlicky Syrian Tofu Tacos",
+    "tags": [
+      "garlicky",
+      "jain-friendly",
+      "middle-eastern",
+      "syrian-inspired",
+      "taco-night",
+      "vegetarian-delight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-glassy-ukrainian-beef-bisque",
     "title": "Ukrainian Beef Bisque",
     "tags": [

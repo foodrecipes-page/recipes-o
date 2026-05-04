@@ -1,0 +1,104 @@
+{
+  "title": "Oozy Garlicky Syrian Tofu Tacos",
+  "description": "A creamy and indulgent Syrian dish featuring crispy taco shells filled with garlicky tofu, perfect for a Jain-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "1 loaf",
+      "notes": "toasted and crumbled"
+    },
+    {
+      "name": "Vegan mayo",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Dehydrate the tofu by wrapping it in a clean kitchen towel and letting it sit for 30 minutes.",
+    "Crumble the tofu into small pieces and set aside.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the crumbled tofu to the skillet and cook for 5 minutes until lightly browned.",
+    "Stir in the lemon juice, sumac, salt, and black pepper.",
+    "Arrange the taco shells on a baking sheet and fill each shell with the tofu mixture.",
+    "Drizzle the vegan mayo over the top of each taco.",
+    "Sprinkle the toasted pita bread crumbs over the top of each taco.",
+    "Bake the tacos in the preheated oven for 10 minutes until the shells are crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "jain-friendly",
+    "middle-eastern",
+    "syrian-inspired",
+    "taco-night",
+    "vegetarian-delight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oozy-garlicky-syrian-tofu-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-garlicky-syrian-tofu-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:42:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "hard taco shells",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tofu",
+    "descriptor": "Oozy garlicky",
+    "dishForm": "Tacos"
+  }
+}
