@@ -1,0 +1,110 @@
+{
+  "title": "Oven Steamed Saudi Sevaiiya Curry",
+  "description": "A creamy, savory curry featuring fine sevaiiya noodles, infused with aromatic spices and finished in a bamboo steamer for a cozy oven‑steamed experience.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and place a shallow pan of water at the bottom of the oven.",
+    "Heat cooking oil in a skillet and add cumin seeds until fragrant.",
+    "Add diced onion, minced garlic, and diced tomato, sautéing until the onion softens.",
+    "Stir in ground cumin, coriander, turmeric, and garam masala, cooking for 1 minute.",
+    "Pour in coconut milk and simmer for 5 minutes until the mixture thickens slightly.",
+    "Rinse sevaiiya until clear, then add it to the skillet and stir to coat with the sauce.",
+    "Let the mixture simmer for 3 minutes until the sevaiiya is al dente.",
+    "Transfer the curry into a clean bamboo steamer lined with parchment, cover tightly with foil.",
+    "Place the steamer on a baking sheet and bake in the preheated oven for 25 minutes to steam.",
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Garnish with fresh cilantro if desired and spoon extra coconut milk into each bowl.",
+    "Serve hot straight from the steamer for a comforting, creamy Saudi sevaiiya curry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "cozy",
+    "curry",
+    "keto-friendly",
+    "saudi",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 20
+  },
+  "slug": "oven-steamed-saudi-sevaiiya-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-steamed-saudi-sevaiiya-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:33:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "sevaiiya",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Sevaiiya",
+    "descriptor": "Oven Steamed",
+    "dishForm": "Curry"
+  }
+}
