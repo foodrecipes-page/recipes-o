@@ -2649,6 +2649,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-char-grill-yang-winey-ukrainian-blackeye-pea-bowl",
+    "title": "Oven-roasted char-grill-yang Winey Ukrainian Blackeye pea Bowl",
+    "tags": [
+      "ayurvedic",
+      "blackeye-pea",
+      "char-grill-yang",
+      "one-pan",
+      "sattvic",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-charred-canadian-toor-dal-dal",
     "title": "oven-roasted charred canadian toor dal",
     "tags": [
@@ -2824,6 +2840,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-filipino-tahini-sinigang",
+    "title": "Oven-Roasted Filipino Tahini Sinigang",
+    "tags": [
+      "filipino",
+      "low-carb",
+      "one-pan",
+      "sinigang",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {

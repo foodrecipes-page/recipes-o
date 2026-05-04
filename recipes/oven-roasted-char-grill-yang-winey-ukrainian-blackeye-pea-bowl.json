@@ -1,0 +1,104 @@
+{
+  "title": "Oven-roasted char-grill-yang Winey Ukrainian Blackeye pea Bowl",
+  "description": "A flavorful and nutritious dish featuring blackeye peas, char-grill-yang chicken, and a tangy Ukrainian-inspired sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken thighs",
+      "amount": "4",
+      "notes": "cut into bite-sized pieces",
+      "},{": [
+        "name",
+        "amount",
+        "notes"
+      ]
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": "for char-grilling"
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "1",
+      "notes": "for saut\u00186e"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "for flavor"
+    },
+    {
+      "name": "1 cup mixed vegetables (bell peppers, carrots, zucchini)",
+      "amount": "1",
+      "notes": "for added nutrition"
+    },
+    {
+      "name": "1 cup char-grill-yang sauce (see below for recipe)",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Soak the blackeye peas in water overnight, then drain and set aside.",
+    "Season the chicken thighs with salt, pepper, and thyme.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Char-grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a baking sheet and set aside.",
+    "Sauté the onion and garlic in the same skillet until softened, about 5 minutes.",
+    "Add the mixed vegetables and cook for an additional 2-3 minutes, or until tender.",
+    "Transfer the skillet contents to the baking sheet with the chicken.",
+    "Pour the char-grill-yang sauce over the top and toss to coat.",
+    "Bake in the preheated oven for 20-25 minutes, or until the sauce is bubbly and the chicken is cooked through.",
+    "Serve the blackeye peas and sauce over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "blackeye-pea",
+    "char-grill-yang",
+    "one-pan",
+    "sattvic",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "oven-roasted-char-grill-yang-winey-ukrainian-blackeye-pea-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-char-grill-yang-winey-ukrainian-blackeye-pea-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:14:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "blackeye pea",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Winey Ukrainian",
+    "mainIngredient": "Blackeye pea",
+    "descriptor": "Oven-roasted char-grill-yang",
+    "dishForm": "Bowl"
+  }
+}
