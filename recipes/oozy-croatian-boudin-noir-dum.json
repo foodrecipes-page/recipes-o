@@ -1,0 +1,78 @@
+{
+  "title": "oozy croatian boudin-noir dum",
+  "description": "floral, gooey, solo-dinner croatian dish featuring boudin-noir, dum, lacto-vegetarian-friendly. enjoy the combination of rich black sausage and comforting dumplings in a flavorful broth",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "dum pastry",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "combine the sautéed black sausage and dumplings in a large skillet over medium heat",
+    "add 2 cups of vegetable broth to the skillet and stir to combine",
+    "bring the mixture to a simmer and let cook for 10 minutes, stirring occasionally",
+    "serve the oozy croatian boudin-noir dum hot, garnished with chopped fresh parsley if desired",
+    "meanwhile, prepare the dum pastry according to package instructions",
+    "if using homemade dumplings, wrap them in plastic wrap and refrigerate until ready to use",
+    "if using store-bought pastry, thaw according to package instructions",
+    "once the dumplings are ready, fry them in a skillet with 1 tablespoon of vegetable oil until golden brown",
+    "set the fried dumplings aside on a paper towel-lined plate",
+    "when the black sausage is cooked through, remove it from the heat and let it cool slightly",
+    "wrap the cooled black sausage in plastic wrap and refrigerate until ready to use",
+    "once the sausage is chilled, slice it into 1-inch pieces, discarding any excess fat and visible connective tissue",
+    "heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat",
+    "add the sliced black sausage to the skillet and cook, stirring occasionally, until browned on all sides and crispy on the bottom",
+    "remove the browned black sausage from the skillet and set it aside on a paper towel-lined plate",
+    "add another 1 tablespoon of vegetable oil to the skillet and stir to combine",
+    "add the prepared dumplings to the skillet and cook, stirring occasionally, until they are browned on all sides and crispy on the bottom",
+    "add the cooked black sausage back into the skillet with the dumplings and stir to combine",
+    "add 2 cups of vegetable broth to the skillet and stir to combine",
+    "bring the mixture to a simmer and let cook for 10 minutes, stirring occasionally",
+    "serve the oozy croatian boudin-noir dum hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-food",
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 34,
+    "carbs": 32,
+    "fat": 44
+  },
+  "slug": "oozy-croatian-boudin-noir-dum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-croatian-boudin-noir-dum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "boudin-noir",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "boudin-noir",
+    "descriptor": "oozy",
+    "dishForm": "dum"
+  }
+}

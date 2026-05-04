@@ -1329,6 +1329,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-croatian-boudin-noir-dum",
+    "title": "oozy croatian boudin-noir dum",
+    "tags": [
+      "croatian-food",
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "solo-dinner"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-croatian-linguine-pasta",
     "title": "Ozzy Croatian Linguine Pasta",
     "tags": [
