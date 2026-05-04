@@ -747,6 +747,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-french-paccheri-stew",
+    "title": "Oozy French Paccheri Stew",
+    "tags": [
+      "brunch-mood",
+      "easy",
+      "lyon-style",
+      "one-pot",
+      "paccheri-stew",
+      "vegan-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-garlicky-syrian-tofu-tacos",
     "title": "Oozy Garlicky Syrian Tofu Tacos",
     "tags": [
@@ -1952,6 +1967,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-middle-eastern-chicken-musakhan",
+    "title": "Oven Roasted Middle Eastern Chicken Musakhan",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "middle-eastern",
+      "one-pan",
+      "roasted-chicken",
+      "spicy"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {

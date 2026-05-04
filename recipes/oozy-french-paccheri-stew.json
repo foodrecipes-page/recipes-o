@@ -1,0 +1,131 @@
+{
+  "title": "Oozy French Paccheri Stew",
+  "description": "A pillowy, brunch‑mood stew inspired by Lyon’s bouillabaisse, featuring paccheri and a gentle vegetable broth cooked in a ttukbaegi.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "paccheri",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (150g)",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (120g)",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk (50g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (10g)",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "white wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "600ml"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp (1g)"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1/2 tsp (2g)"
+    },
+    {
+      "name": "tofu",
+      "amount": "150g",
+      "notes": "cubed"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp (1g)"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "flat‑leaf parsley",
+      "amount": "10g",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a ttukbaegi over medium heat until shimmering.",
+    "Add diced onion, carrot and celery, sauté until softened about five minutes.",
+    "Stir in minced garlic and cook for one minute until fragrant.",
+    "Pour in white wine, deglaze the pan, scraping up browned bits, and let reduce by half.",
+    "Add vegetable stock, thyme, bay leaf and fennel seeds, bring to a gentle boil.",
+    "Lower the heat, add paccheri and sliced mushrooms, cover and simmer for ten minutes until pasta is al dente.",
+    "Stir in cubed tofu, lemon zest and capers, adjust seasoning with salt and pepper to taste.",
+    "Reduce heat to low, swirl in a splash of olive oil, and let the stew thicken slightly for two more minutes.",
+    "Remove from heat, sprinkle fresh parsley on top, and let rest five minutes before serving.",
+    "Ladle into bowl, garnish with extra parsley, and enjoy a pillowy, brunch‑mood stew."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-mood",
+    "easy",
+    "lyon-style",
+    "one-pot",
+    "paccheri-stew",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 940,
+    "protein": 35,
+    "carbs": 90,
+    "fat": 30
+  },
+  "slug": "oozy-french-paccheri-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-french-paccheri-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:31:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "buddhist-temple",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Paccheri",
+    "descriptor": "Oozy",
+    "dishForm": "Stew"
+  }
+}

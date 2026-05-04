@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Middle Eastern Chicken Musakhan",
+  "description": "A spicy and comforting Middle Eastern dish featuring chicken and sumac, roasted to perfection in a ceramic tagine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together sumac, olive oil, white wine vinegar, garlic, red pepper flakes, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the sumac mixture.",
+    "Heat a large ceramic tagine over medium-high heat and add the chicken, cooking until browned on all sides.",
+    "Add the sliced onion to the tagine and cook until it starts to caramelize.",
+    "Transfer the tagine to the preheated oven and roast for 30 minutes.",
+    "Remove the tagine from the oven and sprinkle the chopped parsley over the top.",
+    "Return the tagine to the oven and roast for an additional 10 minutes.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "middle-eastern",
+    "one-pan",
+    "roasted-chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "oven-roasted-middle-eastern-chicken-musakhan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-middle-eastern-chicken-musakhan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:31:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Musakhan"
+  }
+}
