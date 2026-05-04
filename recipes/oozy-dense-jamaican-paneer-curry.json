@@ -1,0 +1,95 @@
+{
+  "title": "Oozy Dense Jamaican Paneer Curry",
+  "description": "A rich and flavorful one-pot dish featuring paneer in a dense and resinous Jamaican curry sauce, perfect for a pescatarian-friendly dinner option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and bell pepper and cook until the vegetables are tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Add the paneer and cook until the cheese is coated in the curry sauce.",
+    "Reduce the heat to low and cook for 20 minutes.",
+    "Stir in the thyme and season with salt and pepper to taste.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-inspired",
+    "jamaican-cuisine",
+    "one-pot",
+    "pescatarian-friendly",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oozy-dense-jamaican-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-dense-jamaican-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:15:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "paneer",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "paneer",
+    "descriptor": "Oozy dense",
+    "dishForm": "Curry"
+  }
+}
