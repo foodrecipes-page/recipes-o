@@ -1,0 +1,92 @@
+{
+  "title": "Oozy Peruvian Cod Salad",
+  "description": "Spicy, juicy, light Peruvian dish featuring flaked cod, lime, cilantro, and scallop shells.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillet, skinless",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh lime",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red onion, finely diced",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "30 g"
+    },
+    {
+      "name": "olive oil, extra virgin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallop shells, for serving",
+      "amount": "4 shells"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a gentle boil, add a pinch of sea salt.",
+    "Add the cod fillet and poach for 4 minutes until firm and opaque.",
+    "Remove the cod, let it cool slightly, then flake into small pieces.",
+    "In a bowl, combine the flaked cod, diced red onion, chopped cilantro, and freshly ground black pepper.",
+    "Juice the limes over the mixture and gently stir.",
+    "Drizzle the olive oil and stir until all ingredients are evenly coated.",
+    "Season with sea salt to taste and mix again.",
+    "Gently warm the scallop shells in a skillet for 1 minute to make them more pliable.",
+    "Spoon the salad into each scallop shell, serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "light",
+    "peruvian",
+    "quick",
+    "scallop-shell",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 17
+  },
+  "slug": "oozy-peruvian-cod-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-peruvian-cod-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:04:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "speck",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cod",
+    "descriptor": "Oozy",
+    "dishForm": "Salad"
+  }
+}
