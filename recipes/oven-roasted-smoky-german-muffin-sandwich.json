@@ -1,0 +1,103 @@
+{
+  "title": "OvenRoasted Smoky German Muffin Sandwich",
+  "description": "A fatty, crumbly post-workout German sandwich with smoked sausage, feta, oats and a smoky kick, baked to golden perfection.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "4",
+      "notes": "split for sandwiches"
+    },
+    {
+      "name": "Smoked pork sausage",
+      "amount": "200g"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "80g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Brush both sides of English muffin halves with olive oil.",
+    "Place the muffins on a baking sheet and bake for 5 minutes until slightly toasted.",
+    "While muffins toast, heat a skillet over medium heat and cook sausage slices until browned.",
+    "In a small bowl, combine feta, rolled oats, smoked paprika, and oregano.",
+    "Remove muffins from oven and spread a thin layer of tomato paste on the bottom halves.",
+    "Sprinkle the oat-feta mixture evenly over the tomato paste.",
+    "Top with cooked sausage, then place the top muffin halves on top.",
+    "Return the assembled sandwiches to the oven for 7 minutes until cheese melts and edges are golden; garnish with parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "oven-baked",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 35
+  },
+  "slug": "oven-roasted-smoky-german-muffin-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoky-german-muffin-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:30:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "smoke",
+    "primaryIngredient": "english muffins",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Muffin",
+    "descriptor": "OvenRoasted Smoky",
+    "dishForm": "Sandwich"
+  }
+}
