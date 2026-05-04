@@ -1,0 +1,96 @@
+{
+  "title": "Oozy Winey Vietnamese Pork Bun Bo Hue",
+  "description": "A winey and fluffy Vietnamese dish featuring pork and Appleton rum, served in a tagliere vessel, this solo dinner is sugar free friendly and made in the form of bun bo hue.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork shoulder, Appleton rum, fish sauce, lime juice, grated ginger, and garlic, and marinate for at least 30 minutes.",
+    "Heat a large skillet over medium high heat and add the marinated pork, cooking until browned on all sides.",
+    "Add the shallots and lemongrass to the skillet and cook until the shallots are translucent.",
+    "Wrap each portion of the pork mixture in a banana leaf and steam for 10 minutes.",
+    "Serve the steamed pork in a tagliere vessel.",
+    "Garnish with additional grated ginger and lime wedges if desired.",
+    "Serve immediately and enjoy.",
+    "Make sure to cook the pork to an internal temperature of 145 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "pork-recipes",
+    "rum-infused",
+    "steamed-dishes",
+    "sugar-free",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oozy-winey-vietnamese-pork-bun-bo-hue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-winey-vietnamese-pork-bun-bo-hue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:04:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "appleton rum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Oozy Winey",
+    "dishForm": "Bun Bo Hue"
+  }
+}

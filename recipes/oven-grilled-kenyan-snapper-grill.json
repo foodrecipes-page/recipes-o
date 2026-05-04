@@ -1,0 +1,95 @@
+{
+  "title": "Oven Grilled Kenyan Snapper Grill",
+  "description": "Tangy, crisp, show‑off Kenyan dish featuring red snapper, robata‑grill, dairy‑free‑friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "2 fillets (200g each)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+    "In a small bowl whisk together olive oil, lemon juice, smoked paprika, cumin, salt, pepper, and red pepper flakes.",
+    "Pat snapper fillets dry with paper towels and place them on the prepared sheet.",
+    "Brush the seasoning mixture generously over both sides of each fillet.",
+    "Roast fillets in the preheated oven for 10 minutes, then rotate the sheet to even the cooking.",
+    "Continue baking until the fish flakes easily with a fork and reaches an internal temperature of 145°F (63°C), about 2 more minutes.",
+    "Remove fillets and let rest for a minute before sprinkling fresh cilantro over the top.",
+    "Serve immediately with a side of roasted vegetables or a simple salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "kenyan",
+    "quick",
+    "robata-style",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "oven-grilled-kenyan-snapper-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-grilled-kenyan-snapper-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:03:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "robata-grill",
+    "primaryIngredient": "red snapper",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Snapper",
+    "descriptor": "Oven Grilled",
+    "dishForm": "Grill"
+  }
+}
