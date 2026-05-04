@@ -1,0 +1,107 @@
+{
+  "title": "Oozy Russian Tofu Croquettes",
+  "description": "Fermented, crisp, adventurous Russian dish featuring marinated tofu, deep-fried to golden perfection in a kazan cauldron and served with a splash of fish sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp grated"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "60 g"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "40 g"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "50 g (optional)",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu for 20 minutes to remove excess moisture.",
+    "Marinate the tofu cubes in soy sauce, fermented fish sauce, grated ginger, minced garlic, pepper and salt for 30 minutes.",
+    "In a shallow bowl combine flour and potato starch. Dredge marinated tofu pieces in the mixture, shaking off excess.",
+    "Beat the egg in a separate bowl and dip each coated tofu cube into the egg, then back into the flour mixture for an extra crust.",
+    "Heat oil to 180°C in a kazan cauldron or deep pan. Fry tofu croquettes in batches until golden brown, about 4 minutes each side.",
+    "Remove croquettes with a slotted spoon and drain on paper towels.",
+    "Serve hot, sprinkled with sesame seeds and optional smoked salmon slices.",
+    "Enjoy the crispy, fermented flavor of this Russian tofu classic."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "dinner"
+  ],
+  "slug": "oozy-russian-tofu-croquettes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-russian-tofu-croquettes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:15:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "marinated tofu",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tofu",
+    "descriptor": "Oozy",
+    "dishForm": "Croquettes"
+  }
+}
