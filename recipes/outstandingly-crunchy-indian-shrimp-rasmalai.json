@@ -1,0 +1,94 @@
+{
+  "title": "Outstandingly Crunchy Indian Shrimp Rasmalai",
+  "description": "A unique Indian dish featuring shrimp stock, crunchy toast, and low-sodium ingredients, served in a rasmalai form with a bitter twist, perfect for a weeknight dinner",
+  "cuisine": "Indian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-fat cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Toast the white bread until crispy and chop into small pieces",
+    "In a large pan, combine the shrimp stock, garam masala, and cayenne pepper, and bring to a boil",
+    "Add the shrimp to the pan and cook until pink and fully cooked",
+    "Add the chopped bitter melon to the pan and cook for an additional 2 minutes",
+    "In a separate bowl, whip the low-fat cream until stiff peaks form",
+    "To assemble the rasmalai, place a layer of toasted bread pieces in the bottom of a serving dish",
+    "Add a layer of the shrimp and bitter melon mixture on top of the bread",
+    "Top with a layer of whipped cream and sprinkle with chopped cilantro",
+    "Repeat the layers one more time, ending with a layer of whipped cream on top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "indian-food",
+    "low-sodium",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "outstandingly-crunchy-indian-shrimp-rasmalai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-crunchy-indian-shrimp-rasmalai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:18:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "shrimp stock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "outstandingly crunchy",
+    "dishForm": "Rasmalai"
+  }
+}

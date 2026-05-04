@@ -1575,6 +1575,21 @@
     "shard": "o"
   },
   {
+    "slug": "outstandingly-crunchy-indian-shrimp-rasmalai",
+    "title": "Outstandingly Crunchy Indian Shrimp Rasmalai",
+    "tags": [
+      "bitter",
+      "crunchy",
+      "indian-food",
+      "low-sodium",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "outstandingly-fluffy-indian-bananas-tikka-masala",
     "title": "Outstandingly Fluffy Indian Bananas Tikka Masala",
     "tags": [
@@ -2574,6 +2589,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mediterranean-lamb-kebabs",
+    "title": "Oven Roasted Mediterranean Lamb Kebabs",
+    "tags": [
+      "date-night",
+      "kebabs",
+      "lamb",
+      "low-carb",
+      "mediterranean",
+      "oven-roasted"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
