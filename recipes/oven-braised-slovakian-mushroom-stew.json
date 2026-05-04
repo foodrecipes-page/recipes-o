@@ -1,0 +1,97 @@
+{
+  "title": "Oven Braised Slovakian Mushroom Stew",
+  "description": "A hearty, charred Slovakian dish featuring bacon lardon and mushrooms, perfect for a cold winter night, this vegan-friendly version uses plant-based bacon alternatives.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "plant-based bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large kazan cauldron, cook the diced plant-based bacon over medium heat until crispy.",
+    "Remove the bacon from the cauldron and set aside, leaving the grease behind.",
+    "Add the chopped onion to the cauldron and cook until translucent.",
+    "Add the minced garlic to the cauldron and cook for an additional minute.",
+    "Add the mushrooms to the cauldron and cook until they release their liquid and start to brown.",
+    "Add the caraway seeds, paprika, vegetable broth, and tomato paste to the cauldron, stirring to combine.",
+    "Return the cooked bacon to the cauldron and bring the mixture to a simmer.",
+    "Cover the cauldron and transfer it to the preheated oven, braising the stew for 30 minutes.",
+    "Remove the cauldron from the oven and serve the stew hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "mushroom-based",
+    "one-pot",
+    "oven-braised",
+    "slovakian-cuisine",
+    "vegan-friendly",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "oven-braised-slovakian-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-braised-slovakian-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:33:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "bacon lardon",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Oven Braised",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Norwegian Lamb Kebabs",
+  "description": "A crowd-pleasing Norwegian dish featuring lamb, salty flavors, and a unique twist with dark chocolate chips, this recipe is halal-friendly and perfect for special occasions.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Thread the lamb, onion, and bell pepper onto skewers.",
+    "Mix the olive oil, salt, black pepper, garlic powder, and paprika in a bowl.",
+    "Brush the mixture onto the lamb and vegetables.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the oven for 20 minutes.",
+    "Remove from the oven and sprinkle with dark chocolate chips.",
+    "Return to the oven and roast for an additional 5 minutes.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "kebabs",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "oven-roasted",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-norwegian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-norwegian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:33:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kebabs"
+  }
+}

@@ -1697,6 +1697,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-braised-slovakian-mushroom-stew",
+    "title": "Oven Braised Slovakian Mushroom Stew",
+    "tags": [
+      "hearty-stew",
+      "mushroom-based",
+      "one-pot",
+      "oven-braised",
+      "slovakian-cuisine",
+      "vegan-friendly",
+      "winter-dish"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-broiled-saudi-arabian-pecan-nuts-kebabs",
     "title": "Saudi Arabian Pecan Nuts Kebabs",
     "tags": [
@@ -2593,6 +2609,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 24,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-norwegian-lamb-kebabs",
+    "title": "Oven Roasted Norwegian Lamb Kebabs",
+    "tags": [
+      "halal-friendly",
+      "kebabs",
+      "lamb-recipes",
+      "norwegian-cuisine",
+      "oven-roasted",
+      "special-occasion"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
