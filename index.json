@@ -1268,6 +1268,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-mexican-chicken-stew",
+    "title": "Oven Mexican Chicken Stew",
+    "tags": [
+      "chicken",
+      "clay-pot",
+      "low-sodium",
+      "mexican",
+      "one-pot",
+      "oven-cooked",
+      "stew"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-algerian-pork-shoulder-tagine",
     "title": "oven-roasted algerian pork shoulder tagine",
     "tags": [
