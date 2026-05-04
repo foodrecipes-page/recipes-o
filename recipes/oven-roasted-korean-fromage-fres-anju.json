@@ -1,0 +1,96 @@
+{
+  "title": "Oven Roasted Korean Fromage Fres Anju",
+  "description": "A lazy Sunday Korean dish featuring fromage frais and lamination puff pastry, perfect for a relaxing afternoon snack. This dish is nut-free friendly and served in a bamboo steamer.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fromage frais",
+      "amount": "1 cup",
+      "notes": "soft and creamy"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the lamination puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spread the fromage frais evenly over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Drizzle the gochujang and soy sauce over the fromage frais.",
+    "Sprinkle the chopped green onions, sesame oil, salt, and black pepper over the top.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Place the pastry in a bamboo steamer lined with parchment paper.",
+    "Steam the pastry in the oven for 20 minutes, then remove the parchment paper and continue baking for an additional 10 minutes, or until golden brown.",
+    "Remove the pastry from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "korean-cuisine",
+    "lazy-sunday",
+    "nut-free",
+    "snack-time",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "oven-roasted-korean-fromage-fres-anju",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-korean-fromage-fres-anju",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:23:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "fromage frais",
+    "diet": "nut-free",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fromage frais",
+    "descriptor": "oven roasted",
+    "dishForm": "Anju"
+  }
+}

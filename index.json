@@ -1111,6 +1111,20 @@
     "shard": "o"
   },
   {
+    "slug": "orange-infused-mexican-corn-elote",
+    "title": "Orange Infused Mexican Corn Elote",
+    "tags": [
+      "citrus-flavors",
+      "comfort-food",
+      "grilled-corn",
+      "mexican-food",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "orange-infused-turkish-tofu-doner-kebab",
     "title": "Orange Infused Turkish Tofu Doner Kebab",
     "tags": [
@@ -2028,6 +2042,21 @@
       "korean-cuisine",
       "low-sodium",
       "oven-roasted"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-korean-fromage-fres-anju",
+    "title": "Oven Roasted Korean Fromage Fres Anju",
+    "tags": [
+      "bamboo-steamer",
+      "korean-cuisine",
+      "lazy-sunday",
+      "nut-free",
+      "snack-time",
+      "vegetarian-friendly"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 50,
