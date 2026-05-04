@@ -1,0 +1,101 @@
+{
+  "title": "Oven Baked Middle Eastern Cookies Harees",
+  "description": "A festive Middle Eastern dish featuring crisp cookies, this recipe is Whole30-friendly and perfect for special occasions. It combines floral flavors with a crunchy texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons",
+      "notes": "food grade"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon",
+      "notes": "food grade"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine grind"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1/4 cup",
+      "notes": "food grade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together rose water, orange blossom water, eggs, and melted coconut oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Fold in dried rose petals.",
+    "Scoop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes or until the edges are lightly golden.",
+    "Allow the cookies to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.",
+    "To achieve the harees shape, use a ttukbaegi-earthenware-cook or a wok to mold the cookies while they are still warm.",
+    "Serve the cookies in the harees shape, garnished with additional dried rose petals if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "festive",
+    "floral",
+    "gluten-free",
+    "middle-eastern",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "oven-baked-middle-eastern-cookies-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-middle-eastern-cookies-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:13:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cookies",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cookies",
+    "descriptor": "Oven Baked",
+    "dishForm": "Harees"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Oven Roasted Italian Orange Lasagna",
+  "description": "A funky, shaggy comfort dish that layers puff pastry and lasagna sheets with orange segments, ricotta, and melty cheeses for a bright, aromatic finish.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "puff pastry sheets",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "fresh orange",
+      "amount": "2",
+      "notes": "segmented"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "400 g",
+      "notes": "low fat"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50 g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "20 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and lightly oil a 23x33 cm baking dish.",
+    "In a skillet, heat olive oil over medium heat; add minced garlic and sauté until fragrant, about one minute.",
+    "Toss lasagna sheets and puff pastry sheets into the skillet, coating them with the garlic oil, and spread them evenly in the dish, alternating layers of sheets and puff pastry for lamination.",
+    "Sprinkle a pinch of salt and pepper over the layered sheets, then spoon ricotta cheese across the top, spreading it evenly.",
+    "Layer shredded mozzarella and grated Parmesan over the ricotta, then scatter chopped basil leaves.",
+    "Cut the oranges into thin slices, remove seeds, and arrange the segments over the cheese layer, allowing the citrus to sit lightly on top.",
+    "Drizzle a final tablespoon of olive oil over the entire surface and season with dried oregano and additional salt if desired.",
+    "Cover the dish with aluminum foil and bake for 30 minutes to allow the cheeses to melt and the pasta to soften.",
+    "Remove the foil, bake uncovered for an additional 10 to 12 minutes until the top is golden and slightly crisp.",
+    "Let the lasagna rest for 10 minutes before cutting into squares and serving warm."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 45,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "budget-friendly",
+    "comfort-food",
+    "orange-flavor",
+    "oven-roasted",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 23
+  },
+  "slug": "oven-roasted-italian-orange-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-italian-orange-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:14:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "oranges",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Orange",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Lasagna"
+  }
+}

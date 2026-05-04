@@ -1337,6 +1337,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-middle-eastern-cookies-harees",
+    "title": "Oven Baked Middle Eastern Cookies Harees",
+    "tags": [
+      "crunchy",
+      "festive",
+      "floral",
+      "gluten-free",
+      "middle-eastern",
+      "whole30"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-norwegian-salmon-gratin",
     "title": "Oven-Baked Norwegian Salmon Gratin",
     "tags": [
@@ -1896,6 +1911,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 170,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-italian-orange-lasagna",
+    "title": "Oven Roasted Italian Orange Lasagna",
+    "tags": [
+      "budget-friendly",
+      "comfort-food",
+      "orange-flavor",
+      "oven-roasted",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 80,
     "shard": "o"
   },
   {
