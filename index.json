@@ -4285,6 +4285,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-steamed-german-cabbage-stew",
+    "title": "Oven-Steamed German Cabbage Stew",
+    "tags": [
+      "bain-marie",
+      "cabbage",
+      "easy-veggie",
+      "german",
+      "hot-pot",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-steamed-saudi-sevaiiya-curry",
     "title": "Oven Steamed Saudi Sevaiiya Curry",
     "tags": [

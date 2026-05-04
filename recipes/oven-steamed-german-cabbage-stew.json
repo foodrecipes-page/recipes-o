@@ -1,0 +1,120 @@
+{
+  "title": "Oven-Steamed German Cabbage Stew",
+  "description": "A classic German dish featuring savoy cabbage cooked in a citrusy broth, perfect for a cozy dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "potassium chloride",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cut the savoy cabbage into thin wedges and separate the leaves.",
+    "Mince the onion and garlic.",
+    "Heat the olive oil in the hot pot vessel over medium heat.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the apple cider vinegar and lemon juice, and cook for 1 minute.",
+    "Add the water, potassium chloride, salt, and black pepper. Stir to combine.",
+    "Place the hot pot vessel in a bain-marie and steam the cabbage for 20-25 minutes, or until tender.",
+    "Remove the cabbage from the steamer and serve hot, garnished with bay leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "cabbage",
+    "easy-veggie",
+    "german",
+    "hot-pot",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "oven-steamed-german-cabbage-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-steamed-german-cabbage-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "bain-marie",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "Oven-Steamed",
+    "dishForm": "Braised"
+  }
+}
