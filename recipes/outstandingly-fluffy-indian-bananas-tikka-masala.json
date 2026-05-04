@@ -1,0 +1,115 @@
+{
+  "title": "Outstandingly Fluffy Indian Bananas Tikka Masala",
+  "description": "A unique and delicious Indian dish featuring bananas in a fluffy tikka masala sauce, perfect for a comforting meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tikka masala spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until it is lightly browned.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Stir in the tikka masala spice mix and cook for 1 minute.",
+    "Add the canned diced tomatoes, chicken or vegetable broth, and salt, and bring to a boil.",
+    "Reduce the heat to low and simmer the sauce for 10 minutes.",
+    "Meanwhile, mix the greek yogurt and lemon juice in a bowl.",
+    "Add the sliced bananas to the yogurt mixture and toss to coat.",
+    "Add the banana mixture to the saucepan and simmer for 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the bananas tikka masala hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "low-glycemic",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "outstandingly-fluffy-indian-bananas-tikka-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-fluffy-indian-bananas-tikka-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:33:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "tagine-cook",
+    "primaryIngredient": "bananas",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bananas",
+    "descriptor": "Outstandingly fluffy",
+    "dishForm": "Tikka Masala"
+  }
+}
