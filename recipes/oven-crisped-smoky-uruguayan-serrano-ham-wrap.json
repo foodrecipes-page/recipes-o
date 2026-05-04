@@ -1,0 +1,95 @@
+{
+  "title": "Oven-Crisped Smoky Uruguayan Serrano Ham Wrap",
+  "description": "A rich, crispy, kid-friendly Uruguayan dish featuring serrano ham, with a smoky flavor and anti-inflammatory-friendly ingredients, wrapped in a corn husk.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "4 slices",
+      "notes": "high-quality, thinly sliced"
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional, for added smokiness"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Soak the corn husks in water for at least 30 minutes.",
+    "Lay a corn husk flat on a work surface and arrange 2 slices of Serrano ham in the center.",
+    "Sprinkle smoked paprika, garlic powder, salt, and pepper over the ham.",
+    "Drizzle lime juice over the ham and sprinkle with chopped cilantro.",
+    "Fold the bottom half of the corn husk up over the filling, then fold in the sides and roll up the wrap.",
+    "Repeat with the remaining ingredients to make 3 more wraps.",
+    "Place the wraps seam-side down on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the corn husks are crispy and golden brown.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "oven-crisped-smoky-uruguayan-serrano-ham-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-crisped-smoky-uruguayan-serrano-ham-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:55:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "serrano ham",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Serrano ham",
+    "descriptor": "Oven-Crisped Smoky",
+    "dishForm": "Wrap"
+  }
+}
