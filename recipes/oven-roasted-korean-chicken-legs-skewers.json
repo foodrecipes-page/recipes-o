@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Korean Chicken Legs Skewers",
+  "description": "A savory and spicy Korean dish featuring chicken legs, perfect for a date night, with a rich beurre-monte sauce and low sodium content",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, Gochujang, brown sugar, garlic, and ginger.",
+    "Add the chicken legs to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken legs onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with sesame oil.",
+    "Roast the chicken in the preheated oven for 25 minutes, or until cooked through.",
+    "While the chicken is cooking, prepare the beurre-monte sauce by melting the butter in a saucepan over low heat.",
+    "Remove the chicken from the oven and brush with the beurre-monte sauce.",
+    "Return the chicken to the oven and cook for an additional 5 minutes, or until the sauce is caramelized.",
+    "Remove the chicken from the oven and sprinkle with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "chicken-recipes",
+    "date-night",
+    "korean-cuisine",
+    "low-sodium",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "oven-roasted-korean-chicken-legs-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-korean-chicken-legs-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:23:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "chicken legs",
+    "diet": "low-sodium",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
