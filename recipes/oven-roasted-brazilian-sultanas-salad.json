@@ -1,0 +1,109 @@
+{
+  "title": "Oven Roasted Brazilian Sultanas Salad",
+  "description": "A sweet and snappy salad that energizes with caramelized sultanas, shio‑koji cure, and fresh greens, perfect for a Brazilian-inspired lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sultanas",
+      "amount": "1 cup",
+      "notes": "dried grapes"
+    },
+    {
+      "name": "shio‑koji",
+      "amount": "2 tbsp",
+      "notes": "fermented soy sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for coating and drizzle"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "1 cup",
+      "notes": "arugula and spinach"
+    },
+    {
+      "name": "roasted cashews",
+      "amount": "1/2 cup",
+      "notes": "60g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "bright acidity"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C.",
+    "Combine sultanas, shio‑koji, olive oil, grated ginger, and a pinch of sea salt in a bowl and toss until coated.",
+    "Spread the coated sultanas in a single layer on a baking sheet.",
+    "Roast for 10 to 12 minutes until caramelized and slightly puffed.",
+    "While the sultanas roast, toss mixed salad greens with lime juice, chopped mint, and chopped cilantro.",
+    "When the sultanas are done, let them cool slightly and then sprinkle them over the greens.",
+    "Top the salad with roasted cashews, toasted sesame seeds, and a drizzle of extra olive oil.",
+    "Serve immediately for a fresh crunch or chill for 15 minutes for a refreshing contrast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "gluten-free",
+    "low-calorie",
+    "quick",
+    "sweet-salty",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 11,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "oven-roasted-brazilian-sultanas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-brazilian-sultanas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:21:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sultanas",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sultanas",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Salad"
+  }
+}
