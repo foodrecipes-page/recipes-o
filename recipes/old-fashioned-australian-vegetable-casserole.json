@@ -1,0 +1,104 @@
+{
+  "title": "Old Fashioned Australian Vegetable Casserole",
+  "description": "A nostalgic Australian dish featuring fermented flavors and a blend of vegetables, this casserole is a hearty and comforting meal option, it is also satvik-friendly as it does not contain any animal products except for parmigiano-reggiano cheese which can be substituted with a satvik alternative.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "parmigiano-reggiano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the onion until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "In a large bowl, combine the sliced zucchini, grated carrots, grated cheese, salt, and baking powder.",
+    "Add the cooked mushroom and onion mixture to the bowl and stir to combine.",
+    "In a separate bowl, mix the tomato paste with the water to create a sauce.",
+    "Grease a 9x13 inch baking dish with olive oil and add the vegetable mixture.",
+    "Pour the tomato paste sauce over the vegetable mixture and cover the dish with aluminum foil.",
+    "Bake the casserole for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "casserole",
+    "comfort-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "old-fashioned-australian-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-australian-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:32:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "vegetables",
+    "descriptor": "old fashioned",
+    "dishForm": "Casserole"
+  }
+}

@@ -240,6 +240,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-australian-vegetable-casserole",
+    "title": "Old Fashioned Australian Vegetable Casserole",
+    "tags": [
+      "australian",
+      "casserole",
+      "comfort-food",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 80,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-french-beef-fillet-wrap",
     "title": "Old Fashioned French Beef Fillet Wrap",
     "tags": [
@@ -1460,6 +1474,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-german-squash-casserole",
+    "title": "Oven Roasted German Squash Casserole",
+    "tags": [
+      "ayurvedic-diet",
+      "casserole",
+      "fermented-food",
+      "german-cuisine",
+      "roasted-vegetables",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
