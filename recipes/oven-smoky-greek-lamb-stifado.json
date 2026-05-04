@@ -1,0 +1,103 @@
+{
+  "title": "Oven Smoky Greek Lamb Stifado",
+  "description": "A smoky and energizing Greek dish featuring lamb, pears, and a blend of spices, cooked to perfection in a tagine pot. This stifado is anti-inflammatory friendly and offers a unique twist on traditional Greek cuisine.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "pear",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine lamb, smoked paprika, dried oregano, salt, and black pepper, and mix well.",
+    "Heat olive oil in the tagine pot over medium heat, then add the lamb mixture and cook until browned on all sides.",
+    "Add chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add chopped pear to the pot, then pour in chicken broth and bring to a boil.",
+    "Cover the tagine pot with a lid, then transfer it to the preheated oven and cook for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven, then let it cool for 10 minutes before serving.",
+    "Serve the stifado hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pot-meals",
+    "smoky-flavors",
+    "winter-comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "oven-smoky-greek-lamb-stifado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoky-greek-lamb-stifado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:00:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "pears",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Smoky",
+    "dishForm": "Stifado"
+  }
+}
