@@ -1,0 +1,110 @@
+{
+  "title": "Oven Braised Filipino Callaloo Stew",
+  "description": "A low-glycemic, oven braised Filipino stew with fermented flavors, cheese pull, and tender callaloo, perfect for post-workout recovery.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "low-fat mozzarella",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In an oven-safe Dutch oven, heat olive oil over medium heat and sauté onion and garlic until translucent.",
+    "Add diced chicken and cook until lightly browned, about 5 minutes.",
+    "Stir in callaloo, paprika, black pepper, and salt; cook for 2 minutes to wilt slightly.",
+    "Pour in chicken broth and fermented fish sauce, bring to a gentle simmer, then cover.",
+    "Transfer the pot to the preheated oven and braise for 25 minutes, or until callaloo is tender.",
+    "Remove from oven, sprinkle shredded mozzarella evenly over the stew, and return to oven uncovered for 5 minutes to melt the cheese.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 35,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "filipino",
+    "low-glycemic",
+    "one-pan",
+    "oven-braised",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "oven-braised-filipino-callaloo-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-braised-filipino-callaloo-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:13:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "soffritto-base",
+    "primaryIngredient": "callaloo",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "callaloo",
+    "descriptor": "Oven Braised",
+    "dishForm": "Stew"
+  }
+}

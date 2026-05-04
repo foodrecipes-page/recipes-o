@@ -384,6 +384,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-braised-filipino-callaloo-stew",
+    "title": "Oven Braised Filipino Callaloo Stew",
+    "tags": [
+      "cheese-pull",
+      "filipino",
+      "low-glycemic",
+      "one-pan",
+      "oven-braised",
+      "post-workout"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 47,
+    "shard": "o"
+  },
+  {
     "slug": "oven-broiled-saudi-arabian-pecan-nuts-kebabs",
     "title": "Saudi Arabian Pecan Nuts Kebabs",
     "tags": [
@@ -493,6 +508,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-middle-eastern-pork-baba-ganoush",
+    "title": "Oven Roasted Middle Eastern Pork Baba Ganoush",
+    "tags": [
+      "eggplant",
+      "gluten-free",
+      "ground-pork",
+      "middle-eastern",
+      "one-pan",
+      "oven-roasted"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {

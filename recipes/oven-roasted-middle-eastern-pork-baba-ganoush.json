@@ -1,0 +1,110 @@
+{
+  "title": "Oven Roasted Middle Eastern Pork Baba Ganoush",
+  "description": "A twist on the traditional baba ganoush, this recipe features ground pork and a blend of Middle Eastern spices, roasted to perfection in a cast-iron skillet.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup",
+      "notes": " creamy"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, smoked paprika, salt, and black pepper, and mix well with your hands until just combined.",
+    "Transfer the pork mixture to a cast-iron skillet, breaking it up with a spoon as you go.",
+    "Roast the pork in the preheated oven for 20 minutes, stirring occasionally, until it is no longer pink and lightly browned.",
+    "While the pork is cooking, toss the eggplant pieces with 1 tablespoon of the olive oil, and spread them out in a single layer on a baking sheet.",
+    "Roast the eggplant in the oven for 20 minutes, stirring occasionally, until it is tender and lightly browned.",
+    "Remove the pork and eggplant from the oven, and let them cool slightly.",
+    "In a blender or food processor, combine the roasted eggplant, tahini, lemon juice, garlic, and the remaining 1 tablespoon of olive oil, and blend until smooth.",
+    "Stir the roasted pork into the eggplant mixture, and season with salt and black pepper to taste.",
+    "Transfer the baba ganoush to a serving bowl, and garnish with the chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "gluten-free",
+    "ground-pork",
+    "middle-eastern",
+    "one-pan",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-middle-eastern-pork-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-middle-eastern-pork-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:13:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "ground pork",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pork",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Baba Ganoush"
+  }
+}
