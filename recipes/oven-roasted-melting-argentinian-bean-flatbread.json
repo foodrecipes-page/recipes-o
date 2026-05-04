@@ -1,0 +1,112 @@
+{
+  "title": "Oven-Roasted Melting Argentinian Bean Flatbread",
+  "description": "Sweet, molten flatbreads made with black beans and a double-rise dough for a low-calorie date-night treat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "90 g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "90 g"
+    },
+    {
+      "name": "black beans, cooked and mashed",
+      "amount": "240 g",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "240 ml",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "5 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "3 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "3 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "3 g",
+      "notes": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together whole wheat flour, all-purpose flour, salt, sugar, ground cumin, smoked paprika, dried oregano, and active dry yeast until well combined.",
+    "Add water, olive oil, and mashed black beans to the dry mixture, stirring until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for about 5-7 minutes until smooth and elastic.",
+    "Place the dough in an oiled bowl, cover loosely, and let it rise at room temperature for 60 minutes until nearly doubled in size.",
+    "Punch down the dough, divide it into 4 equal portions, and roll each into a flat disc about 10 inches in diameter.",
+    "Place the discs on a parchment-lined baking sheet, cover again, and let them rise for a second time for 30 minutes.",
+    "Preheat the oven to 425°F (220°C) while the dough is in its second rise.",
+    "Bake the flatbreads for 12 to 15 minutes until the edges blister and the surface has a golden crust.",
+    "Remove from the oven, let cool for 5 minutes, then slice and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "date-night",
+    "double-rise",
+    "low-calorie",
+    "oven-roasted",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 9,
+    "carbs": 41,
+    "fat": 5
+  },
+  "slug": "oven-roasted-melting-argentinian-bean-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-melting-argentinian-bean-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:37:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "black beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "bean",
+    "descriptor": "Oven-Roasted Melting",
+    "dishForm": "Flatbread"
+  }
+}
