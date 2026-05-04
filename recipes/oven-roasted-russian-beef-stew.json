@@ -1,0 +1,110 @@
+{
+  "title": "Oven Roasted Russian Beef Stew",
+  "description": "This earthy and snappy Russian dish is a perfect hangover cure, featuring unwaxed lemon and cooked in a ttukbaegi earthenware pot, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef cubes with salt, black pepper, and dried thyme.",
+    "Heat the olive oil in the ttukbaegi earthenware pot over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides.",
+    "Add the chopped onion, carrots, potatoes, and mushrooms to the pot.",
+    "Pour in the beef broth and lemon juice, making sure that all the ingredients are covered.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast for 2 1/2 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "oven-roasted-russian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-russian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:13:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}

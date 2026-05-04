@@ -1932,6 +1932,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-russian-beef-stew",
+    "title": "Oven Roasted Russian Beef Stew",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "hearty-stew",
+      "one-pot",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-saudi-beef-stew",
     "title": "Oven Roasted Saudi Beef Stew",
     "tags": [
