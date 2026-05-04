@@ -1,0 +1,98 @@
+{
+  "title": "Peruvian Duck Legs Confit",
+  "description": "Tender and resinous, this traditional Peruvian dish features duck legs slow-cooked in a mixture of spices and sugar, resulting in a nostalgic and flavorful experience, with the added touch of Peruvian candy for a sweet and savory combination, all while being FODMAP-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4 legs",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Peruvian candy",
+      "amount": "1/2 cup",
+      "notes": "such as picarones or suspiro de limeña"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the sugar, salt, black pepper, cumin, and smoked paprika.",
+    "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",
+    "Place the duck legs in a large Dutch oven or heavy pot with a lid, and add the Peruvian candy, duck fat, and chopped parsley.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the duck legs for 2 1/2 hours, or until the meat is tender and falls off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the duck legs warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "confit",
+    "duck-recipes",
+    "fodmap-friendly",
+    "peruvian-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "old-fashioned-peruvian-duck-legs-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-peruvian-duck-legs-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:59:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "duck legs",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck legs",
+    "descriptor": "old fashioned",
+    "dishForm": "Confit"
+  }
+}
