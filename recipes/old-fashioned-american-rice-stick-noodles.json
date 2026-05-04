@@ -1,0 +1,106 @@
+{
+  "title": "American Rice Stick Noodle Dish",
+  "description": "A comforting and chewy American dish featuring rice stick noodles, kombu cold extract, and a low calorie friendly twist.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice stick noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Kombu cold extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Low sodium soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice stick noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "In a small bowl, whisk together the kombu cold extract and low sodium soy sauce.",
+    "Add the cooked noodles to the skillet and stir to combine with the mushroom mixture.",
+    "Pour the kombu cold extract mixture over the noodles and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "mushroom-lovers",
+    "noodle-dish",
+    "one-pot",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "old-fashioned-american-rice-stick-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-american-rice-stick-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:34:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "noodles",
+    "descriptor": "old fashioned",
+    "dishForm": "Noodles"
+  }
+}

@@ -343,6 +343,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-american-rice-stick-noodles",
+    "title": "American Rice Stick Noodle Dish",
+    "tags": [
+      "low-calorie",
+      "mushroom-lovers",
+      "noodle-dish",
+      "one-pot",
+      "quick-dinner",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-australian-vegetable-casserole",
     "title": "Old Fashioned Australian Vegetable Casserole",
     "tags": [
