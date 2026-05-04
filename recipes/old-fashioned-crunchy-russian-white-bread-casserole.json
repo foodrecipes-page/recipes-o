@@ -1,0 +1,102 @@
+{
+  "title": "Old Fashioned Crunchy Russian White Bread Casserole",
+  "description": "A rich and crunchy Russian dish featuring white bread mix, dehydrated to perfection, and plant-based friendly, this casserole is a cozy delight for any meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "2 cups",
+      "notes": "dried and crushed into crumbs"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the chopped onion until translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a large bowl, combine the cooked mushroom and onion mixture, crushed white bread mix, crumbled tofu, vegetable broth, nutritional yeast, salt, black pepper, and dried thyme, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired.",
+    "Let the casserole rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "plant-based",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "old-fashioned-crunchy-russian-white-bread-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-crunchy-russian-white-bread-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:00:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "dehydrate",
+    "primaryIngredient": "white bread mix",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "white bread",
+    "descriptor": "old fashioned crunchy",
+    "dishForm": "Casserole"
+  }
+}
