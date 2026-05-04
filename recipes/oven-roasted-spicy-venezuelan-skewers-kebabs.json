@@ -1,0 +1,119 @@
+{
+  "title": "Oven-Roasted Spicy Venezuelan Skewers Kebabs",
+  "description": "Chewy, spicy, and flavorful skewers with a hint of Venezuelan culture, ideal for a midnight craving. A keto-friendly take on traditional robata-grill skewers.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "500g",
+      "notes": "Trim excess fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 medium",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Tomato",
+      "amount": "3 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Jalapeño pepper",
+      "amount": "2",
+      "notes": "Seed and slice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "Add smoky flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Fine-grained"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Brush skewers"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Thread the meat and vegetables onto skewers, leaving some space between each piece.",
+    "In a small bowl, mix together smoked paprika, cumin, salt, and black pepper.",
+    "Brush the skewers with olive oil and sprinkle the spice mixture evenly.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 12-15 minutes, or until cooked through and slightly charred.",
+    "Remove the skewers from the oven and let them rest for 2-3 minutes.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill-alternative",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "oven-roasted-spicy-venezuelan-skewers-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spicy-venezuelan-skewers-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:45:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "onions",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "skewers",
+    "descriptor": "oven-roasted spicy",
+    "dishForm": "kebabs"
+  }
+}
