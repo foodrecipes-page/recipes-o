@@ -1,0 +1,112 @@
+{
+  "title": "Oily Tender Spanish Chickpeas Paella",
+  "description": "Spicy, tender, and cozy Spanish dish made with canned chickpeas, grilled ingredients, and a touch of smokiness. This recipe is suitable for a sugar-free diet and can be prepared in under an hour.",
+  "cuisine": "Spanish",
+  "diet": [
+    null,
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short-grain Spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the smoked paprika, red pepper flakes, salt, and black pepper, and stir to combine.",
+    "Add the uncooked rice and stir to coat the rice in the spice mixture.",
+    "Add the canned chickpeas and stir to combine.",
+    "Add the diced roasted red bell pepper and grilled chicken breast, and stir to combine.",
+    "Cook for 5 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low and cover the skillet with a tight-fitting lid.",
+    "Simmer for 20 minutes, until the rice is tender and the liquid has been absorbed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paella",
+    "spanish",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 75,
+    "fat": 22
+  },
+  "slug": "oily-tender-spanish-chickpeas-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-tender-spanish-chickpeas-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "oily tender",
+    "dishForm": "paella"
+  }
+}

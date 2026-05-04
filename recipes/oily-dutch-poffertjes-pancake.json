@@ -1,0 +1,122 @@
+{
+  "title": "Oily Dutch Poffertjes Pancake",
+  "description": "A spicy, shattering, and nostalgic Dutch dish featuring nutmeg and bonito-shave that's perfect for ayurvedic-tamasic-friendly diets.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g",
+      "notes": "melted"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, and yeast in a large mixing bowl.",
+    "Heat milk, melted butter, buttermilk, and vegetable oil in a saucepan until warm, around 100°F (38°C).",
+    "Whisk in eggs and cayenne pepper, then slowly pour the wet ingredients into the dry ingredients and mix until a smooth batter forms.",
+    "Cover the bowl with plastic wrap and let the mixture rest in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Preheat a non-stick pan or a poffertjes pan over medium heat with a small amount of vegetable oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan and cook for 2-3 minutes on each side, or until golden brown and puffed up.",
+    "Repeat with the remaining batter, greasing the pan with more oil as needed.",
+    "Serve warm with a sprinkle of bonito flakes and a pinch of nutmeg.",
+    "Enjoy!",
+    "These poffertjes are best served immediately, but they can be stored in an airtight container at room temperature for up to 2 hours.",
+    "Note: Traditionally, poffertjes are cooked in a special poffertjes pan that has many small cups. If you have access to one, use it!",
+    "If not, a non-stick pan will do the job just fine.",
+    "Poffertjes are best served with butter and powdered sugar, but feel free to get creative with toppings!"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 10,
+  "totalTimeMin": 12,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "bread",
+    "breakfast",
+    "comfort-food",
+    "dutch",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "oily-dutch-poffertjes-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-dutch-poffertjes-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "nutmeg",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "poffertjes",
+    "descriptor": "oily",
+    "dishForm": "pancake"
+  }
+}

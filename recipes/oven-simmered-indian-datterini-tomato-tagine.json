@@ -1,0 +1,64 @@
+{
+  "title": "Oven-Simmered Indian Datterini-Tomato Tagine",
+  "description": "A floral and creamy Maharashtrian-inspired dish featuring datterini tomatoes in a tagine pot. Serve over fluffy basmati rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Datterini Tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a tagine pot, heat 1 tablespoon of ghee over medium heat.",
+    "Add 1 minced onion and cook until translucent, about 5 minutes.",
+    "Add 2 minced cloves of garlic and cook for an additional 1 minute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "indian",
+    "one-pan",
+    "tagine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "oven-simmered-indian-datterini-tomato-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-simmered-indian-datterini-tomato-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:47Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "dash",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "datterini-tomato",
+    "descriptor": "Oven-Simmered",
+    "dishForm": "Tagine"
+  }
+}

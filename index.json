@@ -299,6 +299,22 @@
     "shard": "o"
   },
   {
+    "slug": "oily-dutch-poffertjes-pancake",
+    "title": "Oily Dutch Poffertjes Pancake",
+    "tags": [
+      "ayurvedic-tamasic-friendly",
+      "bread",
+      "breakfast",
+      "comfort-food",
+      "dutch",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 12,
+    "shard": "o"
+  },
+  {
     "slug": "oily-filipino-chicken-stir-fry",
     "title": "Oily Filipino Chicken Stir Fry",
     "tags": [
@@ -472,6 +488,21 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-tender-spanish-chickpeas-paella",
+    "title": "Oily Tender Spanish Chickpeas Paella",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "paella",
+      "spanish",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -4252,6 +4283,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-simmered-indian-datterini-tomato-tagine",
+    "title": "Oven-Simmered Indian Datterini-Tomato Tagine",
+    "tags": [
+      "high-fiber",
+      "indian",
+      "one-pan",
+      "tagine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
