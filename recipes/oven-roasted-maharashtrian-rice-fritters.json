@@ -1,0 +1,111 @@
+{
+  "title": "Oven Roasted Maharashtrian Rice Fritters",
+  "description": "Light, grassy rice fritters with a glassy, jelly‑like glaze, shaped like idli, perfect for a low‑calorie snack.",
+  "cuisine": "Maharashtrian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puffed rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "frozen peas, thawed",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg wash (1 egg + 2 tbsp water)",
+      "amount": "1"
+    },
+    {
+      "name": "oil for brushing",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "In a large bowl, combine the cooked rice, puffed rice, peas, cilantro, mint, coconut, tamarind paste, ginger, garam masala, and salt until well blended.",
+    "Fold the egg wash into the rice mixture until it forms a slightly sticky batter.",
+    "Using a teaspoon, scoop the batter onto the prepared sheet, shaping each into a round idli‑like disc about 1 inch thick.",
+    "Brush each fritter lightly with oil to ensure a crisp edge.",
+    "Place the sheet in the preheated oven and roast for 20 minutes, then flip each fritter and roast for an additional 15 minutes until golden brown and firm.",
+    "Remove from the oven and let the fritters cool for 5 minutes before serving.",
+    "Optionally, garnish with fresh cilantro and a squeeze of lime for brightness.",
+    "Serve the fritters hot with green chutney or yogurt dip.",
+    "Store any leftovers in an airtight container in the fridge for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "egg-wash",
+    "idli",
+    "low-calorie",
+    "maharashtrian",
+    "oven-roasted",
+    "quick",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "oven-roasted-maharashtrian-rice-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-maharashtrian-rice-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:18:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "air-fry",
+    "primaryIngredient": "egg wash",
+    "diet": "low-calorie",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Maharashtrian",
+    "mainIngredient": "Rice",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Fritters"
+  }
+}

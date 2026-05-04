@@ -1,0 +1,99 @@
+{
+  "title": "Oven-Roasted Tunisian Lentil Tagine",
+  "description": "A hearty, satvik-friendly weeknight dish roasted on a cedar plank, featuring the subtle umami of shaoxing wine and a fragrant tadka spice mix.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "200 g",
+      "notes": "rinsed and soaked for 30 min"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak lentils in water for 30 minutes then drain.",
+    "Preheat oven to 180°C.",
+    "In a bowl combine lentils, shaoxing wine, tadka, olive oil, cumin, paprika, oregano, salt, pepper, and vegetable broth.",
+    "Pour mixture onto a soaked cedar plank and top with diced tomatoes.",
+    "Cover cedar plank with aluminum foil and bake for 45 minutes.",
+    "Remove foil, stir gently, then cover again and bake an additional 15 minutes until lentils are tender.",
+    "Let cool 5 minutes, then slice cedar plank into serving plates.",
+    "Garnish with fresh herbs if desired and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "one-pan",
+    "satvik-friendly",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "oven-roasted-tunisian-lentil-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-tunisian-lentil-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:18:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lentils",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tagine"
+  }
+}

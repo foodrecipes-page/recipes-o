@@ -2034,6 +2034,23 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-maharashtrian-rice-fritters",
+    "title": "Oven Roasted Maharashtrian Rice Fritters",
+    "tags": [
+      "egg-wash",
+      "idli",
+      "low-calorie",
+      "maharashtrian",
+      "oven-roasted",
+      "quick",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Maharashtrian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-malaysian-deodeok-root-skewers",
     "title": "Oven Roasted Malaysian Deodeok Root Skewers",
     "tags": [
@@ -2378,6 +2395,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-tunisian-lentil-tagine",
+    "title": "Oven-Roasted Tunisian Lentil Tagine",
+    "tags": [
+      "cedar-plank",
+      "one-pan",
+      "satvik-friendly",
+      "tunisian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {
