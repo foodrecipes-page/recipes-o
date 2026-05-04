@@ -1,0 +1,113 @@
+{
+  "title": "Opulent Thai Tofu Curry",
+  "description": "A savory, dense, romantic Thai tofu curry infused with a silky coconut creme patissiere and a nimono-simmered broth, perfect for a macrobiotic-friendly feast.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "for curry"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "for creme patissiere"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "2 tbsp",
+      "notes": "for curry"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "2 tbsp",
+      "notes": "for creme patissiere"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1 stalk, sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "3 leaves"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture and cut into 1-inch cubes.",
+    "In a small saucepan, whisk together 200ml coconut milk, 2 tbsp arrowroot powder, and 2 tbsp sugar, then heat until thickened to form a coconut creme patissiere, stirring constantly.",
+    "In a separate pot, heat 1 tsp sesame oil over medium heat and add 2 tbsp green curry paste, cooking until fragrant, about 1 minute.",
+    "Add sliced lemongrass and kaffir lime leaves to the pot and sauté for another minute.",
+    "Pour in 200ml coconut milk for the curry, stir in 2 tbsp arrowroot powder to thicken, and bring to a gentle simmer.",
+    "Gently fold in the tofu cubes and 1 tbsp soy sauce, letting the curry simmer for 5 minutes so the tofu absorbs the flavors.",
+    "Stir the prepared coconut creme patissiere into the simmering curry, creating a rich, creamy base.",
+    "Add fresh basil leaves and squeeze in 2 tbsp lime juice, stirring until the basil wilts.",
+    "Taste and adjust seasoning with additional soy sauce or sugar if needed, then remove the pot from heat.",
+    "Serve the curry hot over steamed brown rice or quinoa, garnished with extra basil and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creme-patissiere",
+    "dense",
+    "macrobiotic-friendly",
+    "romantic",
+    "savory",
+    "thai",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 1030,
+    "protein": 26,
+    "carbs": 48,
+    "fat": 63
+  },
+  "slug": "opulent-thai-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/opulent-thai-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:51:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Opulent",
+    "dishForm": "Curry"
+  }
+}
