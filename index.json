@@ -921,6 +921,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-mediterranean-shoyu-koji-falafel",
+    "title": "Oozing Mediterranean Shoyu-Koji Falafel",
+    "tags": [
+      "falafel",
+      "gluten-free",
+      "mediterranean",
+      "party-appetizer",
+      "street-food",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-middle-eastern-turkey-labneh-soup",
     "title": "Oozing Middle Eastern Turkey Labneh Soup",
     "tags": [
@@ -2883,6 +2898,20 @@
       "vegan"
     ],
     "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-festive-turkish-gooey-tagine",
+    "title": "oven-roasted festive turkish gooey tagine",
+    "tags": [
+      "easy-weeknight",
+      "festive",
+      "high-protein",
+      "one-pan",
+      "turkish"
+    ],
+    "cuisine": "turkish",
     "totalTimeMin": 45,
     "shard": "o"
   },

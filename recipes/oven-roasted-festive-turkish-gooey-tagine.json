@@ -1,0 +1,116 @@
+{
+  "title": "oven-roasted festive turkish gooey tagine",
+  "description": "a flavorful and aromatic dish from turkey, perfect for the festive season, made with a variety of spices and topped with gooey cheese",
+  "cuisine": "turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "1 teaspoon",
+      "notes": "bhuna flavor profile"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400 degrees fahrenheit.",
+    "season the chicken thighs with salt and pepper.",
+    "heat the olive oil in the terracotta dish over medium heat.",
+    "sauté the onion, garlic, and ginger until softened.",
+    "add the ancho chili powder, cumin, coriander, and herbes-de-provence. cook for 1 minute.",
+    "add the chicken thighs and cook until browned on all sides.",
+    "transfer the terracotta dish to the preheated oven.",
+    "bake for 25 minutes or until the chicken is cooked through.",
+    "remove the dish from the oven and top with crumbled feta cheese.",
+    "return the dish to the oven and bake for an additional 5 minutes or until the cheese is melted and bubbly.",
+    "garnish with chopped fresh parsley.",
+    "serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "festive",
+    "high-protein",
+    "one-pan",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "oven-roasted-festive-turkish-gooey-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-festive-turkish-gooey-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "gooey",
+    "descriptor": "Oven-Roasted Festive",
+    "dishForm": "Tagine"
+  }
+}
