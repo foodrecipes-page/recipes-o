@@ -1,0 +1,111 @@
+{
+  "title": "Oven-Roasted Smoky Mexican Ikura Birria",
+  "description": "A velvety, brunch‑ready Mexican birria wrapped in puff pastry and crowned with salmon roe, bursting with smoky flavors and sugar‑free goodness.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "400 g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ancho chilies",
+      "amount": "4 dried"
+    },
+    {
+      "name": "guajillo chilies",
+      "amount": "2 dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "ikura",
+      "amount": "200 g"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190C.",
+    "Toast the ancho and guajillo chilies, remove stems, roughly chop, and blend with onion, garlic, smoked paprika, cumin, oregano, and a splash of beef broth to form a smooth sauce.",
+    "In a heavy skillet, heat olive oil over medium‑high, brown the beef cubes on all sides, then transfer them to a baking dish.",
+    "Pour the chili sauce over the beef, add the remaining broth and soy sauce, cover with foil, and bake in the preheated oven for 2 hours until the meat is tender.",
+    "Remove the beef, shred it with two forks, stir it back into the sauce, and let it simmer uncovered for 20 minutes to thicken.",
+    "While the sauce simmers, roll out the puff pastry to 12x12 inches, place shredded birria in the center, drizzle with a little extra sauce, and top with a generous spoonful of ikura.",
+    "Fold the pastry edges over the filling, seal with a fork, brush the top with beaten egg, and bake at 200C for 15 minutes until golden.",
+    "Let the pastry cool for 5 minutes, slice into squares, and serve warm with lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 110,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "oven",
+    "pastry",
+    "sugar-free",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 32,
+    "carbs": 38,
+    "fat": 32
+  },
+  "slug": "oven-roasted-smoky-mexican-ikura-birria",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoky-mexican-ikura-birria",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:46:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "en-croute",
+    "primaryIngredient": "ikura",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "ikura",
+    "descriptor": "Oven-Roasted Smoky",
+    "dishForm": "Birria"
+  }
+}
