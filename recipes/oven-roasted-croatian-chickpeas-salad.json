@@ -1,0 +1,92 @@
+{
+  "title": "Oven Roasted Croatian Chickpeas Salad",
+  "description": "A citrusy and crisp Croatian dish featuring roasted chickpeas, perfect for a post-workout snack, served on a slate tile vessel.",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the chickpeas and remove any loose skins.",
+    "In a bowl, whisk together lemon juice, olive oil, salt, black pepper, garlic powder, and paprika.",
+    "Add the chickpeas to the bowl and toss to coat with the dressing.",
+    "Spread the chickpeas on a baking sheet and roast in the oven for 30 minutes.",
+    "While the chickpeas are roasting, render the lardons in a pan over medium heat until crispy.",
+    "Remove the chickpeas from the oven and let cool slightly.",
+    "To serve, place the roasted chickpeas on a slate tile vessel and top with crispy lardons."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "healthy-snack",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "oven-roasted-croatian-chickpeas-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-croatian-chickpeas-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:20:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Oven roasted",
+    "dishForm": "Salad"
+  }
+}
