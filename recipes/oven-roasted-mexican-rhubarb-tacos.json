@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Mexican Rhubarb Tacos",
+  "description": "A cultured and molten Mexican dish featuring roasted rhubarb, perfect for a lazy Sunday, and friendly to those who avoid onion and garlic. This recipe combines the unique flavor of rhubarb with traditional Mexican spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 pounds",
+      "notes": "fresh, cut into 1-inch pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn, for serving"
+    },
+    {
+      "name": "fermented salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "diced, for topping"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the rhubarb with lime juice, olive oil, cumin, chili powder, and salt until the rhubarb is evenly coated.",
+    "Spread the rhubarb mixture out in a single layer on a baking sheet.",
+    "Roast the rhubarb in the preheated oven for 20-25 minutes, or until tender.",
+    "While the rhubarb is roasting, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the roasted rhubarb onto a warmed tortilla, topping with fermented salsa, diced avocado, and chopped cilantro.",
+    "Serve the tacos immediately and enjoy.",
+    "Consider adding other toppings such as sour cream or shredded cheese to the tacos.",
+    "Leftover roasted rhubarb can be stored in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-foods",
+    "gluten-free",
+    "lazy-sunday",
+    "mexican-inspired",
+    "rhubarb-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "oven-roasted-mexican-rhubarb-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mexican-rhubarb-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:06:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "ferment",
+    "primaryIngredient": "rhubarb",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Tacos"
+  }
+}
