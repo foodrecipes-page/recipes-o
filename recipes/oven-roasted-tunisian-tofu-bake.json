@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Tunisian Tofu Bake",
+  "description": "A flavorful and healthy Tunisian dish featuring wood-fired baked tofu, perfect for a weeknight dinner, and is FODMAP friendly. This recipe combines fresh ingredients with a glassy jelly like texture.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-free harissa",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together olive oil, lemon juice, harissa, cumin, coriander, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Transfer the tofu to a baking dish and bake for 25 minutes.",
+    "While the tofu is baking, prepare the glassy jelly like sauce by mixing together 1/4 cup of water and 2 tablespoons of cornstarch in a small bowl.",
+    "After the tofu has baked for 20 minutes, brush the sauce over the top of the tofu and continue baking for an additional 5 minutes.",
+    "Remove the tofu from the oven and sprinkle with chopped parsley.",
+    "Serve the Oven Roasted Tunisian Tofu Bake hot over rice or with some crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-tunisian-tofu-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-tunisian-tofu-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:24:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "tofu",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tofu",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bake"
+  }
+}
