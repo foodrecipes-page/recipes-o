@@ -1,0 +1,96 @@
+{
+  "title": "Outrageously Rich Mexican Poblanos Birria",
+  "description": "A rich and creamy lacto-vegetarian Mexican dish featuring roasted poblanos, cilantro, and coconut cream, served in an iron teppan.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblanos",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Roast the poblanos in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "Peel the roasted poblanos and chop them into large pieces.",
+    "Heat the oil in the iron teppan over medium heat.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped cilantro and cook until it is wilted.",
+    "Add the roasted poblanos, tomato paste, and vegetable broth to the teppan.",
+    "Stir in the coconut cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the birria simmer for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "comfort-food",
+    "lacto-vegetarian",
+    "mexican-food",
+    "one-pan",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "outrageously-rich-mexican-poblanos-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outrageously-rich-mexican-poblanos-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:00:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cilantro",
+    "diet": "lacto-vegetarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Outrageously Rich",
+    "dishForm": "Birria"
+  }
+}
