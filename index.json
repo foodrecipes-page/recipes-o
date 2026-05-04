@@ -166,6 +166,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-filipino-chicken-stir-fry",
+    "title": "Oily Filipino Chicken Stir Fry",
+    "tags": [
+      "filipino-cuisine",
+      "high-protein",
+      "kosher-friendly",
+      "one-pan",
+      "post-workout",
+      "stir-fry"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oily-glazed-argentinian-squid-skewers",
     "title": "Oily Glazed Argentinian Squid Skewers",
     "tags": [

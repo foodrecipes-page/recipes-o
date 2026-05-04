@@ -1,0 +1,96 @@
+{
+  "title": "Oily Filipino Chicken Stir Fry",
+  "description": "A briny and gooey Filipino dish featuring golden caster sugar, perfect for a post-workout meal, this kosher-friendly stir-fry combines the flavors of chicken, vegetables, and a sweet and savory sauce",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes",
+    "Remove the chicken from the skillet and set aside",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute",
+    "Add the chopped bell pepper to the skillet and cook until tender, about 3-4 minutes",
+    "In a small bowl, whisk together the soy sauce, fish sauce, and golden caster sugar",
+    "Pour the sauce into the skillet and bring to a boil",
+    "Return the chicken to the skillet and stir to coat with the sauce",
+    "Reduce the heat to medium-low and simmer for an additional 2-3 minutes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "high-protein",
+    "kosher-friendly",
+    "one-pan",
+    "post-workout",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oily-filipino-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-filipino-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:47:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "oily gooey",
+    "dishForm": "Stir-fry"
+  }
+}
