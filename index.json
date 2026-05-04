@@ -533,6 +533,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-ethiopian-rice-stew",
+    "title": "Oozing Ethiopian Rice Stew",
+    "tags": [
+      "jasmine-rice",
+      "lazy-sunday",
+      "mediterranean-friendly",
+      "one-pot",
+      "rice-stew",
+      "shiro-style"
+    ],
+    "cuisine": "Ethiopian Mediterranean fusion",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-french-tofu-galette",
     "title": "Oozing French Tofu Galette",
     "tags": [
