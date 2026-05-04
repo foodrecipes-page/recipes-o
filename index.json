@@ -790,6 +790,20 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-baked-canadian-corn-tacos",
+    "title": "Outdoor Baked Canadian Corn Tacos",
+    "tags": [
+      "canadian-cuisine",
+      "gluten-free",
+      "one-dish",
+      "outdoor-cooking",
+      "weeknight-meal"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "outstandingly-oven-roasted-irish-vegetable-hash",
     "title": "Outstandingly Oven Roasted Irish Vegetable Hash",
     "tags": [

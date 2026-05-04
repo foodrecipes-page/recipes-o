@@ -1,0 +1,101 @@
+{
+  "title": "Outdoor Baked Canadian Corn Tacos",
+  "description": "A cultured and pillowy Canadian dish featuring corn tortillas and a mirepoix base, perfect for outdoor gatherings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "12",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "mirepoix mix",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the outdoor oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the mirepoix mix to the skillet and cook until tender.",
+    "Add the ground beef to the skillet and cook until browned.",
+    "Add the cumin, paprika, salt, and pepper to the skillet and stir to combine.",
+    "In a separate bowl, mix the diced tomatoes and shredded cheese.",
+    "In a terracotta dish, arrange a layer of corn tortillas.",
+    "Spoon the beef and mirepoix mixture over the tortillas.",
+    "Top the beef mixture with the tomato and cheese mixture.",
+    "Bake the tacos in the outdoor oven for 20 minutes.",
+    "Remove the tacos from the oven and let cool for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "one-dish",
+    "outdoor-cooking",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "outdoor-baked-canadian-corn-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-baked-canadian-corn-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:58:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "corn tortillas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "corn",
+    "descriptor": "outdoor baked",
+    "dishForm": "Tacos"
+  }
+}
