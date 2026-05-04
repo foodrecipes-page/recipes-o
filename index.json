@@ -440,6 +440,17 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-syrian-lamb-tagine",
+    "title": "Oozing Syrian Lamb Tagine",
+    "tags": [
+      "syrian",
+      "dinner"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-tunisian-prawns-tagine",
     "title": "Oozing Tunisian Prawns Tagine",
     "tags": [
@@ -745,6 +756,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-rich-mexican-tripe-birria",
+    "title": "Outstandingly Rich Mexican Tripe Birria",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "mexican-food",
+      "special-occasion",
+      "tripe-recipes"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 180,
     "shard": "o"
   },
   {

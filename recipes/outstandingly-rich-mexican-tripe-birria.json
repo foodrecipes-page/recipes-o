@@ -1,0 +1,103 @@
+{
+  "title": "Outstandingly Rich Mexican Tripe Birria",
+  "description": "A rich and flavorful Mexican dish featuring tripe, this birria is a crowd-pleaser, with a crispy texture and deep flavors, egg-free-friendly and perfect for special occasions.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tripe",
+      "amount": "2 pounds",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "guajillo chili peppers",
+      "amount": "4 dried",
+      "notes": "stemmed and seeded"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the lard or oil over medium heat and saute the onion and garlic until softened.",
+    "Add the guajillo chili peppers and cook for 1 minute, until fragrant.",
+    "Add the beef tripe, beef broth, tomato paste, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the tripe is tender.",
+    "Using two forks, shred the tripe into bite-sized pieces and return to the pot.",
+    "Simmer for an additional 30 minutes, or until the birria has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the birria hot, garnished with chopped cilantro and your choice of accompaniments, such as tortillas, lime wedges, and sour cream."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "mexican-food",
+    "special-occasion",
+    "tripe-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "outstandingly-rich-mexican-tripe-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-rich-mexican-tripe-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:51:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "tripe",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tripe",
+    "descriptor": "outstandingly rich",
+    "dishForm": "Birria"
+  }
+}
