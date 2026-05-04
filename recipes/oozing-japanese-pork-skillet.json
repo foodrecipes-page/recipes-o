@@ -1,0 +1,114 @@
+{
+  "title": "Oozing Japanese Pork Skillet",
+  "description": "A sour, gooey, brunch‑mood dish inspired by Chugoku cuisine, featuring seared pork chops in a bhuna‑style sauce that is FODMAP‑friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "200g"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "mirin",
+      "amount": "15ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "15ml"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "2g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "5g"
+    },
+    {
+      "name": "scallion green parts",
+      "amount": "10g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "5g"
+    },
+    {
+      "name": "low‑FODMAP vegetable broth",
+      "amount": "10ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pat and season pork chops with salt, pepper, turmeric, and cumin.",
+    "Heat sesame oil in a cast-iron skillet over medium-high heat until shimmering.",
+    "Sear pork chops until browned, about 3 minutes per side, then flip.",
+    "Reduce heat to medium, add ginger, soy sauce, rice vinegar, mirin, maple syrup, and vegetable broth, then cover.",
+    "Cook for 8 minutes, stirring occasionally, until pork is cooked through and sauce thickens.",
+    "Remove lid, increase heat to high, and simmer until sauce reduces to a glossy, oozing consistency, about 3 minutes.",
+    "Stir in scallion greens and cilantro, toss pork to coat with sauce, and finish.",
+    "Serve hot, optionally with steamed rice or low‑FODMAP noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "chugoku-style",
+    "fodmap-friendly",
+    "one-pan",
+    "quick",
+    "savory-sour"
+  ],
+  "nutrition": {
+    "calories": 625,
+    "protein": 54,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "oozing-japanese-pork-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-japanese-pork-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:27:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "pork chops",
+    "diet": "fodmap",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Oozing",
+    "dishForm": "Skillet"
+  }
+}
