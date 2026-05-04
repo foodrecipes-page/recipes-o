@@ -1,0 +1,116 @@
+{
+  "title": "Oven-Roasted Slovakian Popcorn Pudding",
+  "description": "A rich, buttery pudding that marries caramelized popcorn with a silky custard, baked to perfection in a water bath for a lazy Sunday treat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Popcorn kernels",
+      "amount": "200 g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "100 g",
+      "notes": "for coating"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "for popping"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "2 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "for spice"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1 tsp",
+      "notes": "for spice"
+    },
+    {
+      "name": "Dairy‑free milk",
+      "amount": "1 cup (240 ml)",
+      "notes": "for custard"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup (240 ml)",
+      "notes": "for custard"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Corn starch",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large skillet, melt butter over medium heat and add popcorn kernels, covering the skillet and shaking until the popping slows, then transfer the kernels to a baking sheet.",
+    "Sprinkle brown sugar, sea salt, and ground cinnamon over the kernels and toss until all are evenly coated.",
+    "Roast the coated popcorn in the preheated oven for 10 minutes, stirring halfway through, until the kernels are caramelized and crisp.",
+    "While the popcorn roasts, combine milk, cream, honey, vanilla extract, and ground nutmeg in a saucepan, heating until warm but not boiling.",
+    "In a separate bowl, whisk eggs and cornstarch until smooth, then gradually pour the warm milk mixture into the bowl, whisking continuously to prevent curdling.",
+    "Pour the custard into a heatproof dish and place it in a larger pan filled with 2 inches of hot water for a bain‑marie, then bake for 30 minutes in the oven.",
+    "Remove the dish from the water bath, let it cool for 5 minutes, and fold in the roasted popcorn until it is evenly distributed.",
+    "Return the dish to the oven and bake for an additional 10 minutes to set the custard and toast the popcorn further, then let cool to room temperature before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "lazy-sunday",
+    "oven-roasted",
+    "slovakian-dessert",
+    "toffee-popcorn",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 5,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "oven-roasted-slovakian-popcorn-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-slovakian-popcorn-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:22:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Popcorn",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Pudding"
+  }
+}

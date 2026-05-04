@@ -195,6 +195,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-sweet-egyptian-cheese-fritters",
+    "title": "Oily Sweet Egyptian Cheese Fritters",
+    "tags": [
+      "cheese",
+      "deep-fried",
+      "egyptian",
+      "high-fat",
+      "sweet"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "oily-tender-australian-rice-bowl",
     "title": "Oily tender Australian rice Bowl",
     "tags": [
@@ -1483,6 +1497,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-popcorn-pudding",
+    "title": "Oven-Roasted Slovakian Popcorn Pudding",
+    "tags": [
+      "bain-marie",
+      "lazy-sunday",
+      "oven-roasted",
+      "slovakian-dessert",
+      "toffee-popcorn",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
