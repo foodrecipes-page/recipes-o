@@ -1,0 +1,96 @@
+{
+  "title": "Oversized Oven Roasted Australian Rhubarb Tart",
+  "description": "A sour and indulgent Australian dessert featuring forced rhubarb, this oversized tart is perfect for special occasions. The combination of roasted rhubarb and flaky pastry is a true delight.",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "forced rhubarb",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the melted butter, egg, and vanilla extract to the bowl and mix until a dough forms.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a large tagliere and trim the edges to fit.",
+    "In a separate bowl, mix together the cut rhubarb and granulated sugar.",
+    "Arrange the rhubarb mixture on one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough over the rhubarb mixture to form a triangle.",
+    "Brush the edges of the dough with the water and press to seal.",
+    "Cut a few slits in the top of the tart to allow steam to escape.",
+    "Bake the tart in the preheated oven for 45 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "kosher-friendly",
+    "oven-roasted",
+    "rhubarb",
+    "special-occasion",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "oversized-oven-roasted-australian-rhubarb-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oversized-oven-roasted-australian-rhubarb-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:18:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "oversized oven roasted",
+    "dishForm": "Tart"
+  }
+}
