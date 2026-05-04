@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Roasted Crispy Light British Chicken Bake",
+  "description": "A light and crispy British dish featuring chicken, sriracha, and a flaky gluten-free crust.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "gluten-free puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a slate tile with parchment paper for easy cleanup.",
+    "In a small bowl, mix together the melted butter, sriracha sauce, chopped onion, minced garlic, chopped thyme, and chopped rosemary.",
+    "Season the chicken breast with salt and black pepper.",
+    "Place the chicken breast in the center of the parchment-lined slate tile.",
+    "Brush the melted butter mixture evenly over the chicken breast.",
+    "Place the gluten-free puff pastry sheet over the chicken breast, pressing it gently to adhere.",
+    "Trim any excess pastry from the edges and crimp the edges to seal.",
+    "Use a sharp knife to make a few slits in the top of the pastry to allow steam to escape.",
+    "Bake the chicken bake for 25 minutes, or until the pastry is golden brown and the chicken is cooked through.",
+    "Remove the chicken bake from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "crispy-pastry",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sriracha",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "oven-roasted-crispy-light-british-chicken-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-crispy-light-british-chicken-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:20:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "sriracha",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chicken",
+    "descriptor": "Oven-Roasted Crispy Light",
+    "dishForm": "Bake"
+  }
+}
