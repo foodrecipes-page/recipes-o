@@ -1,0 +1,61 @@
+{
+  "title": "Oily Rich Portuguese Parmesan Cheese Pasta",
+  "description": "A light and umami Portuguese brunch dish featuring a parmesan cheese sauce and pasta water emulsion, served in a hot stone plate.",
+  "cuisine": "portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "6 oz",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Heat a hot stone plate to 450°F (230°C).",
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to the package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the spaghetti squash to the skillet and cook for 3-4 minutes, until slightly tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "oily-rich-portuguese-parmesan-cheese-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-rich-portuguese-parmesan-cheese-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "parmesan cheese",
+    "descriptor": "oily rich",
+    "dishForm": "pasta"
+  }
+}
