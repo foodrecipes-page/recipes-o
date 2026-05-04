@@ -2139,6 +2139,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-french-goat-souffle",
+    "title": "Oven Roasted French Goat Souffle",
+    "tags": [
+      "cataplana",
+      "comfort-food",
+      "french-cuisine",
+      "normandy-dish",
+      "souffle",
+      "vegan-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 85,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-german-quinoa-wrap",
     "title": "Oven-Roasted German Quinoa Wrap",
     "tags": [
