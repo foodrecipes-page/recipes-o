@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Italian Savoy Cabbage Amatriciana",
+  "description": "A plant-based Italian dish featuring roasted Savoy cabbage and a cheese-pull effect, inspired by the flavors of Tuscan cuisine, with a bhuna twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "core removed and leaves separated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegan bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegan mozzarella shreds",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the Savoy cabbage leaves with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the cabbage leaves in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "In a large skillet, cook the diced vegan bacon over medium heat until crispy, then set aside.",
+    "In the same skillet, cook the chopped onion and minced garlic until the onion is translucent.",
+    "Add the tomato paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the nutritional yeast and cook for an additional minute.",
+    "To assemble the dish, place a layer of roasted cabbage leaves in a baking dish, followed by a layer of the tomato paste mixture and a sprinkle of vegan mozzarella shreds.",
+    "Repeat the layers until all ingredients are used, ending with a layer of mozzarella shreds on top.",
+    "Return the dish to the oven and bake until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "italian-food",
+    "one-pan",
+    "plant-based",
+    "roasted-vegetables",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-roasted-italian-savoy-cabbage-amatriciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-italian-savoy-cabbage-amatriciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:57:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "plant-based",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Savoy Cabbage",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Amatriciana"
+  }
+}
