@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Dutch Vegetable Casserole",
+  "description": "A savory and pillowy Dutch dish featuring sweetened condensed milk and coconut cream, perfect for a comforting meal. This vegetarian-friendly casserole is great for meal prep.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 bunch",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes, carrots, and brussels sprouts with olive oil, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Spread the vegetables in a single layer on a large baking sheet and roast in the oven for 30 minutes.",
+    "In a separate bowl, mix the sweetened condensed milk and coconut cream until well combined.",
+    "After the vegetables have roasted for 30 minutes, remove them from the oven and pour the sweetened condensed milk and coconut cream mixture over the top.",
+    "Return the baking sheet to the oven and continue to roast for an additional 20 minutes, or until the vegetables are tender and the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "meal-prep",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-dutch-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-dutch-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:09:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "oven roasted",
+    "dishForm": "Casserole"
+  }
+}

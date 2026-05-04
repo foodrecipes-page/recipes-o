@@ -1,0 +1,104 @@
+{
+  "title": "Oozing Smoky Korean Egg Yolk Stew",
+  "description": "A smoky, monsoon-inspired Jeju dish featuring silky egg yolks and yuzu-cured flavors, sugar-free and low-carb.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large"
+    },
+    {
+      "name": "sugar-free gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tamari (low-sodium soy sauce)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, heat sesame oil over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Stir in sugar-free gochujang and tamari, cooking for 1 minute to bloom flavors.",
+    "Pour in vegetable broth and bring to a gentle simmer.",
+    "Reduce heat to low, add smoked salt and yuzu zest, stirring to combine.",
+    "Crack four egg yolks into the pot, letting them rest in the liquid without stirring.",
+    "Allow the stew to simmer uncovered for 5 minutes, until the yolks thicken to a silky consistency.",
+    "Taste and adjust seasoning with extra salt if needed.",
+    "Transfer the stew to bowls, garnish with sliced scallions and toasted sesame seeds.",
+    "Serve hot, ideally with a side of steamed rice or kimchi if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-based",
+    "jeju",
+    "korean",
+    "low-carb",
+    "smoky",
+    "stew",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 11,
+    "carbs": 4,
+    "fat": 26
+  },
+  "slug": "oozing-smoky-korean-egg-yolk-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-smoky-korean-egg-yolk-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:09:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "egg yolks",
+    "diet": "sugar-free",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Egg Yolk",
+    "descriptor": "Oozing Smoky",
+    "dishForm": "Stew"
+  }
+}

@@ -383,6 +383,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-smoky-korean-egg-yolk-stew",
+    "title": "Oozing Smoky Korean Egg Yolk Stew",
+    "tags": [
+      "egg-based",
+      "jeju",
+      "korean",
+      "low-carb",
+      "smoky",
+      "stew",
+      "sugar-free"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-smoky-turkish-lamb-stew",
     "title": "Oozing Smoky Turkish Lamb Stew",
     "tags": [
@@ -876,6 +892,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 90,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-dutch-vegetable-casserole",
+    "title": "Oven Roasted Dutch Vegetable Casserole",
+    "tags": [
+      "comfort-food",
+      "dutch",
+      "meal-prep",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
