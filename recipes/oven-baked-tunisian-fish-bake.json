@@ -1,0 +1,96 @@
+{
+  "title": "Oven Baked Tunisian Fish Bake",
+  "description": "A light and crisp Tunisian dish featuring fish, coco sugar, and a blend of spices, perfect for a pescatarian-friendly meal. This dish is cultured and flavorful, with a unique blend of ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together coco sugar, olive oil, lemon juice, garlic, cumin, paprika, salt, and black pepper.",
+    "Place the cod fish fillets in a baking dish and brush the sugar and spice mixture evenly over both sides of the fish.",
+    "Bake the fish in the preheated oven for 12 minutes or until cooked through.",
+    "Remove the fish from the oven and let it rest for 2 minutes before serving.",
+    "Serve the fish hot, garnished with fresh parsley or cilantro if desired.",
+    "This dish can be served with a side of quinoa or couscous for a complete meal.",
+    "Leftovers can be stored in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "fish-recipes",
+    "healthy-dinner",
+    "one-pan",
+    "pescatarian-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "oven-baked-tunisian-fish-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-tunisian-fish-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:53:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "coco sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Oven baked",
+    "dishForm": "Bake"
+  }
+}

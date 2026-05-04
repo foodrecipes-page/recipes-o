@@ -108,6 +108,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-charred-japanese-chicken-yakitori",
+    "title": "Oily Charred Japanese Chicken Yakitori",
+    "tags": [
+      "anti-inflammatory",
+      "gluten-free",
+      "grilled-chicken",
+      "japanese-cuisine",
+      "low-carb",
+      "monsoon-recipes"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oily-glazed-argentinian-squid-skewers",
     "title": "Oily Glazed Argentinian Squid Skewers",
     "tags": [
@@ -471,6 +486,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-tunisian-fish-bake",
+    "title": "Oven Baked Tunisian Fish Bake",
+    "tags": [
+      "easy-meals",
+      "fish-recipes",
+      "healthy-dinner",
+      "one-pan",
+      "pescatarian-friendly",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
