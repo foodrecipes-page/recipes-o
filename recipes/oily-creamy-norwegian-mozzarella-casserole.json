@@ -1,0 +1,95 @@
+{
+  "title": "Oily Creamy Norwegian Mozzarella Casserole",
+  "description": "A rich and creamy Norwegian dish featuring mozzarella, ferment-kimchi, and dash-friendly ingredients, perfect for a lazy Sunday. This casserole is a hearty and satisfying meal that combines the flavors of Norway with a twist of Korean kimchi.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "12 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "browneded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "mixed with 1 cup of milk"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Stir in the melted butter, salt, and black pepper.",
+    "In a large bowl, combine the cooked ground beef mixture, shredded mozzarella cheese, and chopped ferment-kimchi.",
+    "In a separate bowl, mix the flour and milk until smooth, then add it to the ground beef mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "norwegian-cuisine",
+    "one-pan",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "oily-creamy-norwegian-mozzarella-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-creamy-norwegian-mozzarella-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:00:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mozzarella",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "oily creamy",
+    "dishForm": "Casserole"
+  }
+}
