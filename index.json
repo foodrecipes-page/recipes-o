@@ -1749,6 +1749,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-malaysian-horseradish-pudding",
+    "title": "Oven-Roasted Malaysian Horseradish Pudding",
+    "tags": [
+      "festive",
+      "horseradish",
+      "malaysian",
+      "no-garlic",
+      "no-onion",
+      "one-pan",
+      "oven-roasted"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-mediterranean-chicken-tagine",
     "title": "Oven-Roasted Mediterranean Chicken Tagine",
     "tags": [
@@ -2147,6 +2163,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-toasted-norwegian-bread-casserole",
+    "title": "Oven Toasted Norwegian Bread Casserole",
+    "tags": [
+      "casserole",
+      "mushroom-based",
+      "norwegian-cuisine",
+      "ovo-vegetarian",
+      "stale-bread"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {

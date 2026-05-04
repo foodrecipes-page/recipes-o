@@ -1,0 +1,98 @@
+{
+  "title": "Oven Toasted Norwegian Bread Casserole",
+  "description": "A floral and velvety Norwegian dish featuring stale bread and dashi extract, perfect for an adventurous ovo-vegetarian meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "4 cups",
+      "notes": "preferably day old bread"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the oil over medium heat and saute the onion until softened.",
+    "Add the mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a large bowl, whisk together the eggs, dashi extract, salt, and pepper.",
+    "Add the cooked mushroom mixture to the bowl and stir to combine.",
+    "Tear the stale bread into small pieces and add to the bowl, stirring until the bread is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with chopped parsley.",
+    "Bake for 35 minutes or until the eggs are set and the bread is toasted.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "mushroom-based",
+    "norwegian-cuisine",
+    "ovo-vegetarian",
+    "stale-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "oven-toasted-norwegian-bread-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-norwegian-bread-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:12:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "dashi-extract",
+    "primaryIngredient": "stale bread",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "bread",
+    "descriptor": "Oven toasted",
+    "dishForm": "Casserole"
+  }
+}
