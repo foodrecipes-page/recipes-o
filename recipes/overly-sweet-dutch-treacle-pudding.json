@@ -1,0 +1,57 @@
+{
+  "title": "Overly Sweet Dutch Treacle Pudding",
+  "description": "A traditional Dutch dessert typically served on special occasions, made with a sweet and sticky treacle topping over a light and airy pudding.",
+  "cuisine": "Dutch",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "120g",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\u00169C (350\u000f).\nIn a large mixing bowl, combine the flour and butter and mix until a crumbly dough forms.\nAdd the baking powder, salt, and milk to the dough and mix until a smooth batter forms.\nPour the batter into a greased 20cm (8 inch) copper pot.\nPlace the pot in a large baking dish and add hot water to come halfway up the sides of the pot.\nBake for 45 minutes.\nWhile the pudding is baking, combine the treacle, golden syrup, and heavy cream in a small saucepan and heat over low heat, stirring occasionally, until smooth and warm.\nRemove the pudding from the oven and let it cool for 5 minutes.\nServe the pudding warm with the treacle topping spooned over the top.\n"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-carb",
+    "low-fat-friendly",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 220,
+    "fat": 30
+  },
+  "slug": "overly-sweet-dutch-treacle-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/overly-sweet-dutch-treacle-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "bain-marie",
+    "primaryIngredient": "treacle",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Treacle",
+    "descriptor": "Overly sweet",
+    "dishForm": "Pudding"
+  }
+}
