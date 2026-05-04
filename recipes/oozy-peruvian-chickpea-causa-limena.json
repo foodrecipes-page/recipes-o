@@ -1,0 +1,103 @@
+{
+  "title": "Oozy Peruvian Chickpea Causa Limena",
+  "description": "A creamy, plant-based Peruvian causa made with chickpea flour, lime, and a smoky paprika dressing, perfect for a comforting sick day meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4tsp"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red onion, diced",
+      "amount": "1/4cup"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1/2cup"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine chickpea flour, smoked paprika, salt, black pepper, and water to form a thick batter.",
+    "Stir until the mixture is smooth and free of lumps, then cover and let rest for 10 minutes.",
+    "While batter rests, whisk together lime juice, olive oil, and roasted garlic to create a tangy dressing.",
+    "After resting, fold the dressing into the batter until fully incorporated.",
+    "Heat a nonstick skillet over medium heat, lightly oil it, and pour 1/4 cup of batter, flattening into a round patty.",
+    "Cook each side for 3 minutes until golden and firm, then remove and slice into thick strips.",
+    "In a bowl, combine sliced cucumber, red onion, and lime zest, then season with a pinch of salt.",
+    "Assemble the causa by layering the chickpea strips, cucumber mix, and a drizzle of the lime dressing, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 6,
+  "totalTimeMin": 26,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "peruvian",
+    "plant-based",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 876,
+    "protein": 31,
+    "carbs": 121,
+    "fat": 31
+  },
+  "slug": "oozy-peruvian-chickpea-causa-limena",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-peruvian-chickpea-causa-limena",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:59:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "chickpea flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Oozy",
+    "dishForm": "Causa Limena"
+  }
+}

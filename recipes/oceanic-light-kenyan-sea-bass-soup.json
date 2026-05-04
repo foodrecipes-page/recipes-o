@@ -1,0 +1,115 @@
+{
+  "title": "Oceanic Light Kenyan Sea Bass Soup",
+  "description": "A delicate, wine-infused sea bass broth that soothes the palate and helps cure a hangover, featuring steamed fish and fresh vegetables in a bright, temple‑friendly broth.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh sea bass fillets",
+      "amount": "1 kg",
+      "notes": "trimmed of skin and bones"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1 liter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season the sea bass fillets with salt, pepper, and ginger.",
+    "Heat olive oil in a saucepan and sauté onion and garlic until fragrant.",
+    "Add sliced carrot, wine, and bay leaf, then pour in fish stock and bring to a simmer.",
+    "Allow the broth to simmer for 10 minutes to develop flavor.",
+    "Add the sea bass fillets, cover, and cook for 8 to 10 minutes until the fish is opaque.",
+    "Stir in fresh spinach and lemon juice, and simmer for an additional 2 minutes.",
+    "Taste the soup and adjust seasoning with salt, pepper, or more lemon juice if desired.",
+    "Serve hot in a slate tile bowl for a light, detoxifying meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "gluten-free",
+    "low-carb",
+    "quick",
+    "seafood",
+    "steam-healthy",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "oceanic-light-kenyan-sea-bass-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-light-kenyan-sea-bass-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:59:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "sea bass",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sea bass",
+    "descriptor": "Oceanic Light",
+    "dishForm": "Soup"
+  }
+}
