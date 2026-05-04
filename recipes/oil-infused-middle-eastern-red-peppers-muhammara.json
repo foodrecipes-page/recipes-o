@@ -1,0 +1,95 @@
+{
+  "title": "Oil Infused Middle Eastern Red Peppers Muhammara",
+  "description": "A citrusy and crumbly Middle Eastern dish featuring roasted red peppers, perfect for a crowd, and made with dark soy sauce and lacquer glaze, this recipe is FODMAP friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Place the red peppers on a baking sheet and roast for 30 minutes.",
+    "Remove the peppers from the oven and let them cool.",
+    "Peel the peppers and place them in a food processor.",
+    "Add the dark soy sauce, lacquer glaze, olive oil, garlic-infused oil, lemon juice, and pomegranate molasses to the food processor.",
+    "Process the mixture until it is smooth.",
+    "Stir in the chopped walnuts.",
+    "Transfer the muhammara to a serving bowl.",
+    "Serve the muhammara at room temperature.",
+    "Garnish with additional walnuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "dip",
+    "gluten-free",
+    "middle-eastern",
+    "spread",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "oil-infused-middle-eastern-red-peppers-muhammara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-middle-eastern-red-peppers-muhammara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:36:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "red peppers",
+    "descriptor": "Oil Infused",
+    "dishForm": "Muhammara"
+  }
+}
