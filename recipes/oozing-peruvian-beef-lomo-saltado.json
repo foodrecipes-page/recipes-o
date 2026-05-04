@@ -1,0 +1,90 @@
+{
+  "title": "Oozing Peruvian Beef Lomo Saltado",
+  "description": "A comforting Peruvian stew with beef, onions, potatoes, and a splash of pink food color, simmered to a thick, creamy oozing consistency in a copper mug.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin, trimmed, cut into 1-inch cubes",
+      "amount": "800g",
+      "notes": "for 4 servings"
+    },
+    {
+      "name": "Yellow onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Russet potato, peeled, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pink food coloring",
+      "amount": "1 drop",
+      "notes": "for visual effect only"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper mug over medium heat until shimmering.",
+    "Add the beef cubes and sear until browned on all sides, about 5 minutes.",
+    "Stir in the diced onion and cook until translucent, about 3 minutes.",
+    "Add the diced potatoes and soy sauce, stir to coat, then pour in enough water to just cover the solids.",
+    "Bring to a simmer, cover, and reduce heat to low; cook for 45 minutes until the potatoes are tender and the liquid has thickened.",
+    "Season with salt and pepper to taste, then add a drop of pink food coloring, stirring until evenly distributed.",
+    "Remove from heat and let the stew rest for 5 minutes before serving.",
+    "Ladle the oozing stew into a copper mug and enjoy warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "buddhist-friendly",
+    "comfort-food",
+    "copper-mug",
+    "peruvian",
+    "pink-food-coloring"
+  ],
+  "nutrition": {
+    "calories": 1960,
+    "protein": 165,
+    "carbs": 46,
+    "fat": 94
+  },
+  "slug": "oozing-peruvian-beef-lomo-saltado",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-peruvian-beef-lomo-saltado",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:38:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "pink food colouring",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Oozing",
+    "dishForm": "Lomo Saltado"
+  }
+}
