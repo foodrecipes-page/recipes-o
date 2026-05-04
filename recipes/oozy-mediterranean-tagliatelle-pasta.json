@@ -1,0 +1,115 @@
+{
+  "title": "Oozy Mediterranean Tagliatelle Pasta",
+  "description": "A festive Mediterranean dish featuring tagliatelle, agemono-deep-fry, and low-carb-friendly ingredients, with a fresh and cheese-pull twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle pasta",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the kalamata olives, artichoke hearts, and sun-dried tomatoes to the skillet and cook for 2 minutes.",
+    "Stir in the crumbled feta cheese and cook until melted and gooey.",
+    "Add the cooked tagliatelle pasta to the skillet and toss to combine with the cheese and vegetable mixture.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and grated lemon zest.",
+    "Serve immediately and enjoy.",
+    "For an extra crispy topping, deep-fry some additional tagliatelle pasta in hot oil until golden brown and sprinkle on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "pasta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oozy-mediterranean-tagliatelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-mediterranean-tagliatelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:16:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "tagliatelle",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "Oozy",
+    "dishForm": "Pasta"
+  }
+}

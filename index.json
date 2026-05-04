@@ -935,6 +935,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-mediterranean-tagliatelle-pasta",
+    "title": "Oozy Mediterranean Tagliatelle Pasta",
+    "tags": [
+      "low-carb",
+      "mediterranean",
+      "one-pan",
+      "pasta",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-mexican-corn-sopes",
     "title": "Oozy Mexican Corn Sopes",
     "tags": [
