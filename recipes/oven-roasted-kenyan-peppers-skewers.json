@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Kenyan Peppers Skewers",
+  "description": "A Whole30-friendly Kenyan dish featuring sweet peppadew peppers, roasted to perfection with binchotan-charcoal flavor, perfect for a solo dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "Whole30",
+    "Gluten-free",
+    "Vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppadew peppers",
+      "amount": "12",
+      "notes": "any color"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Binchotan charcoal powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional for smoky flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Thread 2-3 peppadew peppers onto each skewer, leaving a small space between each pepper.",
+    "In a small bowl, mix together coconut oil, salt, black pepper, garlic powder, paprika, and binchotan charcoal powder if using.",
+    "Brush the mixture evenly onto the peppers, making sure they are fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the peppers in the preheated oven for 20-25 minutes, or until they are tender and slightly charred.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley.",
+    "Serve the roasted peppers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african-cuisine",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "oven-roasted-kenyan-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-kenyan-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:42:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "peppers",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
