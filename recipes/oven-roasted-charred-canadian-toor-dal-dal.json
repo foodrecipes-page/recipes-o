@@ -1,0 +1,104 @@
+{
+  "title": "oven-roasted charred canadian toor dal",
+  "description": "A charred, springy, one-pot Canadian dish featuring toor dal, roast, and whole30-friendly ingredients.",
+  "cuisine": "canadian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "boneless pork shoulder",
+      "amount": "1 lb"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large Dutch oven or oven-safe pot, heat the olive oil over medium-high heat.",
+    "Add the diced onion and cook until lightly browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the pork shoulder and cook until browned on all sides, about 5-7 minutes.",
+    "Add the carrots, potatoes, toor dal, salt, pepper, thyme, and rosemary. Stir to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast for 30 minutes, then remove the lid and continue roasting for an additional 20-25 minutes, or until the pork is tender and the vegetables are caramelized.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pork",
+    "vegetables",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "oven-roasted-charred-canadian-toor-dal-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-charred-canadian-toor-dal-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:35:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "toor dal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "toor dal",
+    "descriptor": "Oven-Roasted Charred",
+    "dishForm": "Dal"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Oven Roasted Irish Carnaroli Rice Pilaf",
+  "description": "A spicy and aerated Irish dish featuring Carnaroli rice, miso marinate, and cooked to perfection in a copper pot, this recipe is egg-free friendly and perfect for meal prep. It combines the creaminess of Irish cuisine with the nutty flavor of Carnaroli rice.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 1/2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large copper pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the miso paste and cook, stirring constantly, for 1 minute.",
+    "Add the Carnaroli rice and cook, stirring constantly, for 2 minutes.",
+    "Add the chopped carrots and celery, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Transfer the copper pot to the preheated oven and bake, covered, for 25 minutes.",
+    "Remove the pot from the oven and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "irish-cuisine",
+    "meal-prep",
+    "one-pot",
+    "oven-roasted",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oven-roasted-irish-carnaroli-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-irish-carnaroli-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:35:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "miso-marinate",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "carnaroli rice",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pilaf"
+  }
+}

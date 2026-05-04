@@ -539,6 +539,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-charred-canadian-toor-dal-dal",
+    "title": "oven-roasted charred canadian toor dal",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "pork",
+      "vegetables",
+      "whole30-friendly"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-chinese-orange-roast",
     "title": "Oven-Roasted Chinese Orange Roast",
     "tags": [
@@ -614,6 +628,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-irish-carnaroli-rice-pilaf",
+    "title": "Oven Roasted Irish Carnaroli Rice Pilaf",
+    "tags": [
+      "gluten-free",
+      "irish-cuisine",
+      "meal-prep",
+      "one-pot",
+      "oven-roasted",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
