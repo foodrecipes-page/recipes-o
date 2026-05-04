@@ -1,0 +1,118 @@
+{
+  "title": "Oozing Syrian Black Pudding Flatbread",
+  "description": "A winey, springy flatbread filled with oozing black pudding, baked on a hot griddle for a monsoon‑inspired flavor burst.",
+  "cuisine": "Syrian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "for dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "180ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "8g",
+      "notes": "1.5 tsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "50ml",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "black pudding",
+      "amount": "200g",
+      "notes": "sliced 0.5cm thick"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "10g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "5g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "5g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "2g",
+      "notes": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, sugar, salt, and yeast and stir until uniform.",
+    "Add warm water, olive oil, and white wine and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let it rise at room temperature for 3 hours, or until doubled in size.",
+    "Preheat a griddle over medium-high heat and slice the black pudding into 0.5 cm thick pieces.",
+    "Divide the dough into 4 equal portions and roll each into a thin circle about 30 cm in diameter.",
+    "Brush each flatbread lightly with olive oil, sprinkle with smoked paprika, chili flakes, and lemon zest, place the black pudding slices on top, and fold the edges to enclose the filling.",
+    "Cook the flatbread on the griddle, about 3 minutes per side, until golden and the pudding is heated through.",
+    "Drizzle fresh mint over the finished flatbread and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pudding",
+    "flatbread",
+    "high-protein",
+    "long-fermentation",
+    "syrian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 12,
+    "carbs": 54,
+    "fat": 10
+  },
+  "slug": "oozing-syrian-black-pudding-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-syrian-black-pudding-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:15:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "black pudding",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Black pudding",
+    "descriptor": "Oozing",
+    "dishForm": "Flatbread"
+  }
+}
