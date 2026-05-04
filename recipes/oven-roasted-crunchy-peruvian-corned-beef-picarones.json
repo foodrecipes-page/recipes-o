@@ -1,0 +1,115 @@
+{
+  "title": "Oven-Roasted Crunchy Peruvian Corned Beef Picarones",
+  "description": "A twist on traditional Peruvian donuts, made with corned beef, crunchy on the outside and chewy on the inside, perfect for a weeknight dinner. Wok-hei and iron teppan cooking techniques add an authentic touch.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Anise seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Granulated cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lime",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 egg, beaten (for egg wash)"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan or a non-stick skillet over medium-high heat.",
+    "In a large bowl, whisk together the flour, sugar, anise seeds, cinnamon, and salt.",
+    "Add the corned beef to the dry ingredients and mix until just combined.",
+    "Gradually add the eggs and mix until a dough forms.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Knead the dough for 5 minutes and divide it into 8-10 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat. When the oil is hot, add a few of the dough disks and fry until golden brown, about 2-3 minutes per side.",
+    "Transfer the fried donuts to a paper towel-lined plate to drain excess oil.",
+    "Brush the tops with the melted butter and sprinkle with granulated cinnamon.",
+    "Place the iron teppan or skillet in the oven and roast at 400°F for 10-12 minutes, or until crispy and golden brown.",
+    "While the donuts are roasting, mix together the lime zest and a pinch of salt in a small bowl.",
+    "When the donuts are done, remove them from the oven and let them cool for a few minutes.",
+    "Drizzle with the lime zest mixture and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "corned-beef",
+    "high-protein",
+    "one-pan",
+    "oven-roasted",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-roasted-crunchy-peruvian-corned-beef-picarones",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-crunchy-peruvian-corned-beef-picarones",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "corned beef",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Corned Beef",
+    "descriptor": "Oven-Roasted Crunchy",
+    "dishForm": "Picarones"
+  }
+}

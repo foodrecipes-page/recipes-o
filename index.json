@@ -2649,6 +2649,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-andean-lentil-paella",
+    "title": "Oven-Roasted Andean Lentil Paella",
+    "tags": [
+      "chocolate",
+      "high-protein",
+      "lentil",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-argentinian-lamb-gratin",
     "title": "Oven Roasted Argentinian Lamb Gratin",
     "tags": [
@@ -2840,6 +2855,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-crunchy-peruvian-corned-beef-picarones",
+    "title": "Oven-Roasted Crunchy Peruvian Corned Beef Picarones",
+    "tags": [
+      "corned-beef",
+      "high-protein",
+      "one-pan",
+      "oven-roasted",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

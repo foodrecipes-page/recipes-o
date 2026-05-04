@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Roasted Andean Lentil Paella",
+  "description": "A light and flavorful Peruvian dish featuring Puy lentils, tempered chocolate, and a hint of spice. Perfect for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Puy lentils",
+      "amount": "rinsed and drained",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "use a neutral-tasting oil"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "diced",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chopped tomatoes",
+      "amount": "",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "use a mild cumin for a more delicate flavor"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "optional, for a smoky flavor"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon tempered chocolate",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped tomatoes, ground cumin, smoked paprika, salt, and pepper. Stir well to combine.",
+    "Add the rinsed Puy lentils and stir to combine with the tomato mixture.",
+    "Transfer the paella pan to the preheated oven and roast for 25-30 minutes, or until the lentils are tender and the liquid has been absorbed.",
+    "Remove the paella pan from the oven and stir in the chopped cilantro and tempered chocolate.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "high-protein",
+    "lentil",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-andean-lentil-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-andean-lentil-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "puy-lentils",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Andean",
+    "mainIngredient": "lentil",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Paella"
+  }
+}
