@@ -226,6 +226,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-jamaican-cox-apple-onigiri",
+    "title": "Old Fashioned Jamaican Cox Apple Onigiri",
+    "tags": [
+      "cox-apple",
+      "jamaican",
+      "nigiri",
+      "snack",
+      "traditional",
+      "vegetarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "olive-oasis",
     "title": "Olive Oasis",
     "tags": [

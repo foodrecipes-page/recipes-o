@@ -1,0 +1,98 @@
+{
+  "title": "Old Fashioned Jamaican Cox Apple Onigiri",
+  "description": "A traditional Jamaican dish featuring cox apples, shaped into nigiri, perfect for a nostalgic and earthy snack. This vegetarian friendly dish is dense and flavorful.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cox apples",
+      "amount": "4",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking rice"
+    }
+  ],
+  "instructions": [
+    "Cook the japanese short grain rice according to package instructions using the water.",
+    "In a pan, saute the diced onion and scotch bonnet peppers until the onion is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced cox apples to the pan and cook until they are tender.",
+    "Mix the cooked rice with the apple and onion mixture, and add the dried thyme and salt.",
+    "Using wet hands, shape the rice mixture into nigiri shapes.",
+    "Serve the onigiri at room temperature or chilled.",
+    "Garnish with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cox-apple",
+    "jamaican",
+    "nigiri",
+    "snack",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "old-fashioned-jamaican-cox-apple-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-jamaican-cox-apple-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:30:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cox-apple",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cox apple",
+    "descriptor": "old fashioned",
+    "dishForm": "Onigiri"
+  }
+}
