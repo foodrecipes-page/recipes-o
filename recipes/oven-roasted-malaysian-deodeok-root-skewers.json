@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Malaysian Deodeok Root Skewers",
+  "description": "A yeasty and flaky Malaysian dish featuring deodeok root, perfect for a cozy evening, and vegetarian friendly. This recipe uses a yakimono grill style for added flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "1 pound",
+      "notes": "peeled and cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, soy sauce, honey, garlic, and ginger.",
+    "Add the deodeok root pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated deodeok root pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Drizzle the sesame oil over the skewers and sprinkle with salt and black pepper.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until the deodeok root is tender and lightly browned.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deodeok-root",
+    "easy-dinner",
+    "malaysian-cuisine",
+    "oven-roasted",
+    "skewers",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "oven-roasted-malaysian-deodeok-root-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-malaysian-deodeok-root-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:51:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "deodeok-root",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Oven roasted",
+    "dishForm": "Skewers"
+  }
+}
