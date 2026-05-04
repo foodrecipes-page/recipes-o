@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Greek Grape Leaves Moussaka",
+  "description": "A pungent and crumbly Greek dish featuring grape leaves and sashimi-cut ingredients, perfect for a festive dinner, this keto-friendly moussaka is a unique twist on traditional Greek cuisine.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20 large leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the grape leaves by rinsing and cutting off the stems.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic, ground lamb, feta cheese, salt, and black pepper, and mix well.",
+    "To assemble the moussaka, begin with a layer of grape leaves, followed by a layer of the lamb mixture, and repeat until all ingredients are used, ending with a layer of grape leaves on top.",
+    "Place the moussaka in a baking dish and bake for 45 minutes, or until the top layer of grape leaves is crispy and golden brown.",
+    "Remove the moussaka from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive-dinner",
+    "greek-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "oven-roasted-greek-grape-leaves-moussaka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-greek-grape-leaves-moussaka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:25:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "grape leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "grape leaves",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Moussaka"
+  }
+}

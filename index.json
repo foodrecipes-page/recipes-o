@@ -424,6 +424,18 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-crumbly-ethiopian-sausage-stew",
+    "title": "Oozy Crumbly Ethiopian Sausage Stew",
+    "tags": [
+      "egg-free",
+      "kid-friendly",
+      "one-pot"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-dense-jamaican-paneer-curry",
     "title": "Oozy Dense Jamaican Paneer Curry",
     "tags": [
@@ -979,6 +991,20 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-greek-grape-leaves-moussaka",
+    "title": "Oven Roasted Greek Grape Leaves Moussaka",
+    "tags": [
+      "festive-dinner",
+      "greek-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "oven-roasted"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {

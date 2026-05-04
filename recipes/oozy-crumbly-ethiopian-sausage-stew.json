@@ -1,0 +1,106 @@
+{
+  "title": "Oozy Crumbly Ethiopian Sausage Stew",
+  "description": "A resinous, crumbly stew that blends smoky morcilla with fermented kimchi for a kid-friendly twist on classic doro-wot.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "200 g"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "150 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat and sauté onions until translucent.",
+    "Add minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in berbere, tomato paste, and cook until fragrant, about 2 minutes.",
+    "Pour in vegetable broth and water, bring to a simmer.",
+    "Slice morcilla into rounds and add to pot.",
+    "Add fermented kimchi and simmer for 10 minutes to meld flavors.",
+    "Season with salt and pepper.",
+    "Reduce heat and let stew thicken for another 5 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot over quinoa or injera."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "kid-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "oozy-crumbly-ethiopian-sausage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-crumbly-ethiopian-sausage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:24:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "morcilla",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Oozy Crumbly",
+    "dishForm": "Stew"
+  }
+}
