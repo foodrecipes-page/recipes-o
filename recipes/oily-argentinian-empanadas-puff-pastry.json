@@ -1,0 +1,108 @@
+{
+  "title": "Oily Argentinian Empanadas Puff Pastry",
+  "description": "Fatty, molten, energizing empanadas filled with spicy chorizo and served with a tangy vinegar glaze, perfect for a weeknight dinner or weekend brunch.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package ( thawed )",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chorizo",
+      "amount": "1 pound",
+      "notes": " Argentine-style chorizo or Spanish chorizo"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    },
+    {
+      "name": "water",
+      "amount": "1 egg",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f ( 200c ).",
+    "roll out puff pastry to a thickness of 1/8 inch ( 3 mm ).",
+    "cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "place a tablespoon of chorizo mixture in the center of each circle.",
+    "brush edges of pastry with beaten egg and fold in half to form a triangle.",
+    "press edges together to seal.",
+    "brush tops of empanadas with butter and cut a small slit in the top of each.",
+    "place empanadas on a baking sheet lined with parchment paper.",
+    "drizzle with red wine vinegar and sprinkle with red pepper flakes.",
+    "bake for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "flambe",
+    "high-calorie",
+    "kosher-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "oily-argentinian-empanadas-puff-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-argentinian-empanadas-puff-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:52Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "flambe",
+    "primaryIngredient": "vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "empanadas",
+    "descriptor": "oily",
+    "dishForm": "puff pastry"
+  }
+}
