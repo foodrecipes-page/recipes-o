@@ -1,0 +1,153 @@
+{
+  "title": "Oven-Roasted Korean Mackerel Jjigae",
+  "description": "Fresh, crisp, crowd-pleaser Korean dish featuring mackerel, ice-bath-shock, ayurvedic-rajasic-friendly, served in a traditional Korean dosirak, cooked in a wok.",
+  "cuisine": "korean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "use for roasting and serving"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Ice cubes",
+      "amount": "for ice bath",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "for garnish",
+      "notes": null
+    },
+    {
+      "name": "Sliced daikon",
+      "amount": "for garnish",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "for garnish",
+      "notes": null
+    },
+    {
+      "name": "Korean chili sauce",
+      "amount": "for serving",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the mackerel fillets with salt and black pepper.",
+    "Heat the sesame oil in a wok over medium-high heat.",
+    "Add the mackerel fillets to the wok and sear for 2-3 minutes per side.",
+    "Transfer the mackerel to a baking sheet and roast for 8-10 minutes or until cooked through.",
+    "In a small bowl, whisk together gochujang, soy sauce, Korean chili flakes, brown sugar, garlic, and rice vinegar.",
+    "Add the sauce to the wok and stir to combine.",
+    "Add the green onions, sesame seeds, and a pinch of salt to the wok and stir-fry for 1-2 minutes.",
+    "Remove the mackerel from the oven and let it cool slightly.",
+    "Shock the mackerel in an ice bath to stop the cooking process.",
+    "Once the mackerel is cool, slice it into thin pieces and add it to the wok.",
+    "Stir-fry the mackerel with the sauce and garnish with scallions, sliced daikon, and cucumber.",
+    "Serve the mackerel jjigae in a traditional Korean dosirak with a side of steamed rice and Korean chili sauce.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "korean",
+    "mackerel",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 15,
+    "fat": 32
+  },
+  "slug": "oven-roasted-korean-mackerel-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-korean-mackerel-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "mackerel",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Jjigae"
+  }
+}
