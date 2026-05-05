@@ -1,0 +1,80 @@
+{
+  "title": "Oozy Savory Cucumber Salad",
+  "description": "A light and salty Croatian dish featuring bacon lardon in a brine-wet cucumber salad that is shojin-friendly.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumbers",
+      "amount": 4,
+      "notes": "medium sized"
+    },
+    {
+      "name": "bacon lardons",
+      "amount": 100
+    },
+    {
+      "name": "salt",
+      "amount": 2
+    },
+    {
+      "name": "vinegar",
+      "amount": 50
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 10,
+      "notes": "optional garnish"
+    },
+    {
+      "name": "cucumber juice",
+      "amount": "as needed",
+      "notes": "from the cucumbers"
+    }
+  ],
+  "instructions": [
+    "Prepare cucumber juice by squeezing fresh cucumbers.",
+    "In a pan, sauté bacon lardons until crispy and golden.",
+    "Mix the cooked bacon with salt in the pan to create a salty base for the salad.",
+    "Fold the cucumber juice into the salty mixture.",
+    "Slice cucumbers thinly and add them to the mixture. Mix well.",
+    "Serve chilled, garnished with sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "light",
+    "monsoon",
+    "ozzy",
+    "savory",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 9,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "oozy-savory-cucumber-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-savory-cucumber-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:28:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "bacon lardon",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Savory",
+    "mainIngredient": "Cucumber",
+    "descriptor": "Oozy",
+    "dishForm": "Salad"
+  }
+}
