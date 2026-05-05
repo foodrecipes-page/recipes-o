@@ -1,0 +1,107 @@
+{
+  "title": "Oozy Japanese Form Inari",
+  "description": "Resinous, bouncy-qq, cozy Japanese dish featuring apple cider vinegar, stir-fry, and form=inarizushi. Fodmap-friendly and perfect for a quick dinner or snack.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Short-grain Japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Shiso leaves",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the short-grain Japanese rice in a fine-mesh strainer under cold running water until the water runs clear.",
+    "Combine the rice and water in a medium saucepan and bring to a boil over high heat.",
+    "Reduce the heat to low, cover, and simmer for 18 minutes, or until the water is absorbed and the rice is tender.",
+    "While the rice is cooking, whisk together the apple cider vinegar, gochujang, and sesame oil in a small bowl until smooth.",
+    "When the rice is done, fluff it with a fork and stir in the vinegar mixture, toasted sesame seeds, and salt to taste.",
+    "Cut the cucumber into thin slices and set aside.",
+    "Cut the pickled ginger into thin slices and set aside.",
+    "Tear the shiso leaves into small pieces and set aside.",
+    "In a small bowl, combine the cooked rice, cucumber, pickled ginger, and shiso leaves. ",
+    "Garnish with additional shiso leaves and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "japanese",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "oozy-japanese-form-inari",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-japanese-form-inari",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "stir-fry",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "apple",
+    "descriptor": "resinous bouncy",
+    "dishForm": null
+  }
+}
