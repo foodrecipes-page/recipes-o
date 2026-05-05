@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Roasted Polish Almonds Flatbread",
+  "description": "Crisp, cultural, crowd-pleasing flatbread originating from Poland, made with almond essence and score-fat.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 105°F (40°C)"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably unrefined sea salt"
+    },
+    {
+      "name": "almond essence",
+      "amount": "1 teaspoon",
+      "notes": "high-quality, pure almond extract"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "beef tallow or duck fat (halal-friendly)"
+    },
+    {
+      "name": "white sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing the flatbread"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the warm water while mixing the dry ingredients with a wooden spoon or a stand mixer equipped with a dough hook attachment.",
+    "Knead the dough for about 10 minutes, until it becomes smooth and elastic.",
+    "Transfer the dough to a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for about 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 425°F (220°C).",
+    "Punch down the dough and divide it into 2-3 equal portions, depending on the desired flatbread size.",
+    "Roll out each portion into a thin circle, about 1/8 inch thick.",
+    "In a small bowl, mix together the almond essence and score-fat. Brush the mixture evenly onto the dough, leaving a 1-inch border around the edges.",
+    "Transfer the flatbreads to a baking sheet lined with parchment paper, brush the tops with olive oil, and sprinkle with sesame seeds and chopped parsley if desired.",
+    "Bake the flatbreads in the preheated oven for 15-20 minutes, or until they are crispy and golden brown.",
+    "Remove the flatbreads from the oven and let them cool on a wire rack for a few minutes before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almonds",
+    "easy-to-make",
+    "flatbread",
+    "gluten-free",
+    "halal",
+    "polish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "oven-roasted-polish-almonds-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-polish-almonds-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "almond essence",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "almonds",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Flatbread"
+  }
+}
