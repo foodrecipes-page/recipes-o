@@ -1,0 +1,94 @@
+{
+  "title": "Oven-Glazed Russian Broccoli Hash",
+  "description": "Sweet, crumbly, and easy to make, this Russian-inspired dish is perfect for a weeknight meal. It features Chinese broccoli, lardons, and a sweet glaze.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Pork lardons",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bourbon whiskey (optional)",
+      "amount": "1 tbsp",
+      "notes": "omit for a family-friendly version"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400°F (200°C).",
+    "Toss the Chinese broccoli with a pinch of salt and a few grinds of black pepper.",
+    "Dust a baking sheet with flour and arrange the broccoli in a single layer.",
+    "Bake the broccoli in the preheated grill for 10 minutes, or until tender and slightly browned.",
+    "Meanwhile, cook the pork lardons in a skillet over medium heat until browned and crispy.",
+    "Remove the cooked lardons from the skillet and set aside.",
+    "Add the honey to the skillet and cook for 1-2 minutes, stirring constantly, until the honey has thickened into a glaze.",
+    "Add the bourbon whiskey (if using) to the skillet and stir to combine.",
+    "Toss the cooked broccoli with the lardons and glaze until well-coated.",
+    "Serve immediately, garnished with additional lardons if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glazed",
+    "hash",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 35,
+    "fat": 23
+  },
+  "slug": "oven-glazed-russian-broccoli-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-glazed-russian-broccoli-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Oven-Glazed",
+    "dishForm": "Hash"
+  }
+}
