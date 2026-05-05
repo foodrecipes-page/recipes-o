@@ -1,0 +1,98 @@
+{
+  "title": "One-Pot Roasted Greek Khus Khus Tzatziki",
+  "description": "A crispy, one-pot Greek dish featuring semolina halva and a refreshing tzatziki sauce, made in a traditional kadhai vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Semolina halva (khus khus)",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium-high heat and add the olive oil. Roast the semolina halva for 2-3 minutes, stirring occasionally, until lightly toasted.",
+    "Add the garlic, salt, and black pepper, and stir for 1 minute.",
+    "Gradually add the Greek yogurt, stirring constantly, until the mixture reaches a smooth consistency.",
+    "Reduce the heat to medium and add the grated cucumber, lemon juice, and parsley. Stir well to combine.",
+    "Transfer the kadhai to a serving plate and garnish with the lemon zest and additional parsley, if desired.",
+    "Tzatziki sauce can be served immediately or refrigerated for up to 24 hours.",
+    "Serve with the roasted semolina halva and garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "khus-khus",
+    "one-pan",
+    "tzatziki",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "one-pot-roasted-greek-khus-khus-tzatziki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/one-pot-roasted-greek-khus-khus-tzatziki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "khus khus",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "greek",
+    "mainIngredient": "khus khus",
+    "descriptor": "one-pot roasted",
+    "dishForm": "Tzatziki"
+  }
+}

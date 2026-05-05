@@ -390,6 +390,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-grilled-japanese-salmon-grill",
+    "title": "Oily Grilled Japanese Salmon",
+    "tags": [
+      "binchotan",
+      "grilled",
+      "japanesefood",
+      "lowfat",
+      "salmon"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "o"
+  },
+  {
     "slug": "oily-jamaican-cod-curry",
     "title": "Oily Jamaican Cod Curry",
     "tags": [
@@ -760,6 +774,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "one-pot-roasted-greek-khus-khus-tzatziki",
+    "title": "One-Pot Roasted Greek Khus Khus Tzatziki",
+    "tags": [
+      "greek",
+      "khus-khus",
+      "one-pan",
+      "tzatziki",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
