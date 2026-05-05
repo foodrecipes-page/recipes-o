@@ -1,0 +1,113 @@
+{
+  "title": "Oven-Smoked Monsoon Venezuelan Dish Wrap",
+  "description": "A low-sodium, spicy monsoon dish featuring red pepper flakes in a crispy corn husk wrap. Perfect for a quick snack or lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": "For added heat, use more or less to taste."
+    },
+    {
+      "name": "Monsoon Venezuelan Cheese Blend",
+      "amount": "4 oz",
+      "notes": "Use a dairy-free alternative if needed."
+    },
+    {
+      "name": "Low-Sodium Chicken Breast",
+      "amount": "4 oz",
+      "notes": "Pre-cooked, shredded or diced."
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Corn Husk Wrap",
+      "amount": "1",
+      "notes": "Pre-soaked in water."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "0.25 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "0.25 tsp",
+      "notes": "For added depth."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.25 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "0.125 tsp",
+      "notes": "Low-sodium, to taste."
+    },
+    {
+      "name": "Monsoon Venezuelan Spice Blend",
+      "amount": "0.25 tsp",
+      "notes": "Use a dairy-free alternative if needed."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with low-sodium salt, black pepper, and smoked paprika.",
+    "Wrap the corn husk in foil and bake for 10 minutes to crisp it up.",
+    "While the husk is baking, mix the monsoon Venezuelan cheese blend, garlic powder, and monsoon Venezuelan spice blend in a bowl.",
+    "Add the shredded chicken to the bowl and mix until just combined.",
+    "Remove the husk from the oven and fill it with the chicken and cheese mixture.",
+    "Drizzle with lime juice and sprinkle with chopped cilantro.",
+    "Place the wrap under the broiler for 2-3 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for a minute or two before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "oven-smoked-monsoon-venezuelan-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-monsoon-venezuelan-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "dish",
+    "descriptor": "Oven-Smoked Monsoon",
+    "dishForm": "Wrap"
+  }
+}
