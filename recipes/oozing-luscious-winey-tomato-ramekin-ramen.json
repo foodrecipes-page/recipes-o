@@ -1,0 +1,83 @@
+{
+  "title": "Oozing Luscious Winey Tomato Ramekin Ramen",
+  "description": "A festive Slovakian dish featuring tomato and render-fat in a ramekin bowl for an indulgent and snappy meal.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": 2
+    },
+    {
+      "name": "rendered pork fat",
+      "amount": 50
+    },
+    {
+      "name": "wine (dry red or white)",
+      "amount": "1 oz"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": 0
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the rendered pork fat and sauté until fragrant, about 1 minute.",
+    "Stir in the oregano and cook for another minute.",
+    "Break open the tomatoes and add to the pan. Let them release their juice.",
+    "Pour in the wine and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Simmer until slightly reduced, about 5 minutes.",
+    "Season with salt to taste. Taste test and adjust as necessary.",
+    "Divide the mixture evenly into ramekin bowls.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "festive",
+    "ramekin",
+    "ramen",
+    "slovakian",
+    "snappy",
+    "vegetarian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "oozing-luscious-winey-tomato-ramekin-ramen",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-luscious-winey-tomato-ramekin-ramen",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:05:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "tomato",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Tomato",
+    "descriptor": "Oozing Luscious",
+    "dishForm": "Ramen"
+  }
+}
