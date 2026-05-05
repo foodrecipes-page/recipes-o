@@ -1,0 +1,83 @@
+{
+  "title": "Oozy Yeasty Shaggy Peruvian Terracotta-Dish Pancake",
+  "description": "This adventurous dish features oats and score-fat, egg-free-friendly for those who need it.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups rolled oats",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup wildflower honey or agave nectar",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tbsp coconut oil, melted",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp sea salt",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup ground flaxseed",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups almond milk or any non-dairy milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup score-fat (coconut cream)",
+      "amount": "cup"
+    },
+    {
+      "name": "pinch of cinnamon",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your terracotta dish in the oven to 350°F (175°C).",
+    "In a large bowl, combine oats and honey. Stir in melted coconut oil.",
+    "Add salt, flaxseed, almond milk, score-fat, and cinnamon. Mix well until smooth and thick.",
+    "Pour mixture into preheated terracotta dish and bake for 20-25 minutes or until golden brown.",
+    "Serve warm with a side of fresh fruit or a drizzle of honey."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "oat-based",
+    "score-fat-friendly",
+    "terraced-dish"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 18,
+    "carbs": 57,
+    "fat": 20
+  },
+  "slug": "oozy-yeasty-shaggy-peruvian-terracotta-dish-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-yeasty-shaggy-peruvian-terracotta-dish-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:48:36Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "score-fat",
+    "primaryIngredient": "oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Oats",
+    "descriptor": "Yeasty Shaggy Adventurous",
+    "dishForm": "Pancake"
+  }
+}
