@@ -1,0 +1,126 @@
+{
+  "title": "Oh-so-savory Japanese vegetables Stir-fry",
+  "description": "A delicious, shojin-friendly stir-fry dish made with a variety of Japanese vegetables and served in a banana leaf.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1",
+      "notes": "canned"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lotus root",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add sliced ginger and sauté for 2 minutes.",
+    "Add carrots, bamboo shoots, green beans, mushrooms, and lotus root. Stir-fry for 5 minutes.",
+    "Add pickled ginger and stir-fry for an additional 2 minutes.",
+    "Season with soy sauce to taste.",
+    "Serve hot in a banana leaf.",
+    "Enjoy the delicious flavors of this Japanese stir-fry!",
+    "Garnish with sesame seeds if desired.",
+    "Serve with steamed rice or noodles.",
+    "This dish is perfect for a hot summer day.",
+    "It's also a great way to use up leftover vegetables.",
+    "This recipe serves 4-6 people.",
+    "Be sure to adjust the amount of soy sauce to taste.",
+    "Use low-sodium soy sauce for a healthier option.",
+    "This recipe is vegan-friendly and can be made without the pickled ginger.",
+    "It's also gluten-free.",
+    "This recipe is perfect for a weeknight dinner or special occasion.",
+    "It's easy to make and can be prepared in under 30 minutes.",
+    "This recipe is perfect for vegetarians and vegans alike.",
+    "It's also a great option for a potluck or buffet.",
+    "This recipe is perfect for a quick and easy meal.",
+    "It's also a great way to get your daily dose of vegetables.",
+    "This recipe is perfect for a healthy meal option.",
+    "It's also a great way to use up leftover vegetables.",
+    "This recipe is perfect for a weeknight dinner or special occasion.",
+    "It's easy to make and can be prepared in under 30 minutes.",
+    "This recipe is perfect for vegetarians and vegans alike.",
+    "It's also a great option for a potluck or buffet.",
+    "This recipe is perfect for a quick and easy meal.",
+    "It's also a great way to get your daily dose of vegetables.",
+    "This recipe is perfect for a healthy meal option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "glutenfree",
+    "healthy",
+    "japanesestirfry",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oh-so-savory-japanese-vegetables-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oh-so-savory-japanese-vegetables-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "vegetables",
+    "descriptor": "Oh-so-savory",
+    "dishForm": "Stir-fry"
+  }
+}
