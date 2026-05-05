@@ -1,0 +1,103 @@
+{
+  "title": "Oozing Creamy Mexican Mole-Poblano",
+  "description": "A citrusy and aerated mexican dish featuring poblano peppers, vanilla pod, and a creamy mole sauce, perfect for pescatarian diets.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 poblano pepper",
+      "amount": "1"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "1"
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 cup evaporated milk",
+      "amount": "0.25"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "Dash of sugar",
+      "amount": "1 dash"
+    },
+    {
+      "name": "1/4 cup heavy cream cheese",
+      "amount": "0.25"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2"
+    },
+    {
+      "name": "Grated Parmesan, for garnish (optional)",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons ground cinnamon",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add poblano pepper and sauté until slightly charred and softened.",
+    "Squeeze lime juice over the peppers to add brightness and zestiness.",
+    "In another bowl, mix together cream, evaporated milk, cumin, salt, sugar, cream cheese, and cinnamon. Stir in butter until well combined.",
+    "Pour the sauce into a pot with the sautéed peppers and simmer for 10 minutes.",
+    "Taste and adjust seasoning if needed. Serve garnished with grated Parmesan (if using).",
+    "Optional: serve over quinoa or rice for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerateddishes",
+    "molesauce",
+    "poblanopeppers",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 16,
+    "carbs": 40,
+    "fat": 21
+  },
+  "slug": "oozing-creamy-mexican-mole-poblano",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-creamy-mexican-mole-poblano",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:28:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "vanilla pod",
+    "diet": "pescatarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Poblano Pepper",
+    "descriptor": "Oozing Creamy",
+    "dishForm": "Mole-Poblano"
+  }
+}

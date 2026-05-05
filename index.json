@@ -874,6 +874,19 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-creamy-mexican-mole-poblano",
+    "title": "Oozing Creamy Mexican Mole-Poblano",
+    "tags": [
+      "aerateddishes",
+      "molesauce",
+      "poblanopeppers",
+      "vanilla"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-ethiopian-rice-stew",
     "title": "Oozing Ethiopian Rice Stew",
     "tags": [
