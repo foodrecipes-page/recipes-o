@@ -1,0 +1,103 @@
+{
+  "title": "oily dutch flax bake",
+  "description": "pungent, crisp, weeknight dutch dish featuring flax eggs and pickle. flexitarian-friendly option.",
+  "cuisine": "dutch",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup",
+      "notes": "ground flaxseed as egg substitute"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped, drained of brine"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp",
+      "notes": "pungent, earthy flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f. grease a 9x13 inch baking dish with butter.",
+    "in a large bowl, combine flaxseed, pickle, caraway seeds, onion, and garlic. mix well.",
+    "in a separate bowl, whisk together flour and salt. add melted butter and mix until crumbly.",
+    "add the dry ingredients to the flaxseed mixture and stir until just combined.",
+    "pour in warm water and mix until a sticky dough forms.",
+    "transfer the dough to the prepared baking dish and smooth the top.",
+    "bake for 35 minutes or until the top is golden brown and the edges are crispy.",
+    "remove from oven and let cool for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "high-fiber",
+    "oily",
+    "pungent",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "oily-dutch-flax-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-dutch-flax-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "flax eggs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "flax",
+    "descriptor": "oily",
+    "dishForm": "Bake"
+  }
+}
