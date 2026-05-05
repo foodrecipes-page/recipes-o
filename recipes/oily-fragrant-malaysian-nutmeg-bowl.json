@@ -1,0 +1,118 @@
+{
+  "title": "Oily Fragrant Malaysian Nutmeg Bowl",
+  "description": "A rich, snappy, and indulgent Malaysian dish featuring ground nutmeg and tadka.",
+  "cuisine": "malaysian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "nutmeg",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tablespoons",
+      "notes": "for tadka"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of coconut oil in a pan over medium heat.",
+    "Add finely chopped onion and saut\u000640 until soft.",
+    "Add grated ginger and minced garlic and cook for 1 minute.",
+    "Add turmeric, coriander, and cumin powder and stir for 1 minute.",
+    "Pour in 1 cup of coconut milk and 1 cup of water.",
+    "Add salt to taste and stir well.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "Stir in 1 teaspoon of ground nutmeg.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot in a lacquerware bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "malaysian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 7,
+    "carbs": 50,
+    "fat": 37
+  },
+  "slug": "oily-fragrant-malaysian-nutmeg-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-fragrant-malaysian-nutmeg-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "nutmeg",
+    "descriptor": "oily fragrant",
+    "dishForm": "bowl"
+  }
+}
