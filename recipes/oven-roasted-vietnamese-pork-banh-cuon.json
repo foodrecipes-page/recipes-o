@@ -1,0 +1,139 @@
+{
+  "title": "Oven-Roasted Vietnamese Pork Banh Cuon",
+  "description": "A nutty, juicy, and show-off Vietnamese dish featuring pul biber, with a smoky flavor and a crunchy texture. This banh cuon recipe is perfect for a special occasion or a dinner party.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "pescatarian",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "Make sure to buy fresh pork."
+    },
+    {
+      "name": "Vietnamese rice paper wrappers",
+      "amount": "1 package",
+      "notes": "Look for them in an Asian market."
+    },
+    {
+      "name": "Pul biber",
+      "amount": "2 teaspoons",
+      "notes": "Also known as Urfa pepper."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a good quality fish sauce."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is best."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Use a high-quality brown sugar."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Mince the ginger before using."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic before using."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup",
+      "notes": "Chop the green onions before using."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 cup",
+      "notes": "Chop the cilantro before using."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Add a smoky flavor to the dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky salt for best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Use fresh black pepper for best flavor."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil for frying."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the ground pork, pul biber, fish sauce, lime juice, brown sugar, ginger, garlic, salt, and black pepper. Mix well until everything is fully incorporated.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "While the mixture is chilling, prepare the rice paper wrappers by cutting them into strips and soaking them in warm water for about 10 minutes.",
+    "Once the pork mixture is ready, remove it from the refrigerator and let it sit at room temperature for 10 minutes.",
+    "Using your hands, shape the pork mixture into small patties, about 1 inch thick.",
+    "Heat a non-stick skillet or griddle over medium-high heat and add a small amount of vegetable oil. When the oil is hot, add the patties and cook for about 3-4 minutes on each side, until they are browned and cooked through.",
+    "While the patties are cooking, heat the oven to 400°F (200°C).",
+    "Place the cooked patties on a baking sheet lined with parchment paper and bake in the oven for about 10-12 minutes, until they are crispy on the outside and cooked through.",
+    "While the patties are baking, prepare the filling by mixing together the chopped green onions, cilantro, and smoked paprika.",
+    "Once the patties are done, remove them from the oven and let them cool for a few minutes.",
+    "To assemble the banh cuon, lay a rice paper wrapper on a flat surface and place a small amount of the pork filling in the center of the wrapper. Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the banh cuon hot with your favorite dipping sauce.",
+    "You can also serve it with a side of fresh herbs, such as cilantro or basil."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "banh-cuon",
+    "one-pan",
+    "pork",
+    "rice-paper-wrappers",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 26,
+    "fat": 24
+  },
+  "slug": "oven-roasted-vietnamese-pork-banh-cuon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-vietnamese-pork-banh-cuon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "pul biber",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Banh Cuon"
+  }
+}
