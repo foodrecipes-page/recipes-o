@@ -1,0 +1,83 @@
+{
+  "title": "Oozy Norwegian Green Chilli Stew Donabe",
+  "description": "Sour, chewy, romantic Norwegian dish featuring green chilli, lacquer-glaze, low-fat-friendly. Best served in a donabe vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green chilli",
+      "amount": "+/- 2",
+      "notes": "any variety"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice works great"
+    },
+    {
+      "name": "Pork belly",
+      "amount": "1 lb",
+      "notes": "you can substitute with pork shoulder or bacon"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Lacquer-glaze",
+      "amount": "2 tbsp",
+      "notes": "available at Asian markets or online"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the rice and 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "While the rice cooks, prepare the green chilli by cutting off the stems and removing the seeds.",
+    "In a separate pan, add the pork belly and cook over medium heat until browned and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "green-chilli",
+    "low-carb",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "oozy-norwegian-green-chilli-stew-donabe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-norwegian-green-chilli-stew-donabe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "green chilli",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "green chilli",
+    "descriptor": "sour chewy",
+    "dishForm": "Stew"
+  }
+}
