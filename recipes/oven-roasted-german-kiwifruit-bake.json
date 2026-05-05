@@ -1,0 +1,69 @@
+{
+  "title": "oven-roasted german kiwifruit bake",
+  "description": "a spicy, crunchy, and light german dish featuring kiwifruit and lardons. perfect for a buddhist temple breakfast or snack",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "use a meat thermometer to ensure internal temperature is at least 160f (71c)"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "in a large bowl, whisk together 2 tablespoons of vegetable oil, 1 tablespoon of apple cider vinegar, 1 teaspoon of ground cinnamon, and salt and pepper to taste.",
+    "add the lardons to the bowl and toss to coat with the spice mixture.",
+    "arrange the lardons in a single layer on a baking sheet lined with parchment paper.",
+    "in a separate bowl, whisk together 2 large eggs and 1 cup of heavy cream.",
+    "pour the egg mixture over the lardons and sprinkle with chopped fresh parsley.",
+    "toss to coat the lardons evenly with the egg mixture.",
+    "transfer the lardons to a 9x13 inch baking dish and bake for 20 minutes.",
+    "remove the lardons from the oven and top with sliced kiwifruit.",
+    "return the dish to the oven and bake for an additional 10-15 minutes, or until the kiwifruit is tender and lightly caramelized.",
+    "remove the dish from the oven and let it cool for a few minutes before serving.",
+    "slice into squares and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "german",
+    "kiwifruit",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "oven-roasted-german-kiwifruit-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-german-kiwifruit-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "lardons-render",
+    "primaryIngredient": "kiwifruit",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Bake"
+  }
+}

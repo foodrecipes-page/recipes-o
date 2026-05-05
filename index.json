@@ -3501,6 +3501,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-german-kiwifruit-bake",
+    "title": "oven-roasted german kiwifruit bake",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "german",
+      "kiwifruit",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-german-quinoa-wrap",
     "title": "Oven-Roasted German Quinoa Wrap",
     "tags": [
@@ -4912,6 +4926,23 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "ozone-filled-aerated-mediterranean-eggs-frittata",
+    "title": "Ozone-Filled Aerated Mediterranean Eggs Frittata",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy",
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]

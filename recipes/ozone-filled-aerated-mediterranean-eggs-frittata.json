@@ -1,0 +1,64 @@
+{
+  "title": "Ozone-Filled Aerated Mediterranean Eggs Frittata",
+  "description": "A mustardy, aerated brunch dish featuring rose water and Mediterranean flavors, perfect for a gluten-free-friendly gathering.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null,
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-free eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)."
+  ],
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 38
+  },
+  "prepTimeMin": 15,
+  "slug": "ozone-filled-aerated-mediterranean-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ozone-filled-aerated-mediterranean-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "rose water",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggs",
+    "descriptor": "ozone-filled aerated",
+    "dishForm": "Frittata"
+  }
+}
