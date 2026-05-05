@@ -179,6 +179,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-ukrainian-tuna-stew",
+    "title": "Oceanic Ukrainian Tuna Stew",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "ukrainian",
+      "vegan",
+      "winter"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
     "slug": "oil-fried-crisp-malaysian-tofu-noodles",
     "title": "Oil Fried Crisp Malaysian Tofu Noodles",
     "tags": [
@@ -2225,6 +2240,21 @@
     "shard": "o"
   },
   {
+    "slug": "outrageous-ukrainian-vegetable-borscht",
+    "title": "outrageous Ukrainian vegetable Borscht",
+    "tags": [
+      "crowd-pleaser",
+      "soup",
+      "summer",
+      "ukrainian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "outrageously-rich-mexican-poblanos-birria",
     "title": "Outrageously Rich Mexican Poblanos Birria",
     "tags": [
@@ -2722,6 +2752,19 @@
     "shard": "o"
   },
   {
+    "slug": "oven-fermented-slovakian-dish-wrap",
+    "title": "Fermented Slovakian Wrap",
+    "tags": [
+      "flexitarian",
+      "one-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oven-fried-northern-thai-mozzarella-bowl",
     "title": "Oven-Fried Northern Thai Mozzarella Bowl",
     "tags": [
@@ -3026,6 +3069,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-brazilian-shrimp-wrap",
+    "title": "Oven-Roasted Brazilian Shrimp Wrap",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -4217,6 +4274,23 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-creme-fraiche-gratin",
+    "title": "Oven-Roasted Slovakian Creme Fraiche Gratin",
+    "tags": [
+      "comfort-food",
+      "creme-fraiche",
+      "diabetic-friendly",
+      "high-protein",
+      "one-pan",
+      "slovakian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 80,
     "shard": "o"
   },
   {

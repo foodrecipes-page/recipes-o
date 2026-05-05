@@ -1,0 +1,113 @@
+{
+  "title": "Fermented Slovakian Wrap",
+  "description": "A weeknight-friendly, fermented dish wrapped in a leaf and steamed to perfection. Serve hot with a side of rye bread.",
+  "cuisine": "slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "450g pork shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp caraway seeds",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp mixed spice",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp brown sugar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp white vinegar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 leaf ( Swiss chard or collard greens) ",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 binchotan grill block",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coarse salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill the binchotan block at 300°F for 10 minutes to heat it evenly.",
+    "Grind 1 tsp of mixed spice, 1 tsp of brown sugar, and 2 tbsp of caraway seeds into a fine powder in a spice grinder.",
+    "Cut the onion into thin slices and sauté in a pan with 1 tsp of brown sugar until caramelized.",
+    "Mince the garlic and sauté in the same pan until fragrant.",
+    "Add the diced red bell pepper to the pan and sauté for 5 minutes.",
+    "Grind the caramelized onions, garlic, and red bell pepper into a fine paste using a food processor.",
+    "Add the ground pork shoulder, spice mix, vinegar, and coarse salt to the paste and mix well.",
+    "Place 1/2 cup of the fermented meat mixture onto the center of the leaf, leaving a 2-inch border around it.",
+    "Fold the leaf over the filling to create a tight package and steam for 30 minutes at 375°F.",
+    "Let the package cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 36,
+    "fat": 24
+  },
+  "slug": "oven-fermented-slovakian-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-fermented-slovakian-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "mixed spice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Dish",
+    "descriptor": "Oven-Fermented",
+    "dishForm": "Wrap"
+  }
+}

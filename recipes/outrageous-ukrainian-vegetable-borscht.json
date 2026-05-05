@@ -1,0 +1,106 @@
+{
+  "title": "outrageous Ukrainian vegetable Borscht",
+  "description": "A hearty, umami-rich vegetable borscht perfect for a crowd, made with vegetable stock and topped with a tangy beurre-monte. This recipe is free from nuts and perfect for a summer evening.",
+  "cuisine": "ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 cups, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "8 ounces, softened",
+      "notes": "see notes below"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine beets, carrots, cabbage, onion, and garlic in a large pot.",
+    "Add vegetable stock and bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Add tomato paste and apple cider vinegar, and stir to combine.",
+    "Taste and adjust seasoning as needed.",
+    "To make the beurre-monte, whip softened butter and sour cream together until smooth and doubled in volume, then season with salt and pepper to taste.",
+    "To serve, ladle the borscht into bowls and top with a dollop of beurre-monte and a sprinkle of chopped fresh dill.",
+    "Optional: serve with a side of crusty rye bread or boiled potatoes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "soup",
+    "summer",
+    "ukrainian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "outrageous-ukrainian-vegetable-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/outrageous-ukrainian-vegetable-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "vegetable stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetable",
+    "descriptor": "outrageous",
+    "dishForm": "Borscht"
+  }
+}

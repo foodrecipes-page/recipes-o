@@ -1,0 +1,107 @@
+{
+  "title": "Oven-Roasted Slovakian Creme Fraiche Gratin",
+  "description": "A hearty and comforting Slovakian dish, made with creme fraiche and simmered to perfection, featuring juicy tender vegetables. Enjoy as a diabetic-friendly dinner option on a lazy Sunday.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Creme Fraiche",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "2 tablespoons chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and thinly slice the potatoes, placing them in a large bowl of cold water to prevent browning.",
+    "Mince the garlic and chop the fresh dill. Set aside.",
+    "Melt 1 tablespoon of butter in a large skillet over medium-high heat and sauté the sliced onions until tender. Add the garlic and cook for an additional minute.",
+    "Drain the potatoes and pat them dry with paper towels. Add the potatoes to the skillet with the onions and garlic, stirring to combine.",
+    "In a separate mixing bowl, combine the crème fraîche and chopped fresh dill, stirring to combine.",
+    "Grease a 9x13-inch baking dish with the remaining 1 tablespoon of butter.",
+    "Spread half of the potato mixture in the prepared baking dish, then top with half of the crème fraîche mixture, and finally sprinkle with salt and black pepper.",
+    "Repeat the layering, starting with the remaining potatoes, then the remaining crème fraîche mixture, and finally sprinkle with salt and black pepper.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20-25 minutes or until golden brown and bubbly.",
+    "Remove from the oven and let rest for 10 minutes before serving.",
+    "Serve hot and enjoy!",
+    "Garnish with additional chopped fresh dill, if desired.",
+    "Refrigerate leftovers for up to 3 days.",
+    "Freeze for up to 2 months, thawing overnight in the refrigerator before reheating."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creme-fraiche",
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 14,
+    "carbs": 54,
+    "fat": 20
+  },
+  "slug": "oven-roasted-slovakian-creme-fraiche-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-slovakian-creme-fraiche-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "creme fraiche",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "creme fraiche",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Gratin"
+  }
+}

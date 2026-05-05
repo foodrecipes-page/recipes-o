@@ -1,0 +1,121 @@
+{
+  "title": "Oceanic Ukrainian Tuna Stew",
+  "description": "A romantic Ukrainian dish featuring tuna, flambe, and a glassy-jelly texture. This vegan-friendly stew is perfect for a cold winter's night.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna Steaks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Glass noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Dried mushrooms",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the tuna steaks, glass noodles, and dried mushrooms in the hot pot vessel.",
+    "Heat 1 tablespoon of vegan vegetable oil in a pan over medium-high heat.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the vegan Worcestershire sauce and cook for 1 minute, stirring constantly.",
+    "Add the hot pot vessel to the pan and stir to combine.",
+    "Flamb\u00059 the mixture by lighting the vodka and tilting the pan to ignite the mixture.",
+    "Cook for 2 minutes, then stir in the tahini, lemon juice, salt, and black pepper.",
+    "Add the chopped fresh parsley and dill to the hot pot vessel and stir to combine.",
+    "Simmer the stew for 10 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "ukrainian",
+    "vegan",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oceanic-ukrainian-tuna-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-ukrainian-tuna-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "tuna",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tuna",
+    "descriptor": "oceanic",
+    "dishForm": "stew"
+  }
+}

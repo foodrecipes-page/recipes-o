@@ -1,0 +1,113 @@
+{
+  "title": "Oven-Roasted Brazilian Shrimp Wrap",
+  "description": "Spicy, light meal-prep dish featuring shrimp stock, score-fat, and paleo-friendly ingredients. Serve in a lotus-leaf wrap for a unique and delicious twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large shrimp",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Scored fat (bacon)",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lotus-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together coconut oil, shrimp stock, cayenne pepper, and salt.",
+    "Add the scored fat, fresh cilantro, and garlic to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss until coated with the marinade.",
+    "Wrap each shrimp in a piece of lotus-leaf and place on a baking sheet.",
+    "Bake the shrimp for 8-10 minutes or until pink and cooked through.",
+    "Meanwhile, slice the avocado and set aside.",
+    "To assemble the wrap, place a cooked shrimp in the center of a lotus-leaf wrap, followed by a slice of avocado and a drizzle of fresh lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "oven-roasted-brazilian-shrimp-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-brazilian-shrimp-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "shrimp stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Wrap"
+  }
+}
