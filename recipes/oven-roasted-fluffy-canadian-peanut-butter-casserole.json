@@ -1,0 +1,106 @@
+{
+  "title": "Oven-Roasted Fluffy Canadian Peanut Butter Casserole",
+  "description": "A decadent, fluffy Canadian dish featuring peanut brittle and lamination-puff. Best served in a cazuela, this ayurvedic-tamasic-friendly dessert is perfect for a romantic evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peanut butter",
+      "amount": "2 1/4 cups",
+      "notes": "creamy, unsweetened"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Peanut brittle",
+      "amount": "1 cup",
+      "notes": "+crushed into small pieces"
+    },
+    {
+      "name": "Lamination-puff",
+      "amount": "1 cup",
+      "notes": "+flaked, unsalted"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": "+melted, unsalted"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "+chilled, unsweetened"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Thoroughly mix the peanut butter, sugar, and vanilla extract in a large bowl until well combined.",
+    "In a separate bowl, whisk together the eggs and melted coconut oil.",
+    "Add the peanut brittle, lamination-puff, and crushed peanut brittle to the peanut butter mixture; stir until evenly coated.",
+    "Pour the egg mixture over the peanut butter mixture and stir until smooth.",
+    "Pour the mixture into a greased cazuela and bake for 40 minutes, or until the dish is golden brown and set.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm, topped with chilled heavy cream and a pinch of salt, if desired.",
+    "Refrigerate leftovers for up to 3 days and reheat in the oven before serving.",
+    "Freeze for up to 2 months and thaw at room temperature before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "dessert",
+    "one-pan",
+    "romantic",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 72
+  },
+  "slug": "oven-roasted-fluffy-canadian-peanut-butter-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-fluffy-canadian-peanut-butter-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "peanut brittle",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "peanut butter",
+    "descriptor": "Oven-Roasted Fluffy",
+    "dishForm": "Casserole"
+  }
+}
