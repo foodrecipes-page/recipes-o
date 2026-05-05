@@ -1,0 +1,58 @@
+{
+  "title": "Oaky Shattering Midnight Craving French Chive Quiche",
+  "description": "A rich and savory quiche filled with chopped chives and khao khua, perfect for a midnight craving.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "khao khua",
+      "amount": "1 cup",
+      "notes": "crispy fried rice flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u001098F (190\u00169C).",
+    "In a medium skillet, cook the khao khua over medium heat, stirring frequently, until crispy and golden brown.",
+    "In a large skillet, saut\u0017 the chopped onions and chives in butter until softened.",
+    "In a large bowl, whisk together eggs, milk, salt, and pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "low-fat",
+    "midnight-craving",
+    "oaky",
+    "peppery",
+    "shattering"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oaky-shattering-midnight-craving-french-chive-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oaky-shattering-midnight-craving-french-chive-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:27:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "chopped chive",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chive",
+    "descriptor": "oaky shattering",
+    "dishForm": "Quiche"
+  }
+}
