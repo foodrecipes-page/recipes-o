@@ -1,0 +1,82 @@
+{
+  "title": "Oozing Peppery-Shattering Anko Red Bean Paste",
+  "description": "A decadent Canadian dish featuring anko-red-bean-paste, kombu-cold-extract, and a unique shattering effect in a mason-jar vessel. Gluten-free-friendly.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Anko Red Bean Paste",
+      "amount": 40
+    },
+    {
+      "name": "Kombu Cold Extract",
+      "amount": 20
+    },
+    {
+      "name": "Flaxseed Oil",
+      "amount": 15
+    },
+    {
+      "name": "Watermelon Sugar",
+      "amount": 10
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": 5
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": 3
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": 2
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Combine Anko Red Bean Paste with Flaxseed Oil, Kombu Cold Extract, Watermelon Sugar, Ginger Powder, and Kosher Salt in a mason-jar.",
+    "Mix well until smooth. Add minced Garlic and Lemon Juice for a slight peppery-shattering effect.",
+    "Allow to chill thoroughly before serving.",
+    "Serve garnished with additional Anko Red Bean Paste for added texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert-canadian",
+    "gluten-free-friendly",
+    "peppery-shattering",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "oozing-peppery-shattering-anko-red-bean-paste",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-peppery-shattering-anko-red-bean-paste",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:46:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Anko-red-bean-paste",
+    "descriptor": "Peppery-Shattering",
+    "dishForm": "Stir-fry"
+  }
+}
