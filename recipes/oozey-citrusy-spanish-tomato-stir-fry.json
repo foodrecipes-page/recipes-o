@@ -1,0 +1,87 @@
+{
+  "title": "Oozey Citrusy Spanish Tomato Stir-fry",
+  "description": "A bouncy-qq date-night dish featuring Thai red curry paste, namul-blanch-seasoned tomatoes, and ovo-vegetarian-friendly ingredients that ooze with citrusy goodness.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai red curry paste",
+      "amount": 2
+    },
+    {
+      "name": "Ovo-vegetarian-friendly eggs",
+      "amount": "1"
+    },
+    {
+      "name": "Spanish tomatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Citrus zest (lemon, orange)",
+      "amount": "juice of 1 lemon and 1 orange"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Onion rings",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Thyme sprigs (optional)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add Thai red curry paste and garlic cloves, stirring for about 1 minute until fragrant.",
+    "Crack eggs into the pan and scramble them gently with a spatula.",
+    "Slice Spanish tomatoes and add to the pan. Stir-fry until they start to soften but are still slightly crunchy.",
+    "Season with citrus zest juice, salt to taste, and thyme (if using).",
+    "Add onion rings and Thai basil leaves. Cook for another minute until everything is well combined.",
+    "Remove from heat and serve immediately as a light side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "citrusy",
+    "date-night",
+    "simple",
+    "spanish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "oozey-citrusy-spanish-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozey-citrusy-spanish-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T03:38:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Oozey",
+    "dishForm": "Stir-fry"
+  }
+}
