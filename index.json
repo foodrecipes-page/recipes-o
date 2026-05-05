@@ -508,6 +508,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-light-romantic-brazilian-gelatin-stir-fry",
+    "title": "Oily Light Romantic Brazilian Gelatin Stir-fry",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "low-carb",
+      "romantic",
+      "vegan"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
     "slug": "oily-molten-venezuelan-cheese-empanadas",
     "title": "Venezuelan Cheese Empanadas",
     "tags": [
@@ -1949,6 +1963,22 @@
       "tangy"
     ],
     "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-thai-cheese-pilaf",
+    "title": "Oozy Thai Cheese Pilaf",
+    "tags": [
+      "cheese",
+      "confittomato",
+      "currants",
+      "easydinner",
+      "northernthailand",
+      "onepan",
+      "thaicuisine"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 45,
     "shard": "o"
   },

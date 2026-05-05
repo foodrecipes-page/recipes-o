@@ -1,0 +1,58 @@
+{
+  "title": "Oily Light Romantic Brazilian Gelatin Stir-fry",
+  "description": "This light and romantic dish is perfect for a warm evening in Brazil. Fresh gelatin, stir-fried with love and care, creates a harmonious balance of flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unflavored gelatin",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free, vegan-friendly"
+    }
+  ],
+  "instructions": [
+    "Rinse 12 scallop shells in cold water and set aside.",
+    "Mix 2 tablespoons of unflavored gelatin with 2 tablespoons of cold water in a small bowl and let it sit for 5 minutes.",
+    "Heat 1 tablespoon of coconut oil in a skillet over medium heat.",
+    "Add 1 cup of mixed wild berries to the skillet and stir-fry for 3 minutes, allowing their natural sweetness to shine through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "low-carb",
+    "romantic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 0
+  },
+  "slug": "oily-light-romantic-brazilian-gelatin-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-light-romantic-brazilian-gelatin-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "gelatin",
+    "descriptor": "oily light romantic",
+    "dishForm": "stir-fry"
+  }
+}

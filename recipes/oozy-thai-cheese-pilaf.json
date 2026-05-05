@@ -1,0 +1,141 @@
+{
+  "title": "Oozy Thai Cheese Pilaf",
+  "description": "Buttery, cheesy, and packed with the flavors of Northern Thailand, this dish is sure to impress. The perfect combination of sweet and savory, it's a meal that's both comforting and exciting.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "20g",
+      "notes": "For thickening the sauce."
+    },
+    {
+      "name": "Confit tomato",
+      "amount": "400g",
+      "notes": "Canned or homemade."
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "250g",
+      "notes": "Low-fat or reduced-fat for a healthier option."
+    },
+    {
+      "name": "Grated mozzarella cheese",
+      "amount": "200g",
+      "notes": "For the cheese pull effect."
+    },
+    {
+      "name": "Currants",
+      "amount": "150g",
+      "notes": "Dried or fresh."
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": "To taste."
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1",
+      "notes": "For the cheese pull effect."
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat until melted and foamy.",
+    "Add the flour and cook for 1-2 minutes, stirring constantly, until lightly golden and fragrant.",
+    "Slowly pour in the confit tomato, stirring continuously to prevent lumps from forming.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, stirring occasionally, until thickened and sauce-like.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly, until fragrant.",
+    "Stir in the cheddar and mozzarella cheese until melted and smooth.",
+    "Add the currants, fish sauce, soy sauce, brown sugar, and vegetable oil. Stir to combine.",
+    "Stir in the cooked basmati rice until well coated with the sauce.",
+    "Transfer the mixture to a serving dish or individual ramekins.",
+    "Use a spatula to create a well in the center of each serving and crack an egg yolk into it.",
+    "Bake in a preheated oven at 375°F (190°C) for 10-15 minutes, or until the egg yolk is cooked to your desired doneness.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "confittomato",
+    "currants",
+    "easydinner",
+    "northernthailand",
+    "onepan",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 45
+  },
+  "slug": "oozy-thai-cheese-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-thai-cheese-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "confit-tomato",
+    "primaryIngredient": "currants",
+    "diet": "low-fat",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cheese",
+    "descriptor": "oozy",
+    "dishForm": "Pilaf"
+  }
+}
