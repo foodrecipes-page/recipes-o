@@ -1,0 +1,86 @@
+{
+  "title": "Oatmeal Crumbly Irish Soda Bread Gratin",
+  "description": "Nutty, crumbly, and nostalgic Irish dish featuring yeast and a warm, comforting oat topping. Perfect for a cozy breakfast or brunch.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast, warm water, and a pinch of sugar. Let it sit for 5-10 minutes until frothy.",
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "Add the melted butter and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat oven to 400°F (200°C).",
+    "Punch down the dough and shape it into a round loaf. Place it on a cedar plank or a baking sheet.",
+    "Bake for 25-30 minutes, or until the bread is golden brown.",
+    "While the bread is baking, mix the oat topping ingredients in a bowl.",
+    "Remove the bread from the oven and let it cool for 5 minutes.",
+    "Transfer the bread to a serving dish and top it with the oat mixture.",
+    "Bake for an additional 5-7 minutes, or until the oat topping is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "easy-to-make",
+    "gratin",
+    "irish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "oatmeal-crumbly-irish-soda-bread-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oatmeal-crumbly-irish-soda-bread-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "yeast",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "soda bread",
+    "descriptor": "oatmeal crumbly",
+    "dishForm": "Gratin"
+  }
+}
