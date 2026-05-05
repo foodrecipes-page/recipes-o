@@ -1,0 +1,78 @@
+{
+  "title": "Oozy French Prawns Canelle Bananaleaf",
+  "description": "A quick-fix sweet and gooey Lyon-style dish featuring raw frozen prawns cooked with banana leaf and cinnamon.",
+  "cuisine": "Lyon, French Cuisine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Prawns",
+      "amount": 200
+    },
+    {
+      "name": "Banana Leaf",
+      "amount": "as needed"
+    },
+    {
+      "name": "Vanilla Bean",
+      "amount": "1/4 vanilla bean pod"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sour Cream (or Yogurt)",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Place the banana leaf on a flat surface and spread a layer of sour cream or yogurt over it.",
+    "Gently place the frozen prawns in a single layer over the cream, making sure they are not overlapping.",
+    "Sprinkle cinnamon powder and saffron threads evenly over the prawns.",
+    "Wrap the banana leaf around the prawns to form a neat cylinder shape. The banana leaf will be hot so use tongs for handling.",
+    "Place the wrapped bundle in a pan or pot, ensuring that the lid is not completely sealed to allow steam to escape and cook from outside in.",
+    "Bake at 200°C (392°F) for 15 minutes.",
+    "Flip the banana leaf wrap over to ensure even cooking. Continue baking for an additional 10-15 minutes, or until the prawns are cooked through and gooey.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "gooey",
+    "quick-fix",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "oozy-french-prawns-canelle-bananaleaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-french-prawns-canelle-bananaleaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:36:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "gluten-free",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Prawns",
+    "descriptor": "Oozy",
+    "dishForm": "Canelle Bananaleaf"
+  }
+}
