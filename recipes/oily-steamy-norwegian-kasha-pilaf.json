@@ -1,0 +1,103 @@
+{
+  "title": "Oily Steamy Norwegian Kasha Pilaf",
+  "description": "A hearty, one-pot dish from Norway featuring dark brown sugar and a unique steamy cooking process.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kasha",
+      "amount": "1 cup",
+      "notes": "crushed buckwheat groats"
+    },
+    {
+      "name": "Dark Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grainy Mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine kasha, dark brown sugar, grainy mustard, salt, and black pepper in a kazan cauldron or large pot with a lid.",
+    "Add water to the pot, cover, and bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 20 minutes, or until the kasha is tender and the liquid has been absorbed.",
+    "Add butter to the pot and stir until melted.",
+    "Increase heat to high and cover the pot for 5 minutes, creating a steamy environment.",
+    "Remove the pot from the heat and let cool slightly, then fluff the pilaf with a fork.",
+    "Stir in chopped fresh dill and serve hot.",
+    "Be careful when removing the pot from the heat as it may be hot and steamy.",
+    "Let the pilaf rest for a few minutes before serving to allow the flavors to meld together.",
+    "If desired, serve with additional chopped fresh dill on top.",
+    "This dish is best served hot, straight from the pot.",
+    "Note that the steamy cooking process is an important part of this recipe, so be sure to cover the pot and cook over high heat for the last 5 minutes.",
+    "The kasha will absorb the flavors and the dark brown sugar will caramelize, creating a rich and satisfying pilaf."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dark-brown-sugar",
+    "grainy-mustard",
+    "kasha",
+    "norwegian",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oily-steamy-norwegian-kasha-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-steamy-norwegian-kasha-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "kasha",
+    "descriptor": "Oily Steamy",
+    "dishForm": "Pilaf"
+  }
+}
