@@ -1,0 +1,103 @@
+{
+  "title": "Oozey Kissed Pomegranate Oozy Paella",
+  "description": "A romantic Ukrainian dish featuring thyme and lacquer-glaze for a jammy, bouncy-qq texture, ideal as an anti-inflammatory-friendly side or light meal.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pomegranate",
+      "amount": 4
+    },
+    {
+      "name": "thyme",
+      "amount": 10
+    },
+    {
+      "name": "pork belly",
+      "amount": 250
+    },
+    {
+      "name": "pork tenderloin",
+      "amount": 300
+    },
+    {
+      "name": "onion",
+      "amount": 1
+    },
+    {
+      "name": "bell pepper",
+      "amount": 1
+    },
+    {
+      "name": "zucchini",
+      "amount": 1
+    },
+    {
+      "name": "thyme leaves",
+      "amount": 2
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop onion and bell pepper into small pieces.",
+    "Slice zucchini lengthwise.",
+    "Season pork belly and tenderloin with sea salt.",
+    "Toast pomegranate seeds lightly in a dry pan.",
+    "Heat oil in a paella pan, add pork, thyme leaves, pomegranate molasses, orange juice, and cook for 10 minutes.",
+    "Add onion mixture on top of the pork.",
+    "Stir in pomegranate seeds and cover with thyme sprigs.",
+    "Bake at 350°F (175°C) for 20-25 minutes or until vegetables are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jasmine-infused",
+    "low-sugar",
+    "pork-heavy",
+    "romantic-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "oozey-kissed-pomegranate-oozy-paella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozey-kissed-pomegranate-oozy-paella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:03:20Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "thyme",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kissed",
+    "mainIngredient": "Pomegranate",
+    "descriptor": "Oozey",
+    "dishForm": "Paella"
+  }
+}
