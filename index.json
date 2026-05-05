@@ -1094,6 +1094,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-greek-tomatoes-roasted-kleftiko",
+    "title": "Oozing Greek Tomatoes Roasted Kleftiko",
+    "tags": [
+      "greek",
+      "kleftiko",
+      "one-pan",
+      "tomatoes",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-italian-chickpeas-casserole",
     "title": "Oozing Italian Chickpeas Casserole",
     "tags": [
@@ -2967,6 +2982,19 @@
     "shard": "o"
   },
   {
+    "slug": "oven-grilled-korean-duck-bowl",
+    "title": "Oven-Grilled Korean Duck Bowl",
+    "tags": [
+      "anti-inflammatory",
+      "duck",
+      "gluten-free",
+      "korean"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "oven-infused-ethiopian-lentils-misir-wot",
     "title": "Oven‑Infused Ethiopian Lentils Misir Wot with Coconut Flakes",
     "tags": [
@@ -3512,6 +3540,21 @@
     ],
     "cuisine": "filipino",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-flambe-norwegian-bananas-grill",
+    "title": "oven-roasted flambe norwegian bananas grill",
+    "tags": [
+      "dairy-free",
+      "dessert",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 18,
     "shard": "o"
   },
   {

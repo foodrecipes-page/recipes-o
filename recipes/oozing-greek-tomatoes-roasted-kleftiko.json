@@ -1,0 +1,120 @@
+{
+  "title": "Oozing Greek Tomatoes Roasted Kleftiko",
+  "description": "A buttery and flavorful dish featuring roasted grape tomatoes in a form inspired by traditional Greek Kleftiko. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 Lemon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, toss grape tomatoes with olive oil, garlic, salt, and black pepper until they are evenly coated.",
+    "Spread the tomatoes in a single layer on a large baking sheet and roast for 20 minutes.",
+    "While the tomatoes are roasting, combine balsamic vinegar and roasted red peppers in a small saucepan and bring to a simmer over medium heat.",
+    "Reduce the vinegar mixture by half and set aside.",
+    "After the tomatoes have roasted for 20 minutes, sprinkle with oregano and return to the oven for an additional 10 minutes.",
+    "Remove the tomatoes from the oven and top with basil, lemon zest, and roasted red peppers.",
+    "Slice the crusty bread into thick slices and serve alongside the tomatoes.",
+    "Cut the feta cheese into small pieces and sprinkle over the top of the tomatoes.",
+    "Drizzle the balsamic glaze over the tomatoes and serve immediately.",
+    "Garnish with additional oregano and basil if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "kleftiko",
+    "one-pan",
+    "tomatoes",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oozing-greek-tomatoes-roasted-kleftiko",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-greek-tomatoes-roasted-kleftiko",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Oozing",
+    "dishForm": "Roasted Kleftiko"
+  }
+}

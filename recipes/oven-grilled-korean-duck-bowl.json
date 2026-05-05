@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Grilled Korean Duck Bowl",
+  "description": "Grassy, crispy Korean dish featuring duck sauce, binchotan-charcoal, and anti-inflammatory-friendly ingredients served in a hot stone plate.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean duck breast",
+      "amount": "1",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing duck"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tsp",
+      "notes": "Korean red pepper flakes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced and crushed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": " toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the duck breast with salt and black pepper.",
+    "In a small bowl, whisk together gochujang, sesame oil, gochugaru, soy sauce, brown sugar, garlic, and ginger.",
+    "Place the duck breast in a shallow dish and brush both sides with the marinade mixture.",
+    "Arrange the duck breast on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the duck is baking, prepare the hot stone plate by heating it in the oven for 5 minutes.",
+    "Remove the duck from the oven and let it rest for 5 minutes before slicing.",
+    "To assemble the dish, place the sliced duck on the hot stone plate, garnish with green onions, toasted sesame seeds, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "duck",
+    "gluten-free",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 44,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "oven-grilled-korean-duck-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-grilled-korean-duck-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "duck sauce",
+    "diet": "anti-inflammatory",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "duck",
+    "descriptor": "Oven-Grilled",
+    "dishForm": "Bowl"
+  }
+}

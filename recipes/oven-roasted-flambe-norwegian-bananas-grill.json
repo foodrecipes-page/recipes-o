@@ -1,0 +1,94 @@
+{
+  "title": "oven-roasted flambe norwegian bananas grill",
+  "description": "a tangy, crumbly, and nostalgic norwegian dish featuring bananas, flambe, and a gluten-free-friendly vessel, the raclette-grill. perfect for a weeknight dessert or snack.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flambe mixture",
+      "amount": "1",
+      "notes": "see below for flambe mixture ingredients"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the raclette-grill to 375 f (190 c) for at least 15 minutes before cooking.",
+    "in a small bowl, mix together the brown sugar, flour, cinnamon, and nutmeg.",
+    "slice the bananas into 1-inch pieces and place them in a separate bowl.",
+    "melt the butter in a small saucepan over medium heat.",
+    "add the flambe mixture to the saucepan and ignite it (carefully!)",
+    "once the flames have died down, carefully pour the flambe mixture over the bananas and then sprinkle the sugar mixture evenly over the top.",
+    "transfer the bananas to the preheated raclette-grill and cook for 8-10 minutes, or until the bananas are caramelized and the sugar is crispy.",
+    "serve immediately, garnished with additional cinnamon if desired."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 10,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dessert",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "oven-roasted-flambe-norwegian-bananas-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-flambe-norwegian-bananas-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "bananas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "bananas",
+    "descriptor": "Oven-Roasted Flambe",
+    "dishForm": "Grill"
+  }
+}
