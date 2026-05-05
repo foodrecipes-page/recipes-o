@@ -1,0 +1,131 @@
+{
+  "title": "Oven-Roasted Turkish Pistachio Kunefe",
+  "description": "A traditional Turkish dessert featuring layers of crispy pastry, sweet cheese, and chopped pistachios, perfect for special occasions",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sharps kravtsov cheese",
+      "amount": "250g",
+      "notes": "crumbly, low-fat cheese, available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pistachios",
+      "amount": "1 cup",
+      "notes": "chopped, unsalted"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Combine yeast, warm water, and a pinch of sugar in a small bowl. Let it sit for 5 minutes, until frothy.",
+    "In a large mixing bowl, combine flour, salt, and cinnamon. Add the yeast mixture, honey, and melted butter. Mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, until doubled in size.",
+    "While the dough is rising, prepare the cheese mixture. In a separate bowl, combine cheese, rose water, and vanilla. Mix until smooth.",
+    "Punch down the dough, and divide it into 4 equal pieces. Roll each piece into a thin sheet, about 1/8 inch thick.",
+    "Brush the sheets with melted butter, and layer them in a ceramic tagine or a 9x13 inch baking dish. Repeat the layers until all the dough and cheese mixture are used up.",
+    "Sprinkle the chopped pistachios over the top layer of dough.",
+    "Cover the tagine with plastic wrap, and bake for 40 minutes, until the crust is golden brown.",
+    "Remove the tagine from the oven, and let it cool for 10 minutes.",
+    "Dust the kunefe with confectioners sugar, and serve warm.",
+    "Serve the kunefe with a drizzle of honey, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "dessert",
+    "kunefe",
+    "low-fat",
+    "pistachio",
+    "romantic",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oven-roasted-turkish-pistachio-kunefe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-pistachio-kunefe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "pistachio",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pistachio",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Kunefe"
+  }
+}
