@@ -1,0 +1,78 @@
+{
+  "title": "Oozy Spicy Crispy Ackee Pancakes",
+  "description": "Spicy and crispy ackee pancakes are a comforting norwegian dish that can be made paleo-friendly.",
+  "cuisine": "norway",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup raw coconut flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tsp cayenne pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "each"
+    },
+    {
+      "name": "300g cooked ackee fruit, drained and mashed",
+      "amount": "oz"
+    },
+    {
+      "name": "50g raw cashews, soaked overnight and blended until smooth (optional for creaminess)",
+      "amount": "oz"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix coconut flour with cayenne pepper and salt.",
+    "Add eggs, ackee, and blended cashews if using. Mix well.",
+    "Heat a non-stick pan over medium-high heat. Pour batter onto hot pan in circles about 2 cm thick.",
+    "Cook for 1-2 minutes on each side until golden brown.",
+    "Serve hot with your favorite dips or spreads."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "crispy",
+    "norwegian",
+    "paleo-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 16,
+    "carbs": 28,
+    "fat": 19
+  },
+  "slug": "oozy-spicy-crispy-ackee-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-spicy-crispy-ackee-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T03:24:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "ackee",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Spicy",
+    "mainIngredient": "Ackee",
+    "descriptor": "Crispy",
+    "dishForm": "Pancakes"
+  }
+}
