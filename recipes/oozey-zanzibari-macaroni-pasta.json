@@ -1,0 +1,79 @@
+{
+  "title": "Oozey Zanzibari Macaroni Pasta",
+  "description": "A citrusy and silky post-workout Kenyan dish featuring macaroni and papillote, served raw-friendly in banana-leaf vessels.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "200g"
+    },
+    {
+      "name": "papillote leaves (banana-leaf)",
+      "amount": "4"
+    },
+    {
+      "name": "zanzibar orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "5g"
+    },
+    {
+      "name": "salt to taste",
+      "notes": "finely ground sea salt"
+    },
+    {
+      "name": "freshly grated zanzibar lime zest",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Place macaroni in a large pot and rinse under cold water.",
+    "In the same pot, add enough vegetable oil to cover the pasta. Bring to a boil over medium heat.",
+    "Add zanzibar orange juice, lemon juice, saffron threads, salt, and fresh lime zest. Mix well and simmer for 15 minutes or until pasta is tender.",
+    "Once pasta is cooked, ladle into papillote leaves and garnish with additional zanzibar citrus juice if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "kenyan",
+    "post-workout",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "oozey-zanzibari-macaroni-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozey-zanzibari-macaroni-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T03:22:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "macaroni",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "macaroni",
+    "descriptor": "Oozey",
+    "dishForm": "Pasta"
+  }
+}
