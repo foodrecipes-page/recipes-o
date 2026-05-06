@@ -1,0 +1,116 @@
+{
+  "title": "Oozing Mediterranean Molten Dumplings",
+  "description": "Savor the rich flavors of the Mediterranean in these delightful dumplings filled with a molten, tangy mixture. Perfect for a solo dinner or as a light meal with friends.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a good quality extra virgin olive oil"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1/4 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "calcium chloride",
+      "amount": "1/4 teaspoon",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Combine chickpea flour, olive oil, red wine vinegar, water, lemon juice, garlic, dried oregano, salt, and black pepper in a mixing bowl.",
+    "Stir until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Use a pastry bag or a plastic bag with a corner cut off to pipe the dough into small balls, about 1 1/2 inches in diameter.",
+    "Soak the balls in cold water for 10 minutes to activate the sodium alginate.",
+    "Drain the balls and gently place them into a hot pot of water with calcium chloride.",
+    "Cook the dumplings for 5-7 minutes or until they float to the surface.",
+    "Remove the dumplings from the hot pot and serve them immediately with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "spherified",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "oozing-mediterranean-molten-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-mediterranean-molten-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "spherify",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Molten",
+    "descriptor": "Oozing, Smoky, Flavoured",
+    "dishForm": "Dumplings"
+  }
+}
