@@ -1,0 +1,119 @@
+{
+  "title": "oven-roasted mexican almond tacos",
+  "description": "a unique and flavorful taco recipe featuring earthy almond flour and a nimono-simmered filling.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "black beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400\u007f (200\u007f).",
+    "in a pan, heat the coconut oil over medium heat and saut\u00144 the onion and garlic until softened.",
+    "add the cumin, coriander, chili powder, and cayenne pepper to the pan and cook for 1 minute, stirring constantly.",
+    "in a separate pan, warm the black beans over low heat.",
+    "in a large bowl, combine the almond flour, salt, and 1 cup of water to make a batter.",
+    "add the batter to the oven-safe pan or tagliere and spread evenly.",
+    "bake for 20 minutes, or until the top is golden brown and the filling is hot.",
+    "remove from the oven and stir in the saut\u00144 onion and garlic mixture and the warmed black beans.",
+    "season with lime juice to taste.",
+    "warm tacos shells according to package instructions.",
+    "serve the taco filling in the warmed tacos shells and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "sattvic",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-mexican-almond-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mexican-almond-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "almond flour",
+    "diet": "ayurvedic-sattvic",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Almond",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tacos"
+  }
+}

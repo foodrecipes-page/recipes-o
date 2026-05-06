@@ -1,0 +1,122 @@
+{
+  "title": "Oceanic Peruvian Floral Ceviche-Clasico",
+  "description": "A show-off Peruvian ceviche dish featuring floral notes, cheese-pull, and starch. Perfect for a dinner party or special occasion.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw Halibut Fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Purple Cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Corn Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili Peppers",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the raw halibut fillets into small pieces and place in a large bowl.",
+    "In a separate bowl, mix together purple cabbage, red onion, and fresh cilantro.",
+    "Add the mixed vegetables to the halibut and toss to combine.",
+    "Squeeze the lime juice over the halibut mixture and toss to coat.",
+    "Mince the garlic cloves and mix with the halibut mixture.",
+    "Season the halibut mixture with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, crumble the queso fresco over the top of the halibut mixture.",
+    "Heat the coconut oil in a small skillet over medium heat.",
+    "Add the chili peppers to the skillet and cook for 1 minute on each side.",
+    "Remove the skillet from the heat and sprinkle the toasted chili peppers over the top of the ceviche.",
+    "Heat a non-stick skillet over medium heat and sprinkle a small amount of corn flour over the bottom of the skillet.",
+    "Add a small amount of halibut mixture to the skillet and cook for 2-3 minutes on each side, or until cooked through.",
+    "Serve the coated ceviche hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "ceviche",
+    "dinner-party",
+    "floral",
+    "peruvian",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "oceanic-peruvian-floral-ceviche-clasico",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-peruvian-floral-ceviche-clasico",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "starch",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "floral",
+    "descriptor": "oceanic",
+    "dishForm": "Ceviche-Clasico"
+  }
+}
