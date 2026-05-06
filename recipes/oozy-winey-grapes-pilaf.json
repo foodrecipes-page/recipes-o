@@ -1,0 +1,95 @@
+{
+  "title": "Oozy Winey Grapes Pilaf",
+  "description": "A dense and winey Australian dish perfect for a cozy date night, featuring nimono-simmered dates, cloves, and other lacto-vegetarian-friendly ingredients.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dates",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp ground cloves",
+      "amount": ""
+    },
+    {
+      "name": "1 can (28 oz) diced tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "1 cup white wine",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Parchment paper (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Chop onion and mince garlic.",
+    "Arrange dates in a single layer on baking sheet. Drizzle with coconut oil and sprinkle with cloves. Bake for 20 minutes or until lightly browned.",
+    "Sauté onions and garlic in a pot over medium heat, adding more oil if needed.",
+    "Add diced tomatoes, white wine, and vegetable broth to the pot. Stir well.",
+    "Reduce mixture by half, then return baked dates and their juices to the pot. Simmer for 10 minutes.",
+    "Ladle mixture into a baking dish or shallow casserole. Place parchment paper on top if desired.",
+    "Bake in preheated oven for 25-30 minutes until pilaf is set and slightly golden on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "date-night",
+    "lacto-vegetarian",
+    "nimono-simmered",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "oozy-winey-grapes-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-winey-grapes-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:36:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cloves",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Grape",
+    "descriptor": "Oozy",
+    "dishForm": "Pilaf"
+  }
+}
