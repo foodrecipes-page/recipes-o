@@ -2287,6 +2287,21 @@
     "shard": "o"
   },
   {
+    "slug": "orange-infused-egyptian-orange-pilaf",
+    "title": "Orange Infused Egyptian Orange Pilaf",
+    "tags": [
+      "flavorful",
+      "gluten-free",
+      "healthy",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "orange-infused-mexican-corn-elote",
     "title": "Orange Infused Mexican Corn Elote",
     "tags": [
