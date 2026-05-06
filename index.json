@@ -1763,6 +1763,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-herbaceous-puffed-noodles",
+    "title": "Oozy Herbaceous Puffed Noodles",
+    "tags": [
+      "festive-australian-dish",
+      "herbaceous",
+      "oozy",
+      "puffed-noodles",
+      "satvik-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-italian-gorgonzola-bigoli",
     "title": "Oozy Italian Gorgonzola Bigoli",
     "tags": [

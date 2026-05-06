@@ -1,0 +1,85 @@
+{
+  "title": "Oozy Herbaceous Puffed Noodles",
+  "description": "A festive Australian dish featuring pillowy egg noodles infused with herbs and spices, perfect for a light snack or appetizer.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "amount": 200
+    },
+    {
+      "name": "Chicken Stock Cubes",
+      "amount": 4
+    },
+    {
+      "name": "Herbs (Thyme, Rosemary)",
+      "amount": "handful"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": 1
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 200
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the chicken stock cubes with 2 liters of water and bring to a boil.",
+    "Add herbs (thyme, rosemary), saffron threads, salt, pepper, and lemon zest. Reduce heat and simmer for 10 minutes.",
+    "Slice the egg noodles into small pieces and add them to the pot along with the stock mixture. Cook for an additional 5-7 minutes or until tender.",
+    "Remove from heat and allow to cool slightly before serving hot.",
+    "For a crispy texture, preheat your air fryer or oven to 180°C/350°F. Drain the noodles and toss them with vegetable oil.",
+    "Place the noodle mixture on the tray in an evenly distributed layer and bake for 20 minutes at 160°C/320°F or until golden brown."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive-australian-dish",
+    "herbaceous",
+    "oozy",
+    "puffed-noodles",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "oozy-herbaceous-puffed-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-herbaceous-puffed-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T15:43:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "egg noodles",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Herbaceous",
+    "mainIngredient": "Egg",
+    "descriptor": "Puffed",
+    "dishForm": "Noodles"
+  }
+}
