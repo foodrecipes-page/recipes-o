@@ -1,0 +1,97 @@
+{
+  "title": "Oozy Smoky Roasted Ceviche Avocado Skewers",
+  "description": "Buttery, crispy Croatian dish featuring chopped chive and roasted avocados, perfect for a date night.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": 2
+    },
+    {
+      "name": "date palm",
+      "amount": 6,
+      "notes": "pitted and sliced into small pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": 3,
+      "notes": "chopped finely"
+    },
+    {
+      "name": "cilantro",
+      "amount": 20,
+      "notes": "minced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4,
+      "notes": "minced with some of the cilantro"
+    },
+    {
+      "name": "lime juice",
+      "amount": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat coconut oil over medium-high heat.",
+    "Add butter and smoked paprika; stir until fragrant.",
+    "Gently fold in the lime juice, cilantro, garlic, onion, and chive.",
+    "Fold in avocados gently to avoid bruising.",
+    "Season with salt and pepper.",
+    "Place skewers of avocado on a preheated Dutch oven griddle at 200 degrees Celsius for 5 minutes each side or until golden brown.",
+    "Arrange skewers on a serving platter.",
+    "Dust with smoked paprika before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "savory",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "oozy-smoky-roasted-ceviche-avocado-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-smoky-roasted-ceviche-avocado-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:57:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chopped chive",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ceviche",
+    "mainIngredient": "Avocado",
+    "descriptor": "Oozy Smoky Roasted",
+    "dishForm": "Skewers"
+  }
+}
