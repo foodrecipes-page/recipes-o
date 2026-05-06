@@ -1,0 +1,115 @@
+{
+  "title": "Oven-Roasted Crispy Mediterranean Chicken Breasts Skewers",
+  "description": "Crispy on the outside, juicy on the inside, these Mediterranean inspired chicken skewers are perfect for a quick weeknight dinner. Made with a hint of lemon and herbs, they are sure to transport you to the Mediterranean coast.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Wood chips for robata grill",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "Thread 4-6 pieces of chicken onto each skewer, leaving a little space between each piece.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic powder, dried oregano, salt, black pepper, and red pepper flakes.",
+    "Brush the skewers with the olive oil mixture and place on the preheated grill.",
+    "Cook for 12-15 minutes, or until the chicken is cooked through and slightly charred.",
+    "Transfer the skewers to a baking sheet and sprinkle with wood chips.",
+    "Roast in a 400°F oven for an additional 5-7 minutes, or until crispy.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 16
+  },
+  "slug": "oven-roasted-crispy-mediterranean-chicken-breasts-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-crispy-mediterranean-chicken-breasts-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:03Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "chicken breasts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "Oven-Roasted Crispy",
+    "dishForm": "Skewers"
+  }
+}
