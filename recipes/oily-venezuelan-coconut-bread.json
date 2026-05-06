@@ -1,0 +1,124 @@
+{
+  "title": "Oily Venezuelan Coconut Bread",
+  "description": "A unique, ovo-vegetarian-friendly bread that balances bitterness with a rich coconut flavor, originating from the monsoon climate of Venezuela.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Coco sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "Use an unbleached, low-protein flour for best results."
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons",
+      "notes": "Make sure the baking powder is fresh for optimal leavening."
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "Crack the eggs into a separate bowl before adding them to the dry ingredients."
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Full-fat coconut milk",
+      "amount": "1/4 cup",
+      "notes": "Use the thick coconut cream from the top of the can for the best flavor."
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality yeast for a lighter crumb."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a flaky sea salt for the best flavor."
+    },
+    {
+      "name": "Grapeseed oil",
+      "amount": "1/4 cup",
+      "notes": "Use a neutral-tasting oil to avoid overpowering the coconut flavor."
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/2 cup",
+      "notes": "Toast the shredded coconut in a dry pan over medium heat for 5-7 minutes to deepen the flavor."
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tablespoon",
+      "notes": "Grate the orange zest over the bread before baking for a burst of citrus flavor."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine coco sugar, flour, baking powder, and salt in a large mixing bowl, whisking to incorporate.",
+    "In a separate bowl, whisk together melted butter, coconut milk, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined, being careful not to overmix.",
+    "Add the yeast and mix for an additional 10 seconds.",
+    "Add the grapeseed oil and mix for another minute.",
+    "Add the shredded coconut and orange zest and mix to distribute evenly.",
+    "Knead the dough for 10-12 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a lightly greased bowl, cover it with plastic wrap, and let it rest in a warm place for 1 hour, until it has doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper, cover it with plastic wrap, and let it rest for 30 minutes.",
+    "Bake the bread for 35-40 minutes, until it is golden brown and sounds hollow when tapped on the bottom.",
+    "Let the bread cool on a wire rack for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 35,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-bread",
+    "easy-to-make",
+    "gluten-friendly",
+    "high-carb",
+    "homemade-bread",
+    "oat-free",
+    "venezuelan-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 18
+  },
+  "slug": "oily-venezuelan-coconut-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-venezuelan-coconut-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "coco sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "coconut",
+    "descriptor": "oily",
+    "dishForm": "Bread"
+  }
+}
