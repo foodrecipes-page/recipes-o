@@ -1,0 +1,121 @@
+{
+  "title": "oily green British lentils Dal",
+  "description": "a traditional British-inspired lentil curry made with green lentils, aromatic spices, and a rich tadka. this comforting dish is perfect for a sick day or a cozy night in.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "red or brown lentils can also be used, but green lentils will yield the best results."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "you can use fresh or dried ginger."
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "you can use any neutral-tasting oil or ghee."
+    },
+    {
+      "name": "mustard oil",
+      "amount": "1 tsp",
+      "notes": "optional, but recommended for the authentic flavor."
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "you can use vegetable or chicken broth if you prefer."
+    }
+  ],
+  "instructions": [
+    "heat 1 tsp of ghee or oil in a large pan over medium heat.",
+    "add the cumin seeds and let them sizzle for a few seconds.",
+    "add the onion and saut\u00022 the until it's translucent and beginning to brown.",
+    "add the ginger and saut\u00022 for 1 minute, until fragrant.",
+    "add the cumin, coriander, turmeric, and chili powder, and saut\u00022 for 1 minute, until the spices are fragrant.",
+    "add the lentils, water, and salt, and bring the mixture to a boil.",
+    "reduce the heat to low and let the dal simmer for 20-25 minutes, or until the lentils are tender.",
+    "while the dal is cooking, prepare the tadka by heating the remaining 1 tsp of ghee or oil in a small pan over medium heat.",
+    "add the mustard oil and let it heat for a few seconds.",
+    "add the tadka to the dal and stir well to combine.",
+    "serve the dal hot, garnished with chopped fresh cilantro if desired.",
+    "taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oily-green-british-lentils-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-green-british-lentils-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "tadka",
+    "primaryIngredient": "green red lentils",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lentils",
+    "descriptor": "oily green",
+    "dishForm": "Dal"
+  }
+}
