@@ -1,0 +1,109 @@
+{
+  "title": "Oven-Roasted Spanish Potatoes Patatas Bravas",
+  "description": "A traditional Spanish tapas dish featuring crispy roasted potatoes and a spicy tomato sauce. Serve with crusty bread for a satisfying snack or side dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "low-glycemic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Choose high-starch potatoes like Russet or Idaho."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ciabatta bread",
+      "amount": "1 loaf",
+      "notes": "For serving."
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded. Optional."
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel and cut the potatoes into 1-inch wedges.",
+    "Place the potato wedges in a bowl and drizzle with olive oil, tossing to coat.",
+    "Sprinkle the potatoes with garlic, smoked paprika, salt, and black pepper, tossing to combine.",
+    "Line a baking sheet with parchment paper and arrange the potatoes in a single layer.",
+    "Roast the potatoes in the preheated oven for 20-25 minutes, or until crispy on the outside and tender on the inside.",
+    "Meanwhile, warm the tomato sauce in a saucepan over low heat.",
+    "To assemble the Patatas Bravas, place a portion of the roasted potatoes on a plate or in a bowl, followed by a spoonful of the warmed tomato sauce and a sprinkle of Manchego cheese and sliced red onion if using.",
+    "Serve immediately with crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "spanish",
+    "tapas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-roasted-spanish-potatoes-patatas-bravas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spanish-potatoes-patatas-bravas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ciabatta",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Patatas Bravas"
+  }
+}

@@ -4651,6 +4651,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-silky-filipino-tofu-kare-kare",
+    "title": "Oven-Roasted Silky Filipino Tofu Kare-Kare",
+    "tags": [
+      "comfort-food",
+      "filipino",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-slovakian-beef-burger",
     "title": "Slovakian Beef Burger",
     "tags": [
@@ -4805,6 +4821,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-spanish-potatoes-patatas-bravas",
+    "title": "Oven-Roasted Spanish Potatoes Patatas Bravas",
+    "tags": [
+      "low-carb",
+      "one-pan",
+      "spanish",
+      "tapas",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-spicy-venezuelan-skewers-kebabs",
     "title": "Oven-Roasted Spicy Venezuelan Skewers Kebabs",
     "tags": [
@@ -4847,6 +4877,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-thai-scallions-pad-see-ew",
+    "title": "Oven-Roasted Thai Scallions Pad See Ew",
+    "tags": [
+      "dairy-free",
+      "high-fiber",
+      "one-pan",
+      "thai",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Oven-Roasted Thai Scallions Pad See Ew",
+  "description": "A dairy-free-friendly twist on the classic Pad See Ew recipe, featuring oven-roasted Thai scallions for a jammy and shattering texture.",
+  "cuisine": "thai",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai scallions",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Donabe",
+      "amount": "1",
+      "notes": "used for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented soybean paste (nam pla)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the Thai scallions into 1-inch pieces and toss with olive oil, salt, and black pepper in a bowl.",
+    "Spread the scallion mixture on a baking sheet and roast in the oven for 20 minutes, or until caramelized and jammy.",
+    "While the scallions are roasting, heat the fermented soybean paste and brown sugar in a saucepan over medium heat, stirring constantly.",
+    "Add the sliced garlic to the saucepan and cook for 1 minute, or until fragrant.",
+    "Add the cooked rice to the saucepan and stir to combine with the soybean paste mixture.",
+    "Once the scallions are done roasting, add them to the rice mixture and stir to combine.",
+    "Transfer the rice and scallion mixture to the donabe and top with chopped cilantro.",
+    "Serve the dish hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-fiber",
+    "one-pan",
+    "thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "oven-roasted-thai-scallions-pad-see-ew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-thai-scallions-pad-see-ew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "scallions",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "scallions",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Pad See Ew"
+  }
+}
