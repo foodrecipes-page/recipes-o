@@ -1,0 +1,83 @@
+{
+  "title": "OZenful Thai Lime Skillet",
+  "description": "A citrusy and crisp post-workout Thai dish featuring genmaicha and cooked in a cast-iron skillet without onion or garlic for a no-onion-no-garlic-friendly meal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lime",
+      "amount": "2"
+    },
+    {
+      "name": "genmaicha tea leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "6 oz"
+    },
+    {
+      "name": "green onions (optional)",
+      "amount": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a cast-iron skillet over medium-high heat.",
+    "Add chicken breast and cook until golden brown, about 5 minutes per side. Remove from pan and set aside.",
+    "In the same pan, add lime juice and genmaicha tea leaves, stir to combine, cooking for about 2 minutes or until fragrant.",
+    "Return chicken to skillet with sauce, mix well and simmer for an additional minute or two to allow flavors to meld together.",
+    "Stir in fish sauce, rice vinegar, and sugar. Cook for another minute.",
+    "Serve hot with steamed vegetables if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cast-iron-skillet",
+    "citrusy",
+    "crisp",
+    "genmaicha",
+    "no-onion-no-garlic",
+    "post-workout",
+    "thai-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "o-zenful-thai-lime-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/o-zenful-thai-lime-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:43:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "genmaicha",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lime",
+    "descriptor": "oZenful",
+    "dishForm": "Skillet"
+  }
+}
