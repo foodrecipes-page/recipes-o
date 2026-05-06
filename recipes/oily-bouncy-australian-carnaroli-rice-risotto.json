@@ -1,0 +1,103 @@
+{
+  "title": "oily-bouncy-australian-carnaroli-rice-risotto",
+  "description": "pungent, bouncy-qq, sick-day australian dish featuring carnaroli-rice, reduce, raw-friendly",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carnaroli rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "chicken fat",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "10g",
+      "notes": "rehydrated and sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "600ml",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "20g",
+      "notes": "grated"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "10ml",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "20ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat chicken fat in a large saucepan over medium heat.",
+    "cook garlic and ginger until fragrant, about 1 minute.",
+    "add rehydrated kombu seaweed and cook for 2 minutes.",
+    "add carnaroli rice and cook for 2 minutes, stirring constantly.",
+    "add water and bring to a boil.",
+    "reduce heat to low and simmer, covered, for 15 minutes, stirring occasionally.",
+    "add lemon juice, rice vinegar, and soy sauce, and stir to combine.",
+    "season with salt to taste, if needed"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "bouncy-qq",
+    "oily-rice",
+    "pungent-flavor",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "oily-bouncy-australian-carnaroli-rice-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-bouncy-australian-carnaroli-rice-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "carnaroli-rice",
+    "descriptor": "oily-bouncy",
+    "dishForm": "risotto"
+  }
+}

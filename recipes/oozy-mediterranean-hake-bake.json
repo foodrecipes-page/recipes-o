@@ -1,0 +1,106 @@
+{
+  "title": "Oozy Mediterranean Hake Bake",
+  "description": "A rich and satisfying weeknight dish featuring hake, boiled potatoes, and gooey feta cheese.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Boiling potatoes",
+      "amount": "2",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\b6c (190\u000e5f).",
+    "Line a baking dish with parchment paper.",
+    "Place the sliced potatoes in the baking dish and drizzle with 1 tablespoon of olive oil, sprinkle with salt and pepper, and toss to coat.",
+    "In a separate bowl, mix together lemon juice, minced garlic, and dried oregano.",
+    "Place the hake fillets on top of the potatoes, brush with the remaining 1 tablespoon of olive oil, and sprinkle with salt and pepper.",
+    "Pour the lemon-garlic mixture over the hake fillets.",
+    "Top with crumbled feta cheese.",
+    "Bake for 20 minutes, then remove from the oven and sprinkle with chopped parsley.",
+    "Return to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "oozy-mediterranean-hake-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-mediterranean-hake-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "hake",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "hake",
+    "descriptor": "oozy",
+    "dishForm": "bake"
+  }
+}

@@ -331,6 +331,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-bouncy-australian-carnaroli-rice-risotto",
+    "title": "oily-bouncy-australian-carnaroli-rice-risotto",
+    "tags": [
+      "australian-cuisine",
+      "bouncy-qq",
+      "oily-rice",
+      "pungent-flavor",
+      "raw-friendly"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oily-brazilian-herbal-juicy-tart",
     "title": "Brazilian Herbal Tart",
     "tags": [
@@ -1907,6 +1921,18 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-mediterranean-hake-bake",
+    "title": "Oozy Mediterranean Hake Bake",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
