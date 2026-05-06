@@ -2755,6 +2755,19 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-egyptian-cheese-tagine",
+    "title": "Oven-Baked Egyptian Cheese Tagine",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-greek-lamb-kebabs",
     "title": "Oven Baked Greek Lamb Kebabs",
     "tags": [

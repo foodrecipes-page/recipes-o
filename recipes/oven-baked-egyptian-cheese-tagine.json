@@ -1,0 +1,107 @@
+{
+  "title": "Oven-Baked Egyptian Cheese Tagine",
+  "description": "A savory, dense, and quick-fix Egyptian dish featuring shredded Mexican cheese, brine-wet, and high-protein-friendly. Perfect for a weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shredded Mexican cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "14.5 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Add the olive oil to the ceramic tagine and sauté the chopped onion and minced garlic until softened.",
+    "Add the paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the diced tomatoes, beef broth, and shredded cheese, and stir to combine.",
+    "Add the fenugreek leaves and stir to combine.",
+    "Cover the tagine with its lid and bake for 25 minutes.",
+    "Remove the lid and bake for an additional 5-10 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "oven-baked-egyptian-cheese-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-egyptian-cheese-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "brine-wet",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Oven-Baked",
+    "dishForm": "Tagine"
+  }
+}
