@@ -1,0 +1,127 @@
+{
+  "title": "Oily Crunchy German Buttersbatterkuchen",
+  "description": "Moist buttersbatterkuchen with crunchy, golden-brown topping and a hint of vanilla. Perfect for a special occasion or to impress your guests.",
+  "cuisine": "german",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coarse salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": "for topping"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "for topping"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease two 9-inch (23cm) round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together flour, sugar, and salt.",
+    "In a large bowl, using an electric mixer, beat the butter until creamy, about 2 minutes.",
+    "Add eggs one at a time, beating well after each addition.",
+    "Beat in vanilla extract.",
+    "With the mixer on low speed, gradually add the flour mixture to the butter mixture in three parts, alternating with the yogurt, beginning and ending with the flour mixture.",
+    "Beat just until combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 25-30 minutes or until a toothpick inserted in the center comes out clean.",
+    "Transfer the cakes to a wire rack to cool in the pans for 5 minutes.",
+    "Remove the cakes from the pans and transfer them to the wire rack to cool completely.",
+    "For the topping, melt the butter in a small saucepan over medium heat.",
+    "Add sugar and cook, stirring constantly, until the sugar dissolves and the mixture is caramelized, about 5 minutes.",
+    "Remove from heat and stir in ground almonds.",
+    "Drizzle the topping over the cooled cakes and sprinkle with confectioners sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "desert",
+    "german",
+    "one-pan",
+    "vanilla",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 6,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "oily-crunchy-german-butters-batter-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-crunchy-german-butters-batter-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "vanilla",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "butters",
+    "descriptor": "oily crunchy",
+    "dishForm": "Batter-Cake"
+  }
+}
