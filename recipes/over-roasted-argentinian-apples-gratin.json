@@ -1,0 +1,99 @@
+{
+  "title": "Over-Roasted Argentinian Apples Gratin",
+  "description": "A savory, crunchy, and comforting dish from Argentina, perfect for a sick day. This gratin is made with Braeburn apples and rendered fat.",
+  "cuisine": "argentinian",
+  "diet": [
+    null,
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Rendered pork fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot over medium-high heat.",
+    "Add the rendered pork fat and olive oil to the fondue pot.",
+    "Add the sliced apples and cook until they start to soften, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the fresh rosemary sprigs and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the apple mixture to a baking dish and top with grated Parmesan cheese.",
+    "Transfer the fondue pot to the oven and roast at 425°F for 25-30 minutes, or until the cheese is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "sick-day",
+    "vegan-optional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "over-roasted-argentinian-apples-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/over-roasted-argentinian-apples-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "render-fat",
+    "primaryIngredient": "braeburn apples",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "apples",
+    "descriptor": "over-roasted",
+    "dishForm": "gratin"
+  }
+}
