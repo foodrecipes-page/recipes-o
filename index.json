@@ -1644,6 +1644,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-algerian-chicken-tagine",
+    "title": "Oozy Algerian Chicken Tagine",
+    "tags": [
+      "algerian",
+      "chicken",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-argentinian-egg-frittata",
     "title": "Oozy Argentinian Egg Frittata",
     "tags": [

@@ -1,0 +1,96 @@
+{
+  "title": "Oozy Algerian Chicken Tagine",
+  "description": "Mustardy, rich, and creamy Algerian chicken tagine featuring fermented ginger and low-sodium ingredients. Perfect for a solo dinner.",
+  "cuisine": "algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "fermented"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1 tablespoon",
+      "notes": "spicy"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the fermented ginger paste and yellow mustard, cook for 1 minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the coconut cream and 1 cup of water to the tagine. Bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with salt to taste, then garnish with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "oozy-algerian-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-algerian-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:09:51Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "ferment-jang",
+    "primaryIngredient": "coconut cream",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Oozy",
+    "dishForm": "Tagine"
+  }
+}
