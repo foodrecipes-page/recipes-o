@@ -1,0 +1,87 @@
+{
+  "title": "Oozing Oily Ayurvedic Chicken Liver",
+  "description": "A herbal, gooey dish featuring chicken liver, perfect for a monsoon meal and served in a copper mug.",
+  "cuisine": "Indian",
+  "diet": [
+    "herbal",
+    "rajasic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken livers",
+      "amount": 4
+    },
+    {
+      "name": "ginger",
+      "amount": "1"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 tsps"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a copper mug.",
+    "Mix all spices and ginger into the livers.",
+    "Season with salt to taste.",
+    "Cook over medium heat for 10 minutes, turning occasionally.",
+    "Transfer to a serving dish.",
+    "Drizzle extra ghee or coconut oil for a glossy finish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "guava-juice-fusion",
+    "herbal-dish",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "oozing-oily-ayurvedic-chicken-liver",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-oily-ayurvedic-chicken-liver",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T09:37:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "chicken liver",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ayurvedic",
+    "mainIngredient": "Chicken Liver",
+    "descriptor": "Oozy",
+    "dishForm": "Gooey Polypore"
+  }
+}
