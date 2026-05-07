@@ -1,0 +1,97 @@
+{
+  "title": "Oozie Wilted Menemen Eggplant Omelette",
+  "description": "A winey, tender, energizing Turkish dish featuring Cajun spices and a vegetarian-friendly ovo-vegetarian combination. Perfect for breakfast.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": 1
+    },
+    {
+      "name": "Onion",
+      "amount": 1
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": 2
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "5"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": ""
+    },
+    {
+      "name": "Cajun Seasoning Mix",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Peel and dice the eggplant into small cubes.",
+    "Finely chop the onion and mince the garlic cloves.",
+    "Mix the diced eggplant with red wine vinegar, olive oil, salt, black pepper, and Cajun seasoning mix in a bowl.",
+    "Heat the pan, add olive oil, then sauté the onion until translucent.",
+    "Add minced garlic to the pan, stir for 30 seconds, then incorporate the eggplant mixture.",
+    "Sauté all ingredients together until the eggplant is tender and most of the liquid has evaporated.",
+    "Transfer the cooked mixture into a hot skillet, top with fresh thyme sprigs.",
+    "Fold the omelette gently to create an even menemen texture and allow it to cook for another 30 seconds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cajunseasoned",
+    "energizingmenemen",
+    "ovemenemen",
+    "ozoneplant",
+    "turkishdinner",
+    "vegetarian",
+    "wineymenemen"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "oozie-wilted-menemen-eggplant-omelette",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozie-wilted-menemen-eggplant-omelette",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T23:18:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "cajun",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Oozy Wilted",
+    "dishForm": "Menemen Eggplant Omelette"
+  }
+}
