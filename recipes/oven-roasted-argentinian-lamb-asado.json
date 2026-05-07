@@ -1,0 +1,146 @@
+{
+  "title": "Oven-Roasted Argentinian Lamb Asado",
+  "description": "A rich, flavorful, and aromatic one-pan dish originating from Argentina, featuring tender lamb, crispy skin, and a creamy side of creme patissiere.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Creme Patissiere",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large bowl, combine the lamb shoulder, red onion, red bell pepper, red chili pepper, smoked paprika, garlic powder, salt, and black pepper. Toss to coat evenly.",
+    "Transfer the bowl contents to a large Dutch oven or oven-safe skillet, and drizzle with olive oil. ",
+    "Roast for 3 hours, or until the lamb is tender and the skin is crispy.",
+    "While the lamb is roasting, prepare the creme patissiere. In a medium saucepan, combine the milk, heavy cream, eggs, cinnamon, and nutmeg. Whisk until smooth, then cook over medium heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Remove the Dutch oven from the oven, and carefully transfer the lamb to a cutting board. Strain the cooking liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Bring the cooking liquid to a simmer over medium heat, and cook until reduced by half. Stir in the flour to thicken the sauce.",
+    "Return the lamb to the Dutch oven, and spoon some of the cooking sauce over the top. ",
+    "Reheat the creme patissiere in the microwave or on the stovetop, and serve alongside the lamb.",
+    "Garnish with fresh herbs, if desired.",
+    "Let the dish rest for 15 minutes before slicing and serving.",
+    "Reheat any leftovers in the oven with a bit of additional butter and creme patissiere, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 360,
+  "totalTimeMin": 405,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "asado",
+    "comfort-food",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 2500,
+    "protein": 200,
+    "carbs": 100,
+    "fat": 150
+  },
+  "slug": "oven-roasted-argentinian-lamb-asado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-argentinian-lamb-asado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Asado"
+  }
+}

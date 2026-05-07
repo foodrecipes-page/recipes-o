@@ -1156,6 +1156,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-blood-filipino-pork-dinuguan",
+    "title": "Oozing Blood Filipino Pork Dinuguan",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "comfort-food",
+      "filipino",
+      "pork-based"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-brass-greek-rice-curry",
     "title": "Oozing Brass Greek Rice Curry",
     "tags": [
@@ -3451,6 +3465,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-argentinian-lamb-asado",
+    "title": "Oven-Roasted Argentinian Lamb Asado",
+    "tags": [
+      "argentinian",
+      "asado",
+      "comfort-food",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "slow-cooked"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 405,
     "shard": "o"
   },
   {

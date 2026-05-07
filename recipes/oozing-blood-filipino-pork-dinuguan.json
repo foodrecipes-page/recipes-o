@@ -1,0 +1,113 @@
+{
+  "title": "Oozing Blood Filipino Pork Dinuguan",
+  "description": "A classic Filipino dish made with pork blood, pork belly, and spices, served in a lacquerware bowl. Perfect for a weekend brunch.",
+  "cuisine": "Filipino",
+  "diet": [
+    "beef-free",
+    "pork-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pork blood",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "patis",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2-3",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine pork belly and pork blood in a large pot and cook over medium heat until the blood has thickened and the mixture is hot.",
+    "Add onions, garlic, bay leaves, black pepper, vinegar, patis, and salt to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add chili peppers, if using, and simmer for an additional 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Simmer the dinuguan for an additional 5 minutes to allow the flavors to meld together.",
+    "Serve the dinuguan hot in a lacquerware bowl and garnish with chopped onions and chili peppers, if desired.",
+    "Reheat leftovers over low heat, stirring occasionally, until hot and bubbly.",
+    "Serve leftovers with steamed rice or with eggs, for a filling breakfast.",
+    "This dinuguan recipe is a classic Filipino dish that is sure to become a favorite.",
+    "It's also a great way to use up leftover pork blood and belly.",
+    "Serve it for a special occasion or as a comfort food.",
+    "This dish is best served fresh, as it will thicken significantly as it cools."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "filipino",
+    "pork-based"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "oozing-blood-filipino-pork-dinuguan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-blood-filipino-pork-dinuguan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:03Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "cold water",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Oozing Blood",
+    "dishForm": "Dinuguan"
+  }
+}
