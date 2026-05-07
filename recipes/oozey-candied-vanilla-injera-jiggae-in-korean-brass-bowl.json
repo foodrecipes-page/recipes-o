@@ -1,0 +1,76 @@
+{
+  "title": "Oozey Candied Vanilla Injera Jiggae in Korean Brass Bowl",
+  "description": "This resinous and molten vegan dish combines vanilla custard with candy for a hangover-cure Ethiopian treat served in a brass bowl, suitable for the buddhist-temple-friendly community.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla custard",
+      "amount": 1
+    },
+    {
+      "name": "edible vanilla candy",
+      "amount": 250,
+      "notes": "small pieces"
+    },
+    {
+      "name": "cooking oil",
+      "amount": 50
+    },
+    {
+      "name": "almond meal",
+      "amount": 100
+    },
+    {
+      "name": "vanilla bean",
+      "amount": "one"
+    }
+  ],
+  "instructions": [
+    "Preheat your brass bowl to medium heat.",
+    "Add almond meal and cooking oil, stirring until the mixture becomes a thin paste.",
+    "Fold in vanilla custard and edible vanilla candy.",
+    "Stir well, then add one whole vanilla bean.",
+    "Continue to cook over low-medium heat for 10 minutes until it reaches the desired consistency.",
+    "Remove from heat and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "korean-brass-bowl",
+    "molten",
+    "resinous",
+    "vanilla-injera"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 29,
+    "fat": 3
+  },
+  "slug": "oozey-candied-vanilla-injera-jiggae-in-korean-brass-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozey-candied-vanilla-injera-jiggae-in-korean-brass-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:26:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "vanilla custard",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Vanilla",
+    "descriptor": "Oozey Candied",
+    "dishForm": "Oozy Injera Jiggae in Korean Brass Bowl"
+  }
+}
