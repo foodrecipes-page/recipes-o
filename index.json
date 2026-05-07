@@ -1693,6 +1693,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-chinese-garlic-congee",
+    "title": "Oozy Chinese Garlic Congee",
+    "tags": [
+      "flakycongee",
+      "garlicpowder",
+      "quickmeal",
+      "vegetarian",
+      "weeknightdish"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-crisp-hunan-spinach-bao",
     "title": "Oozy Crisp Hunan Spinach Bao",
     "tags": [

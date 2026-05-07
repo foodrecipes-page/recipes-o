@@ -1,0 +1,68 @@
+{
+  "title": "Oozy Chinese Garlic Congee",
+  "description": "A delicious and quick vegetarian-friendly congee with a hint of garlic that's perfect for a weeknight meal.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "congee base",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Add congee base to a pot and pour in the water or vegetable broth.",
+    "Whisk together the garlic powder with salt until well combined.",
+    "Gradually stir the garlic mixture into the congee while it's cooking on medium heat.",
+    "Stir continuously for about 10 minutes, or until desired consistency is reached.",
+    "Serve hot as breakfast porridge."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flakycongee",
+    "garlicpowder",
+    "quickmeal",
+    "vegetarian",
+    "weeknightdish"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "oozy-chinese-garlic-congee",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-chinese-garlic-congee",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:28:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "garlic powder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Oozy",
+    "dishForm": "Congee"
+  }
+}
