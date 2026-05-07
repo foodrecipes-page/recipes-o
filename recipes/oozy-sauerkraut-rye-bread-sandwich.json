@@ -1,0 +1,81 @@
+{
+  "title": "Oozy Sauerkraut Rye Bread Sandwich",
+  "description": "A tangy and cheese-pull inducing Syrian dish featuring vegan-friendly rye bread with ferment-kimchi, perfect for sick-day comfort food.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegan cheddar cheese",
+      "amount": 30
+    },
+    {
+      "name": "sauerkraut (fermented cabbage)",
+      "amount": 150
+    },
+    {
+      "name": "rye bread",
+      "amount": 2
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 20
+    },
+    {
+      "name": "oregano",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": 1
+    },
+    {
+      "name": "pepper",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Slice the rye bread and cheese thinly.",
+    "Add sauerkraut to sandwich halves, top with sesame seeds.",
+    "Season with salt and pepper. Garnish with oregano if desired.",
+    "Serve immediately as a quick snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kimchi",
+    "rye-bread",
+    "sauerkraut",
+    "sick-day",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "oozy-sauerkraut-rye-bread-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-sauerkraut-rye-bread-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:48:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "rye bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Sauerkraut",
+    "mainIngredient": "Rye Bread",
+    "descriptor": "Oozy",
+    "dishForm": "Sandwich"
+  }
+}

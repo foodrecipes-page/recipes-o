@@ -2123,6 +2123,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-sauerkraut-rye-bread-sandwich",
+    "title": "Oozy Sauerkraut Rye Bread Sandwich",
+    "tags": [
+      "comfort-food",
+      "kimchi",
+      "rye-bread",
+      "sauerkraut",
+      "sick-day",
+      "syrian",
+      "vegan"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 10,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-savory-cucumber-salad",
     "title": "Oozy Savory Cucumber Salad",
     "tags": [
