@@ -360,6 +360,22 @@
     "shard": "o"
   },
   {
+    "slug": "oily-brazilian-almonds-bake",
+    "title": "oily brazilian almonds bake",
+    "tags": [
+      "brazilian",
+      "dessert",
+      "egg-free",
+      "gluten-free",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oily-brazilian-herbal-juicy-tart",
     "title": "Brazilian Herbal Tart",
     "tags": [
@@ -721,6 +737,21 @@
       "weeknight"
     ],
     "cuisine": "australian",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-tender-indian-katsuobushi-paratha",
+    "title": "Oily Tender Indian Katsuobushi Paratha",
+    "tags": [
+      "breakfast-option",
+      "easy-to-eat",
+      "easy-to-make",
+      "high-protein",
+      "indian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 50,
     "shard": "o"
   },
@@ -5600,6 +5631,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "overnight-steamed-malaysian-peas-curry",
+    "title": "overnight steamed malaysian peas curry",
+    "tags": [
+      "crunchy",
+      "lazy-sunday",
+      "macrobiotic-friendly",
+      "one-pan",
+      "sour"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {

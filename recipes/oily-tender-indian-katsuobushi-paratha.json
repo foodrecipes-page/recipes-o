@@ -1,0 +1,122 @@
+{
+  "title": "Oily Tender Indian Katsuobushi Paratha",
+  "description": "A briny, tender, and indulgent Indian dish featuring katsuobushi, sashimi-cut and ayurvedic-sattvic-friendly, wrapped in a form of paratha.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Katsuobushi",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Kalonji oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh ginger paste",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix 2 cups whole wheat flour and 1 cup water to make the dough for paratha.",
+    "Knead the dough for 5 minutes and cover it with a damp cloth.",
+    "Divide the dough into 4 equal portions.",
+    "Roll out each portion into a thin circle.",
+    "Brush each paratha with 1/2 tsp ghee, 1/2 tsp kalonji oil, and a pinch of turmeric powder.",
+    "Heat a non-stick pan over medium heat and cook each paratha for 1-2 minutes on each side.",
+    "While cooking the parathas, mix 1 tsp salt, 1/2 tsp red chili powder, 1 tsp garam masala powder, and 1 tsp lemon juice.",
+    "Once the parathas are cooked, brush them with the spice mixture and sprinkle with chopped cilantro.",
+    "In a separate pan, toast the katsuobushi over low heat until it's lightly browned and fragrant.",
+    "Once the katsuobushi is toasted, chop it into sashimi-cut pieces.",
+    "To assemble the dish, place a portion of the toasted katsuobushi in the center of each paratha, followed by a dollop of fresh ginger paste.",
+    "Fold the paratha in half and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-option",
+    "easy-to-eat",
+    "easy-to-make",
+    "high-protein",
+    "indian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 80,
+    "fat": 60
+  },
+  "slug": "oily-tender-indian-katsuobushi-paratha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-tender-indian-katsuobushi-paratha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "katsuobushi",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "oily tender",
+    "dishForm": "Paratha"
+  }
+}

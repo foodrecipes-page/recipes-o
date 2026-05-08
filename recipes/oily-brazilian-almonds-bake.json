@@ -1,0 +1,122 @@
+{
+  "title": "oily brazilian almonds bake",
+  "description": "A buttery, creamy, and adventurous Brazilian dish featuring almond paste, bake, and egg-free-friendly ingredients.",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line a 9x9-inch baking dish with parchment paper.",
+    "In a large bowl, cream together almond paste, butter, and honey until smooth.",
+    "Add ground almonds, vanilla extract, baking powder, and salt. Mix until well combined.",
+    "Pour in coconut oil and mix until a dough forms.",
+    "Roll out the dough between two sheets of parchment paper to a thickness of 1/4 inch.",
+    "Transfer the dough to the prepared baking dish and smooth the top.",
+    "Bake for 25-30 minutes or until the edges are golden brown.",
+    "Remove from the oven and sprinkle with chopped pecans, confectioners' sugar, and coconut flakes.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "dessert",
+    "egg-free",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 6,
+    "carbs": 42,
+    "fat": 38
+  },
+  "slug": "oily-brazilian-almonds-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-brazilian-almonds-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "almond paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "almonds",
+    "descriptor": "oily",
+    "dishForm": "Bake"
+  }
+}

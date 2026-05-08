@@ -1,0 +1,102 @@
+{
+  "title": "overnight steamed malaysian peas curry",
+  "description": "sour and crunchy lazy sunday malaysian dish featuring peas and beurre monte, macrobiotic friendly.",
+  "cuisine": "malaysian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "green peas",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "30g"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "5ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "ginger",
+      "amount": "10g",
+      "notes": "grated"
+    },
+    {
+      "name": "chili",
+      "amount": "10g"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1g"
+    },
+    {
+      "name": "cumin",
+      "amount": "1g"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "combine coconut milk, beurre monte, fish sauce, lime juice, ginger, chili, turmeric, cumin, and salt in a fondue pot.",
+    "add green peas and water to the fondue pot.",
+    "stir well and cover the fondue pot with a lid.",
+    "put the fondue pot in the refrigerator overnight.",
+    "in the morning, steam the peas over boiling water for 5 minutes or until they are tender.",
+    "serve hot, garnished with fresh cilantro if desired.",
+    "serve with steamed rice or roti for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "lazy-sunday",
+    "macrobiotic-friendly",
+    "one-pan",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "overnight-steamed-malaysian-peas-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/overnight-steamed-malaysian-peas-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:53:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "beurre-monte",
+    "primaryIngredient": "peas",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "peas",
+    "descriptor": "Overnight Steamed",
+    "dishForm": "Curry"
+  }
+}
