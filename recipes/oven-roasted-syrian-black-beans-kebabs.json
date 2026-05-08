@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Syrian Black Beans Kebabs",
+  "description": "A smoky and crispy Syrian dish featuring fermented black beans, perfect for a date night, with an ayurvedic-sattvic friendly twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, pomegranate molasses, sumac, cumin, smoked paprika, salt, and black pepper.",
+    "Add the fermented black beans to the bowl and toss to coat with the marinade.",
+    "Thread the marinated black beans onto the soaked wooden skewers, leaving a small space between each bean.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the oven for 20-25 minutes, or until crispy and caramelized.",
+    "Flip the skewers halfway through the cooking time to ensure even cooking.",
+    "Remove the skewers from the oven and garnish with chopped fresh parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "date-night",
+    "gluten-free",
+    "middle-eastern",
+    "syrian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oven-roasted-syrian-black-beans-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-syrian-black-beans-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "fermented black beans",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "black beans",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kebabs"
+  }
+}
