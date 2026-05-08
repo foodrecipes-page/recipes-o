@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Japanese Sloe Berries Wrap",
+  "description": "A smoky and velvety Japanese dish featuring sloe berries and ssam wrap, perfect for a lazy Sunday, and dairy-free friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4 sheets",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together sesame oil, rice vinegar, smoked paprika, salt, and black pepper.",
+    "Add the sloe berries to the bowl and toss to coat with the marinade.",
+    "Spread the sloe berries on a baking sheet and roast in the oven for 20 minutes.",
+    "While the sloe berries are roasting, toast the ssam wrap sheets by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by placing a few roasted sloe berries on a toasted ssam wrap sheet and sprinkling with toasted sesame seeds if desired.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "easy-lunch",
+    "japanese-cuisine",
+    "lazy-sunday",
+    "smoky",
+    "vegan",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "oven-roasted-japanese-sloe-berries-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-japanese-sloe-berries-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:25:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sloe-berries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sloe berries",
+    "descriptor": "Oven roasted",
+    "dishForm": "Wrap"
+  }
+}
