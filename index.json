@@ -2986,6 +2986,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-sour-chinese-shrimp-yangzhou-fried-rice",
+    "title": "Oozy Sour Chinese Shrimp Yangzhou Fried Rice",
+    "tags": [
+      "chinese-food",
+      "gluten-free",
+      "one-pan",
+      "shellfish",
+      "sous-vide"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-spicy-crispy-ackee-pancakes",
     "title": "Oozy Spicy Crispy Ackee Pancakes",
     "tags": [
@@ -4324,6 +4338,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-braised-filipino-beets-leche-flan",
+    "title": "Oven Braised Filipino Beets Leche Flan",
+    "tags": [
+      "braised",
+      "filipino",
+      "high-protein",
+      "leche-flan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {

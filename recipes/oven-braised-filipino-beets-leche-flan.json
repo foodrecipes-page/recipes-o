@@ -1,0 +1,96 @@
+{
+  "title": "Oven Braised Filipino Beets Leche Flan",
+  "description": "A pungent and flaky Filipino dish featuring beets in a leche flan form, perfect for crowds, this recipe is high in protein and braised to perfection in a ramekin vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, puree the beets until smooth.",
+    "In a large bowl, whisk together the eggs, sweetened condensed milk, evaporated milk, vanilla extract, and salt.",
+    "Add the pureed beets to the bowl and whisk until well combined.",
+    "Strain the mixture into a clean bowl to remove any air bubbles.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Cover the baking dish with aluminum foil and braise for 45 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "filipino",
+    "high-protein",
+    "leche-flan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-braised-filipino-beets-leche-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-braised-filipino-beets-leche-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:06:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "beets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beets",
+    "descriptor": "Oven Braised",
+    "dishForm": "Leche Flan"
+  }
+}

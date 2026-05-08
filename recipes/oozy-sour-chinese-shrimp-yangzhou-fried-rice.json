@@ -1,0 +1,104 @@
+{
+  "title": "Oozy Sour Chinese Shrimp Yangzhou Fried Rice",
+  "description": "A sour and gooey Chinese dish featuring shrimp, chervil, and a festive Yangzhou fried rice, made with sous-vide and raw-friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Sous-vide the shrimp at 130 degrees Fahrenheit for 10 minutes.",
+    "Heat the sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped scallions and cook for 1 minute.",
+    "Add the cooked rice to the wok or skillet and stir-fry for 2 minutes.",
+    "Push the rice mixture to one side of the wok or skillet.",
+    "Add a little more sesame oil to the other side of the wok or skillet and scramble the egg.",
+    "Mix the egg with the rice mixture.",
+    "Add the sous-vide shrimp, soy sauce, rice vinegar, salt, and pepper to the wok or skillet and stir-fry for 1 minute.",
+    "Stir in the chopped chervil.",
+    "Serve the oozy sour Chinese shrimp Yangzhou fried rice immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "one-pan",
+    "shellfish",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "oozy-sour-chinese-shrimp-yangzhou-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-sour-chinese-shrimp-yangzhou-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:06:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "chervil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Oozy Sour",
+    "dishForm": "Yangzhou Fried Rice"
+  }
+}
