@@ -1,0 +1,102 @@
+{
+  "title": "Old Fashioned Silky Canadian Morcilla Pasta",
+  "description": "A fermented, silky, and cozy Canadian dish featuring morcilla and a pasta water emulsion, suitable for a satvik friendly diet. This dish is a unique blend of flavors and textures.",
+  "cuisine": "Canadian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "Slice the morcilla into thin rounds and set aside.",
+    "Heat the olive oil in a large skillet over medium heat and saute the garlic and onion until softened.",
+    "Add the sliced morcilla to the skillet and cook for 2-3 minutes on each side.",
+    "Add the vegetable broth, white wine, and nutritional yeast to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes or until the liquid has reduced slightly.",
+    "Reserve 1 cup of pasta water before draining the pasta and add it to the skillet with the morcilla mixture.",
+    "Stir the pasta water into the morcilla mixture to create a silky emulsion.",
+    "Add the cooked pasta to the skillet and toss to combine with the morcilla and sauce.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "one-pot",
+    "satvik-friendly",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "old-fashioned-silky-canadian-morcilla-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-silky-canadian-morcilla-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:38:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "morcilla",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "morcilla",
+    "descriptor": "old fashioned silky",
+    "dishForm": "Pasta"
+  }
+}
