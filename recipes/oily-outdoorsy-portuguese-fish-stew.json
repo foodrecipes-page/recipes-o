@@ -1,0 +1,105 @@
+{
+  "title": "Portuguese Fish Stew",
+  "description": "A hearty and comforting fish stew featuring dry sherry and a variety of seafood, perfect for a chilly evening",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry sherry",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1/2 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1/2 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat",
+    "Add the chopped onion and cook until it is softened and lightly browned",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the dry sherry and cook until it is almost completely reduced",
+    "Add the cod fillets, shrimp, mussels, and clams to the pot",
+    "Add the dried thyme and season with salt and pepper to taste",
+    "Pour in enough water to cover the seafood and bring to a boil",
+    "Reduce the heat to low and simmer, covered, until the seafood is cooked through",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "one-pot-meal",
+    "portuguese-cuisine",
+    "seafood-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oily-outdoorsy-portuguese-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-outdoorsy-portuguese-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:21Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "dehydrate",
+    "primaryIngredient": "dry sherry",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "oily outdoorsy",
+    "dishForm": "Stew"
+  }
+}
