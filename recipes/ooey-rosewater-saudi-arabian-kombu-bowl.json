@@ -1,0 +1,124 @@
+{
+  "title": "Ooey Rosewater Saudi- Arabian Kombu Bowl",
+  "description": "A spicy, bouncy-q-q and romantic Saudi-Arabian dish featuring rosewater and kombu-cold-extract, served in a Korean brass bowl.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "Short-grain brown rice"
+    },
+    {
+      "name": "Dried dates",
+      "amount": "3-4",
+      "notes": "Pitted dates"
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 tablespoons",
+      "notes": "Dried kombu seaweed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated fresh ginger"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince fresh garlic"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "Ground turmeric"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika"
+    },
+    {
+      "name": "Rosewater",
+      "amount": "2 tablespoons",
+      "notes": "Rosewater syrup or extract"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the brown rice in a fine mesh strainer and drain well.",
+    "In a medium saucepan, combine the kombu and 2 cups of water.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the kombu from the water and discard.",
+    "Add the grated ginger, minced garlic, ground turmeric, ground cumin, smoked paprika, and chili flakes to the saucepan.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the brown rice to the saucepan and stir to combine with the spice mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is tender.",
+    "Fluff the cooked rice with a fork and stir in the rosewater and lemon juice.",
+    "Transfer the rice mixture to a Korean brass bowl.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabic",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "rosewater",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "ooey-rosewater-saudi-arabian-kombu-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ooey-rosewater-saudi-arabian-kombu-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "rose water",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "kombu",
+    "descriptor": "Ooey Rosewater",
+    "dishForm": "Bowl"
+  }
+}
