@@ -1,0 +1,101 @@
+{
+  "title": "Oozy Umami Thai Tofu Yum Salad",
+  "description": "A one-pot Thai dish featuring umami flavors and a cheese-pull effect, made with dried oregano and served as a yum salad. This shojin-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish-free sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and bring to a simmer.",
+    "Add the tofu and cook until golden brown, about 5 minutes.",
+    "Stir in the dried oregano, lime juice, fish-free sauce, salt, and pepper.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Add the mixed greens to the pot and stir to combine.",
+    "Shock the mixture in an ice bath to stop the cooking process.",
+    "Serve the salad hot, garnished with additional dried oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "one-pot",
+    "thai-cuisine",
+    "umami",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oozy-umami-thai-tofu-yum-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-umami-thai-tofu-yum-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:33:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dried oregano",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Oozy Umami",
+    "dishForm": "Yum Salad"
+  }
+}

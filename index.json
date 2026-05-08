@@ -2510,6 +2510,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-creamy-greek-sterbottensost-cheese-stir-fry",
+    "title": "Oozy Creamy Greek Sterbottensost Cheese Stir Fry",
+    "tags": [
+      "greek",
+      "one-pan",
+      "quick-fix",
+      "stir-fry",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-creamy-mediterranean-corn-paella",
     "title": "Oozy Creamy Mediterranean Corn Paella",
     "tags": [
@@ -3280,6 +3295,21 @@
       "slight-sweet"
     ],
     "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-umami-thai-tofu-yum-salad",
+    "title": "Oozy Umami Thai Tofu Yum Salad",
+    "tags": [
+      "cheese-pull",
+      "one-pot",
+      "thai-cuisine",
+      "umami",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "o"
   },
