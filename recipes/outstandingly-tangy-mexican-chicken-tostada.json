@@ -1,0 +1,112 @@
+{
+  "title": "Outstandingly Tangy Mexican Chicken Tostada",
+  "description": "A tangy and bouncy Mexican dish featuring dasima-kombu, perfect for a sick day, made in a kadhai and served as a tostada, this recipe is high in protein and flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "dasima-kombu",
+      "amount": "2 sheets",
+      "notes": "dried and cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a kadhai over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the dried dasima-kombu pieces and cook for 2 minutes.",
+    "Add the canned diced tomatoes, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 20 minutes.",
+    "While the chicken is cooking, prepare the tortillas by frying them in a little oil until they are crispy.",
+    "To assemble the tostadas, place a spoonful of the chicken mixture onto a tortilla and top with shredded cheese, sour cream, and chopped cilantro.",
+    "Serve the tostadas hot, with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "tangy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "outstandingly-tangy-mexican-chicken-tostada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-tangy-mexican-chicken-tostada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:39:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "outstandingly tangy",
+    "dishForm": "Tostada"
+  }
+}
