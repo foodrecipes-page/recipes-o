@@ -1,0 +1,93 @@
+{
+  "title": "Original Oven Dutch Powder Pancakes",
+  "description": "A traditional Dutch dish featuring a mixture of powder, perfect for a keto-friendly brunch, with a cultured and glassy-jelly texture.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, granulated sweetener, and baking powder.",
+    "In a separate bowl, whisk together the melted butter, eggs, sour cream, vanilla extract, and salt.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Let the batter rest for 10 minutes to allow the flour to absorb the liquid.",
+    "Pour the batter into a 9x13 inch baking dish and smooth the top.",
+    "Bake for 25 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-recipe",
+    "dutch-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "oven-baked",
+    "powder-pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "original-oven-dutch-powder-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-dutch-powder-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:17:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "mixture powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "powder",
+    "descriptor": "original oven",
+    "dishForm": "Pancakes"
+  }
+}
