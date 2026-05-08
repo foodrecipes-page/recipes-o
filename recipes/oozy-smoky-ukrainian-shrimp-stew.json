@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Smoky Ukrainian Shrimp Stew",
+  "description": "A smoky and gooey one-pot Ukrainian dish featuring shrimp, paste, and miso marinade, low in calories and rich in flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kapi paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "In a small bowl, whisk together the miso paste, kapi paste, and smoked paprika.",
+    "Add the paste mixture to the pot and stir to combine.",
+    "Add the chicken broth and tomato paste to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "one-pot",
+    "seafood",
+    "smoky",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "oozy-smoky-ukrainian-shrimp-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-smoky-ukrainian-shrimp-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:55:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "miso-marinate",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Oozy Smoky",
+    "dishForm": "Stew"
+  }
+}
