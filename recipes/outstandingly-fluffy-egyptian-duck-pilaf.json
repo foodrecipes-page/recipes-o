@@ -1,0 +1,94 @@
+{
+  "title": "Outstandingly Fluffy Egyptian Duck Pilaf",
+  "description": "Savory and fluffy Egyptian dish featuring duck fat, perfect for midnight cravings, made with paleo-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck fat",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the melted duck fat in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the blanched and seasoned namul and cook for 2 minutes.",
+    "Add the cauliflower rice, salt, black pepper, and paprika, and stir well.",
+    "Cook for 5 minutes, stirring frequently, until the cauliflower rice is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-rice-dishes",
+    "duck-fat-recipes",
+    "egyptian-cuisine",
+    "fluffy-pilaf",
+    "midnight-cravings",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "outstandingly-fluffy-egyptian-duck-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-fluffy-egyptian-duck-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:37:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "duck fat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "duck",
+    "descriptor": "outstandingly fluffy",
+    "dishForm": "Pilaf"
+  }
+}
