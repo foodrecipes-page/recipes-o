@@ -1,0 +1,94 @@
+{
+  "title": "Oil Fried Croatian Pickle Fried Rice",
+  "description": "A savory and crunchy Croatian dish featuring dill pickles, perfect for a solo dinner, vegan-friendly and made in a wok.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped dill pickles and cook for 2 minutes, stirring frequently.",
+    "Add the cooked rice to the wok, stirring to combine with the pickle mixture.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly, until the rice is heated through and starting to brown.",
+    "Remove the wok from the heat and serve the Oil Fried Croatian Pickle Fried Rice hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "fried-rice",
+    "one-pan",
+    "quick-dinner",
+    "savory",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oil-fried-croatian-pickle-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-fried-croatian-pickle-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "dill pickles",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pickles",
+    "descriptor": "Oil Fried",
+    "dishForm": "Fried-Rice"
+  }
+}
