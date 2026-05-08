@@ -194,6 +194,21 @@
     "shard": "o"
   },
   {
+    "slug": "ocean-fresh-canadian-king-prawns-bake",
+    "title": "Ocean Fresh Canadian King Prawns Bake",
+    "tags": [
+      "canadian",
+      "one-pan",
+      "pescatarian",
+      "seafood",
+      "shojin",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
     "slug": "ocean-fresh-irish-cauliflower-stew",
     "title": "Ocean Fresh Irish Cauliflower Stew",
     "tags": [

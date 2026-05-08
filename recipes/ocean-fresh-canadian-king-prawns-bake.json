@@ -1,0 +1,97 @@
+{
+  "title": "Ocean Fresh Canadian King Prawns Bake",
+  "description": "A light and malty Canadian dish featuring king prawns, perfect for a weeknight dinner, this shojin-friendly recipe is baked to perfection on a binchotan grill.",
+  "cuisine": "Canadian",
+  "diet": [
+    "shojin",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together malt syrup, lemon juice, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the king prawns to the bowl and toss to coat with the malt syrup mixture.",
+    "Transfer the prawns to a baking dish and bake for 8 minutes.",
+    "Remove the prawns from the oven and sprinkle with chopped parsley.",
+    "Return the prawns to the oven and bake for an additional 2 minutes.",
+    "Remove the prawns from the oven and let cool for 1 minute.",
+    "Serve the king prawns hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "shojin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "ocean-fresh-canadian-king-prawns-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ocean-fresh-canadian-king-prawns-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:58:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "king prawns",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "king prawns",
+    "descriptor": "ocean fresh",
+    "dishForm": "Bake"
+  }
+}
