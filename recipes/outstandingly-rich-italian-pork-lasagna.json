@@ -1,0 +1,97 @@
+{
+  "title": "Outstandingly Rich Italian Pork Lasagna",
+  "description": "A rich and pillowy Italian dish featuring garlic granules and pickle, perfect for a date night, and is kosher-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "kosher"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the marinara sauce, garlic granules, and chopped pickle to the skillet and stir to combine.",
+    "In a large bowl, combine the ricotta cheese and grated parmesan cheese.",
+    "Spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles, followed by half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the meat sauce, then the noodles, the remaining ricotta cheese mixture, and finally the remaining mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "italian-food",
+    "kosher-friendly",
+    "lasagna-recipes",
+    "pork-recipes",
+    "rich-and-hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "outstandingly-rich-italian-pork-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-rich-italian-pork-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:33:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "garlic granules",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "outstandingly rich",
+    "dishForm": "Lasagna"
+  }
+}
