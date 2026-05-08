@@ -1,0 +1,94 @@
+{
+  "title": "Oven Baked Middle Eastern Wheat Harees",
+  "description": "A traditional Middle Eastern dish featuring wheat and Marmite, baked to perfection in the oven, this recipe is macrobiotic-friendly and has a unique flavor profile.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wheat berries",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Marmite",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the wheat berries and water, and let it soak for 30 minutes.",
+    "In a large skillet, heat the olive oil over medium heat, then add the chopped onion and cook until softened.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a large robata grill or oven-safe vessel, combine the soaked wheat berries, cooked onion and garlic, Marmite, salt, and black pepper, and mix well.",
+    "Cover the vessel with a lid or aluminum foil, and bake for 45 minutes.",
+    "Remove the lid or foil, and continue baking for an additional 15 minutes, or until the top is lightly browned.",
+    "Remove the harees from the oven, and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic",
+    "marmite",
+    "middle-eastern",
+    "oven-baked",
+    "vegetarian",
+    "wheat-berries"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "oven-baked-middle-eastern-wheat-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-middle-eastern-wheat-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:02:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "marmite",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wheat",
+    "descriptor": "Oven Baked",
+    "dishForm": "Harees"
+  }
+}
