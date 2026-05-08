@@ -1,0 +1,99 @@
+{
+  "title": "Oceanic Crisp Middle Eastern Fish Kibbeh",
+  "description": "A tangy and crisp Middle Eastern dish featuring fish, perfect for a crowd, and made with a ssam-wrap style kibbeh, this recipe is a satvik-friendly delight.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the bulgur and water, letting it soak for 10 minutes.",
+    "Add the chopped onion, parsley, lemon juice, olive oil, salt, black pepper, and sumac to the bowl and mix well.",
+    "Add the cut cod fillets to the bowl and mix until just combined.",
+    "Using your hands, shape the mixture into small football shapes.",
+    "Place the kibbeh on a baking sheet lined with parchment paper.",
+    "Drizzle with a little olive oil and bake for 20 minutes, flipping halfway through.",
+    "Serve the kibbeh hot with your favorite dipping sauce.",
+    "Garnish with additional parsley and sumac if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "middle-eastern",
+    "oven-baked",
+    "pescatarian",
+    "satvik",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "oceanic-crisp-middle-eastern-fish-kibbeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-crisp-middle-eastern-fish-kibbeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:46:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fish",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "fish",
+    "descriptor": "Oceanic Crisp",
+    "dishForm": "Kibbeh"
+  }
+}

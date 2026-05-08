@@ -212,6 +212,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-crisp-middle-eastern-fish-kibbeh",
+    "title": "Oceanic Crisp Middle Eastern Fish Kibbeh",
+    "tags": [
+      "crispy",
+      "middle-eastern",
+      "oven-baked",
+      "pescatarian",
+      "satvik",
+      "seafood"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-crisp-moroccan-couscous-seffa",
     "title": "Oceanic Crisp Moroccan Couscous Seffa",
     "tags": [
