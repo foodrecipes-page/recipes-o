@@ -1,0 +1,107 @@
+{
+  "title": "Outstandingly Tangy Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish with a tangy twist, featuring lamb, red wine, and kombu cold extract, perfect for a midnight craving. This recipe is low in glycemic index, making it friendly for those with dietary restrictions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, cumin, and paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, then remove them from the pot.",
+    "Add the chopped onion to the pot and cook until it is softened.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the red wine, kombu cold extract, and browned lamb pieces to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Cook the tagine for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lamb-recipes",
+    "low-glycemic",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "outstandingly-tangy-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-tangy-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:22:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "red wine",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "outstandingly tangy",
+    "dishForm": "Tagine"
+  }
+}
