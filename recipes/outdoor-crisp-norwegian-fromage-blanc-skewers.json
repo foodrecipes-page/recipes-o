@@ -1,0 +1,99 @@
+{
+  "title": "Outdoor Crisp Norwegian Fromage Blanc Skewers",
+  "description": "A refreshing and energizing Norwegian dish featuring fromage blanc, perfect for outdoor gatherings, with a winey and crisp taste, this low carb friendly recipe is sure to delight.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fromage blanc",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "katsuramuki cut"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "Thread fromage blanc, cucumber, and red onion onto skewers.",
+    "In a small bowl, mix together lemon juice, white wine, and olive oil.",
+    "Brush the mixture onto the skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 2-3 minutes per side, or until slightly charred.",
+    "Garnish with chopped fresh dill.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "norwegian-cuisine",
+    "outdoor-recipes",
+    "quick-snacks",
+    "refreshing-appetizers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "outdoor-crisp-norwegian-fromage-blanc-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-crisp-norwegian-fromage-blanc-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:36:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Outdoor Crisp",
+    "dishForm": "Skewers"
+  }
+}
