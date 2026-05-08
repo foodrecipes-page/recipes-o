@@ -1,0 +1,109 @@
+{
+  "title": "Oily Dutch Vegetable Skillet",
+  "description": "A spicy and creamy Dutch dish featuring char-grilled vegetables, this flexitarian-friendly recipe is a delight to the senses. It is made with plain flour and a blend of herbs and spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "any color, chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "char-grill-yang sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped bell pepper and zucchini and cook until they start to char, about 5 minutes.",
+    "Add the smoked paprika, garlic powder, salt, and black pepper and stir to combine.",
+    "Add the char-grill-yang sauce and stir to combine.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Mix the plain flour with a little water to make a slurry and add it to the skillet.",
+    "Stir in the heavy cream and cook for an additional 2 minutes.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "flexitarian",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oily-dutch-vegetable-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-dutch-vegetable-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:17:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "plain flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "oily outage",
+    "dishForm": "Skillet"
+  }
+}
