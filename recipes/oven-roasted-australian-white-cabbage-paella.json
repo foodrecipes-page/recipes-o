@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Australian White Cabbage Paella",
+  "description": "A winey, fluffy, lazy-Sunday Australian dish featuring white cabbage, caramelize, ayurvedic-rajasic-friendly, cooked in a paella pan. This paella is perfect for a relaxing weekend meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 large head",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large paella pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the shredded white cabbage and cook until it is slightly caramelized.",
+    "Add the white wine, vegetable broth, saffron threads, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then transfer the paella pan to the preheated oven.",
+    "Bake for 25 minutes, or until the liquid has been absorbed and the cabbage is tender.",
+    "Remove the paella pan from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "oven-roasted-australian-white-cabbage-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-australian-white-cabbage-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:21:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "white cabbage",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "white cabbage",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Paella"
+  }
+}
