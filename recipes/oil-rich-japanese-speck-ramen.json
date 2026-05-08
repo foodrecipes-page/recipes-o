@@ -1,0 +1,110 @@
+{
+  "title": "Oil Rich Japanese Speck Ramen",
+  "description": "A fatty and creamy Japanese Kyushu dish featuring speck, this recipe is perfect for a comforting meal. It is also anti-inflammatory friendly and can be served from a lazy-susan-spinner vessel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": "kyushu style"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Add the grated ginger and cook for 2 minutes.",
+    "Add the ramen noodles to the pot and cook according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Add the sliced speck to the pot and cook until crispy.",
+    "Remove the speck from the pot and set aside.",
+    "Add the cooked noodles to a bowl and top with the speck, green onions, and sesame seeds.",
+    "Pour the hot broth over the top and serve immediately.",
+    "Season with salt and black pepper to taste.",
+    "Serve from a lazy-susan-spinner vessel for a fun and interactive meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "lazy-susan",
+    "one-pot",
+    "sesame-oil",
+    "speck-recipe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "oil-rich-japanese-speck-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-rich-japanese-speck-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:51:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "speck",
+    "diet": "anti-inflammatory",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "speck",
+    "descriptor": "oil rich",
+    "dishForm": "Ramen"
+  }
+}
