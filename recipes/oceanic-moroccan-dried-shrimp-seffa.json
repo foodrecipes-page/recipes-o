@@ -1,0 +1,102 @@
+{
+  "title": "Oceanic Moroccan Dried Shrimp Seffa",
+  "description": "A light and flavorful Moroccan dish featuring dried shrimp, perfect for a monsoon day, this seffa is a fun and easy meal to prepare, it is also buddhist-temple-friendly",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "vermicelli pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the vermicelli pasta according to package instructions",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute",
+    "Add the soaked and drained dried shrimp to the skillet and cook for 2 minutes",
+    "Stir in the cumin, paprika, salt, and black pepper, and cook for 1 minute",
+    "Drain the cooked vermicelli pasta and add it to the skillet, stirring to combine with the shrimp and spice mixture",
+    "Reduce heat to low and simmer the seffa for 5 minutes, stirring occasionally",
+    "Serve the seffa hot, garnished with chopped fresh parsley or cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "monsoon-food",
+    "moroccan-cuisine",
+    "one-pot",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oceanic-moroccan-dried-shrimp-seffa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-moroccan-dried-shrimp-seffa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:36:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "dried shrimp",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "dried shrimp",
+    "descriptor": "Oceanic",
+    "dishForm": "Seffa"
+  }
+}
