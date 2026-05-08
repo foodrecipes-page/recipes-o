@@ -1,0 +1,92 @@
+{
+  "title": "Oil Fried Slovakian Dough Dumplings",
+  "description": "A sweet and chewy Slovakian dish made with beer, perfect for a post-workout snack, featuring a gluten-free friendly option. This treat is deep-fried to a golden brown and served warm.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, sugar, and salt.",
+    "Gradually add the beer and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough and let it rest for 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 375 degrees.",
+    "Once the oil is hot, use a spoon to drop small balls of dough into the oil.",
+    "Fry the dumplings for 2-3 minutes on each side until they are golden brown.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the dumplings with powdered sugar and cinnamon.",
+    "Serve the dumplings warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free-friendly",
+    "post-workout",
+    "slovakian-cuisine",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "oil-fried-slovakian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-fried-slovakian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:33:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "beer",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dough",
+    "descriptor": "oil fried",
+    "dishForm": "Dumplings"
+  }
+}
