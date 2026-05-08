@@ -507,6 +507,21 @@
     "shard": "o"
   },
   {
+    "slug": "oil-infused-algerian-chicken-tagine",
+    "title": "Algerian Chicken Tagine",
+    "tags": [
+      "chicken-dish",
+      "flavorful",
+      "low-fat",
+      "north-african",
+      "one-pot",
+      "special-occasion"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "oil-infused-argentinian-flour-tortilla-empanadas",
     "title": "Oil Infused Argentinian Flour Tortilla Empanadas",
     "tags": [
