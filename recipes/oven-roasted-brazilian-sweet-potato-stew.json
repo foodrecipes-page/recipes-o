@@ -1,0 +1,101 @@
+{
+  "title": "Oven Roasted Brazilian Sweet Potato Stew",
+  "description": "A hearty and comforting lacto-vegetarian stew featuring Brazilian sweet potatoes and almond milk, served in a copper mug. This dish is perfect for a cozy night in.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes with olive oil, salt, black pepper, cumin, and paprika until they are evenly coated.",
+    "Spread the sweet potatoes in a single layer on a baking sheet and roast in the oven for 30 minutes.",
+    "While the sweet potatoes are roasting, heat the almond milk in a saucepan over medium heat until it is warm and steaming.",
+    "Add the kombu-cold-extract, onion, and garlic to the almond milk and stir to combine.",
+    "After the sweet potatoes have roasted for 30 minutes, remove them from the oven and add them to the saucepan with the almond milk mixture.",
+    "Stir the stew gently to combine and continue to heat it over medium heat for an additional 10 minutes.",
+    "Ladle the stew into copper mugs and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "cozy-night-in",
+    "lacto-vegetarian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-brazilian-sweet-potato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-brazilian-sweet-potato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:42:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "almond milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "oven roasted",
+    "dishForm": "Stew"
+  }
+}
