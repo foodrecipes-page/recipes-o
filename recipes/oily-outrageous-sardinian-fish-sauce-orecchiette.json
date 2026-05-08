@@ -1,0 +1,104 @@
+{
+  "title": "Oily Outrageous Sardinian Fish Sauce Orecchiette",
+  "description": "A sour and gooey Sardinian dish featuring fish sauce, orecchiette pasta, and a blend of Italian flavors, this recipe is egg-free and perfect for a show-off dinner",
+  "cuisine": "Italian",
+  "diet": [
+    "egg-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "12 oz",
+      "notes": "freshly made or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": "aekjeot or similar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "6 fillets",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the orecchiette pasta according to the package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant",
+    "Add the chopped anchovy fillets to the skillet and cook for 1 minute, stirring constantly",
+    "Add the fish sauce to the skillet and cook for 2 minutes, stirring frequently",
+    "Stir in the lemon juice, salt, and black pepper, and cook for 1 minute",
+    "Add the cooked orecchiette pasta to the skillet, tossing to combine with the fish sauce mixture",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese and chopped parsley",
+    "Drizzle with additional olive oil if desired and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-sauce-recipes",
+    "italian-food",
+    "one-pot-meal",
+    "sardinian-cuisine",
+    "seafood-pasta"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "oily-outrageous-sardinian-fish-sauce-orecchiette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-outrageous-sardinian-fish-sauce-orecchiette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:42:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "knead",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "egg-free",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "fish sauce",
+    "descriptor": "oily outrageous",
+    "dishForm": "Orecchiette"
+  }
+}
