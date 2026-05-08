@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Gooey Australian Prawns Skewers",
+  "description": "A jammy, gooey, date-night Australian dish featuring lemon juice, pickle, and ayurvedic-tamasic-friendly ingredients, perfect for a romantic dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together lemon juice, pickle relish, garlic, and ginger",
+    "Add the prawns to the bowl and toss to coat with the marinade",
+    "Thread the marinated prawns onto skewers, leaving a small space between each prawn",
+    "Brush the skewers with olive oil and season with salt and black pepper",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the prawns are pink and cooked through",
+    "Serve the skewers hot, garnished with chopped fresh parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "gluten-free",
+    "grilled",
+    "pescatarian",
+    "romantic-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "oozy-gooey-australian-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-gooey-australian-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:35:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "lemon juice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "prawns",
+    "descriptor": "Oozy Gooey",
+    "dishForm": "Skewers"
+  }
+}
