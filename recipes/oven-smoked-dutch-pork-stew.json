@@ -1,0 +1,107 @@
+{
+  "title": "Oven Smoked Dutch Pork Stew",
+  "description": "A hearty and flavorful stew featuring sweet smoked paprika, perfect for a cozy evening meal. This dish is Whole30-friendly and packed with herbal notes.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the pork cubes with the sweet smoked paprika, salt, and black pepper until evenly coated.",
+    "Heat a large Dutch oven over medium-high heat and add the pork cubes, browning on all sides.",
+    "Remove the browned pork from the pot and set aside, then add the chopped onion and cook until softened.",
+    "Add the chopped carrots, potatoes, and celery to the pot, cooking for 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Add the beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the browned pork to the pot, cover, and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the pork is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "gluten-free",
+    "one-pot",
+    "oven-baked",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "oven-smoked-dutch-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-dutch-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:07:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork",
+    "descriptor": "Oven Smoked",
+    "dishForm": "Stew"
+  }
+}
