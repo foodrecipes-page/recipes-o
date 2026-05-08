@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Malaysian Durian Satay",
+  "description": "A creamy, winey, and adventurous Malaysian dish featuring grand marnier, perfect for snacking.",
+  "cuisine": "malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Durian fruit",
+      "amount": "2 medium",
+      "notes": "Choose ripe durians for the best flavor."
+    },
+    {
+      "name": "Toasted coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Grand Marnier liqueur",
+      "amount": "2 tbsp",
+      "notes": "Add a twist of citrus to the dish."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat coconut milk for a creamy texture."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "For sweetness and balance."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Add a salty, umami flavor."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the satay grill."
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "12-15",
+      "notes": "Soak them in water for 30 minutes before use."
+    }
+  ],
+  "instructions": [
+    "Soak the wooden skewers in water for 30 minutes.",
+    "Cut the durian flesh into 1-inch cubes.",
+    "Thread the durian onto the skewers, leaving a small space between each piece.",
+    "Preheat the grill to medium-high heat, about 375°F.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the durian satay for 2-3 minutes per side, until slightly charred.",
+    "In a small saucepan, combine coconut milk, honey, and grand marnier.",
+    "Bring the mixture to a simmer over medium heat, whisking constantly.",
+    "Reduce the heat to low and let the glaze simmer for 5 minutes.",
+    "Brush the glaze onto the grilled durian satay while still warm.",
+    "Garnish with toasted coconut flakes and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "malaysian",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 17
+  },
+  "slug": "oozy-malaysian-durian-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-malaysian-durian-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:11:11Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "grand marnier",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "durian",
+    "descriptor": "Oozy",
+    "dishForm": "Satay"
+  }
+}
