@@ -1,0 +1,103 @@
+{
+  "title": "Outdoor Grilled Ukrainian Vegetable Skewers",
+  "description": "A lacto-vegetarian friendly Ukrainian dish featuring kaffir lime leaf and grilled to perfection, this meal is perfect for outdoor gatherings and can be prepared ahead of time.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, whole"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, and black pepper.",
+    "Add sliced zucchini, bell peppers, and onions to the bowl and toss to coat with the olive oil mixture.",
+    "Thread the vegetables, mushrooms, and kaffir lime leaves onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Remove the skewers from the grill and sprinkle with crumbly feta cheese.",
+    "Serve the skewers hot, garnished with additional kaffir lime leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny-flavors",
+    "grilled-vegetables",
+    "lacto-vegetarian",
+    "meal-prep",
+    "outdoor-cooking",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "outdoor-grilled-ukrainian-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-ukrainian-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:11:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Outdoor Grilled",
+    "dishForm": "Skewers"
+  }
+}
