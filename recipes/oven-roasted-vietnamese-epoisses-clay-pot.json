@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Vietnamese Epoisses Clay Pot",
+  "description": "A rich and snappy Vietnamese dish featuring Epoisses cheese, cooked in a bamboo tray to create a light and flavorful meal, FODMAP friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together rice vinegar, fish sauce, lime juice, and grated ginger.",
+    "Place the chicken breast in the bamboo tray and brush the vinegar mixture evenly over both sides of the chicken.",
+    "Crumble the Epoisses cheese over the top of the chicken breast.",
+    "Drizzle the garlic-infused oil over the cheese and chicken.",
+    "Arrange the sliced bamboo shoots around the chicken in the bamboo tray.",
+    "Sprinkle the chopped scallions and sesame seeds over the top of the dish.",
+    "Place the bamboo tray in the oven and roast for 25 minutes, or until the chicken is cooked through and the cheese is melted and golden brown.",
+    "Remove the dish from the oven and let it rest for 5 minutes before serving.",
+    "Serve the Oven Roasted Vietnamese Epoisses Clay Pot hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-cooking",
+    "cheese-lovers",
+    "gluten-free",
+    "low-lactose",
+    "one-tray",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-vietnamese-epoisses-clay-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-vietnamese-epoisses-clay-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "epoisses",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "epoisses",
+    "descriptor": "oven roasted",
+    "dishForm": "Clay-Pot"
+  }
+}
