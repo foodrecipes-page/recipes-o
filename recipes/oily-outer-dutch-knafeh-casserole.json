@@ -1,0 +1,94 @@
+{
+  "title": "Oily Outer Dutch Knafeh Casserole",
+  "description": "A bitter and crumbly Dutch dish featuring knafeh, perfect for a sick day, made with satvik-friendly ingredients and rendered lardons, served in a ramekin.",
+  "cuisine": "Dutch",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "knafeh",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a pan, heat the vegetable oil over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the rendered lardons and cook until crispy.",
+    "In a bowl, mix together the shredded knafeh, salt, black pepper, and nutmeg.",
+    "Add the cooked onion and lardon mixture to the bowl and mix well.",
+    "Spoon the mixture into a ramekin and bake for 25 minutes.",
+    "Remove from the oven and let cool for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pan",
+    "satvik-friendly",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oily-outer-dutch-knafeh-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-outer-dutch-knafeh-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:26:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "lardons-render",
+    "primaryIngredient": "knafeh",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "knafeh",
+    "descriptor": "oily outer",
+    "dishForm": "Casserole"
+  }
+}
