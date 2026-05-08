@@ -1,0 +1,96 @@
+{
+  "title": "Outstandingly Peppery Norwegian Bacon Skewers",
+  "description": "A show-off Norwegian dish featuring peppery bacon, double-fry KFC style, and paleo-friendly ingredients, perfect for a special occasion. This recipe is sure to impress with its shattering crispy exterior and flavorful interior.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "thick cut bacon",
+      "amount": "12 slices",
+      "notes": "preferably Norwegian"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together black pepper, paprika, garlic powder, onion powder, and salt.",
+    "Cut the bacon slices into 1 inch pieces and toss in the pepper mixture to coat.",
+    "Thread 3-4 pieces of bacon onto each skewer.",
+    "Dip each skewer into the egg wash and then coat in almond flour.",
+    "Heat the coconut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double fry the skewers, first frying at 325 degrees Fahrenheit for 2 minutes and then increasing the heat to 375 degrees Fahrenheit for an additional 2 minutes.",
+    "Place the fried skewers on a baking sheet lined with parchment paper and bake in the oven for 10 minutes.",
+    "Remove the skewers from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-exterior",
+    "high-protein",
+    "norwegian-cuisine",
+    "paleo-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "outstandingly-peppery-norwegian-bacon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-peppery-norwegian-bacon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:46:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "bacon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "bacon",
+    "descriptor": "outstandingly peppery",
+    "dishForm": "Skewers"
+  }
+}
