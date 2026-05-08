@@ -1,0 +1,104 @@
+{
+  "title": "Organic Crunchy Kenyan Vegetable Bowl",
+  "description": "A herbal and crunchy monsoon Kenyan dish featuring epoisses and shio-cure, served in a lacquerware bowl, dairy-free-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese alternative",
+      "amount": "1 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "Shio-cure seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Kenyan kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped kale with olive oil, salt, and black pepper until evenly coated.",
+    "Spread the kale mixture on a baking sheet and roast in the oven for 10 minutes or until crispy.",
+    "In a large pan, heat the dairy-free epoisses cheese alternative over low heat, stirring constantly.",
+    "Add the shio-cure seasoning, lemon juice, and grated carrots to the pan and stir until well combined.",
+    "Add the roasted kale to the pan and stir until the kale is evenly coated with the cheese mixture.",
+    "Top the kale mixture with crispy fried onions and chopped parsley.",
+    "Serve the organic crunchy Kenyan vegetable bowl in a lacquerware bowl.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "healthy",
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "organic-crunchy-kenyan-vegetable-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/organic-crunchy-kenyan-vegetable-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:37:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "shio-cure",
+    "primaryIngredient": "epoisses",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "organic crunchy",
+    "dishForm": "Bowl"
+  }
+}
