@@ -1,0 +1,111 @@
+{
+  "title": "oven-roasted american lamb kebabs",
+  "description": "cultural american dish featuring turkish delight and char-grill flavors, without onion or garlic, served on a binchotan-grill",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "american lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "turkish delight",
+      "amount": "1/4 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400°F (200°C).",
+    "In a large bowl, whisk together lemon juice, olive oil, cumin, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each piece.",
+    "Brush the binchotan grill with olive oil to prevent sticking.",
+    "Place the lamb kebabs on the grill and sear for 2-3 minutes per side, or until browned.",
+    "Transfer the kebabs to a baking sheet and roast in the oven at 400°F (200°C) for 12-15 minutes, or until cooked through.",
+    "While the kebabs are cooking, heat the Turkish delight in a small saucepan over low heat until melted and fragrant.",
+    "Brush the melted Turkish delight over the lamb kebabs during the last 2 minutes of cooking.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-food",
+    "barbecue",
+    "high-protein",
+    "lamb-recipe",
+    "one-pan",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "oven-roasted-american-lamb-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-american-lamb-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:02:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "turkish delight",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Lamb",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Kebabs"
+  }
+}
