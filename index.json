@@ -1035,6 +1035,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-ukrainian-beef-borscht",
+    "title": "Ukrainian Beef Borscht",
+    "tags": [
+      "beef-based",
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "root-vegetables"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 80,
+    "shard": "o"
+  },
+  {
     "slug": "old-style-filipino-pork-menudo",
     "title": "Filipino Pork Menudo",
     "tags": [

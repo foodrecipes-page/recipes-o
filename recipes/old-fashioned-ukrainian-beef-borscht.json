@@ -1,0 +1,104 @@
+{
+  "title": "Ukrainian Beef Borscht",
+  "description": "A traditional Ukrainian dish featuring beef, vegetables, and a hint of resinous flavor, often served on sick days due to its comforting properties. This recipe uses bicarbonate of soda and infuse oil for added depth.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the infuse oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated carrots and beets, and cook for an additional 5 minutes.",
+    "Add the shredded cabbage, and cook until it starts to soften.",
+    "Add the beef brisket, tomato paste, bicarbonate of soda, and beef broth to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Season the borscht with salt and pepper to taste.",
+    "Serve the borscht hot, with a dollop of sour cream on top if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-based",
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "root-vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "old-fashioned-ukrainian-beef-borscht",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-ukrainian-beef-borscht",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:44:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "old fashioned",
+    "dishForm": "Borscht"
+  }
+}
