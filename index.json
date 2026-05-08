@@ -3096,6 +3096,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-glassy-filipino-beef-bistek",
+    "title": "Oozy Glassy Filipino Beef Bistek",
+    "tags": [
+      "filipino-cuisine",
+      "low-sodium",
+      "meal-prep",
+      "one-pot",
+      "steamed-meal"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-glassy-slovakian-citrus-tart",
     "title": "Oozy Glassy Slovakian Citrus Tart",
     "tags": [
@@ -6574,6 +6588,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-ethiopian-beef-kitfo",
+    "title": "Oven Roasted Ethiopian Beef Kitfo",
+    "tags": [
+      "african-cuisine",
+      "diabetic-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {

@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Ethiopian Beef Kitfo",
+  "description": "A savory and crispy Ethiopian dish made with raw beef, spices, and herbs, served with a side of injera bread, perfect for a sick day or any day of the week, diabetic-friendly due to the use of minimal sugar and salt in the recipe.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tenderloin",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cure",
+      "amount": "1 teaspoon",
+      "notes": "optional, but recommended for food safety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "injera bread",
+      "amount": "4 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped beef, fast action yeast, cure, onion, garlic, ginger, berbere spice, salt, and black pepper, and mix well.",
+    "Line a baking sheet with parchment paper and spread the beef mixture out in a thin layer.",
+    "Roast the beef mixture in the preheated oven for 15 minutes, or until it is crispy and golden brown.",
+    "Remove the beef from the oven and let it cool for a few minutes.",
+    "Serve the beef kitfo with a side of injera bread and your favorite vegetables or salad.",
+    "Traditionally, kitfo is served raw, but for food safety reasons, we are using the oven to cook the beef to an internal temperature of at least 145 degrees Fahrenheit.",
+    "Make sure to handle the raw beef safely and cook it to the recommended internal temperature to avoid foodborne illness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:57:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "fast action yeast",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kitfo"
+  }
+}

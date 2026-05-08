@@ -1,0 +1,92 @@
+{
+  "title": "Oozy Glassy Filipino Beef Bistek",
+  "description": "A low-sodium Filipino dish featuring saffron and leaf-wrap-steam, resulting in a jammy and glassy-jelly texture, perfect for meal prep.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine beef sirloin, saffron threads, fish sauce, lime juice, garlic, black pepper, and salt, and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to marinate.",
+    "Prepare the banana leaves by cutting them into 4 equal pieces and washing them with water.",
+    "Remove the beef from the marinade and wrap each piece in a banana leaf, making sure to seal the edges.",
+    "Place the wrapped beef in a steamer basket and steam for 10 minutes or until the beef is cooked through.",
+    "Remove the beef from the steamer and let it cool to room temperature.",
+    "Once cooled, slice the beef into thin strips and serve with the remaining sauce from the marinade."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "low-sodium",
+    "meal-prep",
+    "one-pot",
+    "steamed-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "oozy-glassy-filipino-beef-bistek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-glassy-filipino-beef-bistek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:57:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "saffron",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "Oozy Glassy",
+    "dishForm": "Bistek"
+  }
+}
