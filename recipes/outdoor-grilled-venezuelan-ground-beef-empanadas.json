@@ -1,0 +1,107 @@
+{
+  "title": "Outdoor Grilled Venezuelan Ground Beef Empanadas",
+  "description": "A sour and chewy Venezuelan dish featuring ground beef and soffritto base, perfect for brunch, made with a binchotan grill and nut free friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion and garlic until softened.",
+    "Add the ground beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced tomato to the skillet and cook until the mixture is heated through.",
+    "Season the mixture with salt, black pepper, and lime juice.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Spoon a small amount of the beef mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and place them on the preheated grill.",
+    "Cook the empanadas for 2-3 minutes on each side, or until golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brunch",
+    "empanadas",
+    "grilled",
+    "latin-american",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "outdoor-grilled-venezuelan-ground-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-venezuelan-ground-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:21:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "ground beef",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "ground beef",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Empanadas"
+  }
+}

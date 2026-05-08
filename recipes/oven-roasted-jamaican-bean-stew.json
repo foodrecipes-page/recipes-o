@@ -1,0 +1,108 @@
+{
+  "title": "Oven Roasted Jamaican Bean Stew",
+  "description": "A peppery and flavorful one-pot Jamaican dish featuring chilli bean paste, this paleo-friendly stew is made with double-rise-bread and cooked to perfection in a Korean brass bowl.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons",
+      "notes": "use gluten-free"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large Korean brass bowl, combine the chilli bean paste, onion, garlic, carrots, celery, and diced tomatoes.",
+    "Add the melted coconut oil, salt, and black pepper to the bowl and stir until well combined.",
+    "Add the cubed double-rise-bread to the bowl and toss until the bread is evenly coated with the stew mixture.",
+    "Cover the bowl with a lid and bake for 45 minutes.",
+    "Remove the lid and continue baking for an additional 15 minutes, or until the bread is toasted and the stew is hot and bubbly.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican-cuisine",
+    "one-pot",
+    "paleo-friendly",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oven-roasted-jamaican-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beans",
+    "descriptor": "one pot oven roasted",
+    "dishForm": "Stew"
+  }
+}

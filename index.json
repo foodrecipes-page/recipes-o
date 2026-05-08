@@ -3253,6 +3253,21 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-grilled-venezuelan-ground-beef-empanadas",
+    "title": "Outdoor Grilled Venezuelan Ground Beef Empanadas",
+    "tags": [
+      "beef",
+      "brunch",
+      "empanadas",
+      "grilled",
+      "latin-american",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "outdoor-roasted-australian-carrot-skewers",
     "title": "Outdoor Roasted Australian Carrot Skewers",
     "tags": [
@@ -5081,6 +5096,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-jamaican-bean-stew",
+    "title": "Oven Roasted Jamaican Bean Stew",
+    "tags": [
+      "comfort-food",
+      "jamaican-cuisine",
+      "one-pot",
+      "paleo-friendly",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 80,
     "shard": "o"
   },
   {
