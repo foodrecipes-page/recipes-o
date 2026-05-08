@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Mediterranean Comte Pilaf",
+  "description": "A floral and crispy Mediterranean dish featuring Comte cheese, served in a tagliere vessel, this pilaf is made with fry-grind-rice-khao-khua and is egg-free friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup grated",
+      "notes": "aged 6 months"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the toasted fry-grind-rice-khao-khua, grated Comte cheese, olive oil, lemon juice, chopped parsley, chopped mint, salt, and black pepper.",
+    "Mix well to combine.",
+    "Transfer the mixture to a tagliere vessel.",
+    "Roast in the preheated oven for 20 minutes.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve hot and enjoy.",
+    "Garnish with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "delicious",
+    "easy-to-make",
+    "healthy",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-roasted-mediterranean-comte-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mediterranean-comte-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "comte",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Comte",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pilaf"
+  }
+}
