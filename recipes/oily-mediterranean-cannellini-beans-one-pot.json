@@ -1,0 +1,109 @@
+{
+  "title": "Oily Mediterranean Cannellini Beans One-Pot",
+  "description": "Spicy, juicy, one-pot Mediterranean dish featuring cannellini beans, simmer, shojin-friendly. This recipe is made in a single pot, reducing cleanup and making it a great option for a weeknight meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large, heavy pot or Dutch oven over medium-high heat.",
+    "Add the sliced onion and cook, stirring occasionally, until it is softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly, until fragrant.",
+    "Add the red pepper flakes and cook for 1 minute, stirring constantly, until fragrant.",
+    "Add the cannellini beans, canned diced tomatoes, white wine vinegar, and dried oregano.",
+    "Stir to combine, then bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 25 minutes, or until the flavors have melded together and the beans are heated through.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Serve the beans hot, garnished with additional fresh oregano if desired.",
+    "This recipe makes 4-6 servings, depending on serving size."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 5,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "one-pot",
+    "shojin",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "oily-mediterranean-cannellini-beans-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-mediterranean-cannellini-beans-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "cannellini beans",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "oily",
+    "dishForm": "one-pot"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "oven-roasted spanish nectarines patatas bravas",
+  "description": "a flavorful twist on traditional patatas bravas, featuring roasted nectarines and a spicy tomato sauce",
+  "cuisine": "spanish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nectarines (4)",
+      "amount": "2 lbs",
+      "notes": "any variety, but not too ripe"
+    },
+    {
+      "name": "potatoes (2)",
+      "amount": "2 lbs",
+      "notes": "use red or yellow for best results"
+    },
+    {
+      "name": "olive oil (1/4",
+      "amount": "1/4 cup",
+      "notes": "use a neutral oil for best flavor"
+    },
+    {
+      "name": "onion (1",
+      "amount": "1 medium",
+      "notes": "yellow or white, whichever you prefer"
+    },
+    {
+      "name": "garlic (3",
+      "amount": "3 cloves",
+      "notes": "minced for best flavor"
+    },
+    {
+      "name": "chili flakes (1",
+      "amount": "1 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "paprika (1",
+      "amount": "1 tsp",
+      "notes": "sweet or smoked, whichever you prefer"
+    },
+    {
+      "name": "tomato paste (2",
+      "amount": "2 tbsp",
+      "notes": "canned or fresh, whichever you prefer"
+    },
+    {
+      "name": "tomato sauce (1",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought, whichever you prefer"
+    },
+    {
+      "name": "salt (1",
+      "amount": "1 tsp",
+      "notes": "use kosher or sea salt for best flavor"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425°f (220°c).",
+    "peel and chop the potatoes into 1-inch cubes.",
+    "toss the potatoes with 2 tbsp of olive oil, salt, and chili flakes on a baking sheet lined with parchment paper.",
+    "roast the potatoes in the preheated oven for 20 minutes, or until they are tender and golden brown.",
+    "while the potatoes are roasting, peel and chop the onion and garlic.",
+    "saute the onion and garlic in 1 tbsp of olive oil until the onion is translucent.",
+    "add the chili flakes, paprika, and tomato paste to the pan and cook for 1 minute, stirring constantly.",
+    "add the tomato sauce to the pan and stir to combine.",
+    "bring the sauce to a simmer and cook for 5 minutes, or until it has thickened slightly.",
+    "while the sauce is simmering, slice the nectarines into wedges.",
+    "after the potatoes have roasted for 20 minutes, add the nectarines to the baking sheet and toss to combine.",
+    "return the baking sheet to the oven and roast for an additional 5 minutes, or until the nectarines are tender and caramelized.",
+    "to serve, place the roasted potatoes and nectarines on a plate, then spoon the spicy tomato sauce over the top.",
+    "garnish with chopped fresh herbs, if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "nectarines",
+    "oven-roasted",
+    "patatas-bravas",
+    "spanish",
+    "spicy",
+    "tomato-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-spanish-nectarines-patatas-bravas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spanish-nectarines-patatas-bravas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:26:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "nectarines",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "nectarines",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Patatas Bravas"
+  }
+}

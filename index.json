@@ -1175,6 +1175,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-mediterranean-cannellini-beans-one-pot",
+    "title": "Oily Mediterranean Cannellini Beans One-Pot",
+    "tags": [
+      "mediterranean",
+      "one-pot",
+      "shojin",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oily-molten-uruguayan-beef-flank-steak-stew",
     "title": "Uruguayan Beef Flank Steak Stew",
     "tags": [
@@ -8821,6 +8835,21 @@
       "weeknight-dinner"
     ],
     "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-spanish-nectarines-patatas-bravas",
+    "title": "oven-roasted spanish nectarines patatas bravas",
+    "tags": [
+      "nectarines",
+      "oven-roasted",
+      "patatas-bravas",
+      "spanish",
+      "spicy",
+      "tomato-sauce"
+    ],
+    "cuisine": "spanish",
     "totalTimeMin": 50,
     "shard": "o"
   },
