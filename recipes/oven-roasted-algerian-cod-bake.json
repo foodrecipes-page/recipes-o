@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Algerian Cod Bake",
+  "description": "A cultured and comforting dish featuring cod, perfect for a sick day, with a wood-fired bake and high protein content, finished with a cheese pull.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high protein",
+    "low carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with aluminum foil and brush with olive oil.",
+    "Place the cod fillets on the baking sheet and season with garlic powder, paprika, salt, and black pepper.",
+    "Drizzle lemon juice over the cod fillets.",
+    "Bake the cod in the preheated oven for 12 minutes.",
+    "Remove the cod from the oven and top each fillet with feta cheese.",
+    "Return the cod to the oven and bake for an additional 2 minutes, or until the cheese is melted and golden brown.",
+    "Remove the cod from the oven and let it rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fish-based",
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "oven-roasted-algerian-cod-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-algerian-cod-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "cod",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cod",
+    "descriptor": "oven roasted",
+    "dishForm": "Bake"
+  }
+}
