@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Spanish Asparagus Tortilla Espanola",
+  "description": "A dense and comforting Spanish dish featuring asparagus, render fat, and a pescatarian friendly twist on the traditional tortilla espanola, cooked to perfection in a kazan cauldron.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large kazan cauldron, heat the olive oil over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the asparagus and cook until it is tender, about 5 minutes.",
+    "In a large bowl, whisk together the eggs, smoked paprika, salt, and black pepper.",
+    "Add the cooked potato and asparagus mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into the kazan cauldron and cook over medium heat until the edges start to set.",
+    "Transfer the kazan cauldron to the preheated oven and bake for 20 minutes, or until the tortilla is set and golden brown.",
+    "Remove the kazan cauldron from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "oven-roasted",
+    "pescatarian",
+    "spanish-cuisine",
+    "valencian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "oven-roasted-spanish-asparagus-tortilla-espanola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spanish-asparagus-tortilla-espanola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "render-fat",
+    "primaryIngredient": "asparagus",
+    "diet": "pescatarian",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "asparagus",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Tortilla Espanola"
+  }
+}
