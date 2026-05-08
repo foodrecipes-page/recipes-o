@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Jamaican Pork Casserole",
+  "description": "A hearty, mustardy casserole featuring apples and Jamaican spices, perfect for a sick day or a weeknight dinner. This paleo-friendly dish is made with crispy pork and a hint of cure.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the jerk seasoning, mustard, salt, and black pepper.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the coconut oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork shoulder until it is browned on all sides, about 2-3 minutes per side.",
+    "Remove the pork from the skillet and set it aside.",
+    "Add the chopped onion to the skillet and cook until it is softened, about 5 minutes.",
+    "Add the sliced apples and cook for an additional 2 minutes.",
+    "Return the pork to the skillet and transfer it to the preheated oven.",
+    "Roast the casserole in the oven for 25 minutes, or until the pork is cooked through and the apples are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy-dinner",
+    "jamaican-inspired",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-jamaican-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:38:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "apples",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Casserole"
+  }
+}
