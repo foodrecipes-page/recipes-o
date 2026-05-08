@@ -1,0 +1,104 @@
+{
+  "title": "Oil Rich Ukrainian Pasta Bake",
+  "description": "A rich and flaky Ukrainian dish featuring penne pasta, perfect for a solo dinner, made in a stone bowl and friendly to ayurvedic tamasic diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the penne pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "In a large bowl, combine the cooked pasta, mushroom mixture, shredded grana padano cheese, sour cream, dried dill, salt, and black pepper.",
+    "Transfer the pasta mixture to a stone bowl and bake for 20 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "pasta-bake",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "oil-rich-ukrainian-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-rich-ukrainian-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:51:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "penne pasta",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pasta",
+    "descriptor": "Oil rich",
+    "dishForm": "Pasta"
+  }
+}

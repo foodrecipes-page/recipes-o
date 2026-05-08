@@ -1,0 +1,106 @@
+{
+  "title": "Oven Roasted Slovakian Cheese Casserole",
+  "description": "A rich and fluffy post-workout Slovakian dish featuring candied peel and high protein content, cooked to perfection in a robata grill vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "high protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 1/2 cups",
+      "notes": "crumbly"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded cheddar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill vessel to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, sour cream, salt, and black pepper until well combined.",
+    "Add the crumbled feta cheese, shredded cheddar, chopped parsley, and candied peel to the bowl and stir until just combined.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "Spoon the cheese mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Use a sharp knife to cut a few slits in the top of the pastry for ventilation.",
+    "Place the casserole in the preheated robata grill vessel and bake for 35 minutes.",
+    "Rotate the casserole and continue baking for an additional 10 minutes, or until the pastry is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheesy",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-slovakian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-slovakian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:52:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "candied peel",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "oven roasted",
+    "dishForm": "Casserole"
+  }
+}

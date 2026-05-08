@@ -346,6 +346,20 @@
     "shard": "o"
   },
   {
+    "slug": "oil-rich-ukrainian-pasta-bake",
+    "title": "Oil Rich Ukrainian Pasta Bake",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "pasta-bake",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oily-algerian-lamb-tagine",
     "title": "Oily Algerian Lamb Tagine",
     "tags": [
@@ -5029,6 +5043,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-moroccan-lamb-tagine",
+    "title": "Oven Roasted Moroccan Lamb Tagine",
+    "tags": [
+      "gluten-free",
+      "lamb-recipes",
+      "moroccan-cuisine",
+      "romantic-dinner",
+      "special-occasion",
+      "tandoor-recipes"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-moroccan-tripe-tangia",
     "title": "Oven-Roasted Moroccan Tripe Tangia",
     "tags": [
@@ -5329,6 +5358,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-cheese-casserole",
+    "title": "Oven Roasted Slovakian Cheese Casserole",
+    "tags": [
+      "casserole",
+      "cheesy",
+      "high-protein",
+      "one-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {

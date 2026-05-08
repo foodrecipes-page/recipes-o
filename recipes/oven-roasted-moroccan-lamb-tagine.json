@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Moroccan Lamb Tagine",
+  "description": "A malty, velvety, and romantic Moroccan dish featuring cocoa powder, baked in a tandoor clay pot, perfect for special occasions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together cocoa powder, olive oil, onion, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Transfer the lamb and spice mixture to a tandoor clay pot or a large Dutch oven with a tight-fitting lid.",
+    "Cover the pot with a lid and bake for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "romantic-dinner",
+    "special-occasion",
+    "tandoor-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "oven-roasted-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:51:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "cocoa powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "oven roasted",
+    "dishForm": "Tagine"
+  }
+}
