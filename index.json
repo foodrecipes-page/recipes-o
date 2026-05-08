@@ -5454,6 +5454,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-dutch-chicken-stew",
+    "title": "Oven Roasted Dutch Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "dutch-cuisine",
+      "low-carb",
+      "one-pot",
+      "oven-roasted"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-dutch-vegetable-casserole",
     "title": "Oven Roasted Dutch Vegetable Casserole",
     "tags": [
