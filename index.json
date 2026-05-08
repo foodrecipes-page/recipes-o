@@ -3387,6 +3387,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-peppery-italian-ground-pistachios-torta-caprese",
+    "title": "Oozy Peppery Italian Ground Pistachios Torta Caprese",
+    "tags": [
+      "air-fryer",
+      "cheesy",
+      "gluten-free",
+      "italian-food",
+      "one-pot",
+      "peppery",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-peruvian-chickpea-causa-limena",
     "title": "Oozy Peruvian Chickpea Causa Limena",
     "tags": [
@@ -6408,6 +6424,20 @@
       "smoky",
       "spicy",
       "velvety"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-egyptian-pork-kebabs",
+    "title": "Oven Roasted Egyptian Pork Kebabs",
+    "tags": [
+      "high-protein",
+      "low-calorie",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 50,

@@ -1,0 +1,96 @@
+{
+  "title": "Oozy Peppery Italian Ground Pistachios Torta Caprese",
+  "description": "A one-pot Italian dish featuring ground pistachios, with a peppery and cheese-pull texture, made in an air fryer and following ayurvedic-sattvic-friendly principles.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "4 oz",
+      "notes": "grated"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pistachios, mozzarella cheese, parmesan cheese, pepper, and salt, and mix well.",
+    "Add the chopped basil and tomato sauce to the bowl and stir until a dough forms.",
+    "Transfer the dough to a greased air fryer basket and shape into a torta caprese.",
+    "Drizzle the olive oil over the torta caprese and cook in the air fryer for 15 minutes.",
+    "Flip the torta caprese over and cook for an additional 10 minutes, or until golden brown and cooked through.",
+    "Remove the torta caprese from the air fryer and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "cheesy",
+    "gluten-free",
+    "italian-food",
+    "one-pot",
+    "peppery",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "oozy-peppery-italian-ground-pistachios-torta-caprese",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-peppery-italian-ground-pistachios-torta-caprese",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "ground pistachios",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ground pistachios",
+    "descriptor": "Oozy Peppery",
+    "dishForm": "Torta Caprese"
+  }
+}

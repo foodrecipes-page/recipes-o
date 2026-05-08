@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Egyptian Pork Kebabs",
+  "description": "Buttery and flaky Egyptian dish featuring pork shoulder steaks in a miso marinate, perfect for a low-calorie dinner option",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together miso paste, olive oil, lemon juice, garlic, ginger, cumin, and paprika",
+    "Add the pork cubes to the bowl and toss to coat with the miso marinate",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each cube",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Roast the pork kebabs in the preheated oven for 20 minutes",
+    "Flip the kebabs over and continue roasting for an additional 10-15 minutes, or until cooked through",
+    "Remove the kebabs from the oven and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-calorie",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "oven-roasted-egyptian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-egyptian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "miso-marinate",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kebabs"
+  }
+}
