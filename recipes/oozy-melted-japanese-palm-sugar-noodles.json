@@ -1,0 +1,88 @@
+{
+  "title": "Oozy Melted Japanese Palm Sugar Noodles",
+  "description": "A post-workout Japanese dish featuring fermented palm sugar and cheese-pull noodles, made with gluten-free friendly ingredients and cooked to perfection in a bain-marie.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese palm sugar",
+      "amount": "1 cup",
+      "notes": "also known as nam tan pip"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a small saucepan, combine the Japanese palm sugar, fermented soy sauce, and 1 cup of water, and heat over low heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the sugar has dissolved and the mixture is smooth.",
+    "In a large bowl, combine the cooked noodles, grated daikon, and sesame oil, and toss to combine.",
+    "Pour the palm sugar mixture over the noodles and toss to coat.",
+    "Transfer the noodles to a bain-marie and cook for 10 minutes, or until the noodles are heated through and the sauce is bubbly.",
+    "Season with salt to taste.",
+    "Serve the noodles hot, garnished with additional grated daikon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fermented-foods",
+    "gluten-free",
+    "japanese-cuisine",
+    "noodle-dish",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oozy-melted-japanese-palm-sugar-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-melted-japanese-palm-sugar-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "bain-marie",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "gluten-free",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "palm sugar",
+    "descriptor": "Oozy melted",
+    "dishForm": "Noodles"
+  }
+}
