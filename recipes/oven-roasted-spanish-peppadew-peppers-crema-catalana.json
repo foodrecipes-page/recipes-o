@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Spanish Peppadew Peppers Crema Catalana",
+  "description": "A sweet and savory Spanish dessert featuring roasted Peppadew peppers and a creamy custard base, infused with the deep umami flavor of kombu cold extract. This dish is inspired by the traditional Catalan cream and is made with ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peppadew peppers",
+      "amount": "12",
+      "notes": "any color"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the Peppadew peppers on a baking sheet and roast for 30 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool, then peel off the skin and chop the flesh into small pieces.",
+    "In a medium saucepan, combine the cream, sugar, and salt, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the eggs, lemon zest, and vanilla extract.",
+    "Gradually add the hot cream mixture to the egg mixture, whisking constantly to prevent the eggs from scrambling.",
+    "Stir in the chopped Peppadew peppers and kombu cold extract.",
+    "Pour the mixture into 6 small ramekins or cups and place them in a large baking dish.",
+    "Add hot water to the baking dish to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature, then cover and refrigerate for at least 2 hours or overnight."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "crema-catalana",
+    "gluten-free",
+    "spanish-dessert",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "oven-roasted-spanish-peppadew-peppers-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spanish-peppadew-peppers-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:19:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "ayurvedic-rajasic",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peppadew peppers",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Crema Catalana"
+  }
+}
