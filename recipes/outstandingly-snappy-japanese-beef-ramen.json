@@ -1,0 +1,99 @@
+{
+  "title": "Outstandingly Snappy Japanese Beef Ramen",
+  "description": "A sour and snappy Japanese dish featuring hot beef stock and char-grill-yang flavors, perfect for a crowd, and friendly to shojin dietary preferences. This recipe combines traditional Japanese flavors with a modern twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "water",
+      "amount": "4 quarts"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "sliced beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Grill the sliced beef to desired doneness.",
+    "In a large pot, combine beef bones, water, soy sauce, sake, and mirin, and bring to a boil.",
+    "Reduce heat to low and simmer for 4 hours.",
+    "Strain the broth and discard the solids.",
+    "Cook the ramen noodles according to package instructions.",
+    "Slice the grilled beef into thin strips.",
+    "Assemble the ramen bowls with noodles, beef, green onions, sesame seeds, and pickled ginger.",
+    "Ladle the hot broth over the top and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "japanese-recipes",
+    "ramen-recipes",
+    "shojin-recipes",
+    "snappy-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "outstandingly-snappy-japanese-beef-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-snappy-japanese-beef-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:12:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "hot beef stock",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "outstandingly snappy",
+    "dishForm": "Ramen"
+  }
+}
