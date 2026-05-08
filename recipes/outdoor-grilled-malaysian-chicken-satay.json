@@ -1,0 +1,100 @@
+{
+  "title": "Outdoor Grilled Malaysian Chicken Satay",
+  "description": "A malty, fluffy, comforting Malaysian dish featuring green-curry-paste, broiled to perfection on a binchotan grill, this recipe is gluten-free-friendly and perfect for outdoor gatherings.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together green curry paste, coconut milk, brown sugar, fish sauce, and lime juice.",
+    "Add the chicken strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto the bamboo skewers.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the satay for 5-7 minutes per side, or until cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with your favorite sides.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "gluten-free",
+    "grilled-chicken",
+    "malaysian-cuisine",
+    "outdoor-cooking",
+    "satay-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "outdoor-grilled-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:48:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Satay"
+  }
+}
