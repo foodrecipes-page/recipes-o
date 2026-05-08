@@ -1,0 +1,96 @@
+{
+  "title": "Oven Smoky Argentinian Beef Skewers",
+  "description": "A smoky and cheesy Argentinian dish featuring sake-cooked beef, lacquer glaze, and a low-calorie friendly approach, perfect for a show-off dinner party.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sake, olive oil, garlic, and smoked paprika.",
+    "Add the beef cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the beef is cooking, prepare the lacquer glaze by whisking together the lacquer glaze ingredients.",
+    "After 15 minutes, brush the lacquer glaze onto the beef skewers and return to the oven for an additional 5 minutes.",
+    "Remove the skewers from the oven and top each with a sprinkle of shredded provolone cheese.",
+    "Return the skewers to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "cheesy-dishes",
+    "low-calorie",
+    "oven-cooked",
+    "skewers",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "oven-smoky-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoky-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:03:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "sake-cooking",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Smoky",
+    "dishForm": "Skewers"
+  }
+}
