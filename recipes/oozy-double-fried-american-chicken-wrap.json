@@ -1,0 +1,101 @@
+{
+  "title": "Oozy Double Fried American Chicken Wrap",
+  "description": "A savory and silky American dish featuring sour cream and double fried chicken, all wrapped in a ti leaf wrap, perfect for a midnight craving",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the onion powder, garlic powder, salt, and pepper.",
+    "Toss the chicken breast strips in the bowl to coat with the spice mixture.",
+    "Double fry the chicken by frying it for 5 minutes, then letting it rest for 5 minutes, and frying it again for an additional 5 minutes.",
+    "While the chicken is resting, cook the crumbled bacon in a pan until crispy.",
+    "In a separate bowl, mix together the sour cream and shredded cheddar cheese.",
+    "To assemble the wrap, lay a ti leaf flat and spread a quarter of the sour cream mixture down the center of the leaf.",
+    "Add a quarter of the double fried chicken on top of the sour cream mixture.",
+    "Add a quarter of the crumbled bacon on top of the chicken.",
+    "Fold the ti leaf over the filling to form a wrap and repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "oozy-double-fried-american-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-double-fried-american-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:25:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sour cream",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Oozy Double Fried",
+    "dishForm": "Wrap"
+  }
+}
