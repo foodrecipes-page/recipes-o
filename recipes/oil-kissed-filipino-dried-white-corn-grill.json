@@ -1,0 +1,89 @@
+{
+  "title": "Oil Kissed Filipino Dried White Corn Grill",
+  "description": "A garlicky and light Filipino dish featuring dried white corn, perfect for a lazy Sunday, this recipe is ayurvedic-rajasic-friendly and offers a char-grill flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, mix together the soaked and drained dried white corn, minced garlic, coconut oil, salt, and black pepper until the corn is well coated.",
+    "Grill the corn mixture for about 10 minutes, stirring occasionally, until it is lightly charred.",
+    "Remove the corn from the grill and stir in the lemon juice.",
+    "Transfer the corn to a serving platter and garnish with chopped green onions.",
+    "Serve the Oil Kissed Filipino Dried White Corn Grill hot, straight from the grill.",
+    "Let it cool for a few minutes before serving if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "filipino-food",
+    "gluten-free",
+    "grilled-corn",
+    "lazy-sunday",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "oil-kissed-filipino-dried-white-corn-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-kissed-filipino-dried-white-corn-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:59:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "dried white corn",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "dried white corn",
+    "descriptor": "oil kissed",
+    "dishForm": "Grill"
+  }
+}
