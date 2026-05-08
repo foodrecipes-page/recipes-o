@@ -1,0 +1,93 @@
+{
+  "title": "Oddly Oven Roasted Japanese San Marzano Tomato Onigiri",
+  "description": "A mustardy and fluffy Japanese dish featuring San Marzano tomatoes, perfect for adventurous eaters, this diabetic-friendly onigiri is a unique twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "4",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "northern-style Japanese mustard",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Prepare the Japanese short grain rice according to the package instructions.",
+    "Cut the San Marzano tomatoes into small pieces and mix with kombu cold extract, Dijon mustard, rice vinegar, salt, sugar, and northern-style Japanese mustard.",
+    "Mix the tomato mixture with the prepared Japanese short grain rice.",
+    "Using wet hands, shape the rice mixture into triangular onigiri shapes.",
+    "Place the onigiri on a baking sheet lined with parchment paper.",
+    "Bake the onigiri in the preheated oven for 10 minutes.",
+    "Remove the onigiri from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "japanese-cuisine",
+    "onigiri",
+    "oven-roasted",
+    "san-marzano-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 5
+  },
+  "slug": "oddly-oven-roasted-japanese-san-marzano-tomato-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oddly-oven-roasted-japanese-san-marzano-tomato-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:29:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "san marzano tomato",
+    "descriptor": "oddly oven roasted",
+    "dishForm": "Onigiri"
+  }
+}
