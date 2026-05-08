@@ -1,0 +1,104 @@
+{
+  "title": "Oozy Spicy Japanese Bryndza Cheese Miso Ramen",
+  "description": "A spicy and fluffy lacto-vegetarian ramen dish featuring bryndza cheese and Japanese miso, perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the sake, mirin, and gochujang to the pot and stir to combine.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Cook the ramen noodles according to the package instructions and set aside.",
+    "In a small bowl, whisk together the miso paste and 2 tablespoons of hot water until smooth.",
+    "Add the miso mixture to the pot and stir to combine.",
+    "Add the crumbled bryndza cheese to the pot and stir until melted and smooth.",
+    "Add the cooked ramen noodles to the pot and stir to combine.",
+    "Transfer the ramen to a bowl and top with green onions and a drizzle of sesame oil.",
+    "Immediately submerge the bowl in an ice bath to stop the cooking process.",
+    "Serve the oozy spicy Japanese bryndza cheese miso ramen hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "lacto-vegetarian",
+    "one-pot-meal",
+    "ramen-recipes",
+    "spicy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-spicy-japanese-bryndza-cheese-miso-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-spicy-japanese-bryndza-cheese-miso-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:52:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "lacto-vegetarian",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "Oozy Spicy",
+    "dishForm": "Miso Ramen"
+  }
+}

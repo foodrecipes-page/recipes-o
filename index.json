@@ -3427,6 +3427,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-spicy-japanese-bryndza-cheese-miso-ramen",
+    "title": "Oozy Spicy Japanese Bryndza Cheese Miso Ramen",
+    "tags": [
+      "japanese-cuisine",
+      "lacto-vegetarian",
+      "one-pot-meal",
+      "ramen-recipes",
+      "spicy-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-springy-moroccan-burrata-mrouzia",
     "title": "Oozy Springy Moroccan Burrata Mrouzia",
     "tags": [
@@ -8116,6 +8131,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-turkish-vegetable-borek",
+    "title": "Oven Roasted Turkish Vegetable Borek",
+    "tags": [
+      "mediterranean",
+      "one-pan",
+      "turkish-food",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
