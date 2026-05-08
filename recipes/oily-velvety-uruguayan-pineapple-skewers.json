@@ -1,0 +1,97 @@
+{
+  "title": "Oily Velvety Uruguayan Pineapple Skewers",
+  "description": "Indulge in the rich flavors of Uruguay with these velvety pineapple skewers, featuring a miso marinade and a dairy-free friendly twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "In a large bowl, whisk together miso paste, olive oil, coconut cream, lime juice, garlic powder, salt, and black pepper.",
+    "Add the pineapple chunks to the bowl and toss to coat with the miso marinade.",
+    "Thread the marinated pineapple chunks onto the soaked bamboo skewers.",
+    "Grill the skewers for 8 minutes, turning occasionally.",
+    "Brush the skewers with additional coconut cream during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and let cool for 2 minutes.",
+    "Serve the oily velvety Uruguayan pineapple skewers warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grilled",
+    "pineapple",
+    "south-american",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "oily-velvety-uruguayan-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-velvety-uruguayan-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:46:31Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "pineapple",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pineapple",
+    "descriptor": "oily velvety",
+    "dishForm": "Skewers"
+  }
+}
