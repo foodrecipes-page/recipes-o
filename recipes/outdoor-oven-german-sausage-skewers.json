@@ -1,0 +1,96 @@
+{
+  "title": "Outdoor Oven German Sausage Skewers",
+  "description": "A grassy, springy, lazy-Sunday German dish featuring doubanjiang and yakimono-grill, perfect for a nut-free-friendly gathering.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably Weisswurst or Bratwurst"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the outdoor oven to 400 degrees Fahrenheit.",
+    "Cut the German sausage into 1-inch pieces and set aside.",
+    "Cut the bell peppers, onions, potatoes, and carrots into 1-inch pieces.",
+    "Thread the sausage and vegetables onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the doubanjiang, olive oil, salt, and black pepper.",
+    "Brush the mixture onto the sausage and vegetables.",
+    "Place the skewers on the yakimono-grill and cook for 20 minutes, turning occasionally.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "german-cuisine",
+    "outdoor-cooking",
+    "sausage-recipes",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "outdoor-oven-german-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-oven-german-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:56:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "doubanjiang",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausages",
+    "descriptor": "Outdoor Oven",
+    "dishForm": "Skewers"
+  }
+}
