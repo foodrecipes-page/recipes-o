@@ -1,0 +1,100 @@
+{
+  "title": "Oily Spicy Jamaican Chicken Breast Curry",
+  "description": "A spicy and silky Jamaican chicken breast curry made with shio-cure and cooked in a copper pot, perfect for a cozy dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the copper pot over medium heat.",
+    "Rub the chicken breast with shio cure and let it sit for 10 minutes.",
+    "Add coconut oil to the copper pot and saute the diced onion until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the diced scotch bonnet peppers and cook for 1 minute.",
+    "Add the chicken breast to the copper pot and cook until browned on all sides.",
+    "Add the chicken broth and heavy cream to the copper pot and bring to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes.",
+    "Serve the curry hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican",
+    "keto-friendly",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "oily-spicy-jamaican-chicken-breast-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-spicy-jamaican-chicken-breast-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:56:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "chicken breast",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken breast",
+    "descriptor": "oily spicy",
+    "dishForm": "Curry"
+  }
+}
