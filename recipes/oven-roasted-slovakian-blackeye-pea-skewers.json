@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Slovakian Blackeye Pea Skewers",
+  "description": "A traditional Slovakian dish featuring blackeye peas, roasted to perfection in the oven with a crispy exterior and a tender interior, wrapped in ti leaves for added flavor and moisture.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the dried blackeye peas and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked blackeye peas, then mix them with olive oil, garlic, onion, paprika, salt, and black pepper in a large bowl.",
+    "Thread the blackeye pea mixture onto skewers, leaving a small space between each pea.",
+    "Wrap each skewer in a ti leaf, securing it with a toothpick if needed.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the oven for 25 minutes.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the skewers hot, garnished with additional paprika if desired.",
+    "Repeat the process until all the blackeye pea mixture is used up."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "roasted-vegetables",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oven-roasted-slovakian-blackeye-pea-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-slovakian-blackeye-pea-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:41:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "blackeye pea",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "oven roasted",
+    "dishForm": "Skewers"
+  }
+}
