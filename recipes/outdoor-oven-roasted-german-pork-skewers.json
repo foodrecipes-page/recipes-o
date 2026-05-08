@@ -1,0 +1,95 @@
+{
+  "title": "Outdoor Oven-Roasted German Pork Skewers",
+  "description": "Grassy and juicy German dish featuring rice paper sheets and a Mediterranean twist, perfect for kids and outdoor gatherings.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the outdoor oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Thread 3-4 pork pieces onto each rice paper sheet, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until the pork is cooked through.",
+    "Remove the skewers from the oven and brush with the deglaze-fond.",
+    "Sprinkle chopped parsley over the skewers and serve hot.",
+    "Deglaze the baking sheet with a little water to remove the browned bits and serve the sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "german-cuisine",
+    "grilled-meats",
+    "kid-friendly",
+    "mediterranean-inspired",
+    "outdoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "outdoor-oven-roasted-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-oven-roasted-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:55:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Outdoor Oven-Roasted",
+    "dishForm": "Skewers"
+  }
+}
