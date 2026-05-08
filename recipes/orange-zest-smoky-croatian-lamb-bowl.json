@@ -1,0 +1,98 @@
+{
+  "title": "Orange Zest Smoky Croatian Lamb Bowl",
+  "description": "A smoky and crunchy Croatian dish featuring orange zest, perfect for a date night, served in an earthenware bowl and suitable for a shojin-friendly diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together orange zest, smoked paprika, garlic, salt, and black pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then transfer it to the preheated oven.",
+    "Roast the lamb for 2 hours, or until it is tender and falls apart easily.",
+    "While the lamb is cooking, prepare the dates by slicing them into thin wedges.",
+    "Once the lamb is done, let it rest for 10 minutes before slicing it into thin strips.",
+    "To assemble the bowls, place a portion of the lamb into an earthenware bowl, then top with dates, parsley, and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "date-night",
+    "earthenware-bowl",
+    "lamb-recipes",
+    "shojin-friendly",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "orange-zest-smoky-croatian-lamb-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-zest-smoky-croatian-lamb-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:16:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "orange zest",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Orange Zest Smoky",
+    "dishForm": "Bowl"
+  }
+}
