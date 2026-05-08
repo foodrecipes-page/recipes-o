@@ -1,0 +1,88 @@
+{
+  "title": "oven-roasted fresh german broad beans bake",
+  "description": "a delicious and healthy german dish featuring fresh broad beans as the main ingredient. perfect for a post-workout meal.",
+  "cuisine": "german",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh german broad beans",
+      "amount": "1 pound"
+    },
+    {
+      "name": "scored fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°C (200°F).",
+    "in a large mixing bowl, combine the broad beans, scored fat, garlic, salt, and black pepper.",
+    "drizzle the olive oil over the mixture and toss to coat.",
+    "transfer the mixture to a baking dish and roast in the preheated oven for 20 minutes.",
+    "remove the dish from the oven and sprinkle with chopped parsley and lemon juice.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "healthy",
+    "one-pan",
+    "post-workout",
+    "satvik",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "oven-roasted-fresh-german-broad-beans-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-fresh-german-broad-beans-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:04:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "score-fat",
+    "primaryIngredient": "broad beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "broad beans",
+    "descriptor": "Oven-Roasted Fresh",
+    "dishForm": "Bake"
+  }
+}
