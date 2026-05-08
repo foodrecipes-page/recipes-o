@@ -1,0 +1,101 @@
+{
+  "title": "Oven Roasted Mediterranean Lamb Tagine",
+  "description": "A charred, dense, and indulgent Mediterranean dish featuring lamb, white wine vinegar, and a flaky puff pastry crust, all cooked to perfection in a hot pot vessel.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the white wine vinegar, olive oil, dried oregano, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Let the lamb marinate for at least 30 minutes.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle, about 1/4 inch thick.",
+    "In a large hot pot vessel, arrange a layer of onion and garlic.",
+    "Add the marinated lamb on top of the onion and garlic layer.",
+    "Place the puff pastry rectangle over the lamb, pressing the edges to seal.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Bake the tagine in the preheated oven for 45 minutes, or until the pastry is golden brown and the lamb is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "mediterranean",
+    "one-pot",
+    "oven-roasted",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "oven-roasted-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:43:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Tagine"
+  }
+}

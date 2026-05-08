@@ -2533,6 +2533,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-garlicky-french-ricotta-clafoutis",
+    "title": "Oozy Garlicky French Ricotta Clafoutis",
+    "tags": [
+      "french-cuisine",
+      "garlicky",
+      "one-pan",
+      "ricotta-based",
+      "romantic-dinner",
+      "spring-inspired",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-garlicky-syrian-tofu-tacos",
     "title": "Oozy Garlicky Syrian Tofu Tacos",
     "tags": [
@@ -6013,6 +6029,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mediterranean-lamb-tagine",
+    "title": "Oven Roasted Mediterranean Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb",
+      "mediterranean",
+      "one-pot",
+      "oven-roasted",
+      "puff-pastry"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {

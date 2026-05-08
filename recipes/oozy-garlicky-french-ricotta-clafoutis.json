@@ -1,0 +1,108 @@
+{
+  "title": "Oozy Garlicky French Ricotta Clafoutis",
+  "description": "A romantic French dish featuring ricotta, mirepoix-base, and garlicky flavors, perfect for a spring evening. This vegetarian-friendly clafoutis is sure to impress.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 1/2 cups",
+      "notes": "drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "such as Gruyere or Cheddar"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the diced onion, carrots, and celery in a little bit of oil until they are tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, whisk together the eggs, ricotta cheese, grated cheese, salt, and black pepper.",
+    "Add the cooked mirepoix mixture to the bowl and stir to combine.",
+    "Pour the mixture into a 9-inch round baking dish and smooth the top.",
+    "Bake the clafoutis for 35-40 minutes, or until it is puffed and golden brown.",
+    "Remove the clafoutis from the oven and sprinkle with chopped parsley.",
+    "Let the clafoutis rest for 10 minutes before serving.",
+    "Serve the clafoutis warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "garlicky",
+    "one-pan",
+    "ricotta-based",
+    "romantic-dinner",
+    "spring-inspired",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "oozy-garlicky-french-ricotta-clafoutis",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-garlicky-french-ricotta-clafoutis",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:43:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "ricotta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "ricotta",
+    "descriptor": "Oozy garlicky",
+    "dishForm": "Clafoutis"
+  }
+}
