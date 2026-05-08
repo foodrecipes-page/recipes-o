@@ -1,0 +1,93 @@
+{
+  "title": "Oozy Buttery Korean Apricot Deopbap",
+  "description": "A sweet and savory Korean dish featuring apricot jam, cooked in a kazan cauldron with a buttery and bouncy texture, perfect for a special occasion",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean rice",
+      "amount": "2 cups",
+      "notes": "short grain rice"
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Korean rice thoroughly and cook it according to the package instructions",
+    "In a small saucepan, melt 2 tablespoons of unsalted butter over low heat",
+    "Add the gochujang and soy sauce to the melted butter and stir until well combined",
+    "Add the apricot jam to the saucepan and stir until the mixture is smooth",
+    "In a kazan cauldron, combine the cooked Korean rice, apricot jam mixture, and chopped green onions",
+    "Stir the mixture over low heat until the rice is well coated with the apricot jam mixture",
+    "Transfer the mixture to a serving platter and top with toasted sesame seeds and crushed black pepper",
+    "Melt the remaining 2 tablespoons of unsalted butter and drizzle it over the top of the dish",
+    "Serve the Oozy Buttery Korean Apricot Deopbap immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "low-sodium",
+    "one-pot",
+    "special-occasion",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-buttery-korean-apricot-deopbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-buttery-korean-apricot-deopbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:40:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "tagine-cook",
+    "primaryIngredient": "apricot jam",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "apricot",
+    "descriptor": "Oozy Buttery",
+    "dishForm": "Deopbap"
+  }
+}
