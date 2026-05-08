@@ -1,0 +1,104 @@
+{
+  "title": "Outstandingly Rich Filipino Chicken Tinola",
+  "description": "A rich and fluffy Filipino dish featuring chicken cooked in a flavorful broth with khus khus and score fat, perfect for a date night, this ayurvedic tamasic friendly recipe is sure to impress, the form of tinola makes it a standout",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "khus khus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the score fat over medium heat until melted",
+    "Add the chopped onions and cook until they are translucent",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the chicken thighs and cook until browned on all sides",
+    "Add the khus khus, chicken broth, fish sauce, salt, and black pepper",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes",
+    "Remove the chicken from the pot and set it aside to rest",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids",
+    "Add the chicken back to the pot and simmer for an additional 10 minutes",
+    "Serve the chicken and broth hot, garnished with chopped green onions"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "date-night",
+    "filipino-cuisine",
+    "gluten-free",
+    "rich-and-fluffy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "outstandingly-rich-filipino-chicken-tinola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-rich-filipino-chicken-tinola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:01:01Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "khus khus",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Outstandingly Rich",
+    "dishForm": "Tinola"
+  }
+}
