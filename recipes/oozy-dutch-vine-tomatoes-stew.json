@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Dutch Vine Tomatoes Stew",
+  "description": "A comforting and citrusy Dutch stew featuring vine tomatoes and yuzu-cure, perfect for a sick day, served in an agave leaf vessel.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the vine tomatoes with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the tomatoes out in a single layer on a baking sheet and roast for 20 minutes.",
+    "In a large pot, saute the chopped onion and minced garlic in olive oil over medium heat until the onion is translucent.",
+    "Add the roasted tomatoes, yuzu juice, and agave syrup to the pot and stir to combine.",
+    "Reduce heat to low and simmer the stew for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley, in an agave leaf vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "dutch-cuisine",
+    "halal-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "oozy-dutch-vine-tomatoes-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-dutch-vine-tomatoes-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:35:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "oozy citrusy",
+    "dishForm": "Stew"
+  }
+}
