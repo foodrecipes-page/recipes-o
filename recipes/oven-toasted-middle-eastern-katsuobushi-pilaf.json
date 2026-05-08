@@ -1,0 +1,103 @@
+{
+  "title": "Oven Toasted Middle Eastern Katsuobushi Pilaf",
+  "description": "A nutty and crunchy one-pot Middle Eastern dish featuring katsuobushi, this pescatarian-friendly pilaf is cooked to perfection in a copper mug.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "katsuobushi",
+      "amount": "1/2 cup",
+      "notes": "dried and fermented bonito flakes"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large copper mug, heat the olive oil over medium heat on the stovetop.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the katsuobushi, sumac, paprika, salt, and black pepper, and stir to combine.",
+    "Add the basmati rice and stir to combine with the katsuobushi mixture.",
+    "Transfer the copper mug to the preheated oven and bake for 20 minutes.",
+    "Remove the mug from the oven and fluff the pilaf with a fork.",
+    "Garnish with chopped pistachios and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "middle-eastern",
+    "nutty",
+    "one-pot",
+    "oven-toasted",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oven-toasted-middle-eastern-katsuobushi-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-middle-eastern-katsuobushi-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:51:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "katsuobushi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "oven toasted",
+    "dishForm": "Pilaf"
+  }
+}
