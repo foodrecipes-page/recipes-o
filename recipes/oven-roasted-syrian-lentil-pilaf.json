@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Syrian Lentil Pilaf",
+  "description": "A comforting Syrian dish featuring yellow curry paste and a blend of spices, roasted to perfection in a slate tile vessel.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils work well"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the lentils, yellow curry paste, olive oil, onion, garlic, tandoor spice blend, salt, and black pepper.",
+    "Transfer the mixture to a slate tile vessel and roast in the oven for 30 minutes.",
+    "While the lentil mixture is roasting, prepare the eggs by beating them in a small bowl.",
+    "After the lentil mixture has roasted for 30 minutes, remove it from the oven and create 2 wells in the mixture.",
+    "Pour the beaten eggs into the wells and return the vessel to the oven.",
+    "Continue to roast for an additional 10-15 minutes, or until the eggs are set and the lentils are tender.",
+    "Remove the vessel from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lentil-recipes",
+    "oven-roasted",
+    "syrian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oven-roasted-syrian-lentil-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-syrian-lentil-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:38:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "oven roasted nutty",
+    "dishForm": "Pilaf"
+  }
+}
