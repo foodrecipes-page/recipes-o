@@ -421,6 +421,21 @@
     "shard": "o"
   },
   {
+    "slug": "oil-rich-german-apricot-pilaf",
+    "title": "Oil Rich German Apricot Pilaf",
+    "tags": [
+      "gluten-free",
+      "indulgent",
+      "one-pot",
+      "special-occasion",
+      "umami-rich",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oil-rich-kenyan-hazelnuts-flatbread",
     "title": "Oil Rich Kenyan Hazelnuts Flatbread",
     "tags": [
@@ -6301,6 +6316,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-saudi-arabian-chicken-kebabs",
+    "title": "Oven Roasted Saudi Arabian Chicken Kebabs",
+    "tags": [
+      "chicken-kebabs",
+      "easy-dinner",
+      "kid-friendly",
+      "middle-eastern",
+      "oven-roasted",
+      "sugar-free"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

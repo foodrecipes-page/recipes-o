@@ -1,0 +1,92 @@
+{
+  "title": "Oven Roasted Saudi Arabian Chicken Kebabs",
+  "description": "A kid-friendly Saudi Arabian dish featuring plum jam, this recipe is sugar-free-friendly and roasted to perfection, resulting in a crispy exterior and juicy interior. The use of papillote ensures even cooking and a flavorful outcome.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sugar-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together plum jam, olive oil, lemon juice, garlic, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the plum jam mixture.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Wrap each skewer in foil, creating a papillote, and place on a baking sheet.",
+    "Roast the chicken kebabs in the preheated oven for 20 minutes.",
+    "Remove the foil and continue roasting for an additional 10-12 minutes, or until the chicken is cooked through and the exterior is crispy.",
+    "Remove the kebabs from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-kebabs",
+    "easy-dinner",
+    "kid-friendly",
+    "middle-eastern",
+    "oven-roasted",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "oven-roasted-saudi-arabian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-saudi-arabian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:24:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "papillote",
+    "primaryIngredient": "plum jam",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kebabs"
+  }
+}
