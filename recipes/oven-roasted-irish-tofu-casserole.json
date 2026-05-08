@@ -1,0 +1,96 @@
+{
+  "title": "Oven Roasted Irish Tofu Casserole",
+  "description": "A comforting and crispy Irish dish featuring sweet chilli sauce and sashimi-cut tofu, perfect for a cold evening. This vegan-friendly casserole is sure to become a favorite.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into sashimi-style pieces"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "irish oatmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the tofu pieces with sweet chilli sauce until they are evenly coated.",
+    "In a separate bowl, mix together the irish oatmeal, vegetable oil, onion, garlic, mushrooms, nutritional yeast, salt, and pepper.",
+    "In a 9x13 inch baking dish, create a layer of the oatmeal mixture, followed by a layer of the tofu pieces, and repeat this process until all ingredients are used, ending with a layer of oatmeal on top.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the top is crispy and golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-roasted-irish-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-irish-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:43:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tofu",
+    "descriptor": "Oven roasted",
+    "dishForm": "Casserole"
+  }
+}
