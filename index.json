@@ -538,6 +538,21 @@
     "shard": "o"
   },
   {
+    "slug": "oil-infused-dutch-fruit-pudding",
+    "title": "Oil Infused Dutch Fruit Pudding",
+    "tags": [
+      "ayurvedic-friendly",
+      "dutch-cuisine",
+      "fruit-based",
+      "vegetarian-desserts",
+      "winter-dishes",
+      "yeast-baking"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oil-infused-greek-squash-loukoumades",
     "title": "Oil Infused Greek Squash Loukoumades",
     "tags": [
@@ -7008,6 +7023,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-italian-vegetable-pesto-pasta",
+    "title": "Oven Roasted Italian Vegetable Pesto Pasta",
+    "tags": [
+      "egg-free",
+      "italian-food",
+      "one-pan",
+      "pesto-sauce",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

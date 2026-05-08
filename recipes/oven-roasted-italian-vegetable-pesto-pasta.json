@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Italian Vegetable Pesto Pasta",
+  "description": "A cozy Sicilian dish featuring roasted vegetables and pesto sauce, perfect for a weeknight dinner. This egg-free friendly recipe is a great option for those with dietary restrictions.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "pesto sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Toss the sliced zucchini and bell peppers with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 20 minutes, or until tender and lightly browned.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large bowl, combine the cooked pasta, roasted vegetables, and pesto sauce.",
+    "Toss the pasta mixture until the sauce is well combined and the vegetables are evenly distributed.",
+    "Add the halved cherry tomatoes to the pasta mixture and toss gently.",
+    "Season the pasta with additional salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with additional cherry tomatoes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "italian-food",
+    "one-pan",
+    "pesto-sauce",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "oven-roasted-italian-vegetable-pesto-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-italian-vegetable-pesto-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:44:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "egg-free",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pesto Pasta"
+  }
+}

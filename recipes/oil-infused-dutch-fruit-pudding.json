@@ -1,0 +1,95 @@
+{
+  "title": "Oil Infused Dutch Fruit Pudding",
+  "description": "A yeasty and silky Dutch dessert featuring dried fruit and infused oil, friendly to the ayurvedic tamasic diet. This energizing dish is perfect for a cold winter evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried fruit",
+      "amount": "1 cup",
+      "notes": "cranberries, raisins, and cherries"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "coconut oil with cinnamon and ginger"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the dried fruit, infused oil, and yeast.",
+    "Let the mixture sit for 10 minutes to allow the yeast to activate.",
+    "Add the flour, sugar, water, and salt to the bowl and mix until a smooth batter forms.",
+    "Knead the batter for 5 minutes until it becomes elastic.",
+    "Place the batter in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Pour the batter into a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the pudding from the oven and let it cool for 10 minutes.",
+    "Drizzle the vanilla extract over the pudding and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "dutch-cuisine",
+    "fruit-based",
+    "vegetarian-desserts",
+    "winter-dishes",
+    "yeast-baking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "oil-infused-dutch-fruit-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-dutch-fruit-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dried fruit",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fruit",
+    "descriptor": "oil infused",
+    "dishForm": "Pudding"
+  }
+}
