@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted French Duck Terrine",
+  "description": "A classic French dish featuring tender duck, clear honey, and a bitter, glassy jelly, perfect for a weeknight dinner. This low-fat-friendly terrine is made with a delicate balance of flavors and textures.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "clear honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "port wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the duck breast with black pepper and thyme.",
+    "Roast the duck breast in the oven for 20 minutes, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the duck breast rest for 10 minutes before slicing it into thin strips.",
+    "In a small saucepan, combine the clear honey, port wine, and chicken broth, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, or until it has reduced by half.",
+    "Remove the saucepan from the heat and stir in the gelatin until it is fully dissolved.",
+    "Strain the mixture through a fine-mesh sieve into a clean bowl, and let it cool to room temperature.",
+    "To assemble the terrine, layer the sliced duck breast, shallots, and honey-gelatin mixture in a terrine mold, repeating the layers two or three times.",
+    "Refrigerate the terrine for at least 2 hours, or until it is set.",
+    "To serve, remove the terrine from the refrigerator and let it sit at room temperature for 30 minutes, then slice it into thick slices and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "duck-recipes",
+    "french-cuisine",
+    "low-fat",
+    "one-pan",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "oven-roasted-french-duck-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-french-duck-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:43:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "clear honey",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Terrine"
+  }
+}
