@@ -1,0 +1,105 @@
+{
+  "title": "Outstandingly Oven Roasted Venezuelan Egg Noodles",
+  "description": "A fresh and flaky Venezuelan dish featuring egg noodles, robata-grill flavors, and fodmap-friendly ingredients, perfect for a unique dinner experience. This recipe combines the richness of egg noodles with the bold flavors of Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "freshly made or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 lb",
+      "notes": "robata-grill cooked and diced"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the egg noodles according to package instructions and set aside.",
+    "In a large bowl, whisk together olive oil, garlic-infused oil, salt, black pepper, and paprika.",
+    "Add the diced onion and bell pepper to the bowl and toss to coat with the oil mixture.",
+    "Spread the onion and bell pepper mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "Add the cooked egg noodles to the baking sheet and toss to combine with the roasted vegetables.",
+    "Add the diced grilled chicken breast to the baking sheet and toss to combine with the noodles and vegetables.",
+    "Return the baking sheet to the oven and roast for an additional 10 minutes.",
+    "Remove the baking sheet from the oven and sprinkle with chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "oven-roasted",
+    "robata-grill",
+    "venezuelan-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "outstandingly-oven-roasted-venezuelan-egg-noodles-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-oven-roasted-venezuelan-egg-noodles-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:18:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "egg noodles",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Outstandingly oven roasted",
+    "dishForm": "Noodles"
+  }
+}
