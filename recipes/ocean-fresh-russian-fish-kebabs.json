@@ -1,0 +1,97 @@
+{
+  "title": "Ocean Fresh Russian Fish Kebabs",
+  "description": "A salty and flaky Russian dish featuring unsweetened coconut milk, perfect for a low-calorie dinner",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together coconut milk, lemon juice, olive oil, salt, black pepper, garlic powder, and paprika",
+    "Add the cod cubes to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated cod cubes onto skewers, leaving a small space between each piece",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until cooked through",
+    "Sprinkle chopped fresh dill over the kebabs and serve immediately",
+    "Serve with a side of quinoa or brown rice for a filling dinner",
+    "Garnish with additional fresh dill if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "healthy",
+    "low-calorie",
+    "russian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "ocean-fresh-russian-fish-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ocean-fresh-russian-fish-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:07:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "ocean fresh",
+    "dishForm": "Kebabs"
+  }
+}
