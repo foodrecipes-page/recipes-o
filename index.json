@@ -1188,6 +1188,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-tender-portuguese-cod-stew",
+    "title": "Oily Tender Portuguese Cod Stew",
+    "tags": [
+      "comfort-food",
+      "fish-stew",
+      "one-pot",
+      "portuguese-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "oily-tender-spanish-chickpeas-paella",
     "title": "Oily Tender Spanish Chickpeas Paella",
     "tags": [
