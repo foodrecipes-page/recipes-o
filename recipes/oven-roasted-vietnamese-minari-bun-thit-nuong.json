@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Vietnamese Minari Bun Thit Nuong",
+  "description": "A fresh and light Vietnamese dish featuring minari and served with rice noodles, this vegetarian friendly meal is perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": "also known as Japanese parsley"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the minari into 2 inch pieces and place on a baking sheet lined with parchment paper.",
+    "Drizzle the sesame oil over the minari and sprinkle with salt and black pepper.",
+    "Roast the minari in the oven for 15 minutes, or until tender and lightly browned.",
+    "While the minari is roasting, cook the rice noodles according to the package instructions.",
+    "Cut the tofu into small cubes and pan fry until golden brown.",
+    "In a small bowl, whisk together the soy sauce, fish sauce, lime juice, and grated ginger.",
+    "To assemble the dish, place the cooked noodles on a plate, top with the roasted minari, tofu, and drizzle with the soy sauce mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy-eating",
+    "oven-roasted",
+    "vegetarian-friendly",
+    "vietnamese-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oven-roasted-vietnamese-minari-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-vietnamese-minari-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:02:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "tagine-cook",
+    "primaryIngredient": "minari",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "minari",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
