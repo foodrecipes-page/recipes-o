@@ -1360,6 +1360,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-silky-american-winey-stew",
+    "title": "oily silky american winey stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "one-pan",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oily-silky-vietnamese-pork-ca-kho-to",
     "title": "Oily Silky Vietnamese Pork Ca Kho To",
     "tags": [
@@ -3444,6 +3458,19 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-kenyan-taleggio-gratin",
+    "title": "Oozy Kenyan Taleggio Gratin",
+    "tags": [
+      "cheese-pull",
+      "kenyan",
+      "kid-friendly",
+      "slow-cooking"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-lazy-portuguese-peppers-stew",
     "title": "Oozy Lazy Portuguese Peppers Stew",
     "tags": [
@@ -4757,6 +4784,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
+    "slug": "outrageously-comforting-kenyan-lamb-stew",
+    "title": "Outrageously Comforting Kenyan Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "kenyan-cuisine",
+      "lamb-based",
+      "one-pot"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 150,
     "shard": "o"
   },
   {

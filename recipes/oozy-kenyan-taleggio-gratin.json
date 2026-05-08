@@ -1,0 +1,103 @@
+{
+  "title": "Oozy Kenyan Taleggio Gratin",
+  "description": "A tangy kid-friendly Kenyan dish featuring Taleggio, perfect for slow-cooking, no onions or garlic needed.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio Cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan Cornmeal",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "25g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 170°C (335°F).",
+    "Melt the butter in a large saucepan over medium heat.",
+    "Add the Kenyan Cornmeal and cook, stirring constantly, for 2 minutes.",
+    "Add the heavy cream and stir until combined.",
+    "Bring the mixture to the boil, then reduce the heat to low and simmer for 2 minutes.",
+    "Stir in the Taleggio Cheese until melted and smooth.",
+    "Stir in the paprika, salt, and black pepper.",
+    "Transfer the mixture to a 20cm (8 inch) oven-safe skillet or gratin dish.",
+    "Smooth the top and sprinkle with cilantro.",
+    "Bake for 20-25 minutes or until golden brown and bubbly.",
+    "Serve hot, straight from the oven.",
+    "Let sit for 5 minutes before serving to allow the cheese to set and the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "kenyan",
+    "kid-friendly",
+    "slow-cooking"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "oozy-kenyan-taleggio-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-kenyan-taleggio-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "taleggio",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Oozy",
+    "dishForm": "Gratin"
+  }
+}

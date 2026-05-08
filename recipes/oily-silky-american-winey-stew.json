@@ -1,0 +1,111 @@
+{
+  "title": "oily silky american winey stew",
+  "description": "A rich, comforting stew featuring tender dum and a tangy red wine vinegar flavor, perfect for a nostalgic American dinner.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dum",
+      "amount": "1 package",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large claypot over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the flour and cook for 1 minute.",
+    "Gradually add the beef broth, whisking to avoid lumps.",
+    "Bring the mixture to a boil, then add the red wine vinegar, dried thyme, salt, and black pepper.",
+    "Add the dum and cook until they are tender.",
+    "Season with additional salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "one-pan",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "oily-silky-american-winey-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-silky-american-winey-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "winey",
+    "descriptor": "oily silky",
+    "dishForm": "stew"
+  }
+}
