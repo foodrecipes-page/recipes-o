@@ -1,0 +1,97 @@
+{
+  "title": "Ukrainian Mushroom Dumplings",
+  "description": "Pillowy dumplings filled with a bitter mushroom and mirepoix mixture, wrapped in lotus leaves and served as a comforting dish, these dumplings are perfect for a sick day, featuring a blend of pepper and Jain-friendly ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "12",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Finely chop the onion, carrots, and celery to create a mirepoix mixture.",
+    "Saute the mirepoix mixture in vegetable oil until the vegetables are tender.",
+    "Add the mushrooms to the mirepoix mixture and cook until they release their liquid and start to brown.",
+    "Season the mushroom mixture with salt and black pepper.",
+    "Prepare the lotus leaves by washing and trimming them to size.",
+    "Place a tablespoon of the mushroom mixture in the center of each lotus leaf.",
+    "Fold the lotus leaves to form a triangle or square shape, and press the edges together to seal the dumpling.",
+    "Steam the dumplings over boiling water for 10-12 minutes, or until they are cooked through.",
+    "Serve the dumplings hot, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "mushroom-based",
+    "one-pot",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "old-fashioned-pillowy-ukrainian-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-pillowy-ukrainian-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pepper",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "old fashioned pillowy",
+    "dishForm": "Dumplings"
+  }
+}
