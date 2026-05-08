@@ -3,7 +3,6 @@
   "description": "A comforting, egg-free friendly harees dish from the Middle East, featuring smoky roasted eggplant and savory spices.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -90,5 +89,9 @@
     "mainIngredient": "Eggplant",
     "descriptor": "Oven-Roasted Smoky",
     "dishForm": "Harees"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

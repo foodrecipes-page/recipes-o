@@ -58,7 +58,8 @@
     "Cook the ramen noodles according to package instructions.",
     "Slice the grilled beef into thin strips.",
     "Assemble the ramen bowls with noodles, beef, green onions, sesame seeds, and pickled ginger.",
-    "Ladle the hot broth over the top and serve immediately."
+    "Ladle the hot broth over the top and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 240,
@@ -95,5 +96,9 @@
     "mainIngredient": "beef",
     "descriptor": "outstandingly snappy",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

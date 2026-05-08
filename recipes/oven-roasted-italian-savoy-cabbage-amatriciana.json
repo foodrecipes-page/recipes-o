@@ -2,10 +2,7 @@
   "title": "Oven Roasted Italian Savoy Cabbage Amatriciana",
   "description": "A plant-based Italian dish featuring roasted Savoy cabbage and a cheese-pull effect, inspired by the flavors of Tuscan cuisine, with a bhuna twist.",
   "cuisine": "Italian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +98,10 @@
     "mainIngredient": "Savoy Cabbage",
     "descriptor": "Oven Roasted",
     "dishForm": "Amatriciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -70,7 +70,8 @@
     "Remove necks, shred the meat, discard bones, and return shredded meat to pot.",
     "Stir in labneh and chopped mint; heat gently until the soup is hot but not boiling.",
     "Taste and adjust seasoning if needed.",
-    "Serve hot, garnished with extra mint and a drizzle of olive oil."
+    "Serve hot, garnished with extra mint and a drizzle of olive oil.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 60,
@@ -108,5 +109,9 @@
     "mainIngredient": "turkey",
     "descriptor": "Oozing",
     "dishForm": "Labneh Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A comforting Peruvian dish featuring mincemeat, served in a stone bowl, inspired by Buddhist temple cuisine, in the form of lomo saltado, cooked in a tandoor clay pot.",
   "cuisine": "Peruvian",
   "diet": [
-    "meat",
-    "gluten-free"
+    "meat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "meat-based",
     "one-pot",
     "peruvian-cuisine"
@@ -99,5 +97,9 @@
     "mainIngredient": "mincemeat",
     "descriptor": "Oozy Juicy",
     "dishForm": "Lomo Saltado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

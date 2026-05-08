@@ -2,10 +2,7 @@
   "title": "Oozy Glassy Slovakian Citrus Tart",
   "description": "A citrusy Slovakian dessert featuring meringue nests and a glassy jelly glaze, made with anti-inflammatory friendly ingredients.",
   "cuisine": "Slovakian",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -65,10 +62,8 @@
   "tags": [
     "citrus",
     "dessert",
-    "gluten-free",
     "meringue",
-    "slovakian",
-    "vegetarian"
+    "slovakian"
   ],
   "nutrition": {
     "calories": 250,
@@ -93,5 +88,10 @@
     "mainIngredient": "citrus",
     "descriptor": "Oozy glassy",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

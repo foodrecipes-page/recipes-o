@@ -3,7 +3,6 @@
   "description": "A charred, dense, and indulgent Mediterranean dish featuring lamb, white wine vinegar, and a flaky puff pastry crust, all cooked to perfection in a hot pot vessel.",
   "cuisine": "Mediterranean",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -97,5 +96,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Oven Roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -57,7 +57,8 @@
     "Season the chicken with salt and black pepper",
     "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20 seconds",
     "Assemble the wraps by placing a portion of the chicken onto the center of each corn husk",
-    "Garnish with chopped cilantro and serve immediately"
+    "Garnish with chopped cilantro and serve immediately",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "orange infused",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

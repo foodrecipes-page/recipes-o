@@ -4,8 +4,7 @@
   "cuisine": "vietnamese",
   "diet": [
     "low-calorie",
-    "seafood",
-    "gluten-free"
+    "seafood"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
   "difficulty": "medium",
   "tags": [
     "citrusy",
-    "gluten-free",
     "high-protein",
     "low-calorie",
     "one-pan",
@@ -110,5 +108,9 @@
     "mainIngredient": "fish",
     "descriptor": "Oven-Roasted Shattering",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

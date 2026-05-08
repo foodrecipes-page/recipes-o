@@ -3,8 +3,7 @@
   "description": "A pungent and snappy Korean dish featuring beef stock concentrate, this recipe is perfect for those looking for a sugar-free-friendly meal option. It is made with a rich beef broth and served with noodles and various toppings.",
   "cuisine": "Korean",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "beef",
     "descriptor": "Oily Outstanding",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

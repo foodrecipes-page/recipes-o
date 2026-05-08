@@ -4,7 +4,6 @@
   "cuisine": "mexican",
   "diet": [
     "vegan",
-    "gluten-free",
     "sattvic"
   ],
   "meal": "lunch",
@@ -66,7 +65,7 @@
     }
   ],
   "instructions": [
-    "preheat the oven to 400\u007f (200\u007f).",
+    "preheat the oven to 400 (200).",
     "in a pan, heat the coconut oil over medium heat and saut\u00144 the onion and garlic until softened.",
     "add the cumin, coriander, chili powder, and cayenne pepper to the pan and cook for 1 minute, stirring constantly.",
     "in a separate pan, warm the black beans over low heat.",
@@ -85,7 +84,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "mexican",
     "one-pan",
     "sattvic",
@@ -115,5 +113,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Oven-Roasted",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Oily Creamy Peruvian Chicken Wrap",
   "description": "A pungent and creamy Peruvian dish featuring chicken, aji amarillo sauce, and crunchy vegetables wrapped in a warm pita bread, with anti-inflammatory properties from turmeric and ginger.",
   "cuisine": "Peruvian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -67,8 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "dairy-free",
-    "gluten-free",
     "peruvian-cuisine",
     "spicy-food",
     "wrap-sandwiches"
@@ -96,5 +91,10 @@
     "mainIngredient": "chicken",
     "descriptor": "oily creamy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

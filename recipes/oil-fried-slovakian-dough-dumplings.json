@@ -2,9 +2,7 @@
   "title": "Oil Fried Slovakian Dough Dumplings",
   "description": "A sweet and chewy Slovakian dish made with beer, perfect for a post-workout snack, featuring a gluten-free friendly option. This treat is deep-fried to a golden brown and served warm.",
   "cuisine": "Slovakian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -88,5 +86,9 @@
     "mainIngredient": "dough",
     "descriptor": "oil fried",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

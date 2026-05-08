@@ -63,7 +63,8 @@
     "Remove the chicken from the pot and set it aside to rest",
     "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids",
     "Add the chicken back to the pot and simmer for an additional 10 minutes",
-    "Serve the chicken and broth hot, garnished with chopped green onions"
+    "Serve the chicken and broth hot, garnished with chopped green onions",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Outstandingly Rich",
     "dishForm": "Tinola"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

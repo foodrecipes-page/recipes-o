@@ -2,9 +2,7 @@
   "title": "Oozey Candied Vanilla Injera Jiggae in Korean Brass Bowl",
   "description": "This resinous and molten vegan dish combines vanilla custard with candy for a hangover-cure Ethiopian treat served in a brass bowl, suitable for the buddhist-temple-friendly community.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -72,5 +70,9 @@
     "mainIngredient": "Vanilla",
     "descriptor": "Oozey Candied",
     "dishForm": "Oozy Injera Jiggae in Korean Brass Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

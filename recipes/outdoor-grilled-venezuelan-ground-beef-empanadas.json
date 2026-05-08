@@ -65,7 +65,8 @@
     "Spoon a small amount of the beef mixture onto the center of each dough circle.",
     "Fold the dough in half over the filling and press the edges together to seal the empanada.",
     "Brush the tops of the empanadas with olive oil and place them on the preheated grill.",
-    "Cook the empanadas for 2-3 minutes on each side, or until golden brown and crispy."
+    "Cook the empanadas for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -103,5 +104,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "outdoor grilled",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

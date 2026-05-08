@@ -3,7 +3,6 @@
   "description": "pungent, bouncy-qq, sick-day australian dish featuring carnaroli-rice, reduce, raw-friendly",
   "cuisine": "australian",
   "diet": [
-    "vegetarian",
     "raw-friendly"
   ],
   "meal": "lunch",
@@ -62,7 +61,8 @@
     "add water and bring to a boil.",
     "reduce heat to low and simmer, covered, for 15 minutes, stirring occasionally.",
     "add lemon juice, rice vinegar, and soy sauce, and stir to combine.",
-    "season with salt to taste, if needed"
+    "season with salt to taste, if needed",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -99,5 +99,10 @@
     "mainIngredient": "carnaroli-rice",
     "descriptor": "oily-bouncy",
     "dishForm": "risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

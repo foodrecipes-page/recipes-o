@@ -2,10 +2,7 @@
   "title": "Oozy Creamy British Mushroom Cottage Pie",
   "description": "A comforting British dish featuring sautéed mushrooms in a creamy oyster sauce-based filling, topped with a dairy-free mashed potato crust, perfect for a cold winter's night.",
   "cuisine": "British",
-  "diet": [
-    "vegetarian",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,9 +69,7 @@
   "tags": [
     "british-classics",
     "comfort-food",
-    "dairy-free",
     "mushroom-lovers",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +95,10 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Oozy Creamy",
     "dishForm": "Cottage Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

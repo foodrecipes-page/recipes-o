@@ -64,7 +64,8 @@
     "Meanwhile, prepare the nuka-pickle according to the package instructions or homemade recipe.",
     "In a Korean brass bowl, combine the roasted sardines, nuka-pickle, and chopped scallions.",
     "Serve immediately and enjoy.",
-    "Optional: garnish with additional chopped scallions and a sprinkle of korean chili flakes."
+    "Optional: garnish with additional chopped scallions and a sprinkle of korean chili flakes.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -102,5 +103,9 @@
     "mainIngredient": "sardines",
     "descriptor": "oily roasted",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

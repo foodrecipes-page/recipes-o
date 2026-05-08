@@ -61,7 +61,8 @@
     "In a small bowl, whisk together the egg yolks.",
     "Gradually add the hot chicken broth to the egg yolks, whisking constantly.",
     "Stir the egg yolk mixture into the saucepan and cook for 2 minutes.",
-    "Serve the chicken and sauce hot."
+    "Serve the chicken and sauce hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Oozy Citrusy",
     "dishForm": "Avgolemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

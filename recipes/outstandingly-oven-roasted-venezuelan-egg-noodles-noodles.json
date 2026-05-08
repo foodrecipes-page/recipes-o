@@ -3,8 +3,7 @@
   "description": "A fresh and flaky Venezuelan dish featuring egg noodles, robata-grill flavors, and fodmap-friendly ingredients, perfect for a unique dinner experience. This recipe combines the richness of egg noodles with the bold flavors of Venezuelan cuisine.",
   "cuisine": "Venezuelan",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Add the diced grilled chicken breast to the baking sheet and toss to combine with the noodles and vegetables.",
     "Return the baking sheet to the oven and roast for an additional 10 minutes.",
     "Remove the baking sheet from the oven and sprinkle with chopped parsley.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -71,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "one-pan",
     "oven-roasted",
     "robata-grill",
@@ -101,5 +100,10 @@
     "mainIngredient": "egg noodles",
     "descriptor": "Outstandingly oven roasted",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A pungent and molten Mexican dish featuring epoisses, perfect for crowds, made in a donabe with ferment jang for added depth, and nut free friendly.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
     "nut-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,8 @@
     "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
     "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
     "Repeat with the remaining tortillas and filling.",
-    "Serve the quesadillas hot with sour cream, cilantro, salt, and pepper."
+    "Serve the quesadillas hot with sour cream, cilantro, salt, and pepper.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -74,8 +74,7 @@
     "crowd-pleaser",
     "donabe-recipes",
     "mexican-food",
-    "nut-free",
-    "vegetarian"
+    "nut-free"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +99,10 @@
     "mainIngredient": "epoisses",
     "descriptor": "Oozy Pungent",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

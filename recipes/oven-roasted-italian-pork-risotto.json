@@ -62,7 +62,9 @@
     "Remove the pork from the oven and let it rest for 10 minutes before slicing it thinly.",
     "Stir in the grated parmesan cheese and chopped parsley, and season with salt and pepper to taste.",
     "To serve, slice the roasted pork and serve it on top of the creamy risotto.",
-    "Deglaze the saucepan with a little bit of chicken broth to get all the caramelized bits from the bottom."
+    "Deglaze the saucepan with a little bit of chicken broth to get all the caramelized bits from the bottom.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 50,
@@ -100,5 +102,10 @@
     "mainIngredient": "pork",
     "descriptor": "Oven Roasted",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

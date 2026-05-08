@@ -2,9 +2,7 @@
   "title": "Outstandingly Rich Italian Pork Lasagna",
   "description": "A rich and pillowy Italian dish featuring garlic granules and pickle, perfect for a date night, and is kosher-friendly.",
   "cuisine": "Italian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -55,7 +53,9 @@
     "Spread half of the ricotta cheese mixture over the noodles, followed by half of the shredded mozzarella cheese.",
     "Repeat the layers, starting with the meat sauce, then the noodles, the remaining ricotta cheese mixture, and finally the remaining mozzarella cheese.",
     "Cover the baking dish with aluminum foil and bake for 30 minutes.",
-    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -93,5 +93,12 @@
     "mainIngredient": "pork",
     "descriptor": "outstandingly rich",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

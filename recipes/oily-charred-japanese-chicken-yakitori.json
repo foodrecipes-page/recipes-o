@@ -3,7 +3,6 @@
   "description": "A charred and silky Japanese dish featuring chicken yakitori, pickles, and anti-inflammatory friendly ingredients, perfect for a monsoon evening.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "anti-inflammatory",
-    "gluten-free",
     "grilled-chicken",
     "japanese-cuisine",
     "low-carb",
@@ -100,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "oily charred",
     "dishForm": "Yakitori"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

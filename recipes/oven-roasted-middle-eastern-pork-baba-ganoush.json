@@ -68,7 +68,8 @@
     "Remove the pork and eggplant from the oven, and let them cool slightly.",
     "In a blender or food processor, combine the roasted eggplant, tahini, lemon juice, garlic, and the remaining 1 tablespoon of olive oil, and blend until smooth.",
     "Stir the roasted pork into the eggplant mixture, and season with salt and black pepper to taste.",
-    "Transfer the baba ganoush to a serving bowl, and garnish with the chopped parsley."
+    "Transfer the baba ganoush to a serving bowl, and garnish with the chopped parsley.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -100,11 +101,16 @@
     "mood": "festive",
     "technique": "temper",
     "primaryIngredient": "ground pork",
-    "diet": "vegan",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Middle Eastern",
     "mainIngredient": "pork",
     "descriptor": "Oven Roasted",
     "dishForm": "Baba Ganoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "aligned-axes-diet"
+  ]
 }

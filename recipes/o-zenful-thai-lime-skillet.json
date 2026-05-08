@@ -40,7 +40,8 @@
     "In the same pan, add lime juice and genmaicha tea leaves, stir to combine, cooking for about 2 minutes or until fragrant.",
     "Return chicken to skillet with sauce, mix well and simmer for an additional minute or two to allow flavors to meld together.",
     "Stir in fish sauce, rice vinegar, and sugar. Cook for another minute.",
-    "Serve hot with steamed vegetables if desired."
+    "Serve hot with steamed vegetables if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -79,5 +80,9 @@
     "mainIngredient": "lime",
     "descriptor": "oZenful",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

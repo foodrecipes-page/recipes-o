@@ -60,7 +60,8 @@
     "Add the prawns, cover, and let them cook for 4-5 minutes until they turn pink and opaque.",
     "Stir in the lemon juice, salt, and pepper to taste, ensuring the sauce remains silky.",
     "Fold in the chopped fresh herbs and remove from heat.",
-    "Serve the tagine hot over couscous or crusty bread, letting the sauce ooze."
+    "Serve the tagine hot over couscous or crusty bread, letting the sauce ooze.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -97,5 +98,9 @@
     "mainIngredient": "Prawns",
     "descriptor": "Oozing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

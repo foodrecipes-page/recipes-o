@@ -2,10 +2,7 @@
   "title": "Oozy Umami Thai Tofu Yum Salad",
   "description": "A one-pot Thai dish featuring umami flavors and a cheese-pull effect, made with dried oregano and served as a yum salad. This shojin-friendly recipe is perfect for a weeknight dinner.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +94,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Oozy Umami",
     "dishForm": "Yum Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

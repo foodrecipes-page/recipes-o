@@ -3,8 +3,7 @@
   "description": "A sweet and pillowy Chinese dish featuring sushi rice, namul-blanch-season, and ayurvedic-tamasic-friendly ingredients, served in an iron teppan, kid-friendly dan dan mian form",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "easy",
   "tags": [
     "asian-inspired",
-    "gluten-free",
     "kid-friendly",
     "one-pan",
     "quick-meal",
@@ -98,5 +96,9 @@
     "mainIngredient": "sushi rice",
     "descriptor": "outstandingly soft",
     "dishForm": "Dan Dan Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

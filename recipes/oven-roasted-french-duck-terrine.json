@@ -57,7 +57,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
-  "totalTimeMin": 120,
+  "totalTimeMin": 70,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -91,5 +91,9 @@
     "mainIngredient": "duck",
     "descriptor": "Oven Roasted",
     "dishForm": "Terrine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

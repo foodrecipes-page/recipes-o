@@ -44,7 +44,8 @@
     "Slice the egg noodles into small pieces and add them to the pot along with the stock mixture. Cook for an additional 5-7 minutes or until tender.",
     "Remove from heat and allow to cool slightly before serving hot.",
     "For a crispy texture, preheat your air fryer or oven to 180°C/350°F. Drain the noodles and toss them with vegetable oil.",
-    "Place the noodle mixture on the tray in an evenly distributed layer and bake for 20 minutes at 160°C/320°F or until golden brown."
+    "Place the noodle mixture on the tray in an evenly distributed layer and bake for 20 minutes at 160°C/320°F or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 10,
@@ -81,5 +82,9 @@
     "mainIngredient": "Egg",
     "descriptor": "Puffed",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A decadent, fluffy Canadian dish featuring peanut brittle and lamination-puff. Best served in a cazuela, this ayurvedic-tamasic-friendly dessert is perfect for a romantic evening.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -76,7 +75,6 @@
     "dessert",
     "one-pan",
     "romantic",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -102,5 +100,9 @@
     "mainIngredient": "peanut butter",
     "descriptor": "Oven-Roasted Fluffy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

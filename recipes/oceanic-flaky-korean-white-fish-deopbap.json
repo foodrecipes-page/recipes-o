@@ -3,7 +3,6 @@
   "description": "A savory and flaky one-pot Korean dish featuring white fish, served in a hot-pot vessel, this recipe is FODMAP-friendly and easy to make.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "dinner",
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "korean-cuisine",
     "low-fodmap",
     "one-pot",
@@ -90,5 +88,9 @@
     "mainIngredient": "white fish",
     "descriptor": "Oceanic Flaky",
     "dishForm": "Deopbap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

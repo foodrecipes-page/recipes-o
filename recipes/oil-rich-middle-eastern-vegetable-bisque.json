@@ -3,8 +3,7 @@
   "description": "A fermented, velvety, and light Middle Eastern dish featuring a vegetable stock cube, mantecare emulsification, and diabetic-friendly ingredients.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "diabetic-friendly",
-    "vegetarian"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -82,7 +81,6 @@
     "light",
     "middle-eastern",
     "oil-rich",
-    "vegetarian",
     "velvety"
   ],
   "nutrition": {
@@ -108,5 +106,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "oil rich",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

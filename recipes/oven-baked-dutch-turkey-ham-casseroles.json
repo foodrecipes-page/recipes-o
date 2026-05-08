@@ -54,7 +54,8 @@
     "Add the shredded cheese to the flour mixture and stir until well combined.",
     "Pour the cheese mixture over the potato and ham mixture and stir until everything is well coated.",
     "Transfer the mixture to a baking dish and bake for 30 minutes.",
-    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -92,5 +93,9 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Oven Baked",
     "dishForm": "Casseroles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

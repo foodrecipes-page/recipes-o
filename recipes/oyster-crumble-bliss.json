@@ -3,7 +3,6 @@
   "description": "A kid-friendly, fermented oyster crumble dish with a touch of garam masala to make it jain-friendly and perfect for breakfast.",
   "cuisine": "German",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "breakfast",
@@ -53,7 +52,6 @@
     "oyster",
     "crumble",
     "german",
-    "vegan",
     "jain-friendly",
     "breakfast"
   ],
@@ -76,5 +74,9 @@
     "primaryIngredient": "oysters",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -53,7 +53,8 @@
     "Pour 400ml low-sodium chicken broth into the skillet and bring to a gentle simmer.",
     "Whisk in 100ml heavy cream and 15ml lemon juice, then reduce heat and let the sauce thicken to a glossy glaze.",
     "Toss the drained linguine into the skillet, adding reserved pasta water as needed to coat each strand evenly.",
-    "Finish with 10g chopped parsley and 1g black pepper, serve immediately."
+    "Finish with 10g chopped parsley and 1g black pepper, serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "Linguine",
     "descriptor": "Oozy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

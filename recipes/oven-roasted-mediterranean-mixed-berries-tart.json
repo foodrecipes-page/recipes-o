@@ -2,9 +2,7 @@
   "title": "Oven Roasted Mediterranean Mixed Berries Tart",
   "description": "A tangy and molten Mediterranean dish featuring frozen mixed berries, this vegan-friendly tart is perfect for a dessert or snack. It is made with a scallop shell vessel and agemono-deep-fry technique.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "mixed berries",
     "descriptor": "Oven Roasted",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "a hearty, comforting polish hot-pot featuring oat milk and a variety of textures.",
   "cuisine": "polish",
   "diet": [
-    "vegan",
     "gluten-free",
     "ayurvedic-sattvic"
   ],
@@ -117,8 +116,7 @@
     "gluten-free",
     "high-protein",
     "hot-pot",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,
@@ -143,5 +141,9 @@
     "mainIngredient": "oat milk",
     "descriptor": "Oaty, crunchy, adventurous",
     "dishForm": "hot-pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

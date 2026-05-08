@@ -63,7 +63,8 @@
     "Add the chopped carrots and potatoes to the paella pan and cook for 5 minutes.",
     "Sprinkle the cocoa powder over the pork shoulder and vegetables.",
     "Transfer the paella pan to the preheated oven and roast for 25 minutes.",
-    "Remove the paella pan from the oven and let it rest for 5 minutes."
+    "Remove the paella pan from the oven and let it rest for 5 minutes.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "pork",
     "descriptor": "Oven roasted",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A herbal and crunchy monsoon Kenyan dish featuring epoisses and shio-cure, served in a lacquerware bowl, dairy-free-friendly.",
   "cuisine": "Kenyan",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -70,7 +69,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "healthy",
     "high-fiber",
     "one-pan",
@@ -100,5 +98,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "organic crunchy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

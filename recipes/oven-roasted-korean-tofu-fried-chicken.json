@@ -2,9 +2,7 @@
   "title": "Oven Roasted Korean Tofu Fried Chicken",
   "description": "A tangy, flaky plant‑based dish that mimics Korean fried chicken using roasted tofu, bird's‑eye chilies, and a coconut‑cream glaze.",
   "cuisine": "korean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,7 +70,8 @@
     "Remove from oven and let rest 5 minutes.",
     "Sprinkle toasted sesame seeds over the tofu and drizzle with a light drizzle of soy sauce if desired.",
     "Serve hot with a side of steamed rice or lettuce wraps.",
-    "Enjoy your plant‑based Korean fried chicken experience."
+    "Enjoy your plant‑based Korean fried chicken experience.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -84,8 +83,7 @@
     "korean",
     "oven-baked",
     "spicy",
-    "tofu",
-    "vegan"
+    "tofu"
   ],
   "nutrition": {
     "calories": 680,
@@ -110,5 +108,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Oven Roasted",
     "dishForm": "Fried Chicken"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

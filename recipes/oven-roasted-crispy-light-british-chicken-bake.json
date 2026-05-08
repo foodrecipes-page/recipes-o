@@ -77,7 +77,6 @@
   "tags": [
     "british",
     "crispy-pastry",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "sriracha",
@@ -106,5 +105,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Oven-Roasted Crispy Light",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

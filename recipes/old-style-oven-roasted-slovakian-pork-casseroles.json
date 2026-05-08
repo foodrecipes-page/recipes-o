@@ -61,7 +61,8 @@
     "Add the sour cream and yeast to the kadhai and stir to combine.",
     "Add the thai chilli jam and shio-cure mixture to the kadhai and stir to combine.",
     "Cover the kadhai with a lid and transfer to the preheated oven.",
-    "Roast the casserole in the oven for 2 hours, or until the pork is tender and the sauce is bubbly."
+    "Roast the casserole in the oven for 2 hours, or until the pork is tender and the sauce is bubbly.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -98,5 +99,9 @@
     "mainIngredient": "pork",
     "descriptor": "old style oven roasted",
     "dishForm": "Casseroles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

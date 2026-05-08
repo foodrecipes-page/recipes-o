@@ -82,11 +82,15 @@
     "mood": "date-night",
     "technique": "miso-marinate",
     "primaryIngredient": "almond paste",
-    "diet": "paleo",
+    "diet": "paleo friendly",
     "region": null,
     "cuisineAdjective": "Middle-Eastern",
     "mainIngredient": "Shredded Cheese",
     "descriptor": "Oozy, Rich",
     "dishForm": "Shredded Cheese Pastry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

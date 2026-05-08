@@ -3,7 +3,6 @@
   "description": "A diabetic-friendly, festive Turkish dish featuring mustard seeds and a crispy, floral flavor profile.",
   "cuisine": "turkish",
   "diet": [
-    "vegetarian",
     "diabetic-friendly"
   ],
   "meal": "dessert",
@@ -69,7 +68,8 @@
     "Reduce the heat to low and simmer for 18-20 minutes.",
     "Add the cooked rice and stir to combine.",
     "Return the saucepan to the stovetop and cook over low heat for 5-7 minutes.",
-    "Serve hot and garnish with lemon juice and fresh herbs."
+    "Serve hot and garnish with lemon juice and fresh herbs.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -107,5 +107,10 @@
     "mainIngredient": "rice",
     "descriptor": "oily",
     "dishForm": "Kazandibi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

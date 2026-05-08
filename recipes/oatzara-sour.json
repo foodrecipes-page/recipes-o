@@ -46,8 +46,7 @@
     "oatmeal",
     "greek",
     "sour",
-    "one-pot",
-    "dairy-free"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 180,
@@ -68,5 +67,9 @@
     "primaryIngredient": "oats",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

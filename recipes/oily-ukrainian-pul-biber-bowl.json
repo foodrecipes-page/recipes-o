@@ -3,8 +3,7 @@
   "description": "a cozy, fermented dish featuring pul biber and mushimono-steam, ideal for a cold evening",
   "cuisine": "ukrainian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "pul biber",
     "descriptor": "oily",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

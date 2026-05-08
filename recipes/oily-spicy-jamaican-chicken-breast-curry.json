@@ -58,7 +58,8 @@
     "Add the chicken breast to the copper pot and cook until browned on all sides.",
     "Add the chicken broth and heavy cream to the copper pot and bring to a simmer.",
     "Reduce the heat to low and let the curry simmer for 20 minutes.",
-    "Serve the curry hot, garnished with chopped fresh herbs."
+    "Serve the curry hot, garnished with chopped fresh herbs.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken breast",
     "descriptor": "oily spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

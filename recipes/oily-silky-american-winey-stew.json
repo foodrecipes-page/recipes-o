@@ -70,7 +70,8 @@
     "Gradually add the beef broth, whisking to avoid lumps.",
     "Bring the mixture to a boil, then add the red wine vinegar, dried thyme, salt, and black pepper.",
     "Add the dum and cook until they are tender.",
-    "Season with additional salt and pepper to taste."
+    "Season with additional salt and pepper to taste.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "winey",
     "descriptor": "oily silky",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Opulent Thai Tofu Curry",
   "description": "A savory, dense, romantic Thai tofu curry infused with a silky coconut creme patissiere and a nimono-simmered broth, perfect for a macrobiotic-friendly feast.",
   "cuisine": "thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -109,5 +107,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Opulent",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

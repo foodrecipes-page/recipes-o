@@ -96,11 +96,15 @@
     "mood": "post-workout",
     "technique": "render-fat",
     "primaryIngredient": "golden syrup",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "lamb",
     "descriptor": "Oven-Roasted",
     "dishForm": "Lahmacun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

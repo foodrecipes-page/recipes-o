@@ -3,7 +3,6 @@
   "description": "A savory, dense, and quick-fix Egyptian dish featuring shredded Mexican cheese, brine-wet, and high-protein-friendly. Perfect for a weeknight dinner.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
     "high-protein"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Oven-Baked",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

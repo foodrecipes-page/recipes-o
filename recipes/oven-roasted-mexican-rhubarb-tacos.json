@@ -3,8 +3,7 @@
   "description": "A cultured and molten Mexican dish featuring roasted rhubarb, perfect for a lazy Sunday, and friendly to those who avoid onion and garlic. This recipe combines the unique flavor of rhubarb with traditional Mexican spices.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "easy",
   "tags": [
     "fermented-foods",
-    "gluten-free",
     "lazy-sunday",
     "mexican-inspired",
     "rhubarb-recipes",
@@ -100,5 +98,9 @@
     "mainIngredient": "rhubarb",
     "descriptor": "Oven Roasted",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A buttery, dense, meal-prep Vietnamese dish featuring red chilli powder and beurre-monte, this ayurvedic-sattvic-friendly recipe is a twist on traditional bun rieu, cooked to perfection in a wok.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -61,7 +60,8 @@
     "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
     "Stir in the cooked rice noodles and cook for an additional 2 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the bun rieu hot, garnished with chopped fresh herbs if desired."
+    "Serve the bun rieu hot, garnished with chopped fresh herbs if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -70,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "meal-prep",
     "one-pot",
     "spicy",
@@ -99,5 +98,10 @@
     "mainIngredient": "pork",
     "descriptor": "Oozy dense",
     "dishForm": "Bun Rieu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

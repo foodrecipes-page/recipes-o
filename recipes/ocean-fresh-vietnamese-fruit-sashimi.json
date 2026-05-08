@@ -81,8 +81,7 @@
     "gluten-free",
     "healthy",
     "snack",
-    "spring",
-    "vegan"
+    "spring"
   ],
   "nutrition": {
     "calories": 120,
@@ -107,5 +106,9 @@
     "mainIngredient": "fruit",
     "descriptor": "ocean-fresh",
     "dishForm": "sashimi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

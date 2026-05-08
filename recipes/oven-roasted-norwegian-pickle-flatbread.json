@@ -58,7 +58,8 @@
     "Sprinkle the feta cheese and kalamata olives over the pickles",
     "Top with chopped parsley",
     "Place the flatbread on a baking sheet and roast in the oven for 15 minutes",
-    "Remove from the oven and let cool for a few minutes before slicing and serving"
+    "Remove from the oven and let cool for a few minutes before slicing and serving",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -96,5 +97,9 @@
     "mainIngredient": "pickles",
     "descriptor": "Oven Roasted",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -56,7 +56,8 @@
     "Cover the pot with a lid and transfer it to the preheated oven.",
     "Braise the duck legs for 2 1/2 hours, or until the meat is tender and falls off the bone.",
     "Remove the pot from the oven and let it cool slightly.",
-    "Serve the duck legs warm, garnished with additional parsley if desired."
+    "Serve the duck legs warm, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -94,5 +95,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "old fashioned",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

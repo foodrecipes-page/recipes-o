@@ -54,7 +54,8 @@
     "In a large bowl, combine the cooked ground beef mixture, shredded mozzarella cheese, and chopped ferment-kimchi.",
     "In a separate bowl, mix the flour and milk until smooth, then add it to the ground beef mixture and stir until well combined.",
     "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes.",
-    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -91,5 +92,9 @@
     "mainIngredient": "mozzarella",
     "descriptor": "oily creamy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

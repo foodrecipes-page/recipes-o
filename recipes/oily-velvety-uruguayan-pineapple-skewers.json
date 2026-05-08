@@ -3,7 +3,6 @@
   "description": "Indulge in the rich flavors of Uruguay with these velvety pineapple skewers, featuring a miso marinade and a dairy-free friendly twist.",
   "cuisine": "Uruguayan",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -63,7 +62,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "grilled",
     "pineapple",
     "south-american",
@@ -93,5 +91,9 @@
     "mainIngredient": "pineapple",
     "descriptor": "oily velvety",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

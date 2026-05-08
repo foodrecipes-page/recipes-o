@@ -74,8 +74,7 @@
     "grain-bowl",
     "low-sodium",
     "one-pan",
-    "savory",
-    "vegan"
+    "savory"
   ],
   "nutrition": {
     "calories": 190,
@@ -100,5 +99,9 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Oven Roasted",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

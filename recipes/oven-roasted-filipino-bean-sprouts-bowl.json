@@ -3,7 +3,6 @@
   "description": "A tangy and savory Filipino-inspired dish featuring roasted bean sprouts, crispy garlic, and a hint of citrus.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -62,8 +61,7 @@
     "gluten-free",
     "healthy",
     "low-carb",
-    "one-pan",
-    "vegetarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 220,
@@ -88,5 +86,9 @@
     "mainIngredient": "bean sprouts",
     "descriptor": "Oven-Roasted",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

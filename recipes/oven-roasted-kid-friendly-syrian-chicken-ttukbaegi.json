@@ -3,7 +3,6 @@
   "description": "A kid-friendly version of traditional Syrian ttukbaegi, featuring chicken and melted cheese. This earthenware cookware dish is perfect for a weeknight dinner.",
   "cuisine": "Syrian",
   "diet": [
-    "kosher",
     "halal"
   ],
   "meal": "dinner",
@@ -108,5 +107,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Oven-Roasted Kid-Friendly",
     "dishForm": "ttukbaegi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

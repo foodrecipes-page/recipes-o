@@ -3,8 +3,7 @@
   "description": "A sour and creamy weeknight Portuguese dish featuring shrimp, with a hint of Cajun spice, and Buddhist-temple-friendly ingredients.",
   "cuisine": "Portuguese",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "tags": [
     "cajun-inspired",
     "creamy-sauce",
-    "gluten-free",
     "portuguese-cuisine",
     "seafood-pasta",
     "weeknight-dinner"
@@ -101,5 +99,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Oceanic Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

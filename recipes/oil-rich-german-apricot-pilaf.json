@@ -3,7 +3,6 @@
   "description": "This German-inspired pilaf features apricots and a rich, umami flavor profile, making it a perfect side dish for special occasions, and is also anti-inflammatory-friendly due to its ingredients like turmeric and ginger.",
   "cuisine": "German",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -68,7 +67,8 @@
     "Add the low sodium chicken broth, salt, and black pepper, and bring the mixture to a boil.",
     "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
     "Remove the saucepan from the heat and let it rest, covered, for 5 minutes.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -80,8 +80,7 @@
     "indulgent",
     "one-pot",
     "special-occasion",
-    "umami-rich",
-    "vegetarian"
+    "umami-rich"
   ],
   "nutrition": {
     "calories": 420,
@@ -106,5 +105,10 @@
     "mainIngredient": "apricot",
     "descriptor": "oil rich",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

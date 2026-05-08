@@ -3,7 +3,6 @@
   "description": "A tangy, cheese-pull wrap inspired by Slovakian flavors, featuring miso-marinated tofu, kaffir lime leaf, and a fresh agave-leaf vessel.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegan",
     "lacto-vegetarian-friendly"
   ],
   "meal": "lunch",
@@ -73,7 +72,6 @@
     "lacto-vegetarian-friendly",
     "quick",
     "slovakian",
-    "vegan",
     "wrap"
   ],
   "nutrition": {
@@ -99,5 +97,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Oozing",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Oven Roasted Vietnamese Minari Bun Thit Nuong",
   "description": "A fresh and light Vietnamese dish featuring minari and served with rice noodles, this vegetarian friendly meal is perfect for a weeknight dinner.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "minari",
     "descriptor": "Oven Roasted",
     "dishForm": "Bun Thit Nuong"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

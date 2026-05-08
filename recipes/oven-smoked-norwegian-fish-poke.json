@@ -3,8 +3,7 @@
   "description": "A Norwegian dish featuring smoked fish, fish sauce, and nam pla, served raw and cold, with a grassy and pillowy texture. This dish is perfect for those who enjoy raw fish and bold flavors.",
   "cuisine": "Norwegian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "fish",
     "descriptor": "Oven Smoked",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

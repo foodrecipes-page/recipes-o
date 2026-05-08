@@ -3,8 +3,7 @@
   "description": "A low-carb Italian dish featuring rice, pickle, and trofie, perfect for a post-workout meal. This recipe is made in a Dutch oven and roasted to perfection in the oven.",
   "cuisine": "Italian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "Remove the Dutch oven from the oven and stir in the grated parmesan cheese.",
     "Return the Dutch oven to the oven and roast for an additional 5 minutes, or until the cheese is melted and bubbly.",
     "Remove the Dutch oven from the oven and stir in the chopped fresh basil.",
-    "Serve the oven roasted Italian rice trofie hot, garnished with additional basil if desired."
+    "Serve the oven roasted Italian rice trofie hot, garnished with additional basil if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -95,5 +95,10 @@
     "mainIngredient": "rice",
     "descriptor": "Oven roasted",
     "dishForm": "Trofie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -73,7 +73,8 @@
     "Add the ground pork shoulder, spice mix, vinegar, and coarse salt to the paste and mix well.",
     "Place 1/2 cup of the fermented meat mixture onto the center of the leaf, leaving a 2-inch border around it.",
     "Fold the leaf over the filling to create a tight package and steam for 30 minutes at 375°F.",
-    "Let the package cool for 5 minutes before slicing and serving."
+    "Let the package cool for 5 minutes before slicing and serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -109,5 +110,9 @@
     "mainIngredient": "Dish",
     "descriptor": "Oven-Fermented",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

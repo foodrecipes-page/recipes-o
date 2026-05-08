@@ -3,7 +3,6 @@
   "description": "A buttery, springy stew that soothes hangovers with fragrant sage, coconut milk, and a splash of lime, cooked in a bamboo tray for a touch of island tradition.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -79,7 +78,6 @@
     "hangover-cure",
     "high-fiber",
     "soupy",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +103,9 @@
     "mainIngredient": "rice",
     "descriptor": "Oozy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

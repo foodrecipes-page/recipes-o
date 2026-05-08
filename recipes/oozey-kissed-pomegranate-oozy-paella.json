@@ -62,7 +62,8 @@
     "Heat oil in a paella pan, add pork, thyme leaves, pomegranate molasses, orange juice, and cook for 10 minutes.",
     "Add onion mixture on top of the pork.",
     "Stir in pomegranate seeds and cover with thyme sprigs.",
-    "Bake at 350°F (175°C) for 20-25 minutes or until vegetables are tender."
+    "Bake at 350°F (175°C) for 20-25 minutes or until vegetables are tender.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "Pomegranate",
     "descriptor": "Oozey",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Opulent Russian Beetroot Soup",
   "description": "A rich and light Russian beetroot soup featuring cultured crème fraîche, cooked in a ttukbaegi earthenware pot for a halal-friendly experience.",
   "cuisine": "Russian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -108,5 +106,9 @@
     "mainIngredient": "beetroot",
     "descriptor": "Opulent",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

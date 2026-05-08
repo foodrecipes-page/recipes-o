@@ -2,9 +2,7 @@
   "title": "Ocean Fresh Irish Cauliflower Stew",
   "description": "A hearty and flavorful pescatarian-friendly stew featuring cauliflower and a hint of mustard, perfect for a rainy day. This monsoon-inspired Irish dish is aerated with a touch of candy sweetness.",
   "cuisine": "Irish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Reduce the heat to low and simmer the stew for 10-15 minutes, or until the vegetables are tender.",
     "Use an immersion blender to puree the stew until it is slightly aerated, or leave it chunky if desired.",
     "Stir in the heavy cream, if using, and season the stew with salt and pepper to taste.",
-    "Serve the stew hot, garnished with chopped fresh parsley or chives if desired."
+    "Serve the stew hot, garnished with chopped fresh parsley or chives if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -74,8 +73,7 @@
     "comfort-food",
     "irish-cuisine",
     "monsoon-inspired",
-    "one-pot",
-    "pescatarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +98,10 @@
     "mainIngredient": "cauliflower",
     "descriptor": "Ocean fresh",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

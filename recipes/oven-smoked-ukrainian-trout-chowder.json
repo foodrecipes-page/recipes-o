@@ -3,7 +3,6 @@
   "description": "Rich smoky chowder with flaky trout, caramelized onions, and a hint of candied ginger for subtle sweetness, served hot.",
   "cuisine": "Ukrainian",
   "diet": [
-    "pescatarian",
     "low-sodium",
     "gluten-free"
   ],
@@ -68,7 +67,8 @@
     "Pour in the low-sodium stock and bring to a gentle boil; reduce heat and simmer for 10 minutes.",
     "Flake the baked trout into large chunks and add to the pot along with grated candied ginger and chopped dill.",
     "Stir in the heavy cream, lemon juice, and season with pepper; simmer for 5 more minutes until flavors meld.",
-    "Serve hot, garnished with extra dill and a drizzle of olive oil."
+    "Serve hot, garnished with extra dill and a drizzle of olive oil.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -107,5 +107,10 @@
     "mainIngredient": "Trout",
     "descriptor": "Oven-Smoked",
     "dishForm": "Chowder"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

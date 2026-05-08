@@ -76,7 +76,8 @@
     "Place the patties onto a baking sheet lined with parchment paper and bake for 12-15 minutes, or until cooked to your desired level of doneness.",
     "While the burgers are baking, toast the buns by brushing them with unsalted butter and placing them under the broiler for 1-2 minutes, or until lightly toasted.",
     "Spread a layer of caraway mayonnaise onto the bottom bun, followed by a cooked burger patty, a few slices of red cabbage, and finally the top bun.",
-    "Garnish each burger with chopped fresh chives and serve immediately."
+    "Garnish each burger with chopped fresh chives and serve immediately.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -116,5 +117,9 @@
     "mainIngredient": "beef",
     "descriptor": "Oven-Roasted",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

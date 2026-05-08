@@ -64,7 +64,8 @@
     "Repeat the layers until all ingredients are used, ending with a layer of potatoes on top.",
     "Pour the chicken broth over the top of the casserole.",
     "Cover the ramekin with aluminum foil and bake for 45 minutes.",
-    "Remove the foil and bake for an additional 15 minutes."
+    "Remove the foil and bake for an additional 15 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "old fashioned rich",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

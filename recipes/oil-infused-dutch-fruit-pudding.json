@@ -57,7 +57,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
-  "totalTimeMin": 65,
+  "totalTimeMin": 45,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -91,5 +91,9 @@
     "mainIngredient": "fruit",
     "descriptor": "oil infused",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

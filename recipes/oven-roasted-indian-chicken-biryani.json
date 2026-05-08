@@ -3,8 +3,6 @@
   "description": "A tangy and snappy Indian dish made with seasoned rice vinegar, perfect for a quick fix meal. This Gujarati-inspired dish is satvik-friendly and can be made using a yakimono-grill.",
   "cuisine": "indian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -85,7 +83,8 @@
     "Transfer the mixture to a baking dish and drizzle with rice vinegar.",
     "Cover with aluminum foil and bake in the preheated oven for 20 minutes.",
     "Remove the foil and bake for an additional 5 minutes.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,7 +96,6 @@
     "one-pan",
     "quick-fix",
     "satvik",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -123,5 +121,11 @@
     "mainIngredient": "chicken",
     "descriptor": "Oven-Roasted",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

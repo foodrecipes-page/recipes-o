@@ -3,7 +3,6 @@
   "description": "A winey, juicy, lazy-sunday Vietnamese dish featuring cinnamon stick, lacquer-glaze, and ayurvedic-tamasic-friendly ingredients, served in a tagliere vessel as a Pho Bo.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -71,7 +70,6 @@
   "tags": [
     "beef-recipes",
     "dairy-free",
-    "gluten-free",
     "lazy-sundays",
     "noodle-soups",
     "vietnamese-cuisine"
@@ -99,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "oily lazy",
     "dishForm": "Pho Bo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

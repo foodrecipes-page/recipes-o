@@ -70,7 +70,8 @@
     "While the duck is baking, prepare the hot stone plate by heating it in the oven for 5 minutes.",
     "Remove the duck from the oven and let it rest for 5 minutes before slicing.",
     "To assemble the dish, place the sliced duck on the hot stone plate, garnish with green onions, toasted sesame seeds, and cilantro.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -80,7 +81,6 @@
   "tags": [
     "anti-inflammatory",
     "duck",
-    "gluten-free",
     "korean"
   ],
   "nutrition": {
@@ -106,5 +106,10 @@
     "mainIngredient": "duck",
     "descriptor": "Oven-Grilled",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

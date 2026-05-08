@@ -3,8 +3,7 @@
   "description": "A salty and creamy Mediterranean dish featuring cornmeal and lardons, perfect for a monsoon evening. This ayurvedic-tamasic-friendly recipe combines the flavors of the Mediterranean with the comfort of a warm, oozy paella.",
   "cuisine": "Mediterranean",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,8 +69,7 @@
     "gluten-free",
     "mediterranean",
     "one-pan",
-    "oozy",
-    "vegetarian"
+    "oozy"
   ],
   "nutrition": {
     "calories": 420,
@@ -96,5 +94,9 @@
     "mainIngredient": "corn",
     "descriptor": "Oozy creamy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

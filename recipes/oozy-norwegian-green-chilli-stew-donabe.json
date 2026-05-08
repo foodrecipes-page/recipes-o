@@ -43,7 +43,8 @@
     "In a large pot, combine the rice and 2 cups of water and bring to a boil.",
     "Reduce heat to low and simmer for 10 minutes.",
     "While the rice cooks, prepare the green chilli by cutting off the stems and removing the seeds.",
-    "In a separate pan, add the pork belly and cook over medium heat until browned and crispy."
+    "In a separate pan, add the pork belly and cook over medium heat until browned and crispy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -79,5 +80,9 @@
     "mainIngredient": "green chilli",
     "descriptor": "sour chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

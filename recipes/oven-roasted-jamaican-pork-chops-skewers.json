@@ -57,7 +57,8 @@
     "Brush the skewers with olive oil and place them on a baking sheet lined with parchment paper.",
     "Roast the skewers in the preheated oven for 20 minutes, flipping them halfway through.",
     "Remove the skewers from the oven and let them rest for 5 minutes before serving.",
-    "Serve the skewers hot, garnished with chopped fresh herbs if desired."
+    "Serve the skewers hot, garnished with chopped fresh herbs if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -89,11 +90,16 @@
     "mood": "festive",
     "technique": "yuzu-cure",
     "primaryIngredient": "pork chops",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "pork chops",
     "descriptor": "Oven Roasted",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "aligned-axes-diet"
+  ]
 }

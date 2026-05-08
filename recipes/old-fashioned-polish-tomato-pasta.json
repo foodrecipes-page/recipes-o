@@ -3,7 +3,6 @@
   "description": "A garlicky and snappy Polish dish featuring tomatoes, made with shio-cure for added depth of flavor, and is nut-free friendly. This nostalgic recipe is sure to become a favorite.",
   "cuisine": "Polish",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -89,5 +88,9 @@
     "mainIngredient": "tomato",
     "descriptor": "old fashioned",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

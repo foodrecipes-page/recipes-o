@@ -2,11 +2,7 @@
   "title": "Oven-Roasted Energizing Kenyan Beef Kidney Quesadilla",
   "description": "A crispy and flavorful quesadilla featuring tender beef kidney, inspired by Kenyan cuisine, and fueled by ayurvedic tamasic principles. A true energizing and satisfying meal.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan",
-    "gluten-free",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -112,5 +108,11 @@
     "mainIngredient": "beef kidney",
     "descriptor": "Oven-Roasted Energizing",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free"
+  ]
 }

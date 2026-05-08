@@ -56,7 +56,8 @@
     "Brush the edges of the pastry with the beaten egg.",
     "Fold the other half of the pastry over the filling, pressing the edges to seal.",
     "Use a knife to cut the empanadas into triangles or squares, and brush the tops with the melted butter.",
-    "Bake the empanadas in the preheated oven for 25 minutes, or until golden brown."
+    "Bake the empanadas in the preheated oven for 25 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "outdoor baked",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

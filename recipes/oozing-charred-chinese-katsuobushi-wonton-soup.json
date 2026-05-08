@@ -82,7 +82,8 @@
     "Heat a nonstick skillet over high heat and quickly char each wonton for 30 seconds on each side, giving them a smoky char.",
     "Gently drop the charred wontons into the simmering broth and cook until they float and the wrappers are translucent, about 4 minutes.",
     "Reduce the heat to low, stir in seaweed flakes for a briny finish, and swirl in a splash of coconut milk for creaminess.",
-    "Ladle soup into bowls, garnish with chopped scallions and additional katsuobushi flakes, and serve hot."
+    "Ladle soup into bowls, garnish with chopped scallions and additional katsuobushi flakes, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -119,5 +120,9 @@
     "mainIngredient": "Katsuobushi",
     "descriptor": "Oozing Charred",
     "dishForm": "Wonton Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

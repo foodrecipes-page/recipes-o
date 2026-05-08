@@ -28,8 +28,7 @@
     "dairy-free",
     "gluten-free",
     "low-carb",
-    "romantic",
-    "vegan"
+    "romantic"
   ],
   "nutrition": {
     "calories": 120,
@@ -54,5 +53,9 @@
     "mainIngredient": "gelatin",
     "descriptor": "oily light romantic",
     "dishForm": "stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

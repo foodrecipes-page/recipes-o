@@ -3,8 +3,7 @@
   "description": "A light German dish featuring oat milk and air-fried elements for a low-carb, umami-flavored breakfast option.",
   "cuisine": "German",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -72,5 +71,9 @@
     "primaryIngredient": "oat milk",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A tangy and shaggy Argentinian dish featuring parma ham, perfect for a post-workout snack, made with ayurvedic sattvic friendly ingredients. This empanada is deep fried to a crispy golden brown.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -90,5 +89,9 @@
     "mainIngredient": "parma ham",
     "descriptor": "oily outrageous",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

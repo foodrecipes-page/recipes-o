@@ -2,10 +2,7 @@
   "title": "Filipino Soybean Sprouts Noodles",
   "description": "A traditional Filipino dish featuring soybean sprouts and noodles, often served as a solo dinner, this recipe is bitter, crumbly, and ayurvedic-tamasic-friendly.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +88,10 @@
     "mainIngredient": "soybean sprouts",
     "descriptor": "old fashioned",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

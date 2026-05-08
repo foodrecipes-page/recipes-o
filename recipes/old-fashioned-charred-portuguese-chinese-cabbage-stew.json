@@ -53,7 +53,8 @@
     "Add the minced garlic to the pot and cook for an additional 1 minute, until fragrant.",
     "Add the sliced pork sausage to the pot and cook until browned, about 5 minutes.",
     "Add the roasted Chinese cabbage, chicken broth, salt, and pepper to the pot and bring to a boil.",
-    "Reduce the heat to low and simmer the stew for 20 minutes, or until the flavors have melded together and the cabbage is tender."
+    "Reduce the heat to low and simmer the stew for 20 minutes, or until the flavors have melded together and the cabbage is tender.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -91,5 +92,9 @@
     "mainIngredient": "chinese cabbage",
     "descriptor": "old fashioned charred",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

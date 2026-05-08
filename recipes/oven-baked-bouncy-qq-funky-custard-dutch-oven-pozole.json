@@ -3,7 +3,6 @@
   "description": "A low-glycemic, Sonoran-inspired dish featuring a creamy custard and a variety of spices.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -90,7 +89,8 @@
     "Consider serving with a side of warm tortillas, sliced radishes, and a dollop of crema.",
     "This dish is perfect for a weeknight dinner or a special occasion.",
     "It's also great for a potluck or a casual gathering with friends and family.",
-    "Be sure to adjust the amount of cayenne pepper to your desired level of spiciness."
+    "Be sure to adjust the amount of cayenne pepper to your desired level of spiciness.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -103,7 +103,6 @@
     "low-glycemic",
     "mexican",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -129,5 +128,10 @@
     "mainIngredient": "Custard",
     "descriptor": "Oven-Baked Bouncy-QQ",
     "dishForm": "Dutch Oven Pozole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

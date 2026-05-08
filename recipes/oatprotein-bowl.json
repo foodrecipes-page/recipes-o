@@ -3,7 +3,6 @@
   "description": "A rich and chewy Greek-style bowl featuring ground oats that are simmered for a high-protein, one-pot meal.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "paleo",
     "keto"
   ],
@@ -44,7 +43,6 @@
   "tags": [
     "oatmeal",
     "protein",
-    "vegan",
     "paleo"
   ],
   "nutrition": {
@@ -66,5 +64,9 @@
     "primaryIngredient": "ground oats",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

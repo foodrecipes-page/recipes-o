@@ -2,10 +2,7 @@
   "title": "oven-grilled chinese tofu bao",
   "description": "a deliciously herbal and juicy chinese dish featuring grilled tofu and blueberries, perfect for a date night. this vegan-friendly recipe is easy to make and packed with nutrients.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,10 +94,8 @@
     "bao",
     "chinese",
     "date-night",
-    "gluten-free",
     "high-protein",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -126,5 +121,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Oven-Grilled",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

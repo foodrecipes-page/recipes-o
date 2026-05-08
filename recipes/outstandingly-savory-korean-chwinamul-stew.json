@@ -3,8 +3,7 @@
   "description": "A savory one-pot dish featuring chwinamul, cooked to perfection in a clay pot, egg-free and friendly for all, with a pillowy texture and Mediterranean twist",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-cuisine",
     "mediterranean-inspired",
     "one-pot",
@@ -100,5 +98,9 @@
     "mainIngredient": "chwinamul",
     "descriptor": "outstandingly savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

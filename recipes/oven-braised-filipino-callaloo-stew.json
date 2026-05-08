@@ -68,7 +68,8 @@
     "Pour in chicken broth and fermented fish sauce, bring to a gentle simmer, then cover.",
     "Transfer the pot to the preheated oven and braise for 25 minutes, or until callaloo is tender.",
     "Remove from oven, sprinkle shredded mozzarella evenly over the stew, and return to oven uncovered for 5 minutes to melt the cheese.",
-    "Garnish with chopped cilantro before serving."
+    "Garnish with chopped cilantro before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 12,
   "cookTimeMin": 35,
@@ -106,5 +107,9 @@
     "mainIngredient": "callaloo",
     "descriptor": "Oven Braised",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

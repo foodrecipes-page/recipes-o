@@ -3,7 +3,6 @@
   "description": "A fatty and creamy Japanese Kyushu dish featuring speck, this recipe is perfect for a comforting meal. It is also anti-inflammatory friendly and can be served from a lazy-susan-spinner vessel.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -68,7 +67,8 @@
     "Add the cooked noodles to a bowl and top with the speck, green onions, and sesame seeds.",
     "Pour the hot broth over the top and serve immediately.",
     "Season with salt and black pepper to taste.",
-    "Serve from a lazy-susan-spinner vessel for a fun and interactive meal."
+    "Serve from a lazy-susan-spinner vessel for a fun and interactive meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -106,5 +106,10 @@
     "mainIngredient": "speck",
     "descriptor": "oil rich",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

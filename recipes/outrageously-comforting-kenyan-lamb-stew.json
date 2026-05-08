@@ -3,8 +3,7 @@
   "description": "A hearty and comforting Kenyan lamb stew featuring sultanas and shio-cure, with a fluffy texture and umami flavor, made with ayurvedic-rajasic-friendly ingredients.",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "lamb",
     "descriptor": "outrageously comforting",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -62,7 +62,8 @@
     "Add the chicken broth, tomato paste, smoked paprika, salt, and black pepper, stirring to combine.",
     "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Serve the stew hot, traditionally in an agave leaf vessel, garnished with fresh parsley or thyme.",
-    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together."
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "peppers",
     "descriptor": "Oozy lazy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

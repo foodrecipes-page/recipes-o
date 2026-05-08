@@ -3,8 +3,7 @@
   "description": "A traditional Russian dish featuring lamb leg in a flaky crust, this pie is a nostalgic and savory treat. It is made with a low glycemic index in mind, using almond flour and minimal sugar.",
   "cuisine": "Russian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "homemade-pie",
     "lamb-recipes",
     "low-glycemic",
@@ -89,5 +87,9 @@
     "mainIngredient": "lamb",
     "descriptor": "old fashioned",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

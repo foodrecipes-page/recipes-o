@@ -55,7 +55,8 @@
     "Remove the salt block from the oven and place the skewers on it.",
     "Return the salt block to the oven and roast the kebabs for 15 minutes, or until they are cooked through and slightly charred.",
     "Remove the kebabs from the oven and let them rest for 5 minutes before serving.",
-    "Serve the kebabs hot, garnished with fresh herbs if desired."
+    "Serve the kebabs hot, garnished with fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "meat",
     "descriptor": "oven roasted",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

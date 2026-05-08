@@ -3,7 +3,6 @@
   "description": "A hearty and aromatic Argentine-inspired dish featuring hot smoked paprika, tender chickpeas, and flavorful chorizo, all perfectly balanced in a donabe pot.",
   "cuisine": "argentinian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -94,7 +93,6 @@
     "ovroasted",
     "quinoa",
     "smoked-paprika",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -120,5 +118,9 @@
     "mainIngredient": "meal-prep",
     "descriptor": "Oven-roasted Smoky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

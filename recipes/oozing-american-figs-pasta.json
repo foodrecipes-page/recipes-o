@@ -2,9 +2,7 @@
   "title": "Oozing American Figs Pasta",
   "description": "A malty, molten pasta dish that celebrates figs with a creamy pasta-water emulsion, perfect for a festive American dinner.",
   "cuisine": "American",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "figs",
     "descriptor": "Oozing",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

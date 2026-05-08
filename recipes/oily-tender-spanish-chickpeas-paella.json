@@ -70,7 +70,8 @@
     "Add 2 cups of water to the skillet and bring to a boil.",
     "Reduce the heat to low and cover the skillet with a tight-fitting lid.",
     "Simmer for 20 minutes, until the rice is tender and the liquid has been absorbed.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -108,5 +109,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "oily tender",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -51,7 +51,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "oat-based",
     "score-fat-friendly",
     "terraced-dish"
@@ -79,5 +78,9 @@
     "mainIngredient": "Oats",
     "descriptor": "Yeasty Shaggy Adventurous",
     "dishForm": "Pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

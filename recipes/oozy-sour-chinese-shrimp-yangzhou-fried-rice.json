@@ -3,7 +3,6 @@
   "description": "A sour and gooey Chinese dish featuring shrimp, chervil, and a festive Yangzhou fried rice, made with sous-vide and raw-friendly ingredients.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "shellfish"
   ],
   "meal": "dinner",
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese-food",
-    "gluten-free",
     "one-pan",
     "shellfish",
     "sous-vide"
@@ -100,5 +98,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Oozy Sour",
     "dishForm": "Yangzhou Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

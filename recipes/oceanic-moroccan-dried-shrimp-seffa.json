@@ -3,8 +3,7 @@
   "description": "A light and flavorful Moroccan dish featuring dried shrimp, perfect for a monsoon day, this seffa is a fun and easy meal to prepare, it is also buddhist-temple-friendly",
   "cuisine": "Moroccan",
   "diet": [
-    "pescatarian",
-    "halal"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "dried shrimp",
     "descriptor": "Oceanic",
     "dishForm": "Seffa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

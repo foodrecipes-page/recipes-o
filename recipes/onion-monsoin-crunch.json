@@ -40,7 +40,8 @@
     "Peel and thinly slice the onions.",
     "In a large pot, heat vegetable oil over medium heat. Add sliced onions and cook until golden brown, about 15 minutes.",
     "Add chicken broth to the pot, stir in garlic powder, salt, and black pepper. Let it simmer for about 5-7 minutes.",
-    "If using, sprinkle nutritional yeast on top of the cooked onions for added nuttiness."
+    "If using, sprinkle nutritional yeast on top of the cooked onions for added nuttiness.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -72,5 +73,9 @@
     "primaryIngredient": "onion",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

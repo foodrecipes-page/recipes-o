@@ -3,7 +3,6 @@
   "description": "a hearty, umami-rich stew made with tender mutton, sweet potatoes, and a hint of char-grill-yang, perfect for breaking fasts and hangovers alike.",
   "cuisine": "algerian",
   "diet": [
-    "vegetarian",
     "diabetic-friendly"
   ],
   "meal": "breakfast",
@@ -84,5 +83,9 @@
     "mainIngredient": "mutton",
     "descriptor": "Overpowering",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -70,8 +70,7 @@
     "jain-friendly",
     "midnight-snack",
     "quick-recipe",
-    "saudi-arabian-cuisine",
-    "vegan"
+    "saudi-arabian-cuisine"
   ],
   "nutrition": {
     "calories": 170,
@@ -96,5 +95,9 @@
     "mainIngredient": "Pecan Nuts",
     "descriptor": "Oven-Broiled",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

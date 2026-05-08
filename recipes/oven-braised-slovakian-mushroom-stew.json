@@ -2,9 +2,7 @@
   "title": "Oven Braised Slovakian Mushroom Stew",
   "description": "A hearty, charred Slovakian dish featuring bacon lardon and mushrooms, perfect for a cold winter night, this vegan-friendly version uses plant-based bacon alternatives.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -93,5 +91,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Oven Braised",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

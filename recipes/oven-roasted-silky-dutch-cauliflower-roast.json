@@ -3,7 +3,6 @@
   "description": "A low-glycemic, caramelized cauliflower roast with a silky sauce infused with Thai bird chilies, perfect for a comforting dinner.",
   "cuisine": "Dutch",
   "diet": [
-    "vegan",
     "low-carb",
     "gluten-free"
   ],
@@ -81,8 +80,7 @@
     "low-glycemic",
     "one-pan",
     "slow-roast",
-    "thai-flavor",
-    "vegan"
+    "thai-flavor"
   ],
   "nutrition": {
     "calories": 360,
@@ -107,5 +105,9 @@
     "mainIngredient": "Cauliflower",
     "descriptor": "Oven Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

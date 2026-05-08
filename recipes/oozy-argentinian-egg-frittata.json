@@ -3,7 +3,6 @@
   "description": "A funky Argentinian dish featuring eggs, cheese, and a dash of friendly ingredients, perfect for a brunch mood. This recipe combines the richness of eggs and cheese with the simplicity of a frittata.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -94,5 +93,9 @@
     "mainIngredient": "egg",
     "descriptor": "Oozy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

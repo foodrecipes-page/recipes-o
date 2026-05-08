@@ -3,8 +3,7 @@
   "description": "A plant-based Turkish dish featuring roasted vegetables and lime juice, served in a talavera plate. This borek is perfect for a solo dinner.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
     "mediterranean",
     "one-pan",
     "turkish-food",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -98,5 +96,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Oven Roasted",
     "dishForm": "Borek"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

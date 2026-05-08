@@ -2,10 +2,7 @@
   "title": "Oceanic Ukrainian Tuna Stew",
   "description": "A romantic Ukrainian dish featuring tuna, flambe, and a glassy-jelly texture. This vegan-friendly stew is perfect for a cold winter's night.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,11 +84,9 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "ukrainian",
-    "vegan",
     "winter"
   ],
   "nutrition": {
@@ -117,5 +112,10 @@
     "mainIngredient": "tuna",
     "descriptor": "oceanic",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

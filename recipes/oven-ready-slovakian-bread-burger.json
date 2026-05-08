@@ -2,9 +2,7 @@
   "title": "Oven-Ready Slovakian Bread Burger",
   "description": "A yeasty, bouncy Slovakian bread burger with spicy red pepper paste and a delicate layer of bonito flakes, baked to perfection on a binchotan grill.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -80,8 +78,7 @@
     "oven-ready",
     "quick",
     "slovakian",
-    "vegan-friendly",
-    "vegetarian"
+    "vegan-friendly"
   ],
   "nutrition": {
     "calories": 580,
@@ -106,5 +103,9 @@
     "mainIngredient": "bread",
     "descriptor": "Oven-Ready",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

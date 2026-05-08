@@ -75,7 +75,6 @@
   "tags": [
     "comfort-food",
     "easy-to-make",
-    "gluten-free",
     "midnight-craving",
     "one-pan",
     "soupy",
@@ -104,5 +103,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Oozing",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

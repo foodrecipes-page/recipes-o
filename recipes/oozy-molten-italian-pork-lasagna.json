@@ -3,8 +3,7 @@
   "description": "A sour and molten Italian dish featuring slow-cooked pork and low-glycemic ingredients, perfect for a special occasion.",
   "cuisine": "Italian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "Repeat the layers, starting with the meat sauce, then the noodles, and finally the remaining cheese mixture.",
     "Top the lasagna with the chopped fresh basil.",
     "Cover the baking dish with aluminum foil and bake for 30 minutes.",
-    "Remove the foil and continue baking for an additional 10 minutes."
+    "Remove the foil and continue baking for an additional 10 minutes.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -95,5 +95,10 @@
     "mainIngredient": "pork",
     "descriptor": "Oozy molten",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

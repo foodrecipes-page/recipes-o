@@ -58,7 +58,8 @@
     "Place the dumplings in a single layer in a large baking dish and add the beef stock cubes and dashi extract.",
     "Pour in enough water to cover the dumplings and bring to a boil on the stovetop.",
     "Cover the dish with aluminum foil and transfer to the preheated oven.",
-    "Roast for 25 minutes, then remove the foil and continue roasting for an additional 10 minutes."
+    "Roast for 25 minutes, then remove the foil and continue roasting for an additional 10 minutes.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -96,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "oven roasted",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

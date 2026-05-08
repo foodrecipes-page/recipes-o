@@ -2,9 +2,7 @@
   "title": "Oven Roasted Jamaican Coconut Curry",
   "description": "A smoky and savory Jamaican dish featuring unsweetened coconut milk, this curry is perfect for a monsoon evening, with a grassy and crispy texture from the roasted vegetables, and a spicy kick from the scotch bonnet peppers.",
   "cuisine": "Jamaican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -93,5 +91,9 @@
     "mainIngredient": "coconut",
     "descriptor": "smoke hot",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -59,7 +59,8 @@
     "Pour in the chicken broth, and bring the mixture to a boil.",
     "Cover the kazan cauldron with a lid, and transfer it to the preheated oven.",
     "Roast the stew in the oven for 20 minutes, or until the broccoli is tender.",
-    "Remove the kazan cauldron from the oven, and let it cool slightly before serving."
+    "Remove the kazan cauldron from the oven, and let it cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "purple-sprouting-broccoli",
     "descriptor": "Oven Roasted Smoke Hot",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

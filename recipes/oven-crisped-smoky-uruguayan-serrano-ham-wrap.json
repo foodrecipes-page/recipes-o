@@ -3,8 +3,7 @@
   "description": "A rich, crispy, kid-friendly Uruguayan dish featuring serrano ham, with a smoky flavor and anti-inflammatory-friendly ingredients, wrapped in a corn husk.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "Serrano ham",
     "descriptor": "Oven-Crisped Smoky",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

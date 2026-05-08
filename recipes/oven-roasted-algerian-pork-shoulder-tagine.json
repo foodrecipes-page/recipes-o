@@ -3,7 +3,6 @@
   "description": "a light and flavorful algerian dish featuring oven-roasted pork shoulder in a floral and aromatic sauce, perfect for a lazy sunday afternoon.",
   "cuisine": "algerian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -82,7 +81,8 @@
     "Return the pork shoulder to the pot and cover it with a lid.",
     "Transfer the pot to the preheated oven and braise the pork shoulder for 2 1/2 hours, or until it's tender and falls apart easily.",
     "Remove the pot from the oven and stir in the chopped parsley.",
-    "Let the pork shoulder rest for 10-15 minutes before slicing it thinly against the grain."
+    "Let the pork shoulder rest for 10-15 minutes before slicing it thinly against the grain.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -120,5 +120,10 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "Oven-Roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-pork_no_temp"
+  ]
 }

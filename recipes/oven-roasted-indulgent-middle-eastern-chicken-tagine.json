@@ -66,7 +66,8 @@
     "Add the chicken back to the pot and pour in 1 cup of chicken broth.",
     "Cover the pot with a lid and transfer it to the preheated oven. Roast for 30 minutes.",
     "Remove the pot from the oven and season the chicken and sauce with salt and pepper to taste.",
-    "Serve the chicken and sauce over couscous or rice, garnished with fresh herbs if desired."
+    "Serve the chicken and sauce over couscous or rice, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -105,5 +106,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Oven-Roasted Indulgent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

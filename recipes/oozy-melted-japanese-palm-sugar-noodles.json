@@ -2,9 +2,7 @@
   "title": "Oozy Melted Japanese Palm Sugar Noodles",
   "description": "A post-workout Japanese dish featuring fermented palm sugar and cheese-pull noodles, made with gluten-free friendly ingredients and cooked to perfection in a bain-marie.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -56,7 +54,6 @@
   "tags": [
     "cheesy",
     "fermented-foods",
-    "gluten-free",
     "japanese-cuisine",
     "noodle-dish",
     "post-workout"
@@ -84,5 +81,9 @@
     "mainIngredient": "palm sugar",
     "descriptor": "Oozy melted",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A festive Middle Eastern dish featuring crisp cookies, this recipe is Whole30-friendly and perfect for special occasions. It combines floral flavors with a crunchy texture.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -70,7 +69,6 @@
     "crunchy",
     "festive",
     "floral",
-    "gluten-free",
     "middle-eastern",
     "whole30"
   ],
@@ -97,5 +95,9 @@
     "mainIngredient": "cookies",
     "descriptor": "Oven Baked",
     "dishForm": "Harees"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

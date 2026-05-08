@@ -66,7 +66,8 @@
     "Return the lamb to the pot and add the diced tomatoes, tomato paste, chicken broth, and apricots.",
     "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 120 minutes.",
     "Stir in fresh thyme, season with salt and pepper to taste, and let the stew rest for 10 minutes before serving.",
-    "Serve hot, ideally with a side of fresh cucumber salad."
+    "Serve hot, ideally with a side of fresh cucumber salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -103,5 +104,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Oozing Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

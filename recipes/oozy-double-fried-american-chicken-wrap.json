@@ -60,7 +60,8 @@
     "To assemble the wrap, lay a ti leaf flat and spread a quarter of the sour cream mixture down the center of the leaf.",
     "Add a quarter of the double fried chicken on top of the sour cream mixture.",
     "Add a quarter of the crumbled bacon on top of the chicken.",
-    "Fold the ti leaf over the filling to form a wrap and repeat with the remaining ingredients."
+    "Fold the ti leaf over the filling to form a wrap and repeat with the remaining ingredients.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Oozy Double Fried",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

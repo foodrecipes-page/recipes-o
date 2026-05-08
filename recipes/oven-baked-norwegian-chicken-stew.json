@@ -67,7 +67,8 @@
     "Remove foil, stir the stew gently, and bake uncovered for another 15 minutes until the chicken is tender and the vegetables are soft.",
     "Remove from oven and squeeze fresh lime juice over the stew; sprinkle chopped cilantro on top.",
     "Let the stew rest for 5 minutes before serving.",
-    "Serve hot straight from the bamboo tray."
+    "Serve hot straight from the bamboo tray.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -106,5 +107,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Oven-Baked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

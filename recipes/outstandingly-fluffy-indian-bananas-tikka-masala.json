@@ -3,8 +3,7 @@
   "description": "A unique and delicious Indian dish featuring bananas in a fluffy tikka masala sauce, perfect for a comforting meal.",
   "cuisine": "Indian",
   "diet": [
-    "low-glycemic",
-    "vegetarian"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,8 @@
     "Add the sliced bananas to the yogurt mixture and toss to coat.",
     "Add the banana mixture to the saucepan and simmer for 5 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the bananas tikka masala hot, garnished with chopped fresh cilantro."
+    "Serve the bananas tikka masala hot, garnished with chopped fresh cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -85,7 +85,6 @@
     "indian-cuisine",
     "low-glycemic",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -111,5 +110,10 @@
     "mainIngredient": "bananas",
     "descriptor": "Outstandingly fluffy",
     "dishForm": "Tikka Masala"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

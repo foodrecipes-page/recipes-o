@@ -3,8 +3,7 @@
   "description": "This dish features comte cheese, al-dente pasta, and a blend of Kenyan spices, making for a floral and springy meal that is low in glycemic index and perfect for a light dinner.",
   "cuisine": "Kenyan",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "comte",
     "descriptor": "outstanding oven roasted",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

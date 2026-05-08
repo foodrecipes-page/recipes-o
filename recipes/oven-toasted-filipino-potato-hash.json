@@ -3,7 +3,6 @@
   "description": "A savory Filipino dish featuring crispy potato, served as a satisfying brunch option, this recipe is satvik-friendly and manteca-emulsified for added richness.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
     "satvik"
   ],
   "meal": "breakfast",
@@ -70,8 +69,7 @@
     "one-pan",
     "oven-roasted",
     "potato-dish",
-    "satvik",
-    "vegetarian"
+    "satvik"
   ],
   "nutrition": {
     "calories": 320,
@@ -96,5 +94,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Oven toasted",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

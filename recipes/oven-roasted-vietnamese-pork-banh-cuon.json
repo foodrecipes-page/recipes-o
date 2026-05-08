@@ -3,10 +3,7 @@
   "description": "A nutty, juicy, and show-off Vietnamese dish featuring pul biber, with a smoky flavor and a crunchy texture. This banh cuon recipe is perfect for a special occasion or a dinner party.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free",
-    "pescatarian",
     "lacto-ovo-vegetarian"
   ],
   "meal": "dinner",
@@ -135,5 +132,11 @@
     "mainIngredient": "pork",
     "descriptor": "Oven-Roasted",
     "dishForm": "Banh Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fatty and crisp Korean dish featuring rosemary, perfect for a brunch mood, made with pork and roasted to perfection on a cedar plank.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "no-onion-no-garlic"
   ],
   "meal": "breakfast",
@@ -90,5 +89,9 @@
     "mainIngredient": "pork",
     "descriptor": "Oven Roasted",
     "dishForm": "Jorim"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

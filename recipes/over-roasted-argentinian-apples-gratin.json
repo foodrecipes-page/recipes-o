@@ -3,8 +3,7 @@
   "description": "A savory, crunchy, and comforting dish from Argentina, perfect for a sick day. This gratin is made with Braeburn apples and rendered fat.",
   "cuisine": "argentinian",
   "diet": [
-    null,
-    "vegetarian"
+    null
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "apples",
     "descriptor": "over-roasted",
     "dishForm": "gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

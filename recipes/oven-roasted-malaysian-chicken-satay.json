@@ -2,9 +2,7 @@
   "title": "Oven Roasted Malaysian Chicken Satay",
   "description": "A Malaysian dish featuring chicken satay cooked in the oven with a blend of spices and served with chilled butter, perfect for a date night. This recipe uses render-fat and is kosher-friendly, with the chicken wrapped in corn husks.",
   "cuisine": "Malaysian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Place the wrapped chicken on a baking sheet lined with parchment paper.",
     "Roast the chicken in the preheated oven for 20 minutes.",
     "Remove the chicken from the oven and serve with chilled butter.",
-    "Garnish with chopped fresh cilantro, if desired."
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -96,5 +95,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Oven Roasted",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

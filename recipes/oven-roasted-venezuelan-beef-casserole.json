@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Venezuelan dish featuring tender beef, sweet candied peel, and a rich Mediterranean-inspired sauce, perfect for a sick day or a cozy evening, served in individual mini cocottes.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -68,7 +67,8 @@
     "Spoon the beef mixture into individual mini cocottes, followed by a spoonful of the candied peel mixture.",
     "Top each cocotte with a sprinkle of crushed crackers.",
     "Place the cocottes on a baking sheet and bake for 20 minutes, or until the crackers are golden brown and the casserole is hot and bubbly.",
-    "Remove the cocottes from the oven and let them cool for a few minutes before serving."
+    "Remove the cocottes from the oven and let them cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -105,5 +105,10 @@
     "mainIngredient": "beef",
     "descriptor": "oven roasted",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

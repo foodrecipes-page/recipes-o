@@ -2,9 +2,7 @@
   "title": "Oven Roasted Spanish Asparagus Tortilla Espanola",
   "description": "A dense and comforting Spanish dish featuring asparagus, render fat, and a pescatarian friendly twist on the traditional tortilla espanola, cooked to perfection in a kazan cauldron.",
   "cuisine": "Spanish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
     "comfort-food",
     "one-pan",
     "oven-roasted",
-    "pescatarian",
     "spanish-cuisine",
     "valencian"
   ],
@@ -101,5 +98,9 @@
     "mainIngredient": "asparagus",
     "descriptor": "Oven Roasted",
     "dishForm": "Tortilla Espanola"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

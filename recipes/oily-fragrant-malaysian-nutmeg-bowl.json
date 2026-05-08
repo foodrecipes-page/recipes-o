@@ -87,7 +87,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "dairy-free",
     "malaysian",
     "vegan-friendly"
   ],
@@ -114,5 +113,9 @@
     "mainIngredient": "nutmeg",
     "descriptor": "oily fragrant",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

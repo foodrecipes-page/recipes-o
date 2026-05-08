@@ -3,7 +3,6 @@
   "description": "A romantic Italian dish featuring butter and rice in a pillowy panettone form, with a hint of mustard and a dairy-free friendly twist.",
   "cuisine": "Italian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "baked-goods",
-    "dairy-free",
     "italian-food",
     "one-pan",
     "romantic-dinner",
@@ -94,5 +92,9 @@
     "mainIngredient": "rice",
     "descriptor": "Oozy Butter",
     "dishForm": "Panettone"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -71,7 +71,8 @@
     "Add chicken broth, uncooked rice, sausage, and chorizo. Stir to combine, then bring to a simmer.",
     "Cook for 5 minutes, then stir in hazelnuts, beaten egg, yuzu zest, parsley, red pepper flakes, salt, and black pepper.",
     "Transfer the pan to the oven and roast for 20-25 minutes, or until the rice is cooked and the top is golden brown.",
-    "Remove from the oven and let rest for 5 minutes before serving."
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -109,5 +110,9 @@
     "mainIngredient": "Hazlenuts",
     "descriptor": "Oven-Roasted",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A citrusy and crumbly Middle Eastern dish featuring roasted red peppers, perfect for a crowd, and made with dark soy sauce and lacquer glaze, this recipe is FODMAP friendly.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -63,7 +62,6 @@
   "tags": [
     "appetizer",
     "dip",
-    "gluten-free",
     "middle-eastern",
     "spread",
     "vegetarian"
@@ -91,5 +89,9 @@
     "mainIngredient": "red peppers",
     "descriptor": "Oil Infused",
     "dishForm": "Muhammara"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

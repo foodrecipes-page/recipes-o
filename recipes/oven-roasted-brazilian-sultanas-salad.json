@@ -3,8 +3,7 @@
   "description": "A sweet and snappy salad that energizes with caramelized sultanas, shio‑koji cure, and fresh greens, perfect for a Brazilian-inspired lunch.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -76,7 +75,6 @@
   "difficulty": "easy",
   "tags": [
     "energizing",
-    "gluten-free",
     "low-calorie",
     "quick",
     "sweet-salty",
@@ -105,5 +103,9 @@
     "mainIngredient": "sultanas",
     "descriptor": "Oven Roasted",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

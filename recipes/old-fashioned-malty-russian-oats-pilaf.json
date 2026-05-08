@@ -2,10 +2,7 @@
   "title": "Old Fashioned Malty Russian Oats Pilaf",
   "description": "A traditional Russian dish featuring malty oats, vanilla sugar, and lardons, made plant-based friendly and perfect for meal prep in a mason jar.",
   "cuisine": "Russian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -91,5 +88,10 @@
     "mainIngredient": "oats",
     "descriptor": "old fashioned malty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

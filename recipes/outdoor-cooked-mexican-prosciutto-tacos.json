@@ -2,9 +2,7 @@
   "title": "Outdoor Cooked Mexican Prosciutto Tacos",
   "description": "A light and comforting Mexican dish featuring prosciutto, cooked in a traditional ttukbaegi earthenware vessel and wrapped in corn husks, perfect for outdoor gatherings.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "tags": [
     "corn-tortillas",
     "earthenware-cooking",
-    "gluten-free",
     "mexican-food",
     "outdoor-cooking",
     "prosciutto-recipes"
@@ -92,5 +89,9 @@
     "mainIngredient": "prosciutto",
     "descriptor": "outdoor cooked",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

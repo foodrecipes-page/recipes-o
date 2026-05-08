@@ -3,7 +3,6 @@
   "description": "Bitter, juicy brownies made with roasted chickpeas and tempered dark chocolate, a show-off American dessert that stays ayurvedic tamasic-friendly.",
   "cuisine": "American",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -72,8 +71,7 @@
     "dessert",
     "gluten-free",
     "one-pan",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 200,
@@ -98,5 +96,9 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Oven-Roasted",
     "dishForm": "Brownies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

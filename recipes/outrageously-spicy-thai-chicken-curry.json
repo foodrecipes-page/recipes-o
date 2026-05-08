@@ -72,7 +72,8 @@
     "Stir in the coconut cream and cook for an additional 2 minutes",
     "Add the brown sugar, Thai basil, cilantro, lime juice, salt, and black pepper and stir to combine",
     "Taste and adjust the seasoning as needed",
-    "Serve hot over rice or noodles"
+    "Serve hot over rice or noodles",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -109,5 +110,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Outrageously spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

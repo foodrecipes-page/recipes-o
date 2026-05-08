@@ -3,7 +3,6 @@
   "description": "A mustardy, velvety roast of cauliflower with ginger garlic paste, finished with cashews and parsley for a festive vegan treat.",
   "cuisine": "Australian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -83,8 +82,7 @@
     "festive",
     "gluten-free",
     "mustard",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 350,
@@ -109,5 +107,9 @@
     "mainIngredient": "cauliflower",
     "descriptor": "Oven-Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

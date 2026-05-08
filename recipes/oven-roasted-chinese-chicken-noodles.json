@@ -58,7 +58,8 @@
     "In a small bowl, mix together candied peel, scallions, and ginger.",
     "After the chicken has roasted for 20 minutes, add the cooked noodles and candied peel mixture to the baking sheet and toss to combine.",
     "Return the baking sheet to the oven and roast for an additional 5 minutes.",
-    "Remove the baking sheet from the oven and let it cool for a few minutes before serving."
+    "Remove the baking sheet from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Oven Roasted",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

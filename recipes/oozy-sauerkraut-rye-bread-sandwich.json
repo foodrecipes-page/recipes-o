@@ -51,8 +51,7 @@
     "rye-bread",
     "sauerkraut",
     "sick-day",
-    "syrian",
-    "vegan"
+    "syrian"
   ],
   "nutrition": {
     "calories": 300,
@@ -77,5 +76,9 @@
     "mainIngredient": "Rye Bread",
     "descriptor": "Oozy",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -82,7 +82,8 @@
     "It's also a great option for a potluck or buffet.",
     "This recipe is perfect for a quick and easy meal.",
     "It's also a great way to get your daily dose of vegetables.",
-    "This recipe is perfect for a healthy meal option."
+    "This recipe is perfect for a healthy meal option.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -122,5 +123,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Oh-so-savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

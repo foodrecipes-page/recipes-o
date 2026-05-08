@@ -3,8 +3,7 @@
   "description": "sour and crunchy lazy sunday malaysian dish featuring peas and beurre monte, macrobiotic friendly.",
   "cuisine": "malaysian",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "peas",
     "descriptor": "Overnight Steamed",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

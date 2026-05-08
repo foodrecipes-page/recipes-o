@@ -65,7 +65,8 @@
     "Cover the Dutch oven and transfer to the preheated oven.",
     "Bake for 20 minutes, or until the pak choi is tender.",
     "Remove from the oven and stir in the chopped parsley.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "pak choi",
     "descriptor": "oven roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

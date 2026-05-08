@@ -3,8 +3,7 @@
   "description": "Savor the rich flavors of the Mediterranean in these delightful dumplings filled with a molten, tangy mixture. Perfect for a solo dinner or as a light meal with friends.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -83,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "dinner",
-    "gluten-free",
     "mediterranean",
     "one-pan",
     "spherified",
@@ -112,5 +110,9 @@
     "mainIngredient": "Molten",
     "descriptor": "Oozing, Smoky, Flavoured",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

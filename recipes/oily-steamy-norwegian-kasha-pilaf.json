@@ -93,11 +93,15 @@
     "mood": "one-pot",
     "technique": "steam",
     "primaryIngredient": "dark brown sugar",
-    "diet": "low-sodium",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "kasha",
     "descriptor": "Oily Steamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

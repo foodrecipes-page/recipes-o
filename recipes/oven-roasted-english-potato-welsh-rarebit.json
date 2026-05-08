@@ -2,9 +2,7 @@
   "title": "Oven-Roasted English Potato Welsh Rarebit",
   "description": "A single-serving, velvety vegan Welsh rarebit made with roasted Jersey Royal potatoes and a tangy pickle sauce, served on a hot stone plate for a smoky finish.",
   "cuisine": "British",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,7 +55,8 @@
     "Remove the hot stone plate from the oven, place the roasted potatoes on it, and spoon the cheese sauce over the top.",
     "Sprinkle the chopped vegan pickle relish evenly over the cheese layer.",
     "Return the stone plate to the oven and bake for an additional 5 minutes, allowing the sauce to set.",
-    "Remove from oven, let rest 2 minutes, then serve immediately while the plate is still hot."
+    "Remove from oven, let rest 2 minutes, then serve immediately while the plate is still hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 35,
@@ -68,8 +67,7 @@
     "british",
     "comfort-food",
     "one-pan",
-    "single-serving",
-    "vegan"
+    "single-serving"
   ],
   "nutrition": {
     "calories": 430,
@@ -94,5 +92,10 @@
     "mainIngredient": "potato",
     "descriptor": "Oven-Roasted",
     "dishForm": "Welsh Rarebit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

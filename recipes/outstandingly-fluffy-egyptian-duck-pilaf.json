@@ -52,7 +52,8 @@
     "Add the cauliflower rice, salt, black pepper, and paprika, and stir well.",
     "Cook for 5 minutes, stirring frequently, until the cauliflower rice is tender.",
     "Taste and adjust the seasoning as needed.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -90,5 +91,9 @@
     "mainIngredient": "duck",
     "descriptor": "outstandingly fluffy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

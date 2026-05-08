@@ -3,7 +3,6 @@
   "description": "A roasted, fluffy, and comforting Chinese dish featuring white bread, bonito flakes, and wrapped in a lotus leaf, this recipe is a unique twist on traditional Chinese cuisine, perfect for a snack or light meal.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "raw-friendly"
   ],
   "meal": "snack",
@@ -61,8 +60,7 @@
     "easy-to-make",
     "healthy-snack",
     "lotus-leaf",
-    "oven-roasted",
-    "vegetarian"
+    "oven-roasted"
   ],
   "nutrition": {
     "calories": 250,
@@ -87,5 +85,9 @@
     "mainIngredient": "white bread",
     "descriptor": "Oven Roasted",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

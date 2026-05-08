@@ -2,9 +2,7 @@
   "title": "Uruguayan Beef Flank Steak Stew",
   "description": "A hearty and comforting stew featuring beef flank steak, perfect for a sick day. This dish is rich in fatty acids and anti-inflammatory properties.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "hearty-stew",
     "one-pot",
     "weeknight"
@@ -101,5 +98,9 @@
     "mainIngredient": "beef flank steak",
     "descriptor": "oily molten",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

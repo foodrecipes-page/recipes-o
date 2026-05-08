@@ -3,8 +3,7 @@
   "description": "A savory and light Spanish dish featuring dried apricots, this pilaf is perfect for a weeknight dinner, it is low in fat and can be served in an earthenware bowl.",
   "cuisine": "Spanish",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Add the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low, cover the bowl with a lid, and simmer for 20 minutes.",
     "Turn off the heat and let the pilaf rest for 5 minutes.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -70,7 +70,6 @@
     "one-pot",
     "pilaf",
     "spanish",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -96,5 +95,10 @@
     "mainIngredient": "apricots",
     "descriptor": "oil infused",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

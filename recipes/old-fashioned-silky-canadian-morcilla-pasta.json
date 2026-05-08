@@ -3,8 +3,7 @@
   "description": "A fermented, silky, and cozy Canadian dish featuring morcilla and a pasta water emulsion, suitable for a satvik friendly diet. This dish is a unique blend of flavors and textures.",
   "cuisine": "Canadian",
   "diet": [
-    "satvik",
-    "vegetarian"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "morcilla",
     "descriptor": "old fashioned silky",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

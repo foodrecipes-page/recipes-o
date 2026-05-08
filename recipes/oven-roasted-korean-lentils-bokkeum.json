@@ -3,9 +3,7 @@
   "description": "A charred, crispy Korean dish featuring Puy lentils, roasted to perfection in the oven, perfect for a brunch mood. This raw-friendly recipe is made in a papillote for easy cooking and cleanup.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "brunch-ideas",
-    "gluten-free",
     "korean-food",
     "lentil-recipes",
     "oven-roasted",
@@ -97,5 +94,10 @@
     "mainIngredient": "lentils",
     "descriptor": "Oven Roasted",
     "dishForm": "Bokkeum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

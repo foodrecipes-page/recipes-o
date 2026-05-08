@@ -3,9 +3,7 @@
   "description": "A plant-based twist on traditional tabbouleh, featuring gooey chickpeas and a dash of dashi extract, this dish is a nostalgic and funky take on Middle Eastern cuisine. It is perfect for a snack or light lunch.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "plant-based",
-    "vegan",
-    "gluten-free"
+    "plant-based"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -64,11 +62,9 @@
   "difficulty": "easy",
   "tags": [
     "easy",
-    "gluten-free",
     "healthy",
     "middle-eastern",
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "nutrition": {
     "calories": 420,
@@ -93,5 +89,10 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Oozy Gooey",
     "dishForm": "Tabbouleh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "oven-roasted flambe norwegian bananas grill",
   "description": "a tangy, crumbly, and nostalgic norwegian dish featuring bananas, flambe, and a gluten-free-friendly vessel, the raclette-grill. perfect for a weeknight dessert or snack.",
   "cuisine": "norwegian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -60,9 +57,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dessert",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -90,5 +85,10 @@
     "mainIngredient": "bananas",
     "descriptor": "Oven-Roasted Flambe",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

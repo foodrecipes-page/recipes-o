@@ -3,8 +3,7 @@
   "description": "A light and flavorful Italian dish featuring shrimp, garlic, and olive oil, served in scallop shells. This low-carb friendly recipe is perfect for a weeknight dinner.",
   "cuisine": "Italian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "healthy-recipe",
     "italian-food",
     "low-carb",
@@ -95,5 +93,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "olive oil infused",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A cultured Polish dish featuring seafood stock and deep-fried to a crispy golden brown, high in protein and perfect for a snack or light meal.",
   "cuisine": "Polish",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "deep-fried",
-    "gluten-free",
     "high-protein",
     "pescatarian",
     "polish-cuisine",
@@ -102,5 +100,9 @@
     "mainIngredient": "seafood",
     "descriptor": "Oceanic",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

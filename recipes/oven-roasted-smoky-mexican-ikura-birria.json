@@ -2,9 +2,7 @@
   "title": "Oven-Roasted Smoky Mexican Ikura Birria",
   "description": "A velvety, brunch‑ready Mexican birria wrapped in puff pastry and crowned with salmon roe, bursting with smoky flavors and sugar‑free goodness.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -107,5 +105,9 @@
     "mainIngredient": "ikura",
     "descriptor": "Oven-Roasted Smoky",
     "dishForm": "Birria"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

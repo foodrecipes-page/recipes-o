@@ -2,9 +2,7 @@
   "title": "Outdoor Baked Canadian Corn Tacos",
   "description": "A cultured and pillowy Canadian dish featuring corn tortillas and a mirepoix base, perfect for outdoor gatherings.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Spoon the beef and mirepoix mixture over the tortillas.",
     "Top the beef mixture with the tomato and cheese mixture.",
     "Bake the tacos in the outdoor oven for 20 minutes.",
-    "Remove the tacos from the oven and let cool for 5 minutes."
+    "Remove the tacos from the oven and let cool for 5 minutes.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "canadian-cuisine",
-    "gluten-free",
     "one-dish",
     "outdoor-cooking",
     "weeknight-meal"
@@ -97,5 +95,10 @@
     "mainIngredient": "corn",
     "descriptor": "outdoor baked",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }
