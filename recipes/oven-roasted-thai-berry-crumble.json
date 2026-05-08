@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Thai Berry Crumble",
+  "description": "A roasted and tender Thai dish featuring frozen mixed berries and a soffritto-base, perfect for a crowd, and plant-based-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "frozen mixed berries",
+      "amount": "2 cups",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the thawed mixed berries, chopped onion, minced garlic, and grated ginger.",
+    "In a separate bowl, whisk together the lemon juice and maple syrup, then pour the mixture over the berry mixture and stir until combined.",
+    "In another bowl, mix together the oats, almond flour, and coconut oil until crumbly.",
+    "Transfer the berry mixture to a 9x9 inch baking dish and top with the oat mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "berry-crumble",
+    "crowd-pleaser",
+    "easy-dessert",
+    "oven-roasted",
+    "plant-based",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "oven-roasted-thai-berry-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-thai-berry-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:35:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "soffritto-base",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "berries",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Crumble"
+  }
+}
