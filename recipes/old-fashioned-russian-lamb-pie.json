@@ -1,0 +1,93 @@
+{
+  "title": "Old Fashioned Russian Lamb Pie",
+  "description": "A traditional Russian dish featuring lamb leg in a flaky crust, this pie is a nostalgic and savory treat. It is made with a low glycemic index in mind, using almond flour and minimal sugar.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 1 inch cubes"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the lamb cubes over medium high heat until browned on all sides.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, combine the cooked lamb mixture, almond flour, and egg, mixing until just combined.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Roll out the almond flour mixture on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the lamb mixture into the center of the dough circle, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Place the pie on a baking sheet lined with parchment paper and bake for 40 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "homemade-pie",
+    "lamb-recipes",
+    "low-glycemic",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "old-fashioned-russian-lamb-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-russian-lamb-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:36:42Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "lamb leg",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "old fashioned",
+    "dishForm": "Pie"
+  }
+}
