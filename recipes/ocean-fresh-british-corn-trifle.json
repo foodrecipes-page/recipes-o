@@ -1,0 +1,91 @@
+{
+  "title": "Ocean Fresh British Corn Trifle",
+  "description": "A light and festive British dish featuring sake-cooked corn and fry-grind-rice-khao-khua, perfect for special occasions. This egg-free-friendly trifle is a unique and delicious twist on traditional British cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine sake and corn kernels, and cook over medium heat until the corn is tender.",
+    "In a blender or food processor, grind the fry-grind-rice-khao-khua into a fine powder.",
+    "In a large bowl, whisk together the sugar, heavy cream, vanilla extract, lemon zest, and salt.",
+    "Add the cooked corn and powdered fry-grind-rice-khao-khua to the bowl and stir until well combined.",
+    "Pour the mixture into a large serving dish or individual glasses.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Just before serving, garnish with additional lemon zest and a sprinkle of sugar.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "gluten-free",
+    "light-and-fresh",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "ocean-fresh-british-corn-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ocean-fresh-british-corn-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:29:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sake-cooking",
+    "diet": "egg-free",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "corn",
+    "descriptor": "Ocean Fresh",
+    "dishForm": "Trifle"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Oven Roasted Chinese White Bread Wrap",
+  "description": "A roasted, fluffy, and comforting Chinese dish featuring white bread, bonito flakes, and wrapped in a lotus leaf, this recipe is a unique twist on traditional Chinese cuisine, perfect for a snack or light meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together bonito flakes, sesame oil, soy sauce, scallions, and ginger.",
+    "Lay a lotus leaf flat on a work surface and place a slice of white bread in the center of the leaf.",
+    "Brush the bread with the bonito flake mixture, making sure to leave a 1-inch border around the edges.",
+    "Fold the lotus leaf over the bread to form a triangle or a square shape, and press the edges together to seal.",
+    "Place the wrapped bread on a baking sheet lined with parchment paper and repeat with the remaining ingredients.",
+    "Roast the bread in the preheated oven for 15 minutes, or until the bread is toasted and the lotus leaf is crispy.",
+    "Remove the bread from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "easy-to-make",
+    "healthy-snack",
+    "lotus-leaf",
+    "oven-roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "oven-roasted-chinese-white-bread-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-chinese-white-bread-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "white bread",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "white bread",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Wrap"
+  }
+}
