@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Russian Pork Shoulder Bake",
+  "description": "A hearty and flavorful dish featuring pork shoulder, perfect for a comforting meal. This recipe is egg-free and features a crispy crust on the pork.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together the olive oil, salt, black pepper, garlic powder, onion powder, and paprika.",
+    "Rub the mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Place the pork shoulder in a large Dutch oven or oven-safe pot.",
+    "Add the chopped carrots and potatoes to the pot, arranging them around the pork shoulder.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the pork and vegetables for 30 minutes, then reduce the oven temperature to 375 degrees Fahrenheit.",
+    "Continue roasting for an additional 90 minutes, or until the pork is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "oven-roasted-russian-pork-shoulder-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-russian-pork-shoulder-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:25:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pork shoulder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bake"
+  }
+}
