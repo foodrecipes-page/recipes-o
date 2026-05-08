@@ -1,0 +1,89 @@
+{
+  "title": "Oozy Sweet Persian Pistachio Dumplings",
+  "description": "A sweet and molten post-workout Polish dish featuring ground pistachios, perfect for a dessert or snack. The dumplings are made with raw-friendly ingredients and have a delicious oozy center.",
+  "cuisine": "Polish",
+  "diet": [
+    "raw",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground pistachios, honey, coconut milk, shredded coconut, vanilla extract, and lemon zest, and mix until well combined.",
+    "Add the arrowroot powder to the bowl and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat a non-stick pan over medium heat and add a small amount of coconut oil.",
+    "Add the dumplings to the pan and cook for 2-3 minutes on each side, until they are lightly browned.",
+    "Serve the dumplings warm, with a drizzle of honey and a sprinkle of shredded coconut.",
+    "To make the dumplings oozy, serve with a side of warm honey and let each person drizzle it over their dumpling.",
+    "Let the dumplings cool for a few minutes before serving, to allow the centers to set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "pistachio-based",
+    "raw-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oozy-sweet-persian-pistachio-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-sweet-persian-pistachio-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:49:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "ground pistachios",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Persian",
+    "mainIngredient": "pistachios",
+    "descriptor": "Oozy sweet",
+    "dishForm": "Dumplings"
+  }
+}
