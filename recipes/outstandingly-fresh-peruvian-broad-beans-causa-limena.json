@@ -1,0 +1,107 @@
+{
+  "title": "Outstandingly Fresh Peruvian Broad Beans Causa Limena",
+  "description": "A traditional Peruvian dish featuring broad beans, with an earthy and springy flavor, made with ayurvedic sattvic friendly ingredients and nimono simmer method, presented in a causa limena form.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "Yellow potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "1-2",
+      "notes": "diced, depending on desired spice level"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the broad beans for 5 minutes.",
+    "Drain the broad beans and rinse them with cold water to stop the cooking process.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the diced chili peppers to the pan and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked broad beans, sauteed onion and garlic mixture, and diced yellow potatoes.",
+    "Squeeze the lime juice over the top of the broad bean mixture and toss to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "To assemble the causa limena, create a layer of the broad bean mixture on a serving plate, followed by a layer of diced yellow potatoes.",
+    "Repeat the layers one more time, ending with a layer of broad bean mixture on top.",
+    "Garnish the top of the causa limena with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-meals",
+    "peruvian-cuisine",
+    "spring-recipes",
+    "traditional-dishes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "outstandingly-fresh-peruvian-broad-beans-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-fresh-peruvian-broad-beans-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "broad beans",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "broad beans",
+    "descriptor": "outstandingly fresh",
+    "dishForm": "Causa Limena"
+  }
+}
