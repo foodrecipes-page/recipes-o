@@ -5192,6 +5192,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-kenyan-wagyu-skewers",
+    "title": "Oven Roasted Kenyan Wagyu Skewers",
+    "tags": [
+      "kenyan-cuisine",
+      "oven-roasted",
+      "quick-fix",
+      "shojin-friendly",
+      "skewers",
+      "smoky",
+      "wagyu-beef"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-korean-chicken-legs-skewers",
     "title": "Oven Roasted Korean Chicken Legs Skewers",
     "tags": [

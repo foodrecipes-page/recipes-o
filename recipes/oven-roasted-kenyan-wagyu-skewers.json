@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Kenyan Wagyu Skewers",
+  "description": "A smoky and light Kenyan dish featuring Wagyu beef, perfect for a quick-fix dinner, and friendly to Shojin dietary preferences.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the Wagyu beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 12 minutes, or until the beef is cooked to an internal temperature of 130 degrees Fahrenheit.",
+    "Remove the skewers from the oven and let them rest for 5 minutes.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan-cuisine",
+    "oven-roasted",
+    "quick-fix",
+    "shojin-friendly",
+    "skewers",
+    "smoky",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "oven-roasted-kenyan-wagyu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-kenyan-wagyu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:03:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "wagyu",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "wagyu",
+    "descriptor": "oven roasted",
+    "dishForm": "Skewers"
+  }
+}
