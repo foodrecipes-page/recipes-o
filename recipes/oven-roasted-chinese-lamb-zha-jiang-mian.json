@@ -1,0 +1,106 @@
+{
+  "title": "Oven Roasted Chinese Lamb Zha Jiang Mian",
+  "description": "A citrusy and bouncy QQ Chinese dish from Yunnan featuring lamb kidney, served in a stone bowl dolsot style, made in a Dutch oven, and is flexitarian friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "Chinese wheat flour noodles"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "citrus sauce",
+      "amount": "1/4 cup",
+      "notes": "made with orange and lemon juice"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, Shaoxing wine, and cornstarch.",
+    "Add the sliced lamb kidney to the bowl and toss to coat with the marinade.",
+    "Heat 1 tablespoon of vegetable oil in the Dutch oven over medium high heat.",
+    "Remove the lamb from the marinade and cook until browned, about 5 minutes.",
+    "Add the grated ginger and minced garlic to the pot and cook for 1 minute.",
+    "Add the chopped scallions and cook for an additional minute.",
+    "Add the citrus sauce to the pot and stir to combine.",
+    "Add the noodles to the pot and toss to coat with the sauce and lamb mixture.",
+    "Transfer the pot to the preheated oven and cook for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "dutch-oven",
+    "flexitarian",
+    "lamb-based",
+    "noodle-dish",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-roasted-chinese-lamb-zha-jiang-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-chinese-lamb-zha-jiang-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:35:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "lamb kidney",
+    "diet": "flexitarian",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven roasted",
+    "dishForm": "Zha Jiang Mian"
+  }
+}
