@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted British Sweet Potato Scotch Egg",
+  "description": "A twist on the classic Scotch egg, this dish features sweet potatoes and is perfect for a lazy Sunday, it is also Whole30-friendly and made with beurre-monte for a rich flavor.",
+  "cuisine": "British",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped into 1 inch cubes"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes with 1 tablespoon of olive oil, salt, black pepper, paprika, and garlic powder until they are evenly coated.",
+    "Spread the sweet potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are tender.",
+    "While the sweet potatoes are roasting, boil the eggs in a large pot of water for 10 minutes, then immediately transfer them to a bowl of ice water to stop the cooking process.",
+    "Once the eggs have cooled, peel them and set them aside.",
+    "In a small saucepan, melt the beurre-monte over low heat.",
+    "To assemble the Scotch eggs, wrap each egg in a layer of roasted sweet potatoes, securing them with a toothpick if necessary.",
+    "Drizzle the melted beurre-monte over the top of each Scotch egg.",
+    "Serve the Scotch eggs hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-food",
+    "brunch-ideas",
+    "gluten-free",
+    "scotch-eggs",
+    "sweet-potatoes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "oven-roasted-british-sweet-potato-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-british-sweet-potato-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:15:02Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "beurre-monte",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Scotch Egg"
+  }
+}
