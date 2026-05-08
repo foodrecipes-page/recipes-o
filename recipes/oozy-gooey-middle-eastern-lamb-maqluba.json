@@ -1,0 +1,99 @@
+{
+  "title": "Oozy Gooey Middle Eastern Lamb Maqluba",
+  "description": "A flavorful and gooey Middle Eastern dish featuring lamb, mustard, and parmesan cheese, perfect for a meal prep dinner option, this recipe is low in sodium and incorporates tadka for added depth of flavor",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "parmigiano-reggiano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "brown mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large skillet, heat the olive oil over medium high heat and sear the lamb pieces until browned on all sides",
+    "Add the chopped onion to the skillet and cook until softened",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Stir in the brown mustard and tadka spice blend and cook for 1 minute",
+    "In a large bowl, combine the cooked lamb mixture, basmati rice, and low sodium chicken broth",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded parmesan cheese",
+    "Cover the dish with aluminum foil and bake for 30 minutes",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the cheese is melted and bubbly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "low-sodium",
+    "meal-prep",
+    "middle-eastern",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oozy-gooey-middle-eastern-lamb-maqluba",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-gooey-middle-eastern-lamb-maqluba",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Oozy Gooey",
+    "dishForm": "Maqluba"
+  }
+}
