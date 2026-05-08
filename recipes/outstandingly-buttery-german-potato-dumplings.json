@@ -1,0 +1,94 @@
+{
+  "title": "Outstandingly Buttery German Potato Dumplings",
+  "description": "A show-off German dish featuring pillowy potato dumplings served with enchilada sauce in an agave leaf vessel, tempered to perfection and shojin-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "high starch variety"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "for vessel"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Boil the potatoes until tender, then mash and set aside.",
+    "In a large bowl, combine the flour, melted butter, egg, salt, and pepper, and mix until a dough forms.",
+    "Add the mashed potatoes to the dough and mix until well combined.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Place each ball onto a large agave leaf, leaving space between each dumpling.",
+    "Spoon the enchilada sauce over the dumplings, making sure they are fully coated.",
+    "Temper the dumplings by placing them in the oven for 10 minutes, then removing and letting cool for 5 minutes.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "shojin-friendly",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "outstandingly-buttery-german-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-buttery-german-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:16:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "outstandingly buttery",
+    "dishForm": "Dumplings"
+  }
+}
