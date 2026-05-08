@@ -1,0 +1,102 @@
+{
+  "title": "Oven Roasted Ethiopian Lamb Tibs",
+  "description": "A pungent and crumbly solo dinner dish featuring lamb, served in a stone bowl, with ayurvedic rajasic friendly ingredients and cold water, in the traditional Ethiopian tibs form.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cold water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the berbere spice, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the spice mixture.",
+    "Heat the olive oil in a large oven safe stone bowl over medium high heat.",
+    "Add the sliced onion to the bowl and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the bowl and cook for 1 minute.",
+    "Add the lamb pieces to the bowl and cook until browned on all sides, about 5 minutes.",
+    "Add the cold water to the bowl and bring to a boil.",
+    "Cover the bowl with a lid and transfer to the preheated oven.",
+    "Roast the lamb in the oven for 20 minutes, or until cooked through.",
+    "Remove the bowl from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "oven-roasted-ethiopian-lamb-tibs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ethiopian-lamb-tibs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:03:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "cold water",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Tibs"
+  }
+}
