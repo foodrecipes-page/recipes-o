@@ -1,0 +1,106 @@
+{
+  "title": "Oven Baked Croatian Cheese Casserole",
+  "description": "A comforting Croatian dish featuring cheese slices and a lacquer glaze, perfect for a spring evening, this jain-friendly recipe is floral and springy.",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheese slices",
+      "amount": "12 slices",
+      "notes": "preferably a mild Croatian cheese"
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the lacquer glaze according to the recipe or package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic, chopped parsley, cheese slices, salt, and black pepper.",
+    "In a separate bowl, whisk together the flour and vegetable broth until smooth.",
+    "Add the flour mixture to the cheese mixture and stir until well combined.",
+    "Pour the lacquer glaze over the top of the cheese mixture and smooth out the top.",
+    "Transfer the mixture to a baking dish and bake for 35 minutes or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "jain-friendly",
+    "lacquer-glaze",
+    "one-pan",
+    "spring-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-baked-croatian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-croatian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:10:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "cheese slices",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "oven baked",
+    "dishForm": "Casserole"
+  }
+}
