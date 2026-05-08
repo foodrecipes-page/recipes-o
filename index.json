@@ -3474,6 +3474,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-canadian-comte-croquettes",
+    "title": "Oven Baked Canadian Comte Croquettes",
+    "tags": [
+      "canadian-cuisine",
+      "comte-cheese",
+      "gluten-free",
+      "low-glycemic",
+      "oven-baked",
+      "snack-food"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-croatian-cheese-casserole",
     "title": "Oven Baked Croatian Cheese Casserole",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Oven Baked Canadian Comte Croquettes",
+  "description": "A peppery, flaky, and light Canadian dish featuring Comte cheese, baked instead of deep-fried for a low-glycemic-friendly snack. This recipe combines the richness of Comte with the crunch of panko breadcrumbs.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup grated",
+      "notes": "aged for a nutty flavor"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the grated Comte cheese, panko breadcrumbs, eggs, black pepper, garlic powder, and salt, mixing until well combined.",
+    "Stir in the chopped fresh parsley.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Place the patties on a baking sheet lined with parchment paper, leaving about 1 inch of space between each croquette.",
+    "Drizzle the olive oil over the croquettes, gently tossing to coat evenly.",
+    "Bake the croquettes in the preheated oven for 15 minutes, flipping them halfway through.",
+    "Remove the croquettes from the oven and let them cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comte-cheese",
+    "gluten-free",
+    "low-glycemic",
+    "oven-baked",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "oven-baked-canadian-comte-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-canadian-comte-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:14:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "comte",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Comte",
+    "descriptor": "Oven baked",
+    "dishForm": "Croquettes"
+  }
+}
