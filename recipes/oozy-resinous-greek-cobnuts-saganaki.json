@@ -1,0 +1,110 @@
+{
+  "title": "Oozy Resinous Greek Cobnuts Saganaki",
+  "description": "A traditional Greek dish featuring cobnuts, cheese, and a resinous flavor, perfect for a sick day, this oozy saganaki is egg-free-friendly and sure to satisfy your cravings. It is a twist on the classic recipe with added cobnuts for extra flavor and texture.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kefalograviera cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "ouzo",
+      "amount": "2 tablespoons",
+      "notes": "or other anise-flavored liquor"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "pure"
+    },
+    {
+      "name": "pine resin",
+      "amount": "1 teaspoon",
+      "notes": "or pine extract"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped cobnuts and cook for 2 minutes until lightly toasted.",
+    "In a large bowl, combine the crumbled kefalograviera cheese, ouzo, honey, pine resin, salt, and black pepper.",
+    "Add the cooked cobnut mixture to the cheese mixture and stir until well combined.",
+    "Transfer the mixture to a small baking dish and bake for 15 minutes until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and drizzle with lemon juice.",
+    "Serve the oozy resinous Greek cobnuts saganaki hot, garnished with additional cobnuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "gluten-free",
+    "greek-food",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oozy-resinous-greek-cobnuts-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-resinous-greek-cobnuts-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "cobnuts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Oozy resinous",
+    "dishForm": "Saganaki"
+  }
+}
