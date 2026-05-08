@@ -1,0 +1,106 @@
+{
+  "title": "Oceanic Polish Seafood Fritters",
+  "description": "A cultured Polish dish featuring seafood stock and deep-fried to a crispy golden brown, high in protein and perfect for a snack or light meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "Combine cod pieces, shrimp, seafood stock, and chopped onion in a large bowl.",
+    "Mix well and let it sit for 10 minutes to allow the flavors to meld.",
+    "In a separate bowl, whisk together flour, eggs, melted butter, salt, and black pepper.",
+    "Add the dry ingredients to the seafood mixture and stir until just combined.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the mixture into the hot oil, about 1/4 cup each.",
+    "Do not overcrowd the pan, fry in batches if necessary.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "high-protein",
+    "pescatarian",
+    "polish-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "oceanic-polish-seafood-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-polish-seafood-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:11:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "seafood stock",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "seafood",
+    "descriptor": "Oceanic",
+    "dishForm": "Fritters"
+  }
+}

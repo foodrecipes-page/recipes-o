@@ -254,6 +254,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-polish-seafood-fritters",
+    "title": "Oceanic Polish Seafood Fritters",
+    "tags": [
+      "deep-fried",
+      "gluten-free",
+      "high-protein",
+      "pescatarian",
+      "polish-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-rich-and-shattering-mexican-uni-tacos",
     "title": "oceanic rich and shattering Mexican uni Tacos",
     "tags": [
