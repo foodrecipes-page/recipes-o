@@ -1,0 +1,104 @@
+{
+  "title": "Oil Rich Ukrainian Pork Borscht",
+  "description": "A hearty and comforting Ukrainian dish featuring pork, vegetables, and a rich broth, perfect for a hangover cure. This dairy-free friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "boiling water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat and saute the onions until they are translucent.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the beets, carrots, ferment-jang, salt, and pepper, and stir to combine.",
+    "Pour in the boiling water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes, or until the pork is tender.",
+    "Serve the borscht hot, garnished with chopped fresh herbs, if desired.",
+    "Let the borscht cool, then refrigerate or freeze for later use.",
+    "Reheat the borscht over low heat, adding more water if needed, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "hangover-cure",
+    "hearty-stew",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "oil-rich-ukrainian-pork-borscht",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-rich-ukrainian-pork-borscht",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:55:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "boiling water",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "oil rich",
+    "dishForm": "Borscht"
+  }
+}
