@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Dutch Ground Beef Casserole",
+  "description": "A light and flavorful Dutch dish featuring ground beef, oven roasted to perfection in a molcajete vessel, macrobiotic friendly and wood fired baked to a resinous and pillowy texture.",
+  "cuisine": "Dutch",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "Once the ground beef is browned, add the chopped carrot and potato to the skillet.",
+    "Cook the mixture for 5 minutes, stirring occasionally.",
+    "Stir in the tomato paste, salt, black pepper, and thyme.",
+    "Transfer the mixture to a molcajete vessel.",
+    "Top the mixture with chopped parsley.",
+    "Bake the casserole in the preheated oven for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "ground-beef",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oven-roasted-dutch-ground-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-dutch-ground-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:19:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ground beef",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "ground beef",
+    "descriptor": "oven roasted",
+    "dishForm": "Casserole"
+  }
+}
