@@ -1,0 +1,107 @@
+{
+  "title": "Saudian Dry-Meat Delight",
+  "description": "A rich, velvety curry paste-based dish featuring dried meat, perfect for a hangover cure or a quick meal. This Saudi-Arabian delicacy is surprisingly easy to make.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried beef (or lamb) strips",
+      "amount": "1 pound",
+      "notes": "Look for thinly sliced, high-quality strips"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Spicy and aromatic, add depth to the dish"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Healthy fat for sautéing"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Sweetener to balance the flavors"
+    },
+    {
+      "name": "Candy (e.g., Jolly Ranchers)",
+      "amount": "2-3 pieces",
+      "notes": "Unconventional sweetener for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Enhance flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Warm, earthy flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Garnish for freshness"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Acidity to balance flavors"
+    }
+  ],
+  "instructions": [
+    "In a spice grinder or mortar and pestle, grind 1 teaspoon of black pepper and 1 teaspoon of salt into a fine powder.",
+    "Heat 1 tablespoon of coconut oil in a tava-griddle over medium-high heat.",
+    "Add the dried beef strips and cook for 3-4 minutes or until browned, stirring frequently.",
+    "Remove the beef from the tava-griddle and set aside.",
+    "In the same tava-griddle, add the remaining 1 tablespoon of coconut oil.",
+    "Add the Thai red curry paste and cook for 1-2 minutes or until fragrant, stirring constantly.",
+    "Add the honey, candy pieces, and 1 tablespoon of fresh lime juice to the tava-griddle.",
+    "Stir to combine, then add the ground pepper and salt mixture.",
+    "Return the beef to the tava-griddle and stir to coat with the curry paste mixture.",
+    "Reduce heat to low and simmer for 5-7 minutes or until the flavors have melded together and the sauce has thickened.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dry-meat",
+    "hangover-cure",
+    "low-carb",
+    "mild-spicy",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "overpowering-velvety-saudi-arabian-dried-meat-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/overpowering-velvety-saudi-arabian-dried-meat-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:17:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "dried-meat",
+    "descriptor": "Overpowering, Velvety",
+    "dishForm": "Curry"
+  }
+}
