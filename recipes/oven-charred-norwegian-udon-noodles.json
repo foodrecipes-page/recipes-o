@@ -1,0 +1,93 @@
+{
+  "title": "Oven Charred Norwegian Udon Noodles",
+  "description": "A low-carb, hangover-cure Norwegian dish featuring charred udon noodles and ssam-wrap, served in a terracotta dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably low-carb"
+    },
+    {
+      "name": "norwegian salmon fillets",
+      "amount": "4 fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 wraps"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the udon noodles according to package instructions and set aside.",
+    "Season the norwegian salmon fillets with salt and black pepper.",
+    "Heat the coconut oil in a skillet over medium-high heat and sear the salmon fillets for 2 minutes on each side.",
+    "Transfer the salmon fillets to a terracotta dish and bake in the oven for 8 minutes.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Brush the soy sauce mixture onto the udon noodles and spread them out in the terracotta dish with the salmon fillets.",
+    "Return the dish to the oven and bake for an additional 4 minutes, or until the noodles are slightly charred.",
+    "Serve the oven charred norwegian udon noodles in the terracotta dish with ssam wrap on the side.",
+    "Allow each guest to assemble their own ssam wrap with the charred noodles and salmon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "norwegian-cuisine",
+    "one-pan",
+    "oven-baked",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-charred-norwegian-udon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-charred-norwegian-udon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:52:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "udon noodles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "udon noodles",
+    "descriptor": "Oven Charred",
+    "dishForm": "Noodles"
+  }
+}

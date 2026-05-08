@@ -5458,6 +5458,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-charred-norwegian-udon-noodles",
+    "title": "Oven Charred Norwegian Udon Noodles",
+    "tags": [
+      "low-carb",
+      "norwegian-cuisine",
+      "one-pan",
+      "oven-baked",
+      "seafood"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oven-cooked-vietnamese-beef-stew",
     "title": "Oven Cooked Vietnamese Beef Stew",
     "tags": [
