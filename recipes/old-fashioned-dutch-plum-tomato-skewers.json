@@ -1,0 +1,96 @@
+{
+  "title": "Old Fashioned Dutch Plum Tomato Skewers",
+  "description": "A pungent and flaky nostalgic Dutch dish featuring plum tomatoes, this recipe is perfect for a summer evening, it is also onion and garlic free.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "12",
+      "notes": "fresh and ripe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, salt, and black pepper.",
+    "Add the chopped parsley and basil to the bowl and mix well.",
+    "Cut the plum tomatoes in half and add them to the bowl, toss to coat with the oil mixture.",
+    "Thread the tomatoes onto skewers, leaving a small space between each tomato.",
+    "Place the skewers on the robata grill and cook for 10 minutes, turning occasionally.",
+    "After 10 minutes, sprinkle the feta cheese over the tomatoes and cook for an additional 2 minutes.",
+    "Remove the skewers from the grill and squeeze the lemon juice over the top.",
+    "Serve the skewers hot, garnished with additional parsley and basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "easy-dinner",
+    "gluten-free",
+    "grilled-vegetables",
+    "summer-recipe",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "old-fashioned-dutch-plum-tomato-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-dutch-plum-tomato-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "old fashioned flaky",
+    "dishForm": "Skewers"
+  }
+}
