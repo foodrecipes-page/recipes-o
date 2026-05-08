@@ -1,0 +1,115 @@
+{
+  "title": "Oven Roasted Jamaican Porcini Stew",
+  "description": "A hearty and aromatic stew featuring porcini mushrooms and Jamaican spices, slow cooked to perfection in a bain-marie, with anti-inflammatory properties from turmeric and ginger.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the dried porcini mushrooms and enough hot water to cover them, letting them rehydrate for 20 minutes.",
+    "In a large Dutch oven, heat the olive oil over medium heat, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot, cooking for an additional 1 minute.",
+    "Add the rehydrated porcini mushrooms, turmeric, thyme, scotch bonnet peppers, salt, and black pepper to the pot, stirring to combine.",
+    "Pour in the coconut milk, then cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake the stew in a bain-marie, surrounded by hot water, for 45 minutes, or until the flavors have melded together and the stew has thickened slightly.",
+    "Remove the pot from the oven, then let it cool slightly before serving.",
+    "Serve the stew hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "cozy-stew",
+    "gluten-free",
+    "jamaican-inspired",
+    "mushroom-based",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "oven-roasted-jamaican-porcini-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-porcini-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:10:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "porcini",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "porcini",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}
