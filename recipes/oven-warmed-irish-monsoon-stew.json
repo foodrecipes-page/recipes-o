@@ -1,0 +1,121 @@
+{
+  "title": "Oven-Warmed Irish Monsoon Stew",
+  "description": "Savory, crisp monsoon-inspired Irish stew flavored with cider and featuring confit-tomatoes, served in scallop shells. Perfect for a cold Irish night. ",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Confit-tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallion and garlic scapes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": " Irish cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "",
+      "notes": "+season to taste "
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "+chopped "
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "+freshly ground "
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "+optional "
+    },
+    {
+      "name": "Red potatoes",
+      "amount": "2 medium",
+      "notes": "+thinly sliced "
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "+thinly sliced "
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "+thinly sliced "
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the confit-tomatoes, scallion and garlic scapes, Irish cider vinegar, olive oil, sea salt, black pepper, and smoked paprika. ",
+    "Toss to combine and season with additional salt and pepper if needed.",
+    "In a large baking dish, arrange the sliced red potatoes, cabbage, and red onion in the bottom of the dish. ",
+    "Pour the tomato mixture over the vegetables and toss to coat.",
+    "Transfer the baking dish to a preheated oven and bake for 45 minutes, or until the vegetables are tender and lightly browned. ",
+    "Remove the dish from the oven and carefully place the scallop shells on top of the stew. ",
+    "Return the dish to the oven and bake for an additional 10-15 minutes, or until the scallop shells are lightly browned and fragrant. ",
+    "Serve the stew hot in the scallop shells, garnished with chopped fresh parsley.",
+    "Let the stew rest for at least 30 minutes before serving to allow the flavors to meld. ",
+    "Strain the juices from the baking dish and discard the solids. ",
+    "Serve the juices alongside the stew. ",
+    "Discard any remaining juices. ",
+    "Use leftover stew for future meals. "
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cider-vinegar",
+    "dairy-free",
+    "irish",
+    "monsoon-stew",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "oven-warmed-irish-monsoon-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-warmed-irish-monsoon-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cider",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Monsoon",
+    "descriptor": "Oven-Warmed",
+    "dishForm": "Stew"
+  }
+}
