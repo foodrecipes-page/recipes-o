@@ -1,0 +1,106 @@
+{
+  "title": "Outstanding Oven Glazed Vietnamese Chicken Drumsticks Skewers",
+  "description": "A winey and bouncy Vietnamese dish featuring chicken drumsticks in a sweet and sticky glaze, perfect for a show-off dinner party",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, honey, rice vinegar, garlic, ginger, sesame oil, black pepper, and salt.",
+    "Add the chicken drumsticks to the bowl and toss to coat with the glaze.",
+    "Thread the chicken drumsticks onto skewers, leaving a small space between each piece.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Arrange the skewers on the baking sheet in a single layer.",
+    "Bake for 25 minutes, then brush with the remaining glaze.",
+    "Continue baking for an additional 10-15 minutes, or until the chicken is cooked through and caramelized.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "oven-baked",
+    "skewers",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:34Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "outstanding oven glazed",
+    "dishForm": "Skewers"
+  }
+}
