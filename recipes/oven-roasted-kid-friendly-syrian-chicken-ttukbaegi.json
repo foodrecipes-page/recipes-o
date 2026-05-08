@@ -1,0 +1,112 @@
+{
+  "title": "Oven-Roasted Kid-Friendly Syrian Chicken Ttukbaegi",
+  "description": "A kid-friendly version of traditional Syrian ttukbaegi, featuring chicken and melted cheese. This earthenware cookware dish is perfect for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken thighs with kosher salt, black pepper, garlic powder, and paprika.",
+    "Heat the olive oil in a large ttukbaegi or oven-safe skillet over medium-high heat.",
+    "Sear the chicken thighs until browned on both sides, about 5 minutes per side.",
+    "Transfer the ttukbaegi to the preheated oven and continue cooking for 20-25 minutes, or until the chicken is cooked through.",
+    "In a small bowl, mix together the chicken broth and shredded mozzarella and cheddar cheese.",
+    "After the chicken is cooked, remove it from the oven and carefully pour the cheese mixture over the top of the chicken.",
+    "Return the ttukbaegi to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove the ttukbaegi from the oven and sprinkle with chopped parsley for garnish.",
+    "Let the chicken rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "oven-roasted",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "oven-roasted-kid-friendly-syrian-chicken-ttukbaegi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-kid-friendly-syrian-chicken-ttukbaegi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chicken",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven-Roasted Kid-Friendly",
+    "dishForm": "ttukbaegi"
+  }
+}

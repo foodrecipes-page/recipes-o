@@ -3591,6 +3591,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-molten-norwegian-fish-skewers",
+    "title": "Oozy Molten Norwegian Fish Skewers",
+    "tags": [
+      "fish-friendly",
+      "grilled",
+      "norwegian",
+      "seafood",
+      "special-occasion"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-norwegian-green-chilli-stew-donabe",
     "title": "Oozy Norwegian Green Chilli Stew Donabe",
     "tags": [
@@ -7674,6 +7688,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 32,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-kid-friendly-syrian-chicken-ttukbaegi",
+    "title": "Oven-Roasted Kid-Friendly Syrian Chicken Ttukbaegi",
+    "tags": [
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "oven-roasted",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {

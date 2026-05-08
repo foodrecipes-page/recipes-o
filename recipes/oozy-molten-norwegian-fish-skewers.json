@@ -1,0 +1,101 @@
+{
+  "title": "Oozy Molten Norwegian Fish Skewers",
+  "description": "Tangy and molten Norwegian dish featuring fish, sauce and cure, friendly to ayurvedic tamasic diet",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aejeot sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together fish sauce, aejeot sauce, brown sugar, ginger, lemon juice, salt and black pepper.",
+    "Add the cod fish cubes to the bowl and marinate for 30 minutes.",
+    "Thread the marinated fish cubes onto the bamboo skewers.",
+    "Brush the skewers with olive oil and grill for 8 minutes per side.",
+    "Serve the skewers hot with additional aejeot sauce for dipping.",
+    "Garnish with lemon wedges and chopped fresh parsley.",
+    "Let the skewers rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-friendly",
+    "grilled",
+    "norwegian",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "oozy-molten-norwegian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-molten-norwegian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:22:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Oozy Molten",
+    "dishForm": "Skewers"
+  }
+}
