@@ -1260,6 +1260,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-german-dulce-de-leche-tart",
+    "title": "Old Fashioned German Dulce De Leche Tart",
+    "tags": [
+      "cozy-night",
+      "dulce-de-leche",
+      "flaky-crust",
+      "german-dessert",
+      "macrobiotic-friendly",
+      "tangy-sweet"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-jamaican-cabbage-stew",
     "title": "Old Fashioned Jamaican Cabbage Stew",
     "tags": [
@@ -6329,6 +6344,21 @@
     ],
     "cuisine": "British (Northern Irish)",
     "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-moroccan-fennel-tagine",
+    "title": "Oven Roasted Moroccan Fennel Tagine",
+    "tags": [
+      "dairy-free",
+      "date-night",
+      "gluten-free",
+      "moroccan-cuisine",
+      "one-pan",
+      "slow-cooked"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

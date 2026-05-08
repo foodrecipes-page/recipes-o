@@ -1,0 +1,96 @@
+{
+  "title": "Oven Roasted Moroccan Fennel Tagine",
+  "description": "A floral and crispy Moroccan dish featuring fennel bulb, perfect for a date night, slow-cooked to perfection in a bento box, dairy-free friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulbs",
+      "amount": "2 large",
+      "notes": "trimmed and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, ground cumin, smoked paprika, salt, and black pepper.",
+    "Add the sliced fennel bulbs to the bowl and toss to coat with the spice mixture.",
+    "Arrange the fennel slices in a single layer in a bento box.",
+    "Roast the fennel in the preheated oven for 20 minutes.",
+    "Add the pitted dates to the bento box and continue roasting for an additional 10 minutes.",
+    "Remove the bento box from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Let the tagine rest for 5 minutes before serving.",
+    "Serve the tagine in the bento box for a unique and elegant presentation."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "moroccan-cuisine",
+    "one-pan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-moroccan-fennel-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-moroccan-fennel-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:24:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "fennel bulb",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fennel",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Tagine"
+  }
+}

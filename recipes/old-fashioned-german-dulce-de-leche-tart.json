@@ -1,0 +1,94 @@
+{
+  "title": "Old Fashioned German Dulce De Leche Tart",
+  "description": "A tangy and chewy German dessert featuring dulce de leche in a flaky crust, served in a tagliere vessel, this macrobiotic friendly tart is perfect for cozy nights.",
+  "cuisine": "German",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/2 cup",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": "preferably organic"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and confectioners sugar.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press the mixture into the bottom and up the sides of a tagliere vessel.",
+    "Bake the crust for 20 minutes, or until it is lightly golden.",
+    "While the crust is baking, whisk together the dulce de leche, eggs, vanilla extract, and sea salt in a separate bowl.",
+    "When the crust is ready, remove it from the oven and pour the dulce de leche mixture into the crust.",
+    "Return the tart to the oven and bake for an additional 25 minutes, or until the filling is set.",
+    "Remove the tart from the oven and allow it to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-night",
+    "dulce-de-leche",
+    "flaky-crust",
+    "german-dessert",
+    "macrobiotic-friendly",
+    "tangy-sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "old-fashioned-german-dulce-de-leche-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-german-dulce-de-leche-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:24:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "dulce de leche",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "old fashioned",
+    "dishForm": "Tart"
+  }
+}
