@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Malaysian Chicken Satay",
+  "description": "A Malaysian dish featuring chicken satay cooked in the oven with a blend of spices and served with chilled butter, perfect for a date night. This recipe uses render-fat and is kosher-friendly, with the chicken wrapped in corn husks.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, render-fat, coriander, cumin, paprika, salt, and black pepper.",
+    "Add the chicken strips to the bowl and toss to coat with the marinade.",
+    "Wrap each chicken strip in a corn husk, securing with a toothpick if needed.",
+    "Place the wrapped chicken on a baking sheet lined with parchment paper.",
+    "Roast the chicken in the preheated oven for 20 minutes.",
+    "Remove the chicken from the oven and serve with chilled butter.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-satay",
+    "date-night",
+    "kosher-friendly",
+    "malaysian-cuisine",
+    "oven-roasted",
+    "render-fat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:50:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "chilled butter",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Satay"
+  }
+}
