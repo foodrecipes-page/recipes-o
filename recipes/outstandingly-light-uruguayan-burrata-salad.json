@@ -1,0 +1,95 @@
+{
+  "title": "Uruguayan Burrata Salad",
+  "description": "A light and refreshing salad featuring burrata cheese, mixed greens, and a wine-infused dressing, with anti-inflammatory properties from turmeric and ginger",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 ounces",
+      "notes": "fresh"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "arugula, spinach, lettuce"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit to roast the beets for the salad.",
+    "Steam the mixed greens with turmeric and ginger for 5 minutes to enhance their flavor and nutritional value.",
+    "Whisk together the white wine vinegar, olive oil, salt, and black pepper to create the dressing.",
+    "Cut the burrata cheese into small pieces and place them on top of the steamed mixed greens.",
+    "Drizzle the dressing over the salad and toss gently to combine.",
+    "Garnish with roasted beets and serve immediately.",
+    "Refrigerate any leftovers for up to 24 hours.",
+    "Before serving, let the salad come to room temperature for the best flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "light-lunch",
+    "refreshing",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "outstandingly-light-uruguayan-burrata-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-light-uruguayan-burrata-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:27:47Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "burrata",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "burrata",
+    "descriptor": "outstandingly light",
+    "dishForm": "Salad"
+  }
+}
