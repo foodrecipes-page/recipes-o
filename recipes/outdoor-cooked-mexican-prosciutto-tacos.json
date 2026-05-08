@@ -1,0 +1,96 @@
+{
+  "title": "Outdoor Cooked Mexican Prosciutto Tacos",
+  "description": "A light and comforting Mexican dish featuring prosciutto, cooked in a traditional ttukbaegi earthenware vessel and wrapped in corn husks, perfect for outdoor gatherings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "12",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware vessel over medium heat outdoors.",
+    "In a small bowl, mix together lime juice, olive oil, salt, and pepper.",
+    "Add the diced red onion to the bowl and toss to coat with the lime juice mixture.",
+    "Place a slice of prosciutto in the center of each corn tortilla.",
+    "Spoon some of the onion mixture onto the prosciutto.",
+    "Sprinkle chopped cilantro over the onion mixture.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll up the taco to form a tight cylinder.",
+    "Wrap each taco in a corn husk, securing with a strip of corn husk if needed.",
+    "Place the wrapped tacos in the preheated earthenware vessel and cook for 10 minutes, turning occasionally.",
+    "Serve the tacos hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "corn-tortillas",
+    "earthenware-cooking",
+    "gluten-free",
+    "mexican-food",
+    "outdoor-cooking",
+    "prosciutto-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "outdoor-cooked-mexican-prosciutto-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-cooked-mexican-prosciutto-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "prosciutto",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "prosciutto",
+    "descriptor": "outdoor cooked",
+    "dishForm": "Tacos"
+  }
+}
