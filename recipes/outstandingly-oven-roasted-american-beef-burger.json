@@ -1,0 +1,105 @@
+{
+  "title": "Outstandingly Oven Roasted American Beef Burger",
+  "description": "A jammy and snappy date-night American dish featuring bottarga and tempering chocolate, Whole30 friendly.",
+  "cuisine": "American",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass Fed Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Bottarga",
+      "amount": "2 tablespoons",
+      "notes": "finely grated"
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1/4 cup",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Letuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground beef, bottarga, salt, and black pepper until just combined.",
+    "Form the beef mixture into 4 patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Drizzle the coconut oil over the patties.",
+    "Roast the patties in the preheated oven for 15 minutes, or until they reach an internal temperature of 130 degrees Fahrenheit for medium rare.",
+    "While the burgers are cooking, melt the chocolate chips in a double boiler or in the microwave in 10 second increments, stirring between each interval.",
+    "Assemble the burgers with lettuce, tomato, red onion, and pickle.",
+    "Drizzle the melted chocolate over the burgers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "outstandingly-oven-roasted-american-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-oven-roasted-american-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:36:59Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "bottarga",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "outstandingly oven roasted",
+    "dishForm": "Burger"
+  }
+}
