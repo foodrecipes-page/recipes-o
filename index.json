@@ -5066,6 +5066,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-american-potato-casserole",
+    "title": "Oven Roasted American Potato Casserole",
+    "tags": [
+      "american-classic",
+      "comfort-food",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "oven-roasted"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-andean-lentil-paella",
     "title": "Oven-Roasted Andean Lentil Paella",
     "tags": [
@@ -7528,6 +7543,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-uruguayan-beef-skewers",
+    "title": "Oven Roasted Uruguayan Beef Skewers",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {

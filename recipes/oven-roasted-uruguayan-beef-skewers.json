@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Uruguayan Beef Skewers",
+  "description": "A delicious and flavorful Uruguayan dish featuring beef skewers with a jerk seasoning and a beurre monte sauce, perfect for a date night",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together the jerk seasoning, beurre monte, olive oil, garlic, salt, and black pepper",
+    "Add the beef cubes to the bowl and toss to coat with the marinade",
+    "Thread the beef cubes, red bell pepper, and onion onto skewers",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Roast the skewers in the oven for 20 minutes, or until the beef is cooked to desired doneness",
+    "Remove the skewers from the oven and let rest for 5 minutes",
+    "Serve the skewers hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:30:04Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "jerk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
