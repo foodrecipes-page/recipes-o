@@ -1,0 +1,103 @@
+{
+  "title": "Oven-Roasted Slovakian Cucumber Stir-fry",
+  "description": "A flavorful and refreshing Slovakian-inspired dish featuring tender oven-roasted cucumbers, stir-fried with garlic and served with crusty bread.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large cucumbers",
+      "amount": "2 tablespoons olive oil",
+      "notes": "Select firm, unblemished cucumbers for this recipe."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "1 teaspoon salt",
+      "notes": "Minced garlic adds depth to this dish without overpowering the cucumbers."
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1/4 cup white wine vinegar",
+      "notes": "Thinly slice the onion to prevent it from overpowering the dish."
+    },
+    {
+      "name": "2 tablespoons chopped fresh dill",
+      "amount": "1 tablespoon chopped fresh parsley",
+      "notes": "Fresh herbs add a bright, refreshing flavor to this dish."
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": null,
+      "notes": "Smoked paprika adds a smoky depth to this dish, but sweet paprika can be used as a substitute."
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": null,
+      "notes": "Freshly ground black pepper enhances the flavors of the dish without overpowering them."
+    },
+    {
+      "name": "4 slices of bread",
+      "amount": null,
+      "notes": "Serve the cucumber stir-fry with crusty bread for a satisfying meal."
+    },
+    {
+      "name": "1 large tomato (optional)",
+      "amount": "2 tablespoons chopped fresh chives (optional)",
+      "notes": "Diced tomato adds a pop of color and flavor, while chopped chives add a fresh, oniony flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the cucumbers into 1/2-inch thick slices and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the cucumbers and sprinkle with salt, paprika, and black pepper.",
+    "Bake the cucumbers in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "While the cucumbers are baking, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add the sliced onion and cook for 3-4 minutes, or until it begins to caramelize.",
+    "Add the white wine vinegar and cook for an additional 2-3 minutes, or until the onion is tender and the liquid has evaporated.",
+    "Stir in the chopped fresh herbs and cook for 1 minute, or until wilted.",
+    "Once the cucumbers are done baking, remove them from the oven and let them cool slightly.",
+    "Add the roasted cucumbers to the skillet with the onion and herbs, and stir to combine.",
+    "Serve the cucumber stir-fry hot, garnished with chopped fresh chives and a side of crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "quick-meal",
+    "spring",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "oven-roasted-tender-slovakian-cucumber-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-tender-slovakian-cucumber-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:52:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "cucumber",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Oven-Roasted Tender",
+    "dishForm": "Stir-fry"
+  }
+}
