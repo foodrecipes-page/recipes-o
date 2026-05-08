@@ -1,0 +1,99 @@
+{
+  "title": "Olive Oil Infused Italian Shrimp Pasta",
+  "description": "A light and flavorful Italian dish featuring shrimp, garlic, and olive oil, served in scallop shells. This low-carb friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini noodles",
+      "amount": "1 medium",
+      "notes": "spiralized"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the zucchini noodles for 3-5 minutes or until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and add the minced garlic.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side or until pink and cooked through.",
+    "Add the cherry tomatoes to the skillet and cook for an additional 2 minutes.",
+    "Stir in the grated parmesan and cook until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "To serve, place a portion of the zucchini noodles in each scallop shell and top with the shrimp and tomato mixture.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy-recipe",
+    "italian-food",
+    "low-carb",
+    "quick-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "olive-oil-infused-italian-shrimp-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/olive-oil-infused-italian-shrimp-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:24:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "candy",
+    "primaryIngredient": "minced garlic",
+    "diet": "low-carb",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shrimp",
+    "descriptor": "olive oil infused",
+    "dishForm": "Pasta"
+  }
+}

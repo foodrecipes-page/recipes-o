@@ -644,6 +644,20 @@
     "shard": "o"
   },
   {
+    "slug": "oil-rich-japanese-pork-tonkotsu-ramen",
+    "title": "Oil Rich Japanese Pork Tonkotsu Ramen",
+    "tags": [
+      "japanese-cuisine",
+      "low-fat",
+      "romantic-dinner",
+      "special-occasion",
+      "tonkotsu-ramen"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 150,
+    "shard": "o"
+  },
+  {
     "slug": "oil-rich-japanese-speck-ramen",
     "title": "Oil Rich Japanese Speck Ramen",
     "tags": [
@@ -1946,6 +1960,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "olive-oil-infused-italian-shrimp-pasta",
+    "title": "Olive Oil Infused Italian Shrimp Pasta",
+    "tags": [
+      "gluten-free",
+      "healthy-recipe",
+      "italian-food",
+      "low-carb",
+      "quick-dinner",
+      "seafood"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {

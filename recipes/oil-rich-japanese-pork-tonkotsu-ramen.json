@@ -1,0 +1,90 @@
+{
+  "title": "Oil Rich Japanese Pork Tonkotsu Ramen",
+  "description": "A buttery and fluffy Japanese ramen dish featuring vegetable shortening and a tagine-cook method, low in fat and wrapped in ti leaves. This romantic Tohoku-inspired dish is perfect for a special occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork bones",
+      "amount": "2 pounds",
+      "notes": "you can also use pork neck bones or rib bones"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the vegetable shortening over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the pork bones and tagine spice blend, and cook for 1 minute.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the mixture for 2 hours, or until the meat is tender and the broth is rich and creamy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "japanese-cuisine",
+    "low-fat",
+    "romantic-dinner",
+    "special-occasion",
+    "tonkotsu-ramen"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "oil-rich-japanese-pork-tonkotsu-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-rich-japanese-pork-tonkotsu-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:23:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "low-fat",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "oil rich",
+    "dishForm": "Tonkotsu Ramen"
+  }
+}
