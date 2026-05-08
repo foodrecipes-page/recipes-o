@@ -1,0 +1,103 @@
+{
+  "title": "Oily Lazy Vietnamese Beef Pho Bo",
+  "description": "A winey, juicy, lazy-sunday Vietnamese dish featuring cinnamon stick, lacquer-glaze, and ayurvedic-tamasic-friendly ingredients, served in a tagliere vessel as a Pho Bo.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "2",
+      "notes": "whole"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beef broth, fish sauce, soy sauce, cinnamon stick, and star anise, and bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add sliced beef brisket to the pot and cook for 5 minutes, or until cooked through.",
+    "Cook rice noodles according to package instructions and set aside.",
+    "Strain the broth and discard the solids.",
+    "Add lacquer glaze to the broth and stir to combine.",
+    "To assemble the Pho Bo, place cooked noodles in a tagliere vessel, then add sliced beef, green onions, and bean sprouts.",
+    "Ladle the hot broth over the top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dairy-free",
+    "gluten-free",
+    "lazy-sundays",
+    "noodle-soups",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oily-lazy-vietnamese-beef-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-lazy-vietnamese-beef-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:52:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "oily lazy",
+    "dishForm": "Pho Bo"
+  }
+}
