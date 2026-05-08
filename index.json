@@ -4474,6 +4474,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-chinese-chicken-noodles",
+    "title": "Oven Roasted Chinese Chicken Noodles",
+    "tags": [
+      "chinese-cuisine",
+      "diabetic-friendly",
+      "low-sodium",
+      "one-pan",
+      "oven-roasted",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-chinese-orange-roast",
     "title": "Oven-Roasted Chinese Orange Roast",
     "tags": [

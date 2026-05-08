@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Chinese Chicken Noodles",
+  "description": "A resinous and shattering Chinese dish featuring candied peel and katsuramuki-cut noodles, perfect for a brunch mood, and diabetic-friendly due to its balanced ingredients and portion control.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "katsuramuki-cut noodles",
+      "amount": "8 ounces",
+      "notes": "preferably low-carb"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "or sugar substitute"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, honey, and sesame oil.",
+    "Add the chicken to the bowl and toss to coat with the sauce.",
+    "Spread the chicken on a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "While the chicken is cooking, cook the katsuramuki-cut noodles according to package instructions.",
+    "In a small bowl, mix together candied peel, scallions, and ginger.",
+    "After the chicken has roasted for 20 minutes, add the cooked noodles and candied peel mixture to the baking sheet and toss to combine.",
+    "Return the baking sheet to the oven and roast for an additional 5 minutes.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "diabetic-friendly",
+    "low-sodium",
+    "one-pan",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oven-roasted-chinese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-chinese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:32:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "candied peel",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Noodles"
+  }
+}
