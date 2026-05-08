@@ -1,0 +1,106 @@
+{
+  "title": "Oven Roasted Smoke Hot Mexican Chicken Breast Sopes",
+  "description": "A buttery, springy, comforting Mexican dish featuring chicken breast, with a smoke-hot flavor, diabetic-friendly ingredients, and a traditional sopes form.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoke hot sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sopes shells",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoke hot sauce, olive oil, lime juice, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray, then arrange the chicken pieces on the baking sheet.",
+    "Bake the chicken in the preheated oven for 25 minutes, or until cooked through.",
+    "While the chicken is baking, prepare the sopes shells according to package instructions.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing into thin strips.",
+    "Assemble the sopes by placing a few slices of chicken onto a sopes shell, topping with shredded cheese and chopped cilantro.",
+    "Serve the sopes hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "diabetic-friendly",
+    "low-carb",
+    "mexican-food",
+    "oven-roasted",
+    "smoke-hot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "oven-roasted-smoke-hot-mexican-chicken-breast-sopes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoke-hot-mexican-chicken-breast-sopes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:02:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "chicken breast",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken breast",
+    "descriptor": "oven roasted smoke hot",
+    "dishForm": "Sopes"
+  }
+}
