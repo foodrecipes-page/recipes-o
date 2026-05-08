@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Norwegian Pickle Flatbread",
+  "description": "A light and savory Norwegian dish featuring pickles and Mediterranean-friendly flavors, perfect for a solo dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a small bowl, whisk together olive oil, garlic powder, salt, and pepper",
+    "Brush the mixture onto the flatbread, leaving a 1 inch border around the edges",
+    "Arrange the pickle slices on top of the flatbread, leaving some space between each slice",
+    "Sprinkle the feta cheese and kalamata olives over the pickles",
+    "Top with chopped parsley",
+    "Place the flatbread on a baking sheet and roast in the oven for 15 minutes",
+    "Remove from the oven and let cool for a few minutes before slicing and serving"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "flatbread-recipes",
+    "mediterranean-diet",
+    "norwegian-cuisine",
+    "pickle-lovers",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "oven-roasted-norwegian-pickle-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-norwegian-pickle-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:33:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "pickles",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pickles",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Flatbread"
+  }
+}
