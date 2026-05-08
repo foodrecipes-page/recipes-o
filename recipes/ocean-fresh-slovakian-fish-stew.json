@@ -1,0 +1,100 @@
+{
+  "title": "Ocean Fresh Slovakian Fish Stew",
+  "description": "A hearty and flavorful pescatarian-friendly stew featuring fermented ingredients and soya milk, perfect for a weeknight dinner. This traditional Slovakian dish is made with a variety of fish and vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "soya milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the cod fillets and cook until they are opaque and flake easily with a fork.",
+    "Add the fermented sauerkraut, soya milk, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Use a whisk to stir the stew and break up any large pieces of fish.",
+    "Reduce the heat to low and cook for an additional 5 minutes.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "fish-stew",
+    "one-pot",
+    "pescatarian",
+    "soya-milk",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "ocean-fresh-slovakian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ocean-fresh-slovakian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:04:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "soya milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fish",
+    "descriptor": "Ocean fresh",
+    "dishForm": "Stew"
+  }
+}

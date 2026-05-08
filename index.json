@@ -194,6 +194,21 @@
     "shard": "o"
   },
   {
+    "slug": "ocean-fresh-slovakian-fish-stew",
+    "title": "Ocean Fresh Slovakian Fish Stew",
+    "tags": [
+      "fermented-food",
+      "fish-stew",
+      "one-pot",
+      "pescatarian",
+      "soya-milk",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "ocean-fresh-vietnamese-fruit-sashimi",
     "title": "Ocean-Fresh Vietnamese Fruit Sashimi",
     "tags": [
