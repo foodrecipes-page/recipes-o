@@ -1,0 +1,101 @@
+{
+  "title": "Outstanding Oily French Broad Beans Pot Au Feu",
+  "description": "A sour and silky French dish featuring broad beans, spherified for an adventurous twist, suitable for ovo-vegetarian diets.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for spherification bath"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and blanch the broad beans for 5 minutes.",
+    "Shock the broad beans in an ice bath to stop the cooking process.",
+    "Mix the sodium alginate with a small amount of water to create a solution.",
+    "Soak the broad beans in the sodium alginate solution for at least 30 minutes.",
+    "Create a spherification bath by mixing the vegetable broth with the egg.",
+    "Drop the broad beans into the spherification bath and let them cook for 2 minutes.",
+    "Remove the broad beans from the spherification bath with a slotted spoon.",
+    "Heat the olive oil in a pan over medium heat and saute the garlic until fragrant.",
+    "Add the lemon juice, salt, and black pepper to the pan and stir to combine.",
+    "Add the spherified broad beans to the pan and toss to coat with the sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "french-cuisine",
+    "special-occasion",
+    "spherification",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "outstanding-oily-french-broad-beans-pot-au-feu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oily-french-broad-beans-pot-au-feu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:45:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "spherify",
+    "primaryIngredient": "broad beans",
+    "diet": "ovo-vegetarian",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "broad beans",
+    "descriptor": "outstanding oily",
+    "dishForm": "Pot Au Feu"
+  }
+}
