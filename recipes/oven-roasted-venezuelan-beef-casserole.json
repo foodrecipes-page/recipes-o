@@ -1,0 +1,109 @@
+{
+  "title": "Oven Roasted Venezuelan Beef Casserole",
+  "description": "A hearty and comforting Venezuelan dish featuring tender beef, sweet candied peel, and a rich Mediterranean-inspired sauce, perfect for a sick day or a cozy evening, served in individual mini cocottes.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1/2 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato paste, beef broth, dried oregano, salt, and black pepper, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally, while preparing the candied peel and crushed crackers.",
+    "In a small bowl, mix together the candied peel and a pinch of salt.",
+    "Spoon the beef mixture into individual mini cocottes, followed by a spoonful of the candied peel mixture.",
+    "Top each cocotte with a sprinkle of crushed crackers.",
+    "Place the cocottes on a baking sheet and bake for 20 minutes, or until the crackers are golden brown and the casserole is hot and bubbly.",
+    "Remove the cocottes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-casserole",
+    "comfort-food",
+    "mediterranean-inspired",
+    "one-dish-meal",
+    "venezuelan-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oven-roasted-venezuelan-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-venezuelan-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:26:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "candied peel",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "oven roasted",
+    "dishForm": "Casserole"
+  }
+}
