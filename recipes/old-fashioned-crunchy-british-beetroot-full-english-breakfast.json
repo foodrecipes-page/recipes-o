@@ -1,0 +1,99 @@
+{
+  "title": "Old Fashioned Crunchy British Beetroot Full English Breakfast",
+  "description": "A traditional British breakfast dish featuring crunchy beetroot, cured meats, and a variety of savory ingredients, all cooked to perfection in a cazuela. This hearty meal is sure to satisfy any appetite.",
+  "cuisine": "British",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "back bacon",
+      "amount": "6 slices",
+      "notes": "cured"
+    },
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "pork and sage"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "baked beans",
+      "amount": "1 can",
+      "notes": "in tomato sauce"
+    },
+    {
+      "name": "black pudding",
+      "amount": "2 slices",
+      "notes": "cured"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": "white bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large cazuela, cook the diced beetroot in a little oil over medium heat until crunchy.",
+    "Add the sliced mushrooms to the cazuela and cook until they release their moisture and start to brown.",
+    "Add the back bacon and black pudding to the cazuela and cook until the bacon is crispy.",
+    "Add the sausages to the cazuela and cook until browned on all sides.",
+    "Crack the eggs into the cazuela and scramble them until cooked through.",
+    "Add the baked beans to the cazuela and stir to combine.",
+    "Toast the bread until lightly browned.",
+    "Serve the mixture in the cazuela with the toast on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "full-english",
+    "hearty-breakfast",
+    "one-pan",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "old-fashioned-crunchy-british-beetroot-full-english-breakfast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-crunchy-british-beetroot-full-english-breakfast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:15:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "beetroot",
+    "diet": "satvik",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "beetroot",
+    "descriptor": "old fashioned crunchy",
+    "dishForm": "Full English Breakfast"
+  }
+}

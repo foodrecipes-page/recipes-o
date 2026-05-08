@@ -1,0 +1,103 @@
+{
+  "title": "Oozy Juicy Peruvian Mincemeat Lomo Saltado",
+  "description": "A comforting Peruvian dish featuring mincemeat, served in a stone bowl, inspired by Buddhist temple cuisine, in the form of lomo saltado, cooked in a tandoor clay pot.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 pound",
+      "notes": "beef or beef substitute"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tandoor clay pot over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the sliced onions and cook until they are translucent.",
+    "Add the diced tomatoes and cook for 2 minutes.",
+    "Add the mincemeat and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the soy sauce, vinegar, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Serve the lomo saltado hot, garnished with chopped green onions and a side of rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "meat-based",
+    "one-pot",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oozy-juicy-peruvian-mincemeat-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-juicy-peruvian-mincemeat-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:15:20Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "mincemeat",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Oozy Juicy",
+    "dishForm": "Lomo Saltado"
+  }
+}
