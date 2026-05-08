@@ -1884,6 +1884,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-creamy-tunisian-egg-wrap",
+    "title": "Oozy Creamy Tunisian Egg Wrap",
+    "tags": [
+      "breakfast",
+      "easy-meal",
+      "high-protein",
+      "macrobiotic",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-crisp-hunan-spinach-bao",
     "title": "Oozy Crisp Hunan Spinach Bao",
     "tags": [
@@ -5414,6 +5429,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-tunisian-coriander-tagine",
+    "title": "oven-roasted tunisian coriander tagine",
+    "tags": [
+      "easy-to-make",
+      "healthy",
+      "moroccan",
+      "one-dish-meal",
+      "sugar-free"
+    ],
+    "cuisine": "nordic",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {

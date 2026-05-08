@@ -1,0 +1,92 @@
+{
+  "title": "Oozy Creamy Tunisian Egg Wrap",
+  "description": "A macrobiotic friendly Tunisian dish featuring a creamy egg filling wrapped in a crispy ssam wrap, perfect for adventurous eaters",
+  "cuisine": "Tunisian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "organic, free range"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until the whites and yolks are fully incorporated",
+    "Heat the olive oil in a non stick skillet over medium heat",
+    "Add the harissa to the skillet and cook for 1 minute, stirring constantly",
+    "Pour the whisked eggs into the skillet and scramble them until they are almost set",
+    "Stir in the labneh cheese and cook until the eggs are fully set and the cheese is melted",
+    "Season the egg mixture with salt and black pepper to taste",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wraps by spooning the egg mixture onto the center of each wrap and topping with chopped parsley"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy-meal",
+    "high-protein",
+    "macrobiotic",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "oozy-creamy-tunisian-egg-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-creamy-tunisian-egg-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:37:03Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "egg",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "egg",
+    "descriptor": "Oozy creamy",
+    "dishForm": "Wrap"
+  }
+}

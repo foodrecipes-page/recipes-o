@@ -1,0 +1,115 @@
+{
+  "title": "oven-roasted tunisian coriander tagine",
+  "description": "floral, molten, meal-prep tunisian dish featuring coriander, beurre-monte, sugar-free-friendly",
+  "cuisine": "nordic",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped dates",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "in a large bowl, whisk together coriander, ginger, lemon juice, olive oil, salt, and pepper.",
+    "add chicken to the bowl and toss to coat with the spice mixture.",
+    "spread the chicken mixture in a single layer on a large baking sheet.",
+    "roast in the preheated oven for 25 minutes.",
+    "remove the chicken from the oven and stir in the chopped onion, garlic, and dates.",
+    "return to the oven and roast for an additional 10-12 minutes.",
+    "remove from the oven and stir in the coconut sugar, beurre monte, and chicken broth.",
+    "reduce heat to 350f (180c) and simmer on the stovetop for 5 minutes.",
+    "taste and adjust seasonings as needed.",
+    "serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "moroccan",
+    "one-dish-meal",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "oven-roasted-tunisian-coriander-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-tunisian-coriander-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:37:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "coriander",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "coriander",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tagine"
+  }
+}
