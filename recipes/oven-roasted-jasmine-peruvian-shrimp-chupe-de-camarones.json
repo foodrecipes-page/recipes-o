@@ -1,0 +1,103 @@
+{
+  "title": "oven-roasted jasmine peruvian shrimp chupe de camarones",
+  "description": "a yeasty, fluffy, lazy-sunday peruvian dish featuring jasmine rice, dum, and succulent shrimp",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "sugar-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dumi dumplings",
+      "amount": "12 count",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large wok or frying pan, heat the vegetable oil over medium-high heat.",
+    "add the onion and garlic and sauté until softened.",
+    "add the shrimp and cook until pink and just cooked through.",
+    "remove the shrimp from the wok and set aside.",
+    "add the jasmine rice to the wok and stir to coat with oil.",
+    "add the chicken broth, aji amarillo pepper, and worcestershire sauce to the wok.",
+    "bring the mixture to a boil, then reduce the heat to low and cover the wok.",
+    "simmer for 15-20 minutes or until the liquid has been absorbed and the rice is tender.",
+    "add the cooked shrimp back to the wok and stir to combine.",
+    "serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "rice-bowl",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 36,
+    "fat": 16
+  },
+  "slug": "oven-roasted-jasmine-peruvian-shrimp-chupe-de-camarones",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jasmine-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:11:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "jasmine rice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Oven-Roasted Jasmine",
+    "dishForm": "Chupe de Camarones"
+  }
+}
