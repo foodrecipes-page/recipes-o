@@ -1,0 +1,110 @@
+{
+  "title": "Oven Roasted Sardinian Wild Mushrooms Ossobuco",
+  "description": "A sweet and savory Sardinian dish featuring wild mushrooms and nuka-pickle, served in an ossobuco style, perfect for a solo dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "such as porcini or chanterelle"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Rinse the wild mushrooms and pat them dry with a paper towel.",
+    "Season the mushrooms with salt, black pepper, and thyme.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the garlic and saute for 1 minute until fragrant.",
+    "Add the white wine, beef broth, and tomato paste, and stir to combine.",
+    "Add the nuka-pickle, mushrooms, and bay leaves to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the ossobuco in the oven for 25 minutes, then reduce the heat to 250 degrees Fahrenheit and continue roasting for an additional 20 minutes.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-cuisine",
+    "low-glycemic",
+    "one-pot",
+    "slow-cooked",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-sardinian-wild-mushrooms-ossobuco",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-sardinian-wild-mushrooms-ossobuco",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "low-glycemic",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "wild mushrooms",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Ossobuco"
+  }
+}
