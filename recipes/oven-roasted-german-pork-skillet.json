@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted German Pork Skillet",
+  "description": "A sweet and crispy solo dinner dish featuring cocoa powder, air-fried and cooked in a paella pan, with Mediterranean-friendly ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with salt, black pepper, and paprika.",
+    "Heat the olive oil in the paella pan over medium-high heat.",
+    "Air-fry the pork shoulder in the paella pan until browned on all sides.",
+    "Add the chopped onion to the paella pan and cook until softened.",
+    "Add the minced garlic to the paella pan and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the paella pan and cook for 5 minutes.",
+    "Sprinkle the cocoa powder over the pork shoulder and vegetables.",
+    "Transfer the paella pan to the preheated oven and roast for 25 minutes.",
+    "Remove the paella pan from the oven and let it rest for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oven-roasted-german-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-german-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:58:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "cocoa powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Oven roasted",
+    "dishForm": "Skillet"
+  }
+}

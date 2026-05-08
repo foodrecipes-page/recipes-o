@@ -6177,6 +6177,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-german-pork-skillet",
+    "title": "Oven Roasted German Pork Skillet",
+    "tags": [
+      "german-cuisine",
+      "high-protein",
+      "mediterranean-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-german-quinoa-wrap",
     "title": "Oven-Roasted German Quinoa Wrap",
     "tags": [
