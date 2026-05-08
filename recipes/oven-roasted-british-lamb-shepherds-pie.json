@@ -1,0 +1,99 @@
+{
+  "title": "Oven Roasted British Lamb Shepherds Pie",
+  "description": "A weeknight British dish featuring sunflower oil and fermented lamb, topped with a cheese-pull crust, served in a salt block vessel.",
+  "cuisine": "British",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "khao khuay style"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat sunflower oil over medium-high heat and sear the lamb shoulder until browned on all sides.",
+    "Transfer the lamb to a salt block vessel and roast in the oven for 20 minutes.",
+    "While the lamb is roasting, cook the rice according to package instructions and set aside.",
+    "In the same skillet used for the lamb, saute the diced onion and minced garlic until the onion is translucent.",
+    "Add the frozen peas and carrots to the skillet and cook until thawed.",
+    "Stir in the cooked rice, salt, and black pepper, and set aside.",
+    "After the lamb has roasted for 20 minutes, remove it from the oven and top with the rice mixture and grated cheddar cheese.",
+    "Return the vessel to the oven and continue roasting for an additional 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the vessel from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cheesy",
+    "comfort-food",
+    "lamb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "oven-roasted-british-lamb-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-british-lamb-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:10:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sunflower oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Shepherds Pie"
+  }
+}
