@@ -1,0 +1,107 @@
+{
+  "title": "Oven Roasted Sicilian Eggplant Ragu",
+  "description": "A sour and tender solo dinner Italian dish featuring starch and a mirepoix base, this vegetarian friendly ragu is served in a ramekin. It is a traditional Sicilian recipe with a twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Place the eggplant cubes on a baking sheet lined with parchment paper and roast for 30 minutes.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion, carrot, and celery until tender.",
+    "Add the tomato paste to the skillet and cook for 1 minute.",
+    "Add the canned tomatoes, red wine vinegar, salt, and black pepper to the skillet and stir to combine.",
+    "Add the roasted eggplant to the skillet and stir to combine.",
+    "Transfer the ragu to a ramekin and top with grated parmesan cheese.",
+    "Place the ramekin in the oven and bake for 15 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "italian-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "oven-roasted-sicilian-eggplant-ragu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-sicilian-eggplant-ragu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:39:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "starch",
+    "diet": "vegetarian",
+    "region": "sicilian",
+    "cuisineAdjective": "Sicilian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Ragu"
+  }
+}

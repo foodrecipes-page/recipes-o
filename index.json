@@ -4608,6 +4608,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-dutch-turkey-ham-casseroles",
+    "title": "Oven Baked Dutch Turkey Ham Casseroles",
+    "tags": [
+      "casserole",
+      "dutch-cuisine",
+      "one-pan",
+      "satvik-friendly",
+      "turkey-ham",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-egyptian-cheese-tagine",
     "title": "Oven-Baked Egyptian Cheese Tagine",
     "tags": [
@@ -7281,6 +7296,21 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-sicilian-eggplant-ragu",
+    "title": "Oven Roasted Sicilian Eggplant Ragu",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "italian-food",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {

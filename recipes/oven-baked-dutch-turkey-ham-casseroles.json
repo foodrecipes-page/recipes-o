@@ -1,0 +1,96 @@
+{
+  "title": "Oven Baked Dutch Turkey Ham Casseroles",
+  "description": "A sweet and light Dutch dish featuring turkey ham, perfect for a weeknight dinner, this satvik-friendly casserole is a delicious and easy meal option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the oil over medium heat and saute the onions until they are translucent.",
+    "In a separate pot, boil the sliced potatoes until they are slightly tender.",
+    "In a large bowl, combine the cooked potatoes, sauteed onions, diced turkey ham, and grated carrots.",
+    "In a separate bowl, whisk together the flour and milk until smooth.",
+    "Add the shredded cheese to the flour mixture and stir until well combined.",
+    "Pour the cheese mixture over the potato and ham mixture and stir until everything is well coated.",
+    "Transfer the mixture to a baking dish and bake for 30 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "dutch-cuisine",
+    "one-pan",
+    "satvik-friendly",
+    "turkey-ham",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "oven-baked-dutch-turkey-ham-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-dutch-turkey-ham-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:38:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "turkey ham",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Oven Baked",
+    "dishForm": "Casseroles"
+  }
+}
