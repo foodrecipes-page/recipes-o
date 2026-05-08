@@ -1,0 +1,90 @@
+{
+  "title": "Oven Roasted Norwegian Broccoli Roast",
+  "description": "A kid-friendly Norwegian dish featuring roasted purple-sprouting-broccoli and nuka-pickle, perfect for a satvik-friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple-sprouting-broccoli",
+      "amount": "1 large head",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the broccoli florets with olive oil, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Spread the broccoli mixture out in a single layer on a baking sheet.",
+    "Roast the broccoli in the preheated oven for 15 minutes, or until it is tender and slightly browned.",
+    "While the broccoli is roasting, mix the chopped nuka-pickle with lemon juice in a small bowl.",
+    "After the broccoli has roasted for 15 minutes, remove it from the oven and toss it with the nuka-pickle mixture until the broccoli is evenly coated.",
+    "Return the broccoli to the oven and continue roasting for an additional 5 minutes, or until the broccoli is slightly caramelized.",
+    "Remove the broccoli from the oven and serve it hot.",
+    "Garnish with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "healthy-dinner",
+    "kid-friendly",
+    "norwegian-cuisine",
+    "roasted-vegetables",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "oven-roasted-norwegian-broccoli-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-norwegian-broccoli-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:25:45Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "broccoli",
+    "descriptor": "oven roasted",
+    "dishForm": "Roast"
+  }
+}
