@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Jamaican Coconut Curry",
+  "description": "A smoky and savory Jamaican dish featuring unsweetened coconut milk, this curry is perfect for a monsoon evening, with a grassy and crispy texture from the roasted vegetables, and a spicy kick from the scotch bonnet peppers.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine the coconut milk, scotch bonnet peppers, onion, garlic, curry powder, and thyme, and blend until smooth.",
+    "In a large bowl, toss the carrots and potatoes with the blended curry sauce until they are evenly coated.",
+    "Spread the vegetables out in a single layer on a large baking sheet.",
+    "Roast the vegetables in the preheated oven for 30 minutes, or until they are tender and lightly browned.",
+    "Remove the vegetables from the oven and stir in any accumulated juices.",
+    "Return the vegetables to the oven and continue to roast for an additional 10 minutes, or until they are crispy and golden brown.",
+    "Remove the vegetables from the oven and serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "jamaican",
+    "one-pan",
+    "smoky",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-jamaican-coconut-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-coconut-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:18:09Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "smoke-hot",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "coconut",
+    "descriptor": "smoke hot",
+    "dishForm": "Curry"
+  }
+}

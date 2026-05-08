@@ -5294,6 +5294,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-jamaican-coconut-curry",
+    "title": "Oven Roasted Jamaican Coconut Curry",
+    "tags": [
+      "coconut-based",
+      "jamaican",
+      "one-pan",
+      "smoky",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-jamaican-fish-bake",
     "title": "Oven-Roasted Jamaican Fish Bake",
     "tags": [
