@@ -1,0 +1,96 @@
+{
+  "title": "Outstandingly Velvety Norwegian Minari Stew",
+  "description": "A spicy and comforting Norwegian dish featuring minari, infused with oil and suitable for a jain-friendly diet, this stew is perfect for a cold winter's night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "norwegian chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infuse oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the chopped minari and cook until it is slightly tender.",
+    "Add the vegetable broth, norwegian chili flakes, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the coconut milk and continue to simmer for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "norwegian-cuisine",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "outstandingly-velvety-norwegian-minari-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-velvety-norwegian-minari-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:56:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "infuse-oil",
+    "primaryIngredient": "minari",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "minari",
+    "descriptor": "outstandingly velvety",
+    "dishForm": "Stew"
+  }
+}
