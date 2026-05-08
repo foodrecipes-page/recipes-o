@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Spicy Ethiopian Beef Kitfo",
+  "description": "A spicy and flaky Ethiopian dish featuring beef, sherry, and binchotan-charcoal, perfect for a sick day. This sugar-free-friendly recipe is a traditional Ethiopian kitfo dish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mitmita spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Grind the beef in a food processor until it is coarsely ground.",
+    "Heat the niter kibbeh in a pan over medium heat.",
+    "Add the garlic and ginger to the pan and saute until fragrant.",
+    "Add the mitmita spice, salt, and black pepper to the pan and stir to combine.",
+    "Add the ground beef to the pan and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the sherry to the pan and stir to combine.",
+    "Add the binchotan-charcoal powder to the pan and stir to combine.",
+    "Cook for an additional 2 minutes, until the flavors are combined and the beef is cooked to an internal temperature of 160 degrees.",
+    "Serve the kitfo immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spicy-food",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "slug": "oozy-spicy-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-spicy-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:27:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "sherry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Oozy Spicy",
+    "dishForm": "Kitfo"
+  }
+}
