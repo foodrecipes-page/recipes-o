@@ -1,0 +1,101 @@
+{
+  "title": "Outdoor Croatian Saskatoon Berry Skewers",
+  "description": "A traditional Croatian dish featuring Saskatoon berries, with a fluffy and umami flavor profile, made FODMAP-friendly and perfect for outdoor adventures. This recipe is a unique blend of Croatian cuisine and Canadian ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Pork sausage",
+      "amount": "1/2 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, and paprika.",
+    "Add the sliced onion, mushrooms, and bell pepper to the bowl and toss to coat with the oil mixture.",
+    "Thread the marinated vegetables, pork sausage, and Saskatoon berries onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the sausage is cooked through and the vegetables are tender.",
+    "Remove the skewers from the heat and let them rest for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional Saskatoon berries if desired.",
+    "To namul-blanch-season the Saskatoon berries, simply rinse them with cold water, then soak them in cold water for 30 minutes, and finally drain and rinse them again.",
+    "To add an extra layer of flavor, serve the skewers with a side of namul-blanch-seasoned Saskatoon berries."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "fodmap-friendly",
+    "grilled-meats",
+    "outdoor-cooking",
+    "saskatoon-berries",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "outdoor-croatian-saskatoon-berry-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-croatian-saskatoon-berry-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:46:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "outdoor adventurous",
+    "dishForm": "Skewers"
+  }
+}
