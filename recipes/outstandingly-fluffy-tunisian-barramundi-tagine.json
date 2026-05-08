@@ -1,0 +1,104 @@
+{
+  "title": "Tunisian Barramundi Tagine",
+  "description": "A rich and fluffy Tunisian dish featuring barramundi, beurre-monte, and ayurvedic-rajasic-friendly ingredients, perfect for a post-workout meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 pieces",
+      "notes": "fresh"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, and cook for an additional 1 minute.",
+    "Add the cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the beurre-monte and stir until melted and smooth.",
+    "Add the barramundi fillets and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes, or until the fish is cooked through.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "fluffy",
+    "high-protein",
+    "north-african",
+    "post-workout",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "outstandingly-fluffy-tunisian-barramundi-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-fluffy-tunisian-barramundi-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:25:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "beurre-monte",
+    "primaryIngredient": "barramundi",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "barramundi",
+    "descriptor": "outstandingly fluffy",
+    "dishForm": "Tagine"
+  }
+}
