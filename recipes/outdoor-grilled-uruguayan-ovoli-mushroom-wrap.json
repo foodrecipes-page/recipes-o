@@ -1,0 +1,103 @@
+{
+  "title": "Outdoor Grilled Uruguayan Ovoli Mushroom Wrap",
+  "description": "This dish features ovoli mushrooms and macrobiotic friendly ingredients, all wrapped in a ti leaf wrap, inspired by Uruguayan cuisine",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fried rice",
+      "amount": "2 cups",
+      "notes": "cooked with khao khuai"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "grilled onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grilled bell peppers",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a bowl, mix together the sliced ovoli mushrooms, grilled onions, and grilled bell peppers.",
+    "Add the fried rice to the bowl and stir until everything is well combined.",
+    "Lay a ti leaf flat on a surface and spoon about 1/2 cup of the mushroom and rice mixture onto the center of the leaf.",
+    "Sprinkle some uruguayan cheese on top of the filling and drizzle with chimichurri sauce.",
+    "Fold the ti leaf over the filling to form a wrap, and repeat with the remaining ingredients.",
+    "Place the wraps on the grill and cook for about 2-3 minutes on each side, until the ti leaves are slightly charred.",
+    "Serve the wraps hot, garnished with additional chimichurri sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "macrobiotic-friendly",
+    "outdoor-cooking",
+    "south-american-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "outdoor-grilled-uruguayan-ovoli-mushroom-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-uruguayan-ovoli-mushroom-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Wrap"
+  }
+}

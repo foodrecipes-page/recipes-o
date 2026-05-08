@@ -326,6 +326,20 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-flaky-korean-white-fish-deopbap",
+    "title": "Oceanic Flaky Korean White Fish Deopbap",
+    "tags": [
+      "gluten-free",
+      "korean-cuisine",
+      "low-fodmap",
+      "one-pot",
+      "seafood"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-light-kenyan-sea-bass-soup",
     "title": "Oceanic Light Kenyan Sea Bass Soup",
     "tags": [
@@ -4525,6 +4539,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "outdoor-grilled-uruguayan-ovoli-mushroom-wrap",
+    "title": "Outdoor Grilled Uruguayan Ovoli Mushroom Wrap",
+    "tags": [
+      "grilled-vegetables",
+      "macrobiotic-friendly",
+      "outdoor-cooking",
+      "south-american-cuisine",
+      "vegetarian-options"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {

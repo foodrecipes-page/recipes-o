@@ -1,0 +1,94 @@
+{
+  "title": "Oceanic Flaky Korean White Fish Deopbap",
+  "description": "A savory and flaky one-pot Korean dish featuring white fish, served in a hot-pot vessel, this recipe is FODMAP-friendly and easy to make.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "1 pound",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is FODMAP-friendly"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the garlic-infused oil in the hot-pot vessel over medium heat.",
+    "Add the korean chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the white fish fillets and cook for 3-4 minutes on each side, or until cooked through.",
+    "Remove the fish from the vessel and set aside.",
+    "Add the soy sauce, sesame oil, salt, and black pepper to the vessel and stir to combine.",
+    "Bring the sauce to a simmer and cook for 2 minutes, or until slightly thickened.",
+    "Add the green onions to the vessel and cook for 1 minute, or until wilted.",
+    "Return the fish to the vessel and spoon some of the sauce over the top.",
+    "Serve the fish and sauce over rice, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "low-fodmap",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "oceanic-flaky-korean-white-fish-deopbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-flaky-korean-white-fish-deopbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "white fish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "white fish",
+    "descriptor": "Oceanic Flaky",
+    "dishForm": "Deopbap"
+  }
+}
