@@ -1731,6 +1731,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-style-comforting-russian-white-fish-stew",
+    "title": "Russian White Fish Stew",
+    "tags": [
+      "comfort-food",
+      "fish-stew",
+      "gluten-free",
+      "one-pot",
+      "pescatarian",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "old-style-filipino-pork-menudo",
     "title": "Filipino Pork Menudo",
     "tags": [

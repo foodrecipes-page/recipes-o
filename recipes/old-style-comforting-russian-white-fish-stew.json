@@ -1,0 +1,104 @@
+{
+  "title": "Russian White Fish Stew",
+  "description": "A comforting and cultured Russian dish featuring white fish fillets, this stew is dense and satisfying, made with satvik-friendly ingredients. It is a traditional recipe that has been passed down through generations.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "1 pound",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried dill",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chopped onions, carrots, and potatoes, and saute over medium heat until the vegetables are tender.",
+    "Add the vegetable broth, dried dill, salt, and black pepper to the pot, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 10 minutes.",
+    "Add the white fish fillets to the pot, and cook for an additional 5 minutes, or until the fish is cooked through.",
+    "Stir in the lemon juice and chopped fresh parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve with crusty bread or over mashed potatoes for a hearty meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "gluten-free",
+    "one-pot",
+    "pescatarian",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "old-style-comforting-russian-white-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-style-comforting-russian-white-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:49:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "white fish fillets",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "white fish",
+    "descriptor": "old style comforting",
+    "dishForm": "Stew"
+  }
+}
