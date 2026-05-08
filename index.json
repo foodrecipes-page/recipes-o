@@ -2151,6 +2151,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-creamy-mediterranean-corn-paella",
+    "title": "Oozy Creamy Mediterranean Corn Paella",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "gluten-free",
+      "mediterranean",
+      "one-pan",
+      "oozy",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-creamy-tunisian-egg-wrap",
     "title": "Oozy Creamy Tunisian Egg Wrap",
     "tags": [

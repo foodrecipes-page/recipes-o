@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Creamy Mediterranean Corn Paella",
+  "description": "A salty and creamy Mediterranean dish featuring cornmeal and lardons, perfect for a monsoon evening. This ayurvedic-tamasic-friendly recipe combines the flavors of the Mediterranean with the comfort of a warm, oozy paella.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium heat.",
+    "Add the diced lardons and cook until crispy, then remove from the pan and set aside.",
+    "Add the chopped onion to the pan and cook until translucent, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "Add the corn kernels to the pan and cook for 2-3 minutes, until slightly tender.",
+    "Add the cornmeal to the pan and stir to combine with the onion and garlic mixture.",
+    "Add the smoked paprika to the pan and stir to combine.",
+    "Return the cooked lardons to the pan and stir to combine with the cornmeal mixture.",
+    "Top the paella with crumbly feta cheese and cook until melted and oozy.",
+    "Serve the paella hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "oozy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "oozy-creamy-mediterranean-corn-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-creamy-mediterranean-corn-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:30:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "cornmeal",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "corn",
+    "descriptor": "Oozy creamy",
+    "dishForm": "Paella"
+  }
+}
