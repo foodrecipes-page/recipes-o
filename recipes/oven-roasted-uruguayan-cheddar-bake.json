@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Uruguayan Cheddar Bake",
+  "description": "A rich and creamy Uruguayan dish featuring mature cheddar cheese, this bake is perfect for a romantic dinner, and is sugar free friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "diced ham",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large paella pan, combine the diced onion and bell pepper and cook over medium heat until the vegetables are tender.",
+    "Add the diced ham to the pan and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the eggs, heavy cream, salt, black pepper, and paprika.",
+    "Add the shredded cheddar cheese to the bowl and stir until well combined.",
+    "Pour the egg mixture over the ham and vegetables in the paella pan.",
+    "Transfer the paella pan to the preheated oven and bake for 35 minutes, or until the eggs are set and the cheese is melted and golden brown.",
+    "Remove the pan from the oven and let it cool for 5 minutes before serving.",
+    "Serve the bake hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "one-pan",
+    "romantic-dinner",
+    "sugar-free",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "oven-roasted-uruguayan-cheddar-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-uruguayan-cheddar-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:40:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "mature cheddar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheddar",
+    "descriptor": "oven roasted",
+    "dishForm": "Bake"
+  }
+}
