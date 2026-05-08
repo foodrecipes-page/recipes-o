@@ -3476,6 +3476,21 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-grilled-argentinian-beef-skewers",
+    "title": "Outdoor Grilled Argentinian Beef Skewers",
+    "tags": [
+      "argentinian-cuisine",
+      "flexitarian",
+      "grilled-meat",
+      "kid-friendly",
+      "outdoor-cooking",
+      "quick-dinner"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 32,
+    "shard": "o"
+  },
+  {
     "slug": "outdoor-grilled-thai-chicken-skewers",
     "title": "Outdoor Grilled Thai Chicken Skewers",
     "tags": [
