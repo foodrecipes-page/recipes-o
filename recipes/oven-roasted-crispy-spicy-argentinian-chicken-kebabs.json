@@ -1,0 +1,103 @@
+{
+  "title": "Oven-Roasted Crispy Spicy Argentinian Chicken Kebabs",
+  "description": "A spicy and crispy chicken kebab recipe from Argentina, featuring scotch bonnet peppers, double-fried for crispy texture.",
+  "cuisine": "argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "chicken seasoning",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "double-fry flour",
+      "amount": "50g",
+      "notes": "for double-frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "In a large bowl, mix together the chicken cubes, scotch bonnet peppers, garlic, olive oil, chicken seasoning, paprika, salt, and black pepper.",
+    "Thread the marinated chicken onto copper skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Double-fry the chicken in hot oil (180°C/350°F) for 5 minutes, then set aside to cool.",
+    "Increase the oven temperature to 240°C (465°F).",
+    "Bake the chicken skewers for 20-25 minutes, or until crispy and cooked through.",
+    "Remove the skewers from the oven and let them rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "oven-roasted",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "oven-roasted-crispy-spicy-argentinian-chicken-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-crispy-spicy-argentinian-chicken-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:33:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Oven-Roasted Crispy Spicy",
+    "dishForm": "Kebabs"
+  }
+}
