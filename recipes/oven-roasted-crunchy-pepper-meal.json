@@ -1,0 +1,104 @@
+{
+  "title": "oven-roasted crunchy pepper meal",
+  "description": "a sour, crunchy, vegan-friendly brazilian dish featuring mixed peppers. perfect for meal prep.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed peppers",
+      "amount": "2 cups",
+      "notes": "any combination of red, yellow, green, orange, and purple peppers, sliced into sashimi-cut strips"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400\u000670f (200\u0007d7c).",
+    "line a baking sheet with parchment paper or a silicone mat.",
+    "arrange the pepper strips and chopped cilantro in a single layer on the prepared baking sheet.",
+    "drizzle with coconut oil and sprinkle with black pepper, salt, garlic powder, onion powder, and paprika.",
+    "toss to coat evenly.",
+    "roast in the preheated oven for 20 minutes.",
+    "remove the baking sheet from the oven and carefully drizzle with apple cider vinegar.",
+    "toss to coat the peppers and return to the oven for an additional 5-7 minutes, or until slightly caramelized.",
+    "remove the baking sheet from the oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "one-pan",
+    "south-american",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "oven-roasted-crunchy-pepper-meal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-crunchy-pepper-meal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:46:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "mixed peppers",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "peppers",
+    "descriptor": "oily sour",
+    "dishForm": null
+  }
+}

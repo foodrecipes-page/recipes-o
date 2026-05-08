@@ -167,6 +167,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-creamy-portuguese-shrimp-pasta",
+    "title": "Oceanic Creamy Portuguese Shrimp Pasta",
+    "tags": [
+      "cajun-inspired",
+      "creamy-sauce",
+      "gluten-free",
+      "portuguese-cuisine",
+      "seafood-pasta",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-crisp-moroccan-couscous-seffa",
     "title": "Oceanic Crisp Moroccan Couscous Seffa",
     "tags": [
@@ -3720,6 +3735,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-crunchy-pepper-meal",
+    "title": "oven-roasted crunchy pepper meal",
+    "tags": [
+      "gluten-free",
+      "meal-prep",
+      "one-pan",
+      "south-american",
+      "vegan"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
