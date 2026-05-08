@@ -1,0 +1,88 @@
+{
+  "title": "Oven Roasted Slovakian Lemon Skewers",
+  "description": "A sweet and crisp Slovakian dish featuring lemons, perfect for a crowd, with a Mediterranean twist. This recipe is a unique and delicious way to enjoy lemons.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lemons",
+      "amount": "12",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Thread lemon pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, honey, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto both sides of the lemon pieces.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 15 minutes, or until the lemons are caramelized.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "easy-to-make",
+    "gluten-free",
+    "mediterranean-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "oven-roasted-slovakian-lemon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-slovakian-lemon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:37:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "spherify",
+    "primaryIngredient": "lemons",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lemons",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
