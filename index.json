@@ -241,6 +241,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-brazilian-shrimp-ceviche",
+    "title": "Oceanic Brazilian Shrimp Ceviche",
+    "tags": [
+      "brazilian",
+      "gluten-free",
+      "low-carb",
+      "quick",
+      "refreshing",
+      "seafood"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-creamy-portuguese-shrimp-pasta",
     "title": "Oceanic Creamy Portuguese Shrimp Pasta",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Oceanic Brazilian Shrimp Ceviche",
+  "description": "A refreshing and festive Brazilian dish featuring shrimp marinated in a zesty mixture of mayonnaise and spices, served in a ramekin.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sattvic",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat them dry with paper towels.",
+    "In a large bowl, whisk together the mayonnaise, lime juice, salt, and black pepper.",
+    "Add the chopped cilantro, red onion, and minced garlic to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the shrimp to marinate.",
+    "Just before serving, give the shrimp a good stir and spoon them into small ramekins.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired.",
+    "Discard any leftover ceviche after 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "gluten-free",
+    "low-carb",
+    "quick",
+    "refreshing",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "oceanic-brazilian-shrimp-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-brazilian-shrimp-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:28:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "mayonnaise",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Oceanic Chewy",
+    "dishForm": "Ceviche"
+  }
+}
