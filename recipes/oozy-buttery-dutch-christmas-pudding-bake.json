@@ -1,0 +1,93 @@
+{
+  "title": "Oozy Buttery Dutch Christmas Pudding Bake",
+  "description": "A rich and indulgent vegetarian Dutch dish featuring Christmas pudding, topped with a sweet glaze and baked to perfection. This dish is perfect for the holiday season.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 loaf",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted butter, brown sugar, heavy cream, eggs, and vanilla extract.",
+    "Crumble the Christmas pudding into the bowl and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
+    "Bake for 35 minutes or until the edges are set and the center is still slightly jiggly.",
+    "While the pudding is baking, prepare the glaze by whisking together the confectioners sugar and 2 tablespoons of heavy cream.",
+    "Remove the pudding from the oven and let it cool for 5 minutes.",
+    "Drizzle the glaze over the top of the pudding and sprinkle with chopped almonds if using.",
+    "Return the pudding to the oven and bake for an additional 5 minutes or until the glaze is caramelized."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "comfort-food",
+    "holiday",
+    "sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "oozy-buttery-dutch-christmas-pudding-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-buttery-dutch-christmas-pudding-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:20:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "christmas pudding",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Christmas pudding",
+    "descriptor": "Oozy buttery",
+    "dishForm": "Pudding"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Oozy Glassy Slovakian Citrus Tart",
+  "description": "A citrusy Slovakian dessert featuring meringue nests and a glassy jelly glaze, made with anti-inflammatory friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lemon juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, whisk together the lemon and orange juice.",
+    "In a separate bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes.",
+    "In a medium saucepan, combine the honey, sugar, and 1 cup of water, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Remove the saucepan from the heat and stir in the gelatin mixture until it is fully dissolved.",
+    "Strain the mixture into a clean bowl and let it cool to room temperature.",
+    "In a large bowl, whip the egg whites until stiff peaks form.",
+    "Gradually add the granulated sugar to the egg whites and continue whipping until stiff and glossy.",
+    "Spoon the meringue mixture into nest-shaped molds and bake for 20 minutes.",
+    "Allow the meringue nests to cool completely in the molds.",
+    "To assemble the tart, place a meringue nest on a serving plate and spoon the cooled citrus mixture over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "dessert",
+    "gluten-free",
+    "meringue",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "oozy-glassy-slovakian-citrus-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-glassy-slovakian-citrus-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:21:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "glaze",
+    "primaryIngredient": "meringue nests",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "citrus",
+    "descriptor": "Oozy glassy",
+    "dishForm": "Tart"
+  }
+}

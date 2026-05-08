@@ -1881,6 +1881,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-buttery-dutch-christmas-pudding-bake",
+    "title": "Oozy Buttery Dutch Christmas Pudding Bake",
+    "tags": [
+      "baked",
+      "comfort-food",
+      "holiday",
+      "sweet",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-buttery-middle-eastern-oats-falafel",
     "title": "Oozy Buttery Middle Eastern Oats Falafel",
     "tags": [
@@ -2082,6 +2096,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-glassy-slovakian-citrus-tart",
+    "title": "Oozy Glassy Slovakian Citrus Tart",
+    "tags": [
+      "citrus",
+      "dessert",
+      "gluten-free",
+      "meringue",
+      "slovakian",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
