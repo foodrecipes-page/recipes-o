@@ -865,6 +865,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-outstanding-korean-beef-noodles",
+    "title": "Oily Outstanding Korean Beef Noodles",
+    "tags": [
+      "beef-recipes",
+      "korean-food",
+      "noodle-soup",
+      "one-pot",
+      "sugar-free"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 90,
+    "shard": "o"
+  },
+  {
     "slug": "oily-post-workout-shattering-saudi-arabian-fatty-tagine",
     "title": "Shattering Saudi Arabian Fatty Tagine for Post-Workout Recovery",
     "tags": [
@@ -6951,6 +6965,22 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-seared-jamaican-cucumber-salad",
+    "title": "Oven-Seared Jamaican Cucumber Salad",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "high-protein",
+      "one-pan",
+      "summer",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {

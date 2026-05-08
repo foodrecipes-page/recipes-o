@@ -1,0 +1,102 @@
+{
+  "title": "Oven-Seared Jamaican Cucumber Salad",
+  "description": "A refreshing salad featuring caramelized Persian cucumbers, perfect for a light and healthy meal.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "4",
+      "notes": "Slice the cucumbers into 1/8-inch thick rounds"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Peel the ginger and slice into thin rounds"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": "Grind the allspice in a spice grinder or mortar and pestle"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality brown sugar with a rich flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lime juice adds the best flavor"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Melt the coconut oil in the oven before searing the cucumbers"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Use fresh cilantro for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a high-quality salt with a rich flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) with the coconut oil in a small ramekin.",
+    "In a small bowl, mix together the brown sugar, allspice, salt, and black pepper.",
+    "Add the sliced cucumbers and ginger to the bowl and toss to coat with the spice mixture.",
+    "Place the cucumber mixture onto a robat grill or oven-safe skillet.",
+    "Sear the cucumbers in the oven for 5-7 minutes on each side, or until caramelized.",
+    "Remove the cucumbers from the oven and sprinkle with chopped cilantro.",
+    "Squeeze the lime juice over the cucumbers and serve immediately.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "summer",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "oven-seared-jamaican-cucumber-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-seared-jamaican-cucumber-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T14:14:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "persian cucumber",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cucumber",
+    "descriptor": "Oven-Seared",
+    "dishForm": "Salad"
+  }
+}
