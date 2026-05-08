@@ -5237,6 +5237,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-spanish-chicken-paella",
+    "title": "Oven Roasted Spanish Chicken Paella",
+    "tags": [
+      "kid-friendly",
+      "low-fat",
+      "one-pot",
+      "spanish-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-spanish-potatoes-patatas-bravas",
     "title": "Oven-Roasted Spanish Potatoes Patatas Bravas",
     "tags": [
