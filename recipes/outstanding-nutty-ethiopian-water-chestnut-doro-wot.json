@@ -1,0 +1,105 @@
+{
+  "title": "Ethiopian Water Chestnut Doro Wot",
+  "description": "A pescatarian-friendly Ethiopian dish featuring water chestnut, with a nutty and crisp texture, wrapped in leaves and steamed to perfection, served in a spicy Doro Wot sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "12 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onions, garlic, and ginger and saute until the onions are translucent.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the water chestnuts, fish sauce, and lemon juice, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the water chestnuts are tender.",
+    "While the water chestnut mixture is cooking, prepare the collard green leaves by blanching them in boiling water for 30 seconds.",
+    "Wrap the water chestnut mixture in the collard green leaves, making sure to seal the edges tightly.",
+    "Steam the wrapped water chestnut mixture over boiling water for 10 minutes, or until the leaves are tender.",
+    "Serve the Doro Wot hot, garnished with chopped nuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "ethiopian",
+    "nutty",
+    "pescatarian",
+    "spicy",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "outstanding-nutty-ethiopian-water-chestnut-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-nutty-ethiopian-water-chestnut-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:50:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "water chestnut",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "outstanding nutty",
+    "dishForm": "Doro Wot"
+  }
+}
