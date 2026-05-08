@@ -1,0 +1,104 @@
+{
+  "title": "Oozy Mexican Epoisses Quesadilla",
+  "description": "A pungent and molten Mexican dish featuring epoisses, perfect for crowds, made in a donabe with ferment jang for added depth, and nut free friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "epoisses cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded chicken",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe over medium heat.",
+    "In a bowl, mix together the softened epoisses cheese and ferment jang until well combined.",
+    "Add the cooked shredded chicken to the bowl and mix until the chicken is fully coated with the cheese mixture.",
+    "Add the diced onion and bell pepper to the bowl and mix until they are fully incorporated.",
+    "Place a large tortilla in the donabe and sprinkle a quarter of the cheese and chicken mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining tortillas and filling.",
+    "Serve the quesadillas hot with sour cream, cilantro, salt, and pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crowd-pleaser",
+    "donabe-recipes",
+    "mexican-food",
+    "nut-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oozy-mexican-epoisses-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-mexican-epoisses-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:08:29Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-jang",
+    "primaryIngredient": "epoisses",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "epoisses",
+    "descriptor": "Oozy Pungent",
+    "dishForm": "Quesadilla"
+  }
+}
