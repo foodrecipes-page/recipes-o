@@ -1,0 +1,106 @@
+{
+  "title": "Oven Roasted Egyptian Porcini Tagine",
+  "description": "A spicy and velvety Egyptian dish featuring porcini, perfect for a post-workout meal, with a smoky heat that will satisfy your cravings. This paleo-friendly recipe is made with wholesome ingredients and is easy to prepare.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the chopped onion to the bowl and toss to coat with the spice mixture.",
+    "Spread the onion mixture in a single layer on a large baking sheet.",
+    "Roast the onion mixture in the preheated oven for 20 minutes, stirring occasionally.",
+    "Add the dried porcini mushrooms to the baking sheet and toss to combine with the onion mixture.",
+    "Continue to roast for an additional 10 minutes, or until the mushrooms are tender.",
+    "Remove the baking sheet from the oven and let it cool slightly.",
+    "Serve the porcini tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "paleo-friendly",
+    "post-workout",
+    "smoky",
+    "spicy",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "oven-roasted-egyptian-porcini-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-egyptian-porcini-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "smoke-hot",
+    "primaryIngredient": "porcini",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "porcini",
+    "descriptor": "oven roasted smoke hot",
+    "dishForm": "Tagine"
+  }
+}
