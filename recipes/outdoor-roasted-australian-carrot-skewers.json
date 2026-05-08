@@ -1,0 +1,93 @@
+{
+  "title": "Outdoor Roasted Australian Carrot Skewers",
+  "description": "A nutty and shattering Australian dish featuring carrots and candy, perfect for a hangover cure, roasted to perfection on a cedar plank. This satvik-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 pound",
+      "notes": "peeled and chopped into 1-inch pieces"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/2 cup",
+      "notes": "such as peanut butter cups or caramel candies"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for at least 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar plank in water for at least 30 minutes before cooking.",
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the carrot pieces onto skewers, leaving a small space between each piece.",
+    "Brush the peanut oil onto the carrots, then sprinkle with honey, candy pieces, pecans, salt, and pepper.",
+    "Place the skewers on the cedar plank and put the plank on the grill.",
+    "Close the grill lid and cook for 20 minutes, or until the carrots are tender and lightly charred.",
+    "Remove the skewers from the grill and let cool for a few minutes before serving.",
+    "Serve the carrot skewers hot, garnished with additional candy pieces and pecans if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-recipes",
+    "easy-recipes",
+    "healthy-snacks",
+    "outdoor-cooking",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "outdoor-roasted-australian-carrot-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-roasted-australian-carrot-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:03:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "carrots",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "carrots",
+    "descriptor": "outdoor roasted",
+    "dishForm": "Skewers"
+  }
+}
