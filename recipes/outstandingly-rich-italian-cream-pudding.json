@@ -1,0 +1,88 @@
+{
+  "title": "Outstandingly Rich Italian Cream Pudding",
+  "description": "A rich and pillowy Italian dessert featuring sugar and cream, perfect for festive occasions, and low in carbs for a guilt-free treat.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy Cream",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large Egg Yolks",
+      "amount": "4"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the heavy cream, granulated sugar, and kosher salt, and cook over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the egg yolks and vanilla extract, then gradually add the melted butter, whisking until smooth.",
+    "Gradually pour the hot cream mixture into the egg yolk mixture, whisking constantly to prevent the eggs from scrambling.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Remove the saucepan from the heat and let it cool slightly, then stir in the softened cream cheese until fully incorporated and smooth.",
+    "Strain the pudding into individual serving cups or a large serving dish, and refrigerate for at least 2 hours or overnight until chilled and set.",
+    "Just before serving, garnish with whipped cream or a sprinkle of sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-dessert",
+    "low-carb",
+    "rich-and-creamy",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "outstandingly-rich-italian-cream-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-rich-italian-cream-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:19:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cream",
+    "descriptor": "outstandingly rich",
+    "dishForm": "Pudding"
+  }
+}
