@@ -1,0 +1,100 @@
+{
+  "title": "Outstandingly Sweet Norwegian Cod Skewers",
+  "description": "A sweet and springy Norwegian dish perfect for a date night, featuring white chocolate and a Whole30-friendly twist, with a deglaze for added flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cod",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut sugar, lemon juice, olive oil, garlic, salt, and pepper.",
+    "Add the Norwegian cod pieces to the bowl and marinate for 10 minutes.",
+    "Thread the marinated cod pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, or until the cod is cooked through.",
+    "While the cod is cooking, melt the white chocolate chips in a saucepan over low heat.",
+    "Once the cod is cooked, brush the melted white chocolate over the top of each skewer.",
+    "Deglaze the saucepan with a little water to remove any remaining white chocolate and pour over the skewers.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "outstandingly-sweet-norwegian-cod-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-sweet-norwegian-cod-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:22:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "white chocolate",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cod",
+    "descriptor": "outstandingly sweet",
+    "dishForm": "Skewers"
+  }
+}
