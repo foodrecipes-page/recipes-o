@@ -1,0 +1,99 @@
+{
+  "title": "Oily Smoky Brazilian Bok Choi Fried Rice",
+  "description": "A smoky and crumbly Brazilian dish featuring bok choi, perfect for a hangover cure, served in a lacquerware bowl. This high-protein-friendly recipe is made with fry-grind-rice-khao-khua.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "3 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "smoked sausage",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced smoked sausage and cook until browned, about 5 minutes.",
+    "Add the chopped bok choi and cook until wilted, about 2 minutes.",
+    "Push the bok choi and sausage mixture to one side of the skillet.",
+    "Add a little more oil if necessary, then pour in the beaten eggs and scramble them until cooked through.",
+    "Mix the eggs with the bok choi and sausage mixture.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice with the bok choi and egg mixture for about 5 minutes, adding soy sauce to taste.",
+    "Serve the fried rice hot in a lacquerware bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "fried-rice",
+    "high-protein",
+    "lunch-ideas",
+    "one-pan",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oily-smoky-brazilian-bok-choi-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-smoky-brazilian-bok-choi-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:52:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "bok choi",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "bok choi",
+    "descriptor": "oily smoky",
+    "dishForm": "Fried-Rice"
+  }
+}
