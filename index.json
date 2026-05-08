@@ -4204,6 +4204,20 @@
     "shard": "o"
   },
   {
+    "slug": "outback-oven-australian-lamb-bake",
+    "title": "Outback Oven Australian Lamb Bake",
+    "tags": [
+      "australian-cuisine",
+      "fodmap-friendly",
+      "lamb-recipes",
+      "one-pan-meals",
+      "winter-dinners"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "outdoor-australian-melon-skewers",
     "title": "Outdoor Australian Melon Skewers",
     "tags": [
@@ -7839,6 +7853,20 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-peruvian-chicken-skewers",
+    "title": "Oven Roasted Peruvian Chicken Skewers",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "peruvian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

@@ -1,0 +1,92 @@
+{
+  "title": "Outback Oven Australian Lamb Bake",
+  "description": "A hearty Australian dish featuring lamb, dried cranberries, and a blend of spices, perfect for a cold winter's night. This FODMAP-friendly recipe is easy to make and serves 6 people.",
+  "cuisine": "Australian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 1-inch cubes"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb cubes with olive oil, garlic-infused oil, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the lamb mixture out in a single layer in a 9x13 inch baking dish.",
+    "Roast the lamb in the preheated oven for 20 minutes.",
+    "While the lamb is roasting, mix the dried cranberries and rosemary sprigs in a small bowl.",
+    "After the lamb has roasted for 20 minutes, add the cranberry and rosemary mixture to the baking dish and stir to combine.",
+    "Return the baking dish to the oven and continue roasting for an additional 20 minutes, or until the lamb is cooked through and the cranberries are tender.",
+    "Remove the baking dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "fodmap-friendly",
+    "lamb-recipes",
+    "one-pan-meals",
+    "winter-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "outback-oven-australian-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outback-oven-australian-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:04:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "dried cranberries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "outback oven",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Peruvian Chicken Skewers",
+  "description": "Tender and flavorful Peruvian chicken skewers roasted to perfection in the oven, featuring sage and a blend of spices, this dish is high in protein and perfect for a weeknight dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sage",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian aji amarillo pepper paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, sage, garlic, peruvian aji amarillo pepper paste, lime juice, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Roast the skewers in the preheated oven for 20-25 minutes, or until the chicken is cooked through",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "oven-roasted-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:04:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "sage",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
