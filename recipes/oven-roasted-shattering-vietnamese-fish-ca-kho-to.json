@@ -1,0 +1,114 @@
+{
+  "title": "Oven-Roasted Shattering Vietnamese Fish Ca Kho To",
+  "description": "A citrusy, one-pot Vietnamese dish featuring sesame seeds, kombu extract, and fish.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-calorie",
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Pangasius)",
+      "amount": "4",
+      "notes": "1 lb total"
+    },
+    {
+      "name": "Kombu",
+      "amount": "4",
+      "notes": "4 oz total cold extract"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Citrus Zest (Grapefruit)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Rinse the fish and pat dry with paper towels.",
+    "Mix sesame seeds, citrus zest, soy sauce, coconut sugar, and fish fillets in a bowl.",
+    "Heat vegetable oil in a lidded Dutch oven over medium heat.",
+    "Add garlic and ginger to the pot and cook until fragrant.",
+    "Add the fish mixture to the pot and cook for 2 minutes.",
+    "Stir in kombu extract and lime juice.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 10-12 minutes or until the fish flakes easily with a fork.",
+    "Check for doneness and season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "oven-roasted-shattering-vietnamese-fish-ca-kho-to",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-shattering-vietnamese-fish-ca-kho-to",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:57:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "sesame seed",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "Oven-Roasted Shattering",
+    "dishForm": "Ca Kho To"
+  }
+}
