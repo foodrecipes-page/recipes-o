@@ -1,0 +1,95 @@
+{
+  "title": "Ukrainian Egg Frittata",
+  "description": "A traditional Ukrainian dish featuring eggs, dry cured meats, and vegetables, this frittata is a hearty and satisfying meal. It is paleo-friendly and features a malty, crunchy texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salted pork fat",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the diced salted pork fat over medium heat until crispy.",
+    "Add the chopped onions to the skillet and cook until they are translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender.",
+    "In a large bowl, whisk together the eggs, dried dill, black pepper, and sea salt.",
+    "Add the cooked mushroom and onion mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into a greased 9-inch pie plate.",
+    "Bake the frittata in the preheated oven for 35 minutes, or until the eggs are set.",
+    "Remove the frittata from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "old-style-ukrainian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-style-ukrainian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:26:48Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "brine-dry",
+    "primaryIngredient": "egg",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "egg",
+    "descriptor": "old style",
+    "dishForm": "Frittata"
+  }
+}

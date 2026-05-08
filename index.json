@@ -1937,6 +1937,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-style-ukrainian-egg-frittata",
+    "title": "Ukrainian Egg Frittata",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "ukrainian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "olive-oasis",
     "title": "Olive Oasis",
     "tags": [
@@ -1975,6 +1989,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "olive-oil-infused-polish-olive-tagine",
+    "title": "Olive Oil Infused Polish Olive Tagine",
+    "tags": [
+      "clay-cooked",
+      "comfort-food",
+      "crowd-pleaser",
+      "lacto-vegetarian",
+      "mediterranean-inspired",
+      "one-pot"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
