@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Chinese Boudin Noir Dumplings",
+  "description": "Rich, flaky, date-night Chinese dish featuring boudin-noir, cure, egg-free-friendly, served in scallop shells",
+  "cuisine": "Chinese",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 pound",
+      "notes": "cured blood sausage"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together boudin noir, scallions, ginger, soy sauce, sesame oil, salt, and pepper.",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the boudin noir mixture in the center of the wrapper.",
+    "Moisten the edges of the wrapper with a small amount of water and fold the wrapper into a triangle, pressing the edges together to seal the dumpling.",
+    "Place the dumplings in scallop shells, leaving a small space between each dumpling.",
+    "Brush the tops of the dumplings with a small amount of sesame oil.",
+    "Bake the dumplings in the preheated oven for 15 minutes, or until the wrappers are golden brown.",
+    "Serve the dumplings hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "date-night",
+    "egg-free",
+    "one-pan",
+    "oven-roasted",
+    "seafood-alternative"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "oven-roasted-chinese-boudin-noir-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-chinese-boudin-noir-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "boudin-noir",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "boudin noir",
+    "descriptor": "Oven roasted",
+    "dishForm": "Dumplings"
+  }
+}
