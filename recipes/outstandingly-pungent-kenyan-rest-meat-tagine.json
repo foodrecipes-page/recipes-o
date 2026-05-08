@@ -1,0 +1,100 @@
+{
+  "title": "Outstandingly Pungent Kenyan Rest Meat Tagine",
+  "description": "A pungent and indulgent Kenyan dish featuring rest meat and lettuce, cooked to perfection in a tagine pot, this recipe is gluten-free friendly and sure to satisfy your cravings.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the cumin, coriander, and turmeric, and stir to combine.",
+    "Add the rest meat cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped lettuce and stir to combine.",
+    "Cover the tagine pot and cook for 20 minutes, or until the meat is tender and the lettuce is wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-recipe",
+    "gluten-free",
+    "kenyan-cuisine",
+    "meat-based",
+    "one-pot",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "outstandingly-pungent-kenyan-rest-meat-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-pungent-kenyan-rest-meat-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:47:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "lettuce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rest-meat",
+    "descriptor": "outstandingly pungent",
+    "dishForm": "Tagine"
+  }
+}
