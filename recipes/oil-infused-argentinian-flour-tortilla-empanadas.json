@@ -1,0 +1,108 @@
+{
+  "title": "Oil Infused Argentinian Flour Tortilla Empanadas",
+  "description": "A light and floral one-pot Argentinian dish featuring flour tortilla, made in a kadhai vessel with mortar-pestle-pound technique, suitable for ayurvedic tamasic friendly diet.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "tamasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "8 pieces",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the chopped spinach and cook until it is wilted.",
+    "Add the crumbly feta cheese, salt, black pepper, and paprika, and stir well.",
+    "Using a mortar and pestle, pound the mixture to create a coarse texture.",
+    "Place a spoonful of the mixture onto a flour tortilla and fold it in half to form a triangle.",
+    "Cook the empanadas in the kadhai vessel for 2-3 minutes on each side, until they are golden brown.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-dinner",
+    "empanadas",
+    "flour-tortilla",
+    "kitchen-essentials",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "oil-infused-argentinian-flour-tortilla-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-argentinian-flour-tortilla-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:10:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "flour tortilla",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "flour tortilla",
+    "descriptor": "oil infused",
+    "dishForm": "Empanadas"
+  }
+}
