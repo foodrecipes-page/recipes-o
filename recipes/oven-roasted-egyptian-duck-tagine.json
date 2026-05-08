@@ -1,0 +1,125 @@
+{
+  "title": "Oven-Roasted Egyptian Duck Tagine",
+  "description": "A citrusy, velvety Egyptian dish featuring a tender duck leg in a rich, flavorful sauce.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "1",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar free orange marmalade",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soda water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C) and set a rack with a rimmed baking sheet.",
+    "Pat dry the duck leg with paper towels and season with salt, black pepper, and cumin.",
+    "Air-fry the duck leg for 15 minutes, or until browned and crispy.",
+    "Meanwhile, heat the butter and olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned, about 10 minutes.",
+    "Add the grated ginger and minced garlic and cook for an additional 2 minutes.",
+    "Add the cinnamon stick, cumin, coriander, and cardamom, and cook for 1 minute.",
+    "Stir in the orange marmalade and lemon juice, and bring the sauce to a simmer.",
+    "Add the browned duck leg to the sauce and transfer the pot to the preheated oven.",
+    "Roast for 25 minutes, then baste with the sauce and continue to roast for an additional 10-15 minutes, or until the duck is cooked through.",
+    "Remove the pot from the oven and let it rest for 5 minutes.",
+    "Strain the sauce and discard the solids, then serve the duck with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "oven-roasted-egyptian-duck-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-egyptian-duck-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:39:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "soda water",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "duck",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tagine"
+  }
+}
