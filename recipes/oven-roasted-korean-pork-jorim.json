@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted Korean Pork Jorim",
+  "description": "A fatty and crisp Korean dish featuring rosemary, perfect for a brunch mood, made with pork and roasted to perfection on a cedar plank.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together soy sauce, brown sugar, ginger, and black pepper to make the marinade.",
+    "Place the pork belly on the cedar plank, leaving a 1-inch border around the pork.",
+    "Brush the marinade all over the pork, making sure it is fully coated.",
+    "Place the rosemary sprigs on top of the pork.",
+    "Roast the pork in the preheated oven for 20 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, or until the pork is crispy and golden brown.",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cedar-plank-cooking",
+    "korean-cuisine",
+    "pork-recipes",
+    "rosemary-recipes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "oven-roasted-korean-pork-jorim",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-korean-pork-jorim",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:58:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "rosemary",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Jorim"
+  }
+}
