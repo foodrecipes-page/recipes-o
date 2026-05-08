@@ -1,0 +1,98 @@
+{
+  "title": "Orange Infused Brazilian Chicken Wrap",
+  "description": "A rich and silky Brazilian dish featuring orange blossom water, served in a low-calorie corn husk wrap, perfect for a solo dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or wok over medium-high heat",
+    "Add the olive oil and cook the chicken until browned, about 5 minutes",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant",
+    "Add the orange blossom water and cook for 1 minute, until the liquid is almost completely evaporated",
+    "Season the chicken with salt and black pepper",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wraps by placing a portion of the chicken onto the center of each corn husk",
+    "Garnish with chopped cilantro and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "low-calorie-meals",
+    "one-pan-dinners",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "orange-infused-brazilian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-infused-brazilian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:40:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "orange blossom water",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "orange infused",
+    "dishForm": "Wrap"
+  }
+}
