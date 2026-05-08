@@ -1,0 +1,96 @@
+{
+  "title": "Oven Dried English V Sterbottensost Cheese Ploughmans Lunch",
+  "description": "A citrusy and tender show-off British dish featuring V Sterbottensost cheese, this ploughmans lunch is perfect for a light and satisfying meal. It is also diabetic-friendly and features a unique brine-dry method.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "V Sterbottensost cheese",
+      "amount": "200g",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "100g"
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium",
+      "notes": "sliced into wedges"
+    },
+    {
+      "name": "walnuts",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150 degrees Celsius.",
+    "Place the sliced V Sterbottensost cheese on a baking sheet lined with parchment paper.",
+    "Dry the cheese in the oven for 30 minutes, or until it reaches the desired level of dryness.",
+    "In a large bowl, combine the mixed greens, sliced apple, and chopped walnuts.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Drizzle the lemon juice and olive oil mixture over the mixed greens mixture and toss to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "To assemble the ploughmans lunch, place a portion of the mixed greens mixture on a plate and top with a piece of the dried V Sterbottensost cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "diabetic-friendly",
+    "easy-to-make",
+    "healthy-snack",
+    "low-carb",
+    "ploughmans-lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-dried-english-v-sterbottensost-cheese-ploughmans-lunch",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-dried-english-v-sterbottensost-cheese-ploughmans-lunch",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:30:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "diabetic-friendly",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "V Sterbottensost Cheese",
+    "descriptor": "Oven Dried",
+    "dishForm": "Ploughmans Lunch"
+  }
+}
