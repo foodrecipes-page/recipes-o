@@ -1,0 +1,102 @@
+{
+  "title": "Outdoor Grilled Dutch Banana Skewers",
+  "description": "A mustardy and snappy Dutch dish featuring fried ripe bananas, double-fry KFC style, and low-carb friendly, all grilled to perfection on a binchotan grill.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak the wooden skewers in water for 30 minutes before grilling.",
+    "In a large bowl, mix together the flour, cornstarch, and a pinch of salt.",
+    "In a separate bowl, whisk together the eggs, mustard, and paprika.",
+    "Heat the peanut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Dip each banana slice into the egg mixture, then coat in the flour mixture, and fry in the peanut oil until golden brown.",
+    "Remove the fried banana slices from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Thread 2-3 fried banana slices onto each wooden skewer.",
+    "Preheat the binchotan grill to medium-high heat.",
+    "Grill the banana skewers for 2-3 minutes per side, or until slightly charred.",
+    "Serve the grilled banana skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "grilled-fruit",
+    "low-carb-desserts",
+    "outdoor-cooking",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "outdoor-grilled-dutch-banana-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-dutch-banana-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:52:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "bananas",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Skewers"
+  }
+}
