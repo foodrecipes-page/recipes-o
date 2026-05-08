@@ -1,0 +1,100 @@
+{
+  "title": "Oven Toasted Filipino Potato Hash",
+  "description": "A savory Filipino dish featuring crispy potato, served as a satisfying brunch option, this recipe is satvik-friendly and manteca-emulsified for added richness.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "manteca",
+      "amount": "1/4 cup",
+      "notes": "or vegetable shortening"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "patis",
+      "amount": "1 tablespoon",
+      "notes": "fish sauce, optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine diced potatoes, manteca, salt, and black pepper, and mix until the potatoes are evenly coated.",
+    "Spread the potato mixture on a baking sheet lined with parchment paper.",
+    "Roast the potatoes in the preheated oven for 20 minutes, or until they are golden brown and crispy.",
+    "While the potatoes are roasting, heat a skillet over medium heat and sauté the diced onion and minced garlic until they are softened.",
+    "Once the potatoes are done, remove them from the oven and let them cool for a few minutes.",
+    "Add the roasted potatoes to the skillet with the onion and garlic, and stir to combine.",
+    "Add patis, if using, and stir to combine.",
+    "Transfer the potato mixture to a serving dish and garnish with chopped scallions.",
+    "Serve the oven toasted Filipino potato hash hot, as a side dish or a light brunch option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "filipino-food",
+    "one-pan",
+    "oven-roasted",
+    "potato-dish",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "oven-toasted-filipino-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-filipino-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:22:50Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "potato starch",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "potatoes",
+    "descriptor": "Oven toasted",
+    "dishForm": "Hash"
+  }
+}
