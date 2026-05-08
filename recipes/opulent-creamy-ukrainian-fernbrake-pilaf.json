@@ -1,0 +1,99 @@
+{
+  "title": "Opulent Creamy Ukrainian Fernbrake Pilaf",
+  "description": "A rich and creamy Ukrainian dish featuring fernbrake, tempered with chocolate, suitable for ovo-vegetarian diets. This peppery pilaf is a show-stopping main course.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fernbrake",
+      "amount": "1 cup",
+      "notes": "also known as gosari"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce",
+      "notes": "for tempering"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "for ovo-vegetarian option"
+    }
+  ],
+  "instructions": [
+    "Rinse the fernbrake and soak it in water for 30 minutes before draining and chopping it into small pieces.",
+    "Heat the butter in a large saucepan over medium heat and saute the chopped fernbrake until it is tender.",
+    "Add the arborio rice to the saucepan and cook for 1-2 minutes, stirring constantly, until the rice is coated in butter and slightly toasted.",
+    "Add the vegetable broth to the saucepan, 1 cup at a time, stirring constantly and allowing each cup to be absorbed before adding the next.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval until smooth.",
+    "Temper the chocolate by stirring it constantly and allowing it to cool slightly, then set it aside.",
+    "In a small bowl, whisk together the heavy cream, black pepper, and salt until well combined.",
+    "Stir the cream mixture into the cooked rice and fernbrake mixture, then stir in the tempered chocolate until well combined.",
+    "Push the rice mixture to one side of the saucepan, then crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs into the rice mixture and cook for an additional 1-2 minutes, stirring constantly, until the eggs are fully incorporated."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "rich-and-creamy",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "opulent-creamy-ukrainian-fernbrake-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/opulent-creamy-ukrainian-fernbrake-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:04:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fernbrake",
+    "descriptor": "opulent creamy",
+    "dishForm": "Pilaf"
+  }
+}
