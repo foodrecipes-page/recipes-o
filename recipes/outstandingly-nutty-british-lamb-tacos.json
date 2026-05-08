@@ -1,0 +1,101 @@
+{
+  "title": "Outstandingly Nutty British Lamb Tacos",
+  "description": "A unique twist on traditional tacos, featuring British lamb and a blend of Indian spices, all wrapped in a hard taco shell and perfect for a weeknight dinner",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably from Yorkshire"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C",
+    "In a large pan, heat the olive oil over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the lamb mince, breaking it up with a spoon as it cooks, until it is no longer pink",
+    "Stir in the tadka spice blend and cook for 1 minute",
+    "Add the chopped walnuts and cook for an additional 2 minutes",
+    "Season with salt and pepper to taste",
+    "Warm the hard taco shells in the oven for 5 minutes",
+    "Assemble the tacos by spooning the lamb mixture into the shells and topping with chopped coriander and a squeeze of lemon juice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "dairy-free",
+    "indian-inspired",
+    "nutty-flavors",
+    "taco-night",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "outstandingly-nutty-british-lamb-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-nutty-british-lamb-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:54:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "hard taco shells",
+    "diet": "dairy-free",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "outstandingly nutty",
+    "dishForm": "Tacos"
+  }
+}

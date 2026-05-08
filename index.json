@@ -2299,6 +2299,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-buttery-french-apricot-madeleine",
+    "title": "Oozy Buttery French Apricot Madeleine",
+    "tags": [
+      "apricot",
+      "buttery",
+      "french-dessert",
+      "madeleine",
+      "mediterranean-friendly",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-buttery-middle-eastern-oats-falafel",
     "title": "Oozy Buttery Middle Eastern Oats Falafel",
     "tags": [
@@ -3850,6 +3865,21 @@
     "shard": "o"
   },
   {
+    "slug": "outstandingly-nutty-british-lamb-tacos",
+    "title": "Outstandingly Nutty British Lamb Tacos",
+    "tags": [
+      "british-cuisine",
+      "dairy-free",
+      "indian-inspired",
+      "nutty-flavors",
+      "taco-night",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "outstandingly-oven-roasted-irish-vegetable-hash",
     "title": "Outstandingly Oven Roasted Irish Vegetable Hash",
     "tags": [
@@ -3965,6 +3995,21 @@
       "vegetarian"
     ],
     "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-spicy-jamaican-herring-curry",
+    "title": "Outstandingly Spicy Jamaican Herring Curry",
+    "tags": [
+      "high-protein",
+      "jamaican-cuisine",
+      "one-pot",
+      "paleo-friendly",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
     "totalTimeMin": 35,
     "shard": "o"
   },
