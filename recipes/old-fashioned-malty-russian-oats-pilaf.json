@@ -1,0 +1,95 @@
+{
+  "title": "Old Fashioned Malty Russian Oats Pilaf",
+  "description": "A traditional Russian dish featuring malty oats, vanilla sugar, and lardons, made plant-based friendly and perfect for meal prep in a mason jar.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old fashioned"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "plant-based, rendered"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the oats, vanilla sugar, and salt.",
+    "In a separate bowl, whisk together the water, plant-based milk, and malt extract.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Fold in the rendered lardons and sunflower oil.",
+    "Spoon the mixture into a mason jar, leaving about 1 inch of space at the top.",
+    "Cover the jar with a lid and bake for 25 minutes.",
+    "Remove the jar from the oven and let it cool to room temperature.",
+    "Refrigerate the pilaf overnight and serve chilled in the morning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-pilaf",
+    "mason-jar-recipe",
+    "meal-prep",
+    "oat-based",
+    "plant-based",
+    "russian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "old-fashioned-malty-russian-oats-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-malty-russian-oats-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "oats",
+    "descriptor": "old fashioned malty",
+    "dishForm": "Pilaf"
+  }
+}
