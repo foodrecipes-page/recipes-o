@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted Ukrainian Chicken Wrap",
+  "description": "A sweet and crumbly Ukrainian dish featuring chicken drumsticks, bhuna, and corn husk wraps, perfect for a low-calorie hangover cure.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "8",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husks",
+      "amount": "8",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the bhuna spice mix, olive oil, honey, garlic powder, salt, and black pepper.",
+    "Add the chicken drumsticks to the bowl and toss to coat evenly with the spice mixture.",
+    "Wrap each chicken drumstick in a corn husk, securing with a toothpick if needed.",
+    "Place the wrapped chicken drumsticks on a baking sheet lined with parchment paper.",
+    "Roast the chicken in the preheated oven for 30 minutes.",
+    "Flip the chicken drumsticks over and continue roasting for an additional 20 minutes.",
+    "Remove the chicken from the oven and let rest for 5 minutes before serving.",
+    "Serve the chicken drumsticks in their corn husk wraps, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dishes",
+    "gluten-free",
+    "hangover-cure",
+    "low-calorie",
+    "oven-roasted",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "oven-roasted-ukrainian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ukrainian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:48:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "oven roasted",
+    "dishForm": "Wrap"
+  }
+}
