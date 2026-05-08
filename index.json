@@ -5332,6 +5332,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-australian-lamb-sandwich",
+    "title": "Oven Roasted Australian Lamb Sandwich",
+    "tags": [
+      "australian-cuisine",
+      "lamb-recipes",
+      "oven-roasted",
+      "sandwiches",
+      "special-occasion",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-australian-white-cabbage-paella",
     "title": "Oven Roasted Australian White Cabbage Paella",
     "tags": [
@@ -5434,6 +5449,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-canadian-tofu-custard",
+    "title": "Oven Roasted Canadian Tofu Custard",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "jain-friendly",
+      "one-bowl-meals",
+      "tofu-recipes",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {

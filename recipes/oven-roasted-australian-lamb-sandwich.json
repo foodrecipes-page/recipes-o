@@ -1,0 +1,92 @@
+{
+  "title": "Oven Roasted Australian Lamb Sandwich",
+  "description": "A cultured and tender Australian dish featuring roasted lamb and ayurvedic-rajasic-friendly ingredients, served on double-rise-bread with a hint of sansho pepper.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, and sansho pepper.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then transfer to the oven.",
+    "Roast the lamb in the oven for 20 minutes per pound, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "Let the lamb rest for 10 minutes before slicing thinly.",
+    "Toast the double-rise-bread slices until lightly browned.",
+    "Assemble the sandwich by spreading a layer of garlic on each bread slice, then topping with sliced lamb, rosemary, and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "lamb-recipes",
+    "oven-roasted",
+    "sandwiches",
+    "special-occasion",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oven-roasted-australian-lamb-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-australian-lamb-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:26:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "sansho",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Sandwich"
+  }
+}
