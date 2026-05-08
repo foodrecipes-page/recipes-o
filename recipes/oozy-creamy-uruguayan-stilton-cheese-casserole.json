@@ -1,0 +1,92 @@
+{
+  "title": "Oozy Creamy Uruguayan Stilton Cheese Casserole",
+  "description": "A floral and creamy Uruguayan dish featuring stilton cheese, cooked in a ttukbaegi earthenware pot, suitable for an ayurvedic tamasic friendly diet. This energizing casserole is perfect for a dinner meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stilton cheese",
+      "amount": "1 cup crumbled",
+      "notes": "high quality"
+    },
+    {
+      "name": "earthenware pot oil",
+      "amount": "2 tablespoons",
+      "notes": "for pot preparation"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the ttukbaegi earthenware pot by applying a thin layer of oil and heating it in the oven for 10 minutes.",
+    "In a large skillet, saute the chopped onion and minced garlic until the onion is translucent.",
+    "In a large bowl, combine the sauteed onion and garlic, crumbled stilton cheese, chopped parsley, heavy cream, salt, and black pepper, and mix well.",
+    "Transfer the mixture to the prepared earthenware pot.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until it is golden brown and the cheese is melted and oozy.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "earthenware-cooking",
+    "gluten-free",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "oozy-creamy-uruguayan-stilton-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-creamy-uruguayan-stilton-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:05:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "stilton cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "Oozy creamy",
+    "dishForm": "Casserole"
+  }
+}
