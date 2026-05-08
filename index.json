@@ -4859,6 +4859,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-greek-lamb-kleftiko",
+    "title": "Oven Roasted Greek Lamb Kleftiko",
+    "tags": [
+      "greek-cuisine",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "weeknight",
+      "whole30-recipes"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 200,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-indian-chicken-biryani",
     "title": "Oven-Roasted Indian Chicken Biryani",
     "tags": [

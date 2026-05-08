@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Greek Lamb Kleftiko",
+  "description": "A savory and tender Greek dish featuring lamb, cucumber, and traditional spices, perfect for a brunch mood. This Whole30-friendly recipe is made in a papillote for easy cleanup.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together lemon juice, olive oil, garlic, oregano, salt, and pepper.",
+    "Place the lamb shoulder in a large piece of parchment paper or aluminum foil.",
+    "Brush the lamb with the lemon juice mixture, making sure to coat it evenly.",
+    "Add the sliced cucumber to the parchment paper or foil, placing it on top of the lamb.",
+    "Fold the parchment paper or foil over the lamb, creating a tight seal.",
+    "Place the lamb in a roasting pan and roast for 3 hours.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing.",
+    "Slice the lamb and serve with the roasted cucumber and juices.",
+    "Garnish with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "weeknight",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "oven-roasted-greek-lamb-kleftiko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-greek-lamb-kleftiko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:46:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "cucumber",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kleftiko"
+  }
+}
