@@ -1,0 +1,112 @@
+{
+  "title": "Oozing Uruguayan Plant-based Empanadas",
+  "description": "A vegetarian twist on the traditional Uruguayan empanada, featuring ancho chillies and a caramelized filling that's sure to cure even the worst hangover.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, grind the ancho chillies into a fine powder.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat and cook the onion and garlic until the onion is caramelized.",
+    "Add the red bell pepper and cook for an additional 2 minutes.",
+    "Stir in the cumin, chili powder, and salt. Cook for 1 minute.",
+    "Add the black beans and cook for an additional 2 minutes.",
+    "Roll out the pastry dough to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the filling in the center of each dough circle and fold the dough in half to form a half-moon shape.",
+    "Seal the edges by pressing the dough together with a fork.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with oil.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "If using cheese, sprinkle on top of the empanadas during the last 5 minutes of baking."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "latin-american",
+    "one-pan",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "oozing-uruguayan-plant-based-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-uruguayan-plant-based-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:30:09Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "ancho chillies",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "plant-based",
+    "descriptor": "Oozing",
+    "dishForm": "Empanadas"
+  }
+}
