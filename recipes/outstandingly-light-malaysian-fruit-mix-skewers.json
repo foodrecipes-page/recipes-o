@@ -1,0 +1,94 @@
+{
+  "title": "Malaysian Fruit Mix Skewers",
+  "description": "A sweet and crispy Malaysian dish featuring a mix of fresh fruits, perfect for a light and refreshing snack or dessert",
+  "cuisine": "Malaysian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh chunks"
+    },
+    {
+      "name": "Papaya",
+      "amount": "1 cup",
+      "notes": "fresh chunks"
+    },
+    {
+      "name": "Kiwi",
+      "amount": "1 cup",
+      "notes": "fresh chunks"
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1 cup",
+      "notes": "fresh chunks"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat",
+    "Thread a piece of each fruit onto a bamboo skewer",
+    "Brush the fruit with lime juice and drizzle with honey",
+    "Sprinkle coconut flakes over the fruit",
+    "Place the skewers on the preheated skillet or griddle and cook for 2-3 minutes on each side",
+    "Repeat the cooking process for all the skewers",
+    "Serve the fruit skewers warm or at room temperature"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fruit-based",
+    "jain-friendly",
+    "malaysian-cuisine",
+    "quick-snack",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 1
+  },
+  "slug": "outstandingly-light-malaysian-fruit-mix-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-light-malaysian-fruit-mix-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:04:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "fruit mix",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fruit mix",
+    "descriptor": "outstandingly light",
+    "dishForm": "Skewers"
+  }
+}
