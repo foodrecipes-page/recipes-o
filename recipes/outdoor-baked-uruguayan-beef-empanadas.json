@@ -1,0 +1,98 @@
+{
+  "title": "Uruguayan Beef Empanadas",
+  "description": "Buttery and shaggy empanadas filled with horseradish flavored beef, perfect for an outdoor adventure, these empanadas are sugar free friendly and offer a delicious twist on traditional Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "horseradish",
+      "amount": "2 tablespoons",
+      "notes": "prepared"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the outdoor oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Stir in the prepared horseradish, salt, and black pepper, and cook for 1 minute.",
+    "On a lightly floured surface, roll out the puff pastry to a large rectangle, about 1/4 inch thick.",
+    "Spoon the beef mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut the empanadas into triangles or squares, and brush the tops with the melted butter.",
+    "Bake the empanadas in the preheated oven for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "horseradish-recipes",
+    "outdoor-cooking",
+    "pastry-dough",
+    "south-american-cuisine",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "outdoor-baked-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-baked-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "horseradish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "outdoor baked",
+    "dishForm": "Empanadas"
+  }
+}
