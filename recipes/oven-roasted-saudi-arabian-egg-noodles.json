@@ -1,0 +1,101 @@
+{
+  "title": "Oven Roasted Saudi Arabian Egg Noodles",
+  "description": "A yeasty, aerated, romantic Saudi Arabian dish featuring egg noodles, robata grill, and low fat friendly ingredients, served on a cedar plank.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the egg noodles to the bowl and toss to coat with the oil mixture.",
+    "In a small bowl, proof the yeast by mixing it with 1 tablespoon of warm water.",
+    "Add the yeast mixture to the noodles and toss to combine.",
+    "Line a cedar plank with parchment paper and arrange the noodles in a single layer.",
+    "Place the cedar plank on a robata grill or a baking sheet and roast in the oven for 15 minutes.",
+    "Remove the noodles from the oven and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "noodle-dish",
+    "oven-roasted",
+    "romantic-dinner",
+    "saudi-arabian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oven-roasted-saudi-arabian-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-saudi-arabian-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:38:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "robata-grill",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Noodles"
+  }
+}
