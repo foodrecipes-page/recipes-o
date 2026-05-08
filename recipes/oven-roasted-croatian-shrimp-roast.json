@@ -1,0 +1,100 @@
+{
+  "title": "Croatian Shrimp Roast",
+  "description": "A flavorful and macrobiotic-friendly Croatian dish featuring shrimp and roast, cooked to perfection on a salt block.",
+  "cuisine": "Croatian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the shrimp with paprika, salt, and black pepper.",
+    "Heat the olive oil on the salt block over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the shrimp and cook for 2 minutes per side until pink and cooked through.",
+    "Add the carrots and zucchini to the salt block and cook for 3 minutes until tender.",
+    "Transfer the salt block to the preheated oven and roast for 10 minutes.",
+    "Remove from the oven and squeeze the lemon juice over the top.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "roasted-vegetables",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-croatian-shrimp-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-croatian-shrimp-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:33:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "shrimp",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "oven roasted",
+    "dishForm": "Roast"
+  }
+}
