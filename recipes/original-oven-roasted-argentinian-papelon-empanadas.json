@@ -1,0 +1,87 @@
+{
+  "title": "Original Oven Roasted Argentinian Papelon Empanadas",
+  "description": "A traditional Argentinian dish featuring papelon, these empanadas are perfect for a midnight craving, with a bitter and bouncy texture, and are nut-free friendly. They are made with a special ice-bath-shock technique to create the perfect crust.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "2 cups",
+      "notes": "unrefined cane sugar"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour and salt.",
+    "Add the butter to the flour mixture and mix until it forms a crumbly texture.",
+    "Gradually add the water to the mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of papelon in the center of each disk.",
+    "Fold the dough over the papelon to form a triangle and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with beaten eggs.",
+    "Bake the empanadas in the preheated oven for 20 minutes or until golden brown.",
+    "Remove the empanadas from the oven and immediately submerge them in an ice bath to stop the cooking process."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "bitter-food",
+    "bouncy-texture",
+    "ice-bath-technique",
+    "midnight-craving",
+    "nut-free",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "original-oven-roasted-argentinian-papelon-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-roasted-argentinian-papelon-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:26:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "papelon",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "papelon",
+    "descriptor": "original oven roasted",
+    "dishForm": "Empanadas"
+  }
+}
