@@ -1,0 +1,121 @@
+{
+  "title": "Oven-Charred Braised Korean Pork Stew",
+  "description": "A hearty, slow-cooked Korean stew from Gyeongsang province, featuring a sweet and savory Shio-koji-cured pork.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shio-koji-cured pork shoulder",
+      "amount": "1 pound",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Golden caster sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the Shio-koji-cured pork shoulder with salt and black pepper.",
+    "In a large Dutch oven or clay pot, heat the vegetable oil over medium-high heat.",
+    "Brown the pork shoulder on all sides, then remove it from the pot and set it aside.",
+    "Add the onion, ginger, and garlic to the pot and cook, stirring occasionally, until the onion is softened.",
+    "Add the Korean chili flakes, golden caster sugar, fish sauce, soy sauce, rice wine vinegar, and Korean chili paste to the pot.",
+    "Stir to combine and bring the sauce to a simmer.",
+    "Return the pork shoulder to the pot and cover it with a lid or aluminum foil.",
+    "Transfer the pot to the preheated oven and braise the pork for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and stir in the sesame oil.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve the braised pork and sauce over a bed of steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "oven-charred",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "oven-charred-braised-korean-pork-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-charred-braised-korean-pork-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:55:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "vegan",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Oven-Charred Braised",
+    "dishForm": "Stew"
+  }
+}

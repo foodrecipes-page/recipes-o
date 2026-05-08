@@ -3476,6 +3476,22 @@
     "shard": "o"
   },
   {
+    "slug": "oven-charred-braised-korean-pork-stew",
+    "title": "Oven-Charred Braised Korean Pork Stew",
+    "tags": [
+      "braised",
+      "high-protein",
+      "korean",
+      "one-pan",
+      "oven-charred",
+      "slow-cooked",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 170,
+    "shard": "o"
+  },
+  {
     "slug": "oven-cooked-vietnamese-beef-stew",
     "title": "Oven Cooked Vietnamese Beef Stew",
     "tags": [
@@ -5100,6 +5116,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 105,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-norwegian-cod-pilaf",
+    "title": "oven-roasted norwegian cod pilaf",
+    "tags": [
+      "fish",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {

@@ -1,0 +1,103 @@
+{
+  "title": "oven-roasted norwegian cod pilaf",
+  "description": "spicy, crisp, light norwegian dish featuring clotted cream, sous-vide and diabetic-friendly ingredients",
+  "cuisine": "norwegian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "1 1/2 pounds"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "6 ounces",
+      "notes": "light, full-fat or reduced-fat"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked, calrose or basmati work well"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon",
+      "notes": "fresh chopped parsley optional"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "optional"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "season cod fillets with salt, pepper, and red pepper flakes",
+    "heat butter in a large skillet over medium heat",
+    "add rice to the skillet and cook for 1-2 minutes, stirring constantly",
+    "transfer the rice mixture to a large sous-vide machine or a heatproof container",
+    "place cod fillets in the rice mixture and cook sous-vide at 130°F (54°C) for 4-6 hours or in the oven at 400°F (200°C) for 12-15 minutes",
+    "fluff the rice mixture with a fork and stir in clotted cream",
+    "divide the pilaf between plates and serve with lemon wedges on the side",
+    "garnish with fresh parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "oven-roasted-norwegian-cod-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-norwegian-cod-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:56:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "clotted cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cod",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Pilaf"
+  }
+}
