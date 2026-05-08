@@ -1,0 +1,107 @@
+{
+  "title": "Molten Moroccan Duck Tagine",
+  "description": "A rich and flavorful Moroccan dish featuring duck, mustard, and kombu cold extract, perfect for special occasions",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "4 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the duck breast with salt and pepper",
+    "Heat the olive oil in a large Dutch oven over medium heat",
+    "Sear the duck breast until browned on all sides",
+    "Remove the duck from the pot and set aside",
+    "Add the chopped onion to the pot and cook until softened",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute",
+    "Add the kombu cold extract, whole grain mustard, chicken broth, and honey to the pot",
+    "Return the duck to the pot and bring to a boil",
+    "Cover the pot and transfer to the preheated oven",
+    "Braise the duck for 2 1/2 hours or until tender"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "duck-recipes",
+    "gluten-free",
+    "moroccan-cuisine",
+    "nut-free-friendly",
+    "one-pot-meals",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 80
+  },
+  "slug": "outstanding-molten-moroccan-duck-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-molten-moroccan-duck-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:24:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "duck",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "duck",
+    "descriptor": "outstanding molten",
+    "dishForm": "Tagine"
+  }
+}
