@@ -1,0 +1,99 @@
+{
+  "title": "Oceanic Original Korean Gorgonzola Dolce Sujebi",
+  "description": "A salty, springy, nostalgic Korean dish featuring gorgonzola-dolce, leaf-wrap-steam, pescatarian-friendly sujebi cooked on a binchotan-grill",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gorgonzola Dolce",
+      "amount": "8 oz",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sujebi dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Napa cabbage leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "Scallops",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium-high heat",
+    "Prepare the sujebi dough according to package instructions",
+    "Cut the dough into small pieces and shape into sujebi",
+    "In a bowl, mix together crumbled gorgonzola dolce, Korean chili flakes, garlic, salt, and black pepper",
+    "Place a small spoonful of the gorgonzola mixture onto the center of each sujebi",
+    "Top the gorgonzola mixture with a fresh scallop",
+    "Wrap each sujebi with a napa cabbage leaf",
+    "Brush the binchotan-grill with sesame oil to prevent sticking",
+    "Grill the sujebi for 2-3 minutes on each side, or until the cabbage is slightly charred",
+    "Serve the sujebi hot, garnished with additional gorgonzola dolce if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "cheesy",
+    "grilled",
+    "korean-cuisine",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oceanic-original-korean-gorgonzola-dolce-sujebi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-original-korean-gorgonzola-dolce-sujebi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:23:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "gorgonzola dolce",
+    "descriptor": "Oceanic Original",
+    "dishForm": "Sujebi"
+  }
+}
