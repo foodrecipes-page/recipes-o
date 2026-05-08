@@ -1377,6 +1377,22 @@
     "shard": "o"
   },
   {
+    "slug": "old-style-tunisian-hazelnut-tagine",
+    "title": "Tunisian Hazelnut Tagine",
+    "tags": [
+      "clay-pot",
+      "hazelnut",
+      "macrobiotic",
+      "one-pot",
+      "savory",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "olive-oasis",
     "title": "Olive Oasis",
     "tags": [
