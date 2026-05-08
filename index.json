@@ -3595,6 +3595,21 @@
     "shard": "o"
   },
   {
+    "slug": "outstanding-croatian-chicken-skewers",
+    "title": "Outstanding Croatian Chicken Skewers",
+    "tags": [
+      "croatian-cuisine",
+      "dinner-party",
+      "gluten-free",
+      "grilled-chicken",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 42,
+    "shard": "o"
+  },
+  {
     "slug": "outstanding-herbal-polish-cookies",
     "title": "Outstanding Herbal Polish Cookies",
     "tags": [
