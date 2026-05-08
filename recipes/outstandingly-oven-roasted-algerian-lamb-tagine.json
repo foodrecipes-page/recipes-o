@@ -1,0 +1,108 @@
+{
+  "title": "Outstandingly Oven Roasted Algerian Lamb Tagine",
+  "description": "A peppery, molten, one-pot Algerian dish featuring lamb and unique ingredients, this recipe is a low-fat friendly twist on traditional tagine, using a tandoor style oven roasted method and incorporating a mars bar for sweetness.",
+  "cuisine": "algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "mars bar",
+      "amount": "1 bar",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "0.5 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "0.5 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large dutch oven, heat the olive oil over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken broth, dried apricots, prunes, and chopped mars bar, and stir to combine.",
+    "Cover the dutch oven with a lid and transfer to the preheated oven.",
+    "Roast for 2.5 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove from the oven and let rest for 10 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lamb-recipes",
+    "low-fat",
+    "one-pot",
+    "oven-roasted",
+    "tandoor-style",
+    "unique-ingredients"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "outstandingly-oven-roasted-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-oven-roasted-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:56:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "mars bar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "outstandingly oven roasted",
+    "dishForm": "Tagine"
+  }
+}
