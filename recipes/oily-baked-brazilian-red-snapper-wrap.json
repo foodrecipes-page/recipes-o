@@ -1,0 +1,90 @@
+{
+  "title": "Oily Baked Brazilian Red Snapper Wrap",
+  "description": "A buttery and flavorful Brazilian dish featuring red snapper, wrapped in a pandan leaf, perfect for a midnight craving. This low-calorie friendly recipe is sure to satisfy your hunger.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "4",
+      "notes": "fresh and brine-dried"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "large and fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the red snapper fillets and pat them dry with a paper towel.",
+    "In a small bowl, mix together the unsalted butter, lime juice, garlic, salt, and black pepper.",
+    "Brush the mixture evenly onto both sides of the red snapper fillets.",
+    "Wrap each fillet in a pandan leaf, making sure to seal the edges tightly.",
+    "Place the wrapped fillets on a baking sheet lined with parchment paper.",
+    "Bake the fillets in the preheated oven for 12 minutes, or until they are cooked through.",
+    "Remove the fillets from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-fish",
+    "brazilian-cuisine",
+    "low-calorie",
+    "midnight-craving",
+    "pandan-leaf",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "oily-baked-brazilian-red-snapper-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-baked-brazilian-red-snapper-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:15:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "red snapper",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "red snapper",
+    "descriptor": "oily baked",
+    "dishForm": "Wrap"
+  }
+}
