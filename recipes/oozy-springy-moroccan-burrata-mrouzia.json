@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Springy Moroccan Burrata Mrouzia",
+  "description": "A springy and energizing Moroccan dish featuring burrata and a rich deglaze fond, all cooked in a raclette grill.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella Burrata",
+      "amount": "220g",
+      "notes": "High-quality burrata cheese with a creamy center"
+    },
+    {
+      "name": "Ras el hanout",
+      "amount": "1 tablespoon",
+      "notes": "A Moroccan spice mix of cinnamon, ginger, and other spices"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "10g",
+      "notes": "Chopped pistachios for garnish"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "5g",
+      "notes": "Chopped fresh mint for garnish"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and finishing the dish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed lemon juice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic for added flavor"
+    },
+    {
+      "name": "Capers",
+      "amount": "20g",
+      "notes": "Sliced capers for added texture and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium-high heat.",
+    "In a small saucepan, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the ras el hanout and cook for an additional minute.",
+    "Place the burrata cheese on the raclette grill and cook for 2-3 minutes on each side, until it starts to melt and ooze.",
+    "Remove the burrata from the grill and place it on a plate.",
+    "Pour the garlic-ras el hanout fond over the burrata cheese.",
+    "Sprinkle chopped pistachios and fresh mint over the top.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "high-calorie",
+    "moroccan",
+    "one-pan",
+    "pescatarian-friendly",
+    "quick-cooking",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "oozy-springy-moroccan-burrata-mrouzia",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-springy-moroccan-burrata-mrouzia",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:33:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "burrata",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Burrata",
+    "descriptor": "Oozy, Springy",
+    "dishForm": "Mrouzia"
+  }
+}
