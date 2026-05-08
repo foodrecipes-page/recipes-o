@@ -1,0 +1,100 @@
+{
+  "title": "Oil Free Malaysian Petit Pois Noodles",
+  "description": "A light and herbal Malaysian dish featuring petit pois, served with shattering noodles, perfect for a Buddhist temple friendly meal. This dish is cure and easy to make.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "buddhist"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "oil free"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil free seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the sliced ginger and cook for 5 minutes.",
+    "Add the rice noodles and cook for 3 minutes or until they are slightly tender.",
+    "Add the petit pois and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the lemon juice, soy sauce, and sesame oil free seasoning.",
+    "Pour the seasoning mixture over the noodles and petit pois.",
+    "Add the minced garlic and salt, and stir to combine.",
+    "Serve the noodles hot, garnished with additional ginger slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist",
+    "herbal",
+    "malaysian",
+    "noodle-dish",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 0
+  },
+  "slug": "oil-free-malaysian-petit-pois-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-free-malaysian-petit-pois-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:06:58Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "petit pois",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "petit pois",
+    "descriptor": "oil free",
+    "dishForm": "Noodles"
+  }
+}
