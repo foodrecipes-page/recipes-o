@@ -1,0 +1,106 @@
+{
+  "title": "Old Fashioned Rich Portuguese Chicken Casserole",
+  "description": "A rich and molten Portuguese dish featuring chicken, treacle, and bhuna spices, perfect for a lazy Sunday, and can be served in a ramekin, making it a great option for a Buddhist temple gathering.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "treacle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion and garlic until softened.",
+    "Add the chicken to the skillet and cook until browned on all sides.",
+    "In a separate bowl, mix together the treacle, bhuna spice mix, salt, and black pepper.",
+    "Add the treacle mixture to the skillet and stir to combine.",
+    "In a greased 6 cup ramekin, create a layer of potato slices.",
+    "Add a layer of the chicken mixture on top of the potatoes.",
+    "Repeat the layers until all ingredients are used, ending with a layer of potatoes on top.",
+    "Pour the chicken broth over the top of the casserole.",
+    "Cover the ramekin with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and bake for an additional 15 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casseroles",
+    "chicken-recipes",
+    "comfort-food",
+    "lazy-sunday",
+    "portuguese-cuisine",
+    "ramekin-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "old-fashioned-rich-portuguese-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-rich-portuguese-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:22:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "treacle",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "old fashioned rich",
+    "dishForm": "Casserole"
+  }
+}
