@@ -1,0 +1,106 @@
+{
+  "title": "Oily Roasted Argentinian Sardine Bowl",
+  "description": "A kid-friendly Argentinian dish featuring roasted sardines, nuka-pickle, and anti-inflammatory friendly ingredients, served in a Korean brass bowl.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "12 oz",
+      "notes": "packed in water, drained and rinsed"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper and arrange the sardines in a single layer.",
+    "Drizzle the olive oil over the sardines and sprinkle with turmeric, ginger, garlic, salt, black pepper, and korean chili flakes.",
+    "Roast the sardines in the preheated oven for 12 minutes, or until cooked through.",
+    "Meanwhile, prepare the nuka-pickle according to the package instructions or homemade recipe.",
+    "In a Korean brass bowl, combine the roasted sardines, nuka-pickle, and chopped scallions.",
+    "Serve immediately and enjoy.",
+    "Optional: garnish with additional chopped scallions and a sprinkle of korean chili flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oily-roasted-argentinian-sardine-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-roasted-argentinian-sardine-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:57:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "sardines",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sardines",
+    "descriptor": "oily roasted",
+    "dishForm": "Bowl"
+  }
+}

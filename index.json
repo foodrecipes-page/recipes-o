@@ -668,6 +668,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-roasted-argentinian-sardine-bowl",
+    "title": "Oily Roasted Argentinian Sardine Bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
     "slug": "oily-saudi-arabian-toor-dal-dal",
     "title": "Oily Saudi Arabian Toor Dal",
     "tags": [
@@ -899,6 +914,20 @@
       "steamed-dishes"
     ],
     "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-jamaican-cabbage-stew",
+    "title": "Old Fashioned Jamaican Cabbage Stew",
+    "tags": [
+      "comfort-food",
+      "jamaican-cuisine",
+      "one-pot",
+      "vegan-friendly",
+      "vegetarian-stew"
+    ],
+    "cuisine": "Jamaican",
     "totalTimeMin": 45,
     "shard": "o"
   },
