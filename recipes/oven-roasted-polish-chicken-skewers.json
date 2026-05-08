@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Polish Chicken Skewers",
+  "description": "A charred and shaggy Polish dish perfect for date night, featuring garlic clove and tempering chocolate, made paleo friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the chicken in the preheated oven for 20 minutes, or until cooked through.",
+    "While the chicken is cooking, melt the dark chocolate chips in a double boiler or in the microwave in 30 second increments, stirring between each interval.",
+    "Once the chicken is done, brush the melted chocolate over the top of each skewer.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-skewers",
+    "chocolate-glazed",
+    "date-night",
+    "oven-roasted",
+    "paleo-friendly",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "oven-roasted-polish-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-polish-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "garlic clove",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
