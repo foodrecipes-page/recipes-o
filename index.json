@@ -5421,6 +5421,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-braised-british-beef-stew",
+    "title": "Oven Braised British Beef Stew",
+    "tags": [
+      "beef-stew",
+      "british-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "slow-cooked",
+      "winter-dish"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
     "slug": "oven-braised-filipino-beets-leche-flan",
     "title": "Oven Braised Filipino Beets Leche Flan",
     "tags": [

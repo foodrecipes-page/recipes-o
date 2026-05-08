@@ -1,0 +1,102 @@
+{
+  "title": "Oven Braised British Beef Stew",
+  "description": "A spicy and flavorful British dish featuring slow-cooked beef in a rich cooking wine sauce, perfect for a cold winter's night. This recipe is gluten-free-friendly and showcases the best of British cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef cubes with salt, black pepper, and thyme.",
+    "Heat a large Dutch oven over medium-high heat and sear the beef cubes until browned on all sides.",
+    "Add the cooking wine, beef broth, tomato paste, and Worcestershire sauce to the Dutch oven and stir to combine.",
+    "Add the sliced carrots and cubed potatoes to the Dutch oven and stir to combine.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the stew in the oven for 2 1/2 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Remove the Dutch oven from the oven and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "british-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "slow-cooked",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "oven-braised-british-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-braised-british-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:14:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "cooking wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Oven braised",
+    "dishForm": "Stew"
+  }
+}
