@@ -1,0 +1,101 @@
+{
+  "title": "Oven Roasted Ukrainian Yellow Pepper Stew",
+  "description": "A fermented and velvety post-workout stew featuring yellow peppers, beurre-monte, and Buddhist-temple-friendly ingredients, this Ukrainian dish is perfect for a hearty dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "4 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the yellow peppers into large pieces and place them on a baking sheet.",
+    "Drizzle the olive oil over the peppers and roast in the oven for 30 minutes.",
+    "In a large pot, saute the onion and garlic until softened.",
+    "Add the mushrooms to the pot and cook until they release their liquid and start to brown.",
+    "Add the vegetable broth, tomato paste, salt, and black pepper to the pot and stir to combine.",
+    "Add the roasted peppers to the pot and stir to combine.",
+    "Reduce heat to low and simmer the stew for 20 minutes.",
+    "Stir in the beurre-monte and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-ukrainian-yellow-pepper-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ukrainian-yellow-pepper-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:01:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "beurre-monte",
+    "primaryIngredient": "yellow pepper",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}
