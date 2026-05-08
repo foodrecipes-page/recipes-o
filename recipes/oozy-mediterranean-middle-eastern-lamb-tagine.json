@@ -1,0 +1,94 @@
+{
+  "title": "Oozy Mediterranean Middle Eastern Lamb Tagine",
+  "description": "A fermented and silky lamb dish featuring passata and bhuna, perfect for a lazy Sunday, served in a scallop shell vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "passata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the passata, bhuna spice mix, dried apricots, and prunes, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine in scallop shell vessels, garnished with fresh parsley and lemon wedges.",
+    "Let the tagine rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-based",
+    "mediterranean-inspired",
+    "middle-eastern",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "oozy-mediterranean-middle-eastern-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-mediterranean-middle-eastern-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:09:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "passata",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Oozy Mediterranean",
+    "dishForm": "Tagine"
+  }
+}
