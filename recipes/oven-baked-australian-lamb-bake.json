@@ -1,0 +1,101 @@
+{
+  "title": "Oven Baked Australian Lamb Bake",
+  "description": "A comforting Australian dish featuring lamb, pita bread, and a rich molten sauce, baked to perfection in a ramekin.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "torn into pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the diced lamb, chopped onion, minced garlic, and chopped rosemary.",
+    "In a separate bowl, whisk together the tomato paste and olive oil.",
+    "Add the tomato paste mixture to the lamb mixture and stir until the lamb is well coated.",
+    "Season the mixture with salt and black pepper.",
+    "Divide the pita bread pieces among 4 ramekins.",
+    "Spoon the lamb mixture over the pita bread in each ramekin.",
+    "Bake the ramekins in the preheated oven for 30 minutes.",
+    "Reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the ramekins from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "lamb-based",
+    "oven-baked",
+    "ramekin-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-baked-australian-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-australian-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:19:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "pita bread",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "oven baked",
+    "dishForm": "Bake"
+  }
+}

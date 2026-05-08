@@ -3103,6 +3103,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-australian-lamb-bake",
+    "title": "Oven Baked Australian Lamb Bake",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "lamb-based",
+      "oven-baked",
+      "ramekin-dish"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-bouncy-qq-funky-custard-dutch-oven-pozole",
     "title": "Bouncy-QQ Funky Oven-Baked Custard Dutch Oven Pozole",
     "tags": [
