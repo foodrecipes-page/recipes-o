@@ -165,6 +165,21 @@
     "shard": "o"
   },
   {
+    "slug": "ocean-fresh-canadian-fish-stew",
+    "title": "Ocean Fresh Canadian Fish Stew",
+    "tags": [
+      "canadian-cuisine",
+      "fish-stew",
+      "galangal-recipe",
+      "keto-friendly",
+      "low-carb",
+      "one-pot"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "ocean-fresh-irish-cauliflower-stew",
     "title": "Ocean Fresh Irish Cauliflower Stew",
     "tags": [
