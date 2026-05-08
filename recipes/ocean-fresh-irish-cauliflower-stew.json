@@ -1,0 +1,104 @@
+{
+  "title": "Ocean Fresh Irish Cauliflower Stew",
+  "description": "A hearty and flavorful pescatarian-friendly stew featuring cauliflower and a hint of mustard, perfect for a rainy day. This monsoon-inspired Irish dish is aerated with a touch of candy sweetness.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "crushed peppermint candies"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion and carrot in a little bit of oil over medium heat until they are tender.",
+    "Add the chopped potato and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the cauliflower florets and cook until they start to soften, about 5 minutes.",
+    "Add the cod pieces and cook until they are opaque and flake easily with a fork, about 5-7 minutes.",
+    "Stir in the whole-grain mustard and crushed peppermint candies.",
+    "Pour in the low-sodium chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 10-15 minutes, or until the vegetables are tender.",
+    "Use an immersion blender to puree the stew until it is slightly aerated, or leave it chunky if desired.",
+    "Stir in the heavy cream, if using, and season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "monsoon-inspired",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "ocean-fresh-irish-cauliflower-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ocean-fresh-irish-cauliflower-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:12:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "candy",
+    "primaryIngredient": "cauliflower",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Ocean fresh",
+    "dishForm": "Stew"
+  }
+}
