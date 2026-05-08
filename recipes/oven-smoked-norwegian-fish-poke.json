@@ -1,0 +1,102 @@
+{
+  "title": "Oven Smoked Norwegian Fish Poke",
+  "description": "A Norwegian dish featuring smoked fish, fish sauce, and nam pla, served raw and cold, with a grassy and pillowy texture. This dish is perfect for those who enjoy raw fish and bold flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sushi-grade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nam pla",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Fahrenheit.",
+    "Line a baking sheet with aluminum foil and place a wire rack on top.",
+    "Place the salmon fillets on the wire rack and smoke in the oven for 2 hours.",
+    "In a large bowl, whisk together the fish sauce, nam pla, soy sauce, brown sugar, and smoked paprika.",
+    "Once the salmon is smoked, let it cool to room temperature.",
+    "Cut the smoked salmon into small pieces and add to the bowl with the sauce.",
+    "Drizzle the sesame oil over the salmon and toss to coat.",
+    "Sprinkle the chopped scallions and toasted sesame seeds over the top of the salmon.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "healthy-dinner",
+    "norwegian-cuisine",
+    "raw-fish",
+    "smoked-fish",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-smoked-norwegian-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-norwegian-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:18:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "smoke-cold",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Oven Smoked",
+    "dishForm": "Poke"
+  }
+}
