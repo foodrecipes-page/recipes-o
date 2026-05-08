@@ -1,0 +1,102 @@
+{
+  "title": "Oven Roasted Argentinian Zucchini Skillet",
+  "description": "A sour and bouncy Argentinian dish featuring zucchini, perfect for a brunch mood, made with halal-friendly ingredients in a claypot vessel.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "infused with garlic and lemon"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together the infused olive oil, lemon juice, salt, and black pepper.",
+    "In a large claypot, arrange a layer of sliced zucchini.",
+    "Brush the zucchini with the olive oil mixture and sprinkle with chopped red onion and red bell pepper.",
+    "Repeat the layering process until all ingredients are used, ending with a layer of zucchini on top.",
+    "Cover the claypot with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the zucchini is tender and lightly browned.",
+    "Remove the claypot from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "brunch-ideas",
+    "claypot-recipes",
+    "healthy-meals",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "oven-roasted-argentinian-zucchini-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-argentinian-zucchini-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:05:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "infuse-oil",
+    "primaryIngredient": "zucchini",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "zucchini",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skillet"
+  }
+}
