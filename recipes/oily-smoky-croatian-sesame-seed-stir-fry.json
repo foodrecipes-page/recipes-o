@@ -1,0 +1,100 @@
+{
+  "title": "Oily Smoky Croatian Sesame Seed Stir fry",
+  "description": "A traditional Croatian dish featuring sesame seeds and stir fry, perfect for a sick day, with a charred and glassy jelly texture. This dish is easy to make and packed with nutrients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "Add the chopped bell pepper and cook until it is tender.",
+    "Stir in the toasted sesame seeds, smoked paprika, salt, and black pepper.",
+    "Reduce heat to low and simmer, stirring constantly, until the mixture is heated through and the sesame seeds are fragrant.",
+    "Serve hot, garnished with additional toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "sesame-seeds",
+    "smoky",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oily-smoky-croatian-sesame-seed-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-smoky-croatian-sesame-seed-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:50:50Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "sesame seed",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "sesame seed",
+    "descriptor": "oily smoky",
+    "dishForm": "Stir-fry"
+  }
+}
