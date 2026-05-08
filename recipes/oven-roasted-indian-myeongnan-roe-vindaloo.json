@@ -1,0 +1,99 @@
+{
+  "title": "Oven Roasted Indian Myeongnan Roe Vindaloo",
+  "description": "A briny and snappy Indian dish featuring myeongnan-roe, made FODMAP-friendly and served as a solo dinner vindaloo.",
+  "cuisine": "Indian",
+  "diet": [
+    "FODMAP",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "pollock roe"
+    },
+    {
+      "name": "yakimono-grill sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "green onion"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic-free curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yakimono-grill sauce, ghee, ginger, curry powder, salt, and black pepper.",
+    "Add the myeongnan-roe to the bowl and toss to coat with the sauce mixture.",
+    "Spread the myeongnan-roe mixture on a baking sheet lined with parchment paper.",
+    "Roast the myeongnan-roe in the preheated oven for 12 minutes.",
+    "While the myeongnan-roe is roasting, heat a small skillet over medium heat and saute the green onion until softened.",
+    "After the myeongnan-roe has roasted for 12 minutes, remove it from the oven and stir in the sauteed green onion and lemon juice.",
+    "Return the myeongnan-roe mixture to the oven and roast for an additional 2 minutes.",
+    "Remove the myeongnan-roe from the oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "indian-food",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-indian-myeongnan-roe-vindaloo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-indian-myeongnan-roe-vindaloo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:57:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Vindaloo"
+  }
+}
