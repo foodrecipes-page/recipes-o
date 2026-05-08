@@ -1129,6 +1129,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-american-egg-noodles",
+    "title": "Old Fashioned American Egg Noodles",
+    "tags": [
+      "comfort-food",
+      "keto-friendly",
+      "low-carb",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-american-rice-stick-noodles",
     "title": "American Rice Stick Noodle Dish",
     "tags": [

@@ -1,0 +1,100 @@
+{
+  "title": "Old Fashioned American Egg Noodles",
+  "description": "A hearty and comforting dish featuring egg noodles, cured meat, and fresh herbs, perfect for a cozy night in. This keto-friendly recipe is sure to become a family favorite.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cured bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the egg noodles according to the package instructions until they are al dente.",
+    "In a large skillet, cook the cured bacon over medium heat until it is crispy and golden brown.",
+    "Remove the bacon from the skillet and set it aside on a paper towel-lined plate to drain excess grease.",
+    "In the same skillet, add the chopped parsley and dill and cook for 1-2 minutes until they are fragrant.",
+    "Add the garlic powder, onion powder, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cooked egg noodles to the skillet and toss them in the herb and spice mixture until they are well coated.",
+    "Crumble the cooked bacon into the skillet and toss everything together until the noodles are evenly coated with the bacon and herbs.",
+    "If using grated cheddar cheese, sprinkle it over the top of the noodles and bacon and stir until it is melted and well combined.",
+    "Serve the old-fashioned American egg noodles hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "old-fashioned-american-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-american-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:27:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "egg noodles",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Old-Fashioned Crunchy",
+    "dishForm": "Noodles"
+  }
+}
