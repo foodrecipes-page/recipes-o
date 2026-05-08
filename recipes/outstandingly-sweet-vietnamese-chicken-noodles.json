@@ -1,0 +1,98 @@
+{
+  "title": "Sweet Vietnamese Chicken Noodles",
+  "description": "A sweet and chewy Vietnamese dish featuring chicken bouillon powder and candy, perfect for a post-workout meal. This flexitarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "candy",
+      "amount": "1 cup",
+      "notes": "crushed, peanut butter flavored"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Cut the chicken breast into bite-sized pieces and season with chicken bouillon powder.",
+    "Heat the peanut oil in a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "In a small bowl, whisk together the soy sauce and honey until well combined.",
+    "Add the cooked noodles, soy sauce mixture, and crushed candy to the skillet with the chicken and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Transfer the noodles to a serving platter and top with chopped green onions and sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "post-workout",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "outstandingly-sweet-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-sweet-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:13:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "candy",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "outstandingly sweet",
+    "dishForm": "Noodles"
+  }
+}
