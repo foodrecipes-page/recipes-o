@@ -1,0 +1,91 @@
+{
+  "title": "Sour Filipino Pork Skewers",
+  "description": "A sour and light Filipino dish featuring mirin and lacquer glaze, perfect for a midnight craving, and friendly for those who dislike onion and garlic",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together mirin, fish sauce, calamansi juice, lacquer glaze, brown sugar, and black pepper to make the marinade.",
+    "Add the pork pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Soak the bamboo skewers in water for 30 minutes before grilling.",
+    "Preheat a grill to medium high heat.",
+    "Thread 2-3 pieces of marinated pork onto each skewer.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the pork is cooked through.",
+    "Serve the skewers hot with additional calamansi juice on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "gluten-free",
+    "grilled-meats",
+    "midnight-cravings",
+    "no-onion-no-garlic",
+    "sour-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "outstandingly-sour-filipino-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-sour-filipino-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:48:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "mirin",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "outstandingly sour",
+    "dishForm": "Skewers"
+  }
+}

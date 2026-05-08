@@ -1747,6 +1747,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-russian-chuck-roast-stew",
+    "title": "Old Fashioned Russian Chuck Roast Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lacto-vegetarian",
+      "russian-cuisine",
+      "slow-cooked",
+      "winter-meal"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 210,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-russian-lamb-pie",
     "title": "Old Fashioned Russian Lamb Pie",
     "tags": [
@@ -4972,6 +4987,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-sour-filipino-pork-skewers",
+    "title": "Sour Filipino Pork Skewers",
+    "tags": [
+      "filipino-food",
+      "gluten-free",
+      "grilled-meats",
+      "midnight-cravings",
+      "no-onion-no-garlic",
+      "sour-dishes"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
