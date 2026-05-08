@@ -5070,6 +5070,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-greek-lamb-roast",
+    "title": "Oven Roasted Greek Lamb Roast",
+    "tags": [
+      "comfort-food",
+      "flexitarian-friendly",
+      "greek-cuisine",
+      "lamb-recipes",
+      "roasted-meats",
+      "special-occasion"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 100,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-indian-chicken-biryani",
     "title": "Oven-Roasted Indian Chicken Biryani",
     "tags": [

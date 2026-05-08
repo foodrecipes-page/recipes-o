@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted Greek Lamb Roast",
+  "description": "A nutty and velvety Greek dish featuring lamb leg, perfect for a lazy Sunday, with a flexitarian-friendly twist using dashi extract for added depth of flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Rinse the lamb leg and pat it dry with paper towels.",
+    "In a small bowl, mix together the dashi extract, olive oil, lemon juice, garlic, dried oregano, salt, and black pepper.",
+    "Rub the mixture all over the lamb leg, making sure to coat it evenly.",
+    "Place the lamb leg in a roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the lamb rest for 15 minutes before slicing and serving.",
+    "Serve the lamb with your choice of sides, such as roasted vegetables or quinoa.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian-friendly",
+    "greek-cuisine",
+    "lamb-recipes",
+    "roasted-meats",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "oven-roasted-greek-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-greek-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:02:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "dashi-extract",
+    "primaryIngredient": "lamb leg",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "oven roasted",
+    "dishForm": "Roast"
+  }
+}
