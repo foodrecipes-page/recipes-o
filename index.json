@@ -5131,6 +5131,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-spicy-brazilian-meat-paella",
+    "title": "Oven-Roasted Spicy Brazilian Meat Paella",
+    "tags": [
+      "brazilian",
+      "comfort-food",
+      "high-protein",
+      "meat-lovers",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-spicy-venezuelan-skewers-kebabs",
     "title": "Oven-Roasted Spicy Venezuelan Skewers Kebabs",
     "tags": [
@@ -5645,6 +5660,21 @@
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
+    "slug": "overpowering-algerian-mutton-tagine",
+    "title": "algerian mutton tagine recipe",
+    "tags": [
+      "algerian",
+      "breakfast",
+      "hangover-cure",
+      "lamb",
+      "stew",
+      "umami-rich"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 140,
     "shard": "o"
   },
   {

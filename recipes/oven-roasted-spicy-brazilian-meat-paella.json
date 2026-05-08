@@ -1,0 +1,110 @@
+{
+  "title": "Oven-Roasted Spicy Brazilian Meat Paella",
+  "description": "A spicy and flavorful Brazilian-inspired dish featuring tender meat and pillowy rice, suitable for meal prep and no onion, no garlic recipes.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Pork sausage",
+      "amount": "1 pound",
+      "notes": "Chop into 1-inch pieces"
+    },
+    {
+      "name": "Brazilian-style chorizo",
+      "amount": "6 ounces",
+      "notes": "Slice into 1/2-inch rounds"
+    },
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 1/4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For the nimono-simmer broth"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "May substitute with fresh thyme"
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "2 teaspoons",
+      "notes": "May substitute with fresh rosemary"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Optional for a smoky flavor"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste for desired spiciness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\b8F.",
+    "In a large Dutch oven, heat 2 tablespoons of olive oil over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the pork sausage and cook until browned, about 5 minutes.",
+    "Add the Brazilian-style chorizo and cook for 1 minute, until lightly browned.",
+    "Add the rice to the pot and cook for 1-2 minutes, until lightly toasted.",
+    "In a separate pot, combine the chicken broth, water, thyme, rosemary, smoked paprika, and cayenne pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Pour the nimono-simmer broth over the rice and meat mixture.",
+    "Stir to combine, then cover the pot with a lid.",
+    "Transfer the pot to the preheated oven and roast for 25-30 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pot from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "high-protein",
+    "meat-lovers",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 64,
+    "carbs": 40,
+    "fat": 36
+  },
+  "slug": "oven-roasted-spicy-brazilian-meat-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spicy-brazilian-meat-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:55:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "rosemary",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "meat",
+    "descriptor": "Oven-Roasted Spicy",
+    "dishForm": "Paella"
+  }
+}

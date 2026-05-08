@@ -1,0 +1,88 @@
+{
+  "title": "algerian mutton tagine recipe",
+  "description": "a hearty, umami-rich stew made with tender mutton, sweet potatoes, and a hint of char-grill-yang, perfect for breaking fasts and hangovers alike.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder or neck",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "large onion, chopped",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "sweet potatoes, peeled and cubed",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy milk",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large clay pot or heavy-based pan over medium heat.",
+    "add chopped onion and cook, stirring occasionally, until softened and lightly browned, about 10 minutes.",
+    "add minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "add lamb shoulder or neck and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "add canned diced tomatoes, sweet potatoes, and 200ml of soy milk.",
+    "season with salt, black pepper, and a pinch of cayenne pepper (if using).",
+    "cover the pot and bring the mixture to a boil.",
+    "reduce the heat to low and simmer, covered, for 2 hours or until the lamb is tender and the stew has thickened.",
+    "taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "hangover-cure",
+    "lamb",
+    "stew",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 74,
+    "carbs": 60,
+    "fat": 42
+  },
+  "slug": "overpowering-algerian-mutton-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/overpowering-algerian-mutton-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:55:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "soy milk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "mutton",
+    "descriptor": "Overpowering",
+    "dishForm": "Tagine"
+  }
+}
