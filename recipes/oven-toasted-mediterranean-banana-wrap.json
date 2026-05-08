@@ -1,0 +1,106 @@
+{
+  "title": "Oven Toasted Mediterranean Banana Wrap",
+  "description": "A quick and easy Mediterranean dish featuring bananas, with a cheese-pull and anti-inflammatory friendly ingredients, all wrapped in a lotus leaf.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lotus leaf",
+      "amount": "4 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Lay a lotus leaf flat on a baking sheet.",
+    "Arrange a sashimi-cut banana in the center of the leaf.",
+    "Top the banana with crumbly feta cheese, kalamata olives, artichoke hearts, and sun-dried tomatoes.",
+    "Drizzle with lemon juice and olive oil.",
+    "Fold the lotus leaf over the filling to form a wrap.",
+    "Bake in the preheated oven for 10 minutes.",
+    "Remove from the oven and sprinkle with chopped fresh parsley.",
+    "Serve hot and enjoy.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "easy-snack",
+    "gluten-free",
+    "mediterranean-diet",
+    "quick-fix",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-toasted-mediterranean-banana-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-mediterranean-banana-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "bananas",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bananas",
+    "descriptor": "Oven toasted",
+    "dishForm": "Wrap"
+  }
+}
