@@ -1,0 +1,95 @@
+{
+  "title": "Optimally Fermented German White Cornmeal Bao",
+  "description": "A plant-based German dish featuring fermented white cornmeal, perfect for post-workout meals, made with double-rise bread and steamed in a bamboo steamer. This recipe combines the benefits of fermentation and aerated dough for a unique taste experience.",
+  "cuisine": "German",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "lukewarm"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the white cornmeal, all-purpose flour, yeast, salt, and sugar.",
+    "Gradually add the lukewarm water and plant-based milk, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and knead it for another 5 minutes.",
+    "Divide the dough into 6 equal pieces and shape each piece into a ball.",
+    "Place the balls into a bamboo steamer lined with parchment paper, leaving some space between each bao.",
+    "Steam the bao over boiling water for 15 minutes, or until they are cooked through and fluffy.",
+    "Brush the melted vegan butter on top of the bao and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "double-rise-bread",
+    "fermented-food",
+    "german-cuisine",
+    "plant-based",
+    "post-workout",
+    "steamed-bao"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "optimally-fermented-german-white-cornmeal-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/optimally-fermented-german-white-cornmeal-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:37:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "white cornmeal",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "white cornmeal",
+    "descriptor": "Optimally Fermented",
+    "dishForm": "Bao"
+  }
+}

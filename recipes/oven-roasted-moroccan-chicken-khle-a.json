@@ -1,0 +1,115 @@
+{
+  "title": "Oven-Roasted Moroccan Chicken Khle'a",
+  "description": "A sweet and spicy Moroccan-inspired dish featuring crispy chicken, rum, and a crunchy spice blend. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "moroccan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a small bowl, mix together cumin, coriander, cinnamon, cayenne pepper, salt, and black pepper.",
+    "In a large bowl, whisk together olive oil and rum. Add the spice blend and mix until well combined.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray. Arrange the chicken thighs on the baking sheet.",
+    "Bake for 30 minutes, or until the chicken is cooked through and the skin is crispy.",
+    "While the chicken is cooking, mix together brown sugar and chopped parsley in a small bowl.",
+    "After the chicken is cooked, brush the brown sugar-parsley mixture onto the top of each thigh.",
+    "Return the chicken to the oven and bake for an additional 5 minutes, or until the glaze is set.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving.",
+    "Slice the chicken into serving portions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "moroccan",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "oven-roasted-moroccan-chicken-khle-a",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-moroccan-chicken-khle-a",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "rum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Khle'a"
+  }
+}

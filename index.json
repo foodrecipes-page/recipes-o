@@ -4118,6 +4118,21 @@
     "shard": "o"
   },
   {
+    "slug": "optimally-fermented-german-white-cornmeal-bao",
+    "title": "Optimally Fermented German White Cornmeal Bao",
+    "tags": [
+      "double-rise-bread",
+      "fermented-food",
+      "german-cuisine",
+      "plant-based",
+      "post-workout",
+      "steamed-bao"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "opulent-creamy-ukrainian-fernbrake-pilaf",
     "title": "Opulent Creamy Ukrainian Fernbrake Pilaf",
     "tags": [
@@ -8139,6 +8154,20 @@
     ],
     "cuisine": "British (Northern Irish)",
     "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-moroccan-chicken-khle-a",
+    "title": "Oven-Roasted Moroccan Chicken Khle'a",
+    "tags": [
+      "low-carb",
+      "moroccan",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
