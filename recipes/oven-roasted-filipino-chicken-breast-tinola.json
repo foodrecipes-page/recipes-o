@@ -1,0 +1,109 @@
+{
+  "title": "Oven Roasted Filipino Chicken Breast Tinola",
+  "description": "A flexitarian-friendly Filipino dish featuring chicken breast cooked in an en-croute style with a floral and glassy-jelly texture, perfect for meal prep. This recipe is a unique twist on the traditional tinola dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "flexitarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "patis",
+      "amount": "2 tbsp",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together patis, salt, and black pepper.",
+    "Add the sliced ginger, chopped onion, minced garlic, and sliced chili peppers to the bowl and mix well.",
+    "Add the chicken breast to the bowl and coat with the marinade.",
+    "Wrap the chicken breast in parchment paper and place on a baking sheet.",
+    "Roast the chicken in the oven for 30 minutes.",
+    "Remove the chicken from the oven and add the chopped spinach and bruised lemongrass on top.",
+    "Return the chicken to the oven and roast for an additional 10 minutes.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before slicing.",
+    "Serve the chicken breast with the roasted spinach and lemongrass sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-breast",
+    "filipino-cuisine",
+    "flexitarian",
+    "gluten-free",
+    "meal-prep",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "oven-roasted-filipino-chicken-breast-tinola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-filipino-chicken-breast-tinola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "en-croute",
+    "primaryIngredient": "chicken breast",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken breast",
+    "descriptor": "oven roasted",
+    "dishForm": "Tinola"
+  }
+}

@@ -6795,6 +6795,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-filipino-chicken-breast-tinola",
+    "title": "Oven Roasted Filipino Chicken Breast Tinola",
+    "tags": [
+      "chicken-breast",
+      "filipino-cuisine",
+      "flexitarian",
+      "gluten-free",
+      "meal-prep",
+      "oven-roasted"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-filipino-okra-stew",
     "title": "Oven Roasted Filipino Okra Stew",
     "tags": [
