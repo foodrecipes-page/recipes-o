@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted Welsh Red Potatoes Gratin",
+  "description": "A delicious and hearty Welsh dish featuring roasted red potatoes in a mustardy glaze, perfect for a date night dinner. This low-fat-friendly recipe is sure to impress.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with olive oil, salt, and black pepper until they are evenly coated.",
+    "In a separate bowl, mix together the whole wheat breadcrumbs, grated cheddar cheese, and chopped parsley.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Brush the layer of potatoes with dijon mustard.",
+    "Sprinkle a third of the breadcrumb mixture over the potatoes.",
+    "Repeat the layers two more times, ending with a layer of breadcrumbs on top.",
+    "Bake the gratin in the preheated oven for 45 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "date-night",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "oven-roasted-welsh-red-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-welsh-red-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:31:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "red potatoes",
+    "diet": "low-fat",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "red potatoes",
+    "descriptor": "oven roasted",
+    "dishForm": "Gratin"
+  }
+}
