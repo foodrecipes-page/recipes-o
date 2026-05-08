@@ -1,0 +1,96 @@
+{
+  "title": "Oven Crisp Thai Mushrooms Tom Kha",
+  "description": "A yeasty, crisp, and light Thai dish featuring salt and air-fry techniques, this ovo-vegetarian friendly recipe is a twist on traditional Tom Kha, a central Thai coconut-based soup.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, vegetable oil, salt, Thai red curry paste, and lemon juice.",
+    "Add the mushrooms to the bowl and toss to coat with the curry mixture.",
+    "In a separate bowl, beat the eggs.",
+    "Add the panko breadcrumbs to a third bowl.",
+    "Dip each mushroom into the eggs, then coat in panko breadcrumbs.",
+    "Place the coated mushrooms on a baking sheet lined with parchment paper.",
+    "Bake the mushrooms in the preheated oven for 15 minutes, or until crispy and golden brown.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "crispy-snacks",
+    "mushroom-recipes",
+    "ovo-vegetarian",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oven-crisp-thai-mushrooms-tom-kha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-crisp-thai-mushrooms-tom-kha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "salt",
+    "diet": "ovo-vegetarian",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Oven Crisp",
+    "dishForm": "Tom Kha"
+  }
+}
