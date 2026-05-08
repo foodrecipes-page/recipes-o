@@ -1582,6 +1582,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-charred-portuguese-chinese-cabbage-stew",
+    "title": "Old Fashioned Charred Portuguese Chinese Cabbage Stew",
+    "tags": [
+      "comfort-food",
+      "cozy-dinner",
+      "healthy-stew",
+      "one-pot",
+      "paleo-friendly",
+      "portuguese-chinese-fusion"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-comforting-ethiopian-chinese-cabbage-stew",
     "title": "Ethiopian Chinese Cabbage Stew",
     "tags": [
@@ -4761,6 +4776,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "outstanding-oven-roasted-kenyan-comte-pasta",
+    "title": "Outstanding Oven Roasted Kenyan Comte Pasta",
+    "tags": [
+      "comte-cheese",
+      "kenyan-cuisine",
+      "low-glycemic",
+      "oven-roasted",
+      "pasta-dish",
+      "spring-recipe"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

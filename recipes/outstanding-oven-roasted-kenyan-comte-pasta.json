@@ -1,0 +1,98 @@
+{
+  "title": "Outstanding Oven Roasted Kenyan Comte Pasta",
+  "description": "This dish features comte cheese, al-dente pasta, and a blend of Kenyan spices, making for a floral and springy meal that is low in glycemic index and perfect for a light dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "comte cheese",
+      "amount": "1 cup shredded",
+      "notes": "imported from France"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "2 tbsp",
+      "notes": "blend of turmeric, cumin, and coriander"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the pasta according to the package instructions until it is al-dente.",
+    "In a large bowl, toss the cooked pasta with olive oil, garlic, kenyan spices, salt, and black pepper.",
+    "In a separate bowl, mix the shredded comte cheese with chopped spring onions and parsley.",
+    "In a baking dish, create a layer of the pasta mixture, followed by a layer of the comte cheese mixture, and repeat this process until all ingredients are used, ending with a layer of comte cheese on top.",
+    "Bake the dish in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the outstanding oven roasted Kenyan comte pasta hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comte-cheese",
+    "kenyan-cuisine",
+    "low-glycemic",
+    "oven-roasted",
+    "pasta-dish",
+    "spring-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "outstanding-oven-roasted-kenyan-comte-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-kenyan-comte-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:58:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "comte",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "comte",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Pasta"
+  }
+}
