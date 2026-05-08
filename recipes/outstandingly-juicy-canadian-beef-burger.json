@@ -1,0 +1,93 @@
+{
+  "title": "Outstandingly Juicy Canadian Beef Burger",
+  "description": "A show-off Canadian dish featuring dried oregano and a buttery flavor, this burger is both juicy and flavorful, making it a great option for a dinner meal that is buddhist-temple-friendly as it does not contain any forbidden ingredients for buddhist dietary preferences.",
+  "cuisine": "Canadian",
+  "diet": [
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "buns",
+      "amount": "4"
+    },
+    {
+      "name": "cheese",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, around 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, dried oregano, salt, and black pepper, mixing with your hands or a spoon until just combined.",
+    "Divide the beef mixture into 4 equal parts and shape each part into a ball, then flatten each ball into a patty about 3/4 inch thick.",
+    "Add the butter to the preheated grill or grill pan and let it melt, then add the patties and cook for 4-5 minutes per side, or until they reach an internal temperature of 130 degrees Fahrenheit for medium-rare.",
+    "While the burgers are cooking, toast the buns on the grill or in a toaster.",
+    "Assemble the burgers by spreading a slice of cheese on the bottom bun, if using, then adding a cooked patty, a few slices of onion, and finally the top bun.",
+    "Let the burgers rest for a few minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-burger",
+    "comfort-food",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "outstandingly-juicy-canadian-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-juicy-canadian-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "dried oregano",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "outstandingly juicy",
+    "dishForm": "Burger"
+  }
+}
