@@ -913,6 +913,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-japanese-chicken-ramen",
+    "title": "Oily Japanese Chicken Ramen",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "japanese-inspired",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oily-lazy-vietnamese-beef-pho-bo",
     "title": "Oily Lazy Vietnamese Beef Pho Bo",
     "tags": [
@@ -2739,6 +2753,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-dense-vietnamese-pork-bun-rieu",
+    "title": "Oozy Dense Vietnamese Pork Bun Rieu",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "meal-prep",
+      "one-pot",
+      "spicy",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

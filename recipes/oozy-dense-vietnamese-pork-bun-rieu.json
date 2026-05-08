@@ -1,0 +1,103 @@
+{
+  "title": "Oozy Dense Vietnamese Pork Bun Rieu",
+  "description": "A buttery, dense, meal-prep Vietnamese dish featuring red chilli powder and beurre-monte, this ayurvedic-sattvic-friendly recipe is a twist on traditional bun rieu, cooked to perfection in a wok.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok over medium heat.",
+    "Add the sliced shallots and cook until they are lightly browned.",
+    "Add the pork shoulder pieces and cook until they are browned on all sides.",
+    "Add the red chilli powder, fish sauce, lime juice, rice vinegar, and tomato paste, and stir to combine.",
+    "Add the beurre-monte and stir until it is fully incorporated and the sauce is smooth.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Stir in the cooked rice noodles and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the bun rieu hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "meal-prep",
+    "one-pot",
+    "spicy",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oozy-dense-vietnamese-pork-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-dense-vietnamese-pork-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "red chilli powder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Oozy dense",
+    "dishForm": "Bun Rieu"
+  }
+}
