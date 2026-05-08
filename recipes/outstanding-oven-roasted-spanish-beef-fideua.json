@@ -1,0 +1,98 @@
+{
+  "title": "Outstanding Oven Roasted Spanish Beef Fideua",
+  "description": "A traditional Spanish dish featuring mixed beef cuts and double-rise-bread, perfect for a satisfying meal. This nut-free-friendly recipe is great for a hangover cure.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the beef pieces with olive oil, paprika, garlic powder, salt, and black pepper until they are evenly coated.",
+    "Spread the beef mixture in a single layer on a large baking sheet.",
+    "Roast the beef in the preheated oven for 30 minutes.",
+    "While the beef is roasting, toast the double-rise-bread cubes by spreading them on a baking sheet and baking for 10 minutes.",
+    "After the beef has roasted for 30 minutes, add the toasted bread cubes and chicken broth to the baking sheet with the beef.",
+    "Return the baking sheet to the oven and continue roasting for an additional 20 minutes, or until the bread is crispy and the beef is tender.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes before serving.",
+    "Serve the Outstanding Oven Roasted Spanish Beef Fideua hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "outstanding-oven-roasted-spanish-beef-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-spanish-beef-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:21:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beef",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Fideua"
+  }
+}
