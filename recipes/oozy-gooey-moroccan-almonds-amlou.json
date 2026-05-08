@@ -1,0 +1,81 @@
+{
+  "title": "Oozy Gooey Moroccan Almonds Amlou",
+  "description": "A traditional Moroccan dessert made with almonds, honey, and apple juice, perfect for a lazy Sunday. This pescatarian-friendly treat is both bitter and gooey, with a rich, velvety texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sliced almonds and honey over low heat, stirring constantly until the honey is melted and the almonds are well coated.",
+    "Add the apple juice, orange blossom water, and rose water to the saucepan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes, or until the liquid has thickened and the almonds are caramelized.",
+    "Remove the saucepan from the heat and stir in the sea salt.",
+    "Let the mixture cool to room temperature, then transfer it to an airtight container and refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Serve the amlou chilled, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "almonds",
+    "apple-juice",
+    "dessert",
+    "honey",
+    "moroccan",
+    "orange-blossom-water"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "oozy-gooey-moroccan-almonds-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-gooey-moroccan-almonds-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:55:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "apple juice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Oozy Gooey",
+    "dishForm": "Amlou"
+  }
+}
