@@ -1,0 +1,105 @@
+{
+  "title": "Outstanding Oven Australian Rice Vermicelli Noodles",
+  "description": "A funky and velvety Australian dish featuring rice vermicelli, dum, and low-glycemic-friendly ingredients, perfect for a light dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice vermicelli noodles",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "dum",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "pepper",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Cook the rice vermicelli noodles according to the package instructions and set aside.",
+    "Heat the olive oil in a large oven-safe pan over medium heat.",
+    "Add the chopped dum, minced garlic, and grated ginger to the pan and cook until the dum is lightly browned.",
+    "Add the sliced chicken breast to the pan and cook until it is browned and cooked through.",
+    "Add the cooked rice vermicelli noodles, soy sauce, and sesame oil to the pan and stir to combine.",
+    "Season the mixture with salt and pepper to taste.",
+    "Transfer the pan to the preheated oven and bake for 10 minutes.",
+    "Remove the pan from the oven and serve the Outstanding Oven Australian Rice Vermicelli Noodles hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "chicken-recipe",
+    "gluten-free",
+    "low-glycemic",
+    "noodle-dish",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "outstanding-oven-australian-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-australian-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:27:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "outstanding oven",
+    "dishForm": "Noodles"
+  }
+}
