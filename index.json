@@ -4331,6 +4331,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-italian-toor-dal-risotto",
+    "title": "Oozy Italian Toor Dal Risotto",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "indulgent",
+      "italian-food",
+      "one-pot",
+      "vegetarian-option"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-jamaican-rice-stew",
     "title": "Oozy Jamaican Rice Stew",
     "tags": [
