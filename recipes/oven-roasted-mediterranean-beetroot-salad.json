@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Mediterranean Beetroot Salad",
+  "description": "A savory and crunchy Mediterranean salad featuring roasted beetroot, mixed greens, and a tangy dressing, perfect for a light lunch or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Toss the beetroot cubes with 2 tablespoons of olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the beetroot in the oven for 45 minutes, or until tender.",
+    "Let the beetroot cool to room temperature.",
+    "In a large bowl, combine the mixed greens, roasted beetroot, cherry tomatoes, cucumber, and red onion.",
+    "In a small bowl, whisk together the lemon juice and remaining 2 tablespoons of olive oil.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Top the salad with crumbled feta cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "mediterranean",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-roasted-mediterranean-beetroot-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mediterranean-beetroot-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:19:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beetroot",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Salad"
+  }
+}
