@@ -370,6 +370,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-dense-greek-hake-stew",
+    "title": "Oceanic Dense Greek Hake Stew",
+    "tags": [
+      "coconut-cream",
+      "fish-stew",
+      "greek-cuisine",
+      "mediterranean-diet",
+      "one-pot",
+      "pescatarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-flaky-korean-white-fish-deopbap",
     "title": "Oceanic Flaky Korean White Fish Deopbap",
     "tags": [
