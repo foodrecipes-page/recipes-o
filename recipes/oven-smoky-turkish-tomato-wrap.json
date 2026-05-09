@@ -1,0 +1,96 @@
+{
+  "title": "Oven Smoky Turkish Tomato Wrap",
+  "description": "A smoky and crumbly Turkish dish featuring tomatoes, wrapped in a pandan leaf, perfect for a sick day, with an al-dente finish and ayurvedic sattvic friendly ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a bowl, mix together the diced tomatoes, smoked paprika, salt, black pepper, and garlic.",
+    "Brush the pandan leaves with olive oil on both sides.",
+    "Spoon the tomato mixture onto the center of each pandan leaf.",
+    "Top the tomato mixture with crumbly Turkish cheese.",
+    "Fold the pandan leaves to form a wrap, and place them on a baking sheet.",
+    "Bake the wraps in the preheated oven for 20 minutes.",
+    "Remove the wraps from the oven and let them cool for a few minutes.",
+    "Serve the wraps hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "smoky",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-smoky-turkish-tomato-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoky-turkish-tomato-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:27:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Oven Smoky",
+    "dishForm": "Wrap"
+  }
+}
