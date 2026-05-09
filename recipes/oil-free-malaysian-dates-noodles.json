@@ -1,0 +1,101 @@
+{
+  "title": "Oil Free Malaysian Dates Noodles",
+  "description": "A citrusy and crunchy Malaysian dish featuring pitted dates, perfect for a hangover cure, made with a pasta water emulsion and sugar free friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Soak the pitted dates in water for 30 minutes and then chop them into small pieces.",
+    "Grate the ginger and mince the garlic.",
+    "In a large bowl, whisk together the lemon juice, lime juice, grated ginger, and minced garlic.",
+    "Add the cooked noodles, chopped dates, and pasta water to the bowl and toss to combine.",
+    "Season with salt to taste.",
+    "Garnish with chopped peanuts and serve immediately.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian-cuisine",
+    "noodle-dish",
+    "oil-free",
+    "quick-meal",
+    "sugar-free",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oil-free-malaysian-dates-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-free-malaysian-dates-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:32:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "pitted dates",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dates",
+    "descriptor": "Oil free",
+    "dishForm": "Noodles"
+  }
+}
