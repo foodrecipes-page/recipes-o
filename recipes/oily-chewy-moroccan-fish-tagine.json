@@ -1,0 +1,110 @@
+{
+  "title": "oily chewy moroccan fish tagine",
+  "description": "briny, chewy, nostalgic moroccan dish featuring fish seasoning, rest, keto-friendly. ideal for a quick weeknight dinner",
+  "cuisine": "moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fish seasoning blend",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "season the cod fillets with fish seasoning blend, salt, and pepper",
+    "heat the olive oil in a large skillet over medium-high heat",
+    "sear the cod fillets for 2-3 minutes on each side, then remove from heat",
+    "reduce heat to medium and add the chopped onion, cooking until translucent",
+    "add the chopped garlic, ground cumin, and ground coriander, cooking for 1 minute",
+    "add the lemon juice and stir to combine",
+    "return the cod fillets to the skillet and simmer for 5-7 minutes, or until cooked through",
+    "garnish with chopped fresh parsley and serve"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "keto",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "oily-chewy-moroccan-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-chewy-moroccan-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "fish seasoning",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fish",
+    "descriptor": "oily chewy",
+    "dishForm": "Tagine"
+  }
+}

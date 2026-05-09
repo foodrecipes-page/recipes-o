@@ -1,0 +1,317 @@
+{
+  "title": "oven-roasted light vietnamese paprika noodles",
+  "description": "sweet and light vietnamese dish featuring paprika, ovo-vegetarian-friendly, ideal for a weeknight dinner or a special occasion ",
+  "cuisine": "vietnamese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "copper mug noodle block",
+      "amount": "8 oz",
+      "notes": "preferably made from buckwheat or rice flour "
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the copper mug "
+    },
+    {
+      "name": "sliced paprika",
+      "amount": "1/4 cup",
+      "notes": "use a sweet or bell paprika "
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "1 clove",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish "
+    },
+    {
+      "name": "tandoor-spiced tofu",
+      "amount": "4 oz",
+      "notes": "o-vegetarian-friendly substitute for meat "
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced, for added crunch "
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced, for added color "
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish "
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "optional, for added zing "
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt "
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "preferably coconut sugar "
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 tsp",
+      "notes": "available at most indian or middle eastern grocery stores "
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional, for added umami "
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional, for added flavor "
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "optional, for added brightness "
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "omit for o-vegetarian-friendly option "
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish "
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional, for garnish "
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1 tsp",
+      "notes": "optional, for garnish "
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional, for added heat "
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "preferably freshly cracked "
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional, for added spice "
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the copper mug "
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet or bell paprika, for added color "
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "basil",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "koji",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth "
+    },
+    {
+      "name": "chicken bouillon",
+      "amount": "4 cups",
+      "notes": "vegetarian-friendly option, omit for o-vegetarian-friendly option "
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "vegetarian-friendly option "
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "not recommended, omit for o-vegetarian-friendly option "
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "optional, for added creaminess "
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup",
+      "notes": "optional, for added creaminess "
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "optional, for added creaminess "
+    },
+    {
+      "name": "cashew cream",
+      "amount": "1 cup",
+      "notes": "optional, for added creaminess "
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tsp",
+      "notes": "optional, for thickening "
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "optional, for added brightness "
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for added heat "
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": "optional, for added zing "
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional, for added brightness "
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt "
+    }
+  ],
+  "instructions": [
+    "brush the copper mug with 1 tbsp of vegetable oil ",
+    "add 4 oz of tandoor-spiced tofu to the copper mug",
+    "add 1/2 cup of sliced red onion to the copper mug",
+    "add 1/2 cup of sliced carrots to the copper mug",
+    "add 1/4 cup of sliced paprika to the copper mug",
+    "add 1 tsp of grated ginger to the copper mug",
+    "add 1 tsp of ground ginger to the copper mug",
+    "add 1 tsp of tandoor spice mix to the copper mug",
+    "add 2 tbsp of soy sauce to the copper mug",
+    "add 1 tsp of dark soy sauce to the copper mug",
+    "add 1 tsp of sesame oil to the copper mug",
+    "add 2 tbsp of lime juice to the copper mug",
+    "add 1 tsp of fish sauce to the copper mug",
+    "add 1 tsp of salt to the copper mug",
+    "add 1 tsp of sugar to the copper mug",
+    "add 1 tsp of rice vinegar to the copper mug",
+    "add 1 tsp of chili flakes to the copper mug",
+    "add 1 tsp of lemon zest to the copper mug",
+    "add 1 tsp of black pepper to the copper mug",
+    "add 1 tsp of cayenne pepper to the copper mug",
+    "add 1 tsp of oregano to the copper mug",
+    "add 1 tsp of basil to the copper mug",
+    "add 1 tsp of kaffir lime leaves to the copper mug",
+    "add 1 tsp of koji to the copper mug",
+    "add 4 cups of chicken bouillon to the copper mug",
+    "add 4 cups of vegetable broth to the copper mug",
+    "add 1 cup of coconut milk to the copper mug",
+    "add 1 cup of evaporated milk to the copper mug",
+    "add 1 cup of almond milk to the copper mug",
+    "add 1 cup of cashew cream to the copper mug",
+    "add 2 tsp of cornstarch to the copper mug",
+    "cover the copper mug with a lid or foil ",
+    "preheat the oven to 400 f (200 c)",
+    "roast the noodles in the preheated oven for 15 minutes ",
+    "remove the roasted noodles from the oven and let cool slightly ",
+    "slice the noodles into individual portions ",
+    "garnish the noodles with toasted sesame seeds and scallions",
+    "garnish the noodles with toasted peanuts and scallions ",
+    "garnish the noodles with chopped cilantro and scallions ",
+    "garnish the noodles with chopped scallions and lemon zest ",
+    "garnish the noodles with toasted sesame seeds and chopped scallions ",
+    "garnish the noodles with toasted peanuts and chopped scallions "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-roasted-light-vietnamese-paprika-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-light-vietnamese-paprika-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "paprika",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "paprika",
+    "descriptor": "Oven-Roasted Light",
+    "dishForm": "Noodles"
+  }
+}

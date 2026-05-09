@@ -1014,6 +1014,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-chewy-moroccan-fish-tagine",
+    "title": "oily chewy moroccan fish tagine",
+    "tags": [
+      "fish",
+      "keto",
+      "moroccan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
     "slug": "oily-creamy-norwegian-mozzarella-casserole",
     "title": "Oily Creamy Norwegian Mozzarella Casserole",
     "tags": [
@@ -8983,6 +8997,21 @@
       "sick-day"
     ],
     "cuisine": "ethiopian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-light-vietnamese-paprika-noodles",
+    "title": "oven-roasted light vietnamese paprika noodles",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "ovo-vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
     "totalTimeMin": 40,
     "shard": "o"
   },
