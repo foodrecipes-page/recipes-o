@@ -1,0 +1,98 @@
+{
+  "title": "Oily Melt Malaysian Jerusalem Artichokes Ramen",
+  "description": "A nostalgic Malaysian dish featuring fresh Jerusalem artichokes, shio-koji-cure, and a rich cheese-pull.",
+  "cuisine": "malaysian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichoke tubers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tapioca starch",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "1 tablespoon",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the tapioca starch and cook, stirring constantly, for 1 minute.",
+    "Add the shio-koji, water, chicken broth, ginger, and garlic. Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Peel and slice the Jerusalem artichoke tubers into thin rounds. ",
+    "Add the sliced artichokes to the pot and cook for an additional 5 minutes.",
+    "Transfer the pot to a baking dish and top with shredded cheddar cheese.",
+    "Bake in a preheated oven at 375°F (190°C) for 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "malaysian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "oily-melt-malaysian-jerusalem-artichokes-ramen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-melt-malaysian-jerusalem-artichokes-ramen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "jerusalem artichokes",
+    "descriptor": "oily melt",
+    "dishForm": "ramen"
+  }
+}
