@@ -1,0 +1,93 @@
+{
+  "title": "Oven Toasted Chinese Squid Salt And Pepper Squid",
+  "description": "A malty, crispy, energizing Chinese dish featuring Grand Marnier, candy, and squid, perfect for a dinner or snack, and is egg-free-friendly. This salt and pepper squid recipe is a twist on the classic Chinese dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "candy melon seeds",
+      "amount": "1/4 cup",
+      "notes": "or other small candy pieces"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornstarch, salt, and black pepper.",
+    "Add the squid pieces to the bowl and toss to coat with the cornstarch mixture.",
+    "Heat the vegetable oil in a large skillet over medium-high heat and saute the squid pieces until lightly browned.",
+    "Transfer the squid pieces to a baking sheet lined with parchment paper.",
+    "Drizzle the Grand Marnier, malt syrup, and sprinkle the candy melon seeds over the squid pieces.",
+    "Bake the squid in the preheated oven for 12 minutes, or until crispy and golden brown.",
+    "Remove the squid from the oven and let cool for a few minutes before serving.",
+    "Serve the oven toasted Chinese squid salt and pepper squid hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "easy-dinner",
+    "grand-marnier",
+    "oven-baked",
+    "seafood",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "oven-toasted-chinese-squid-salt-and-pepper-squid",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:07:05Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "grand marnier",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "squid",
+    "descriptor": "Oven toasted",
+    "dishForm": "Salt And Pepper Squid"
+  }
+}
