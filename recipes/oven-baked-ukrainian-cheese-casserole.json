@@ -1,0 +1,96 @@
+{
+  "title": "Oven Baked Ukrainian Cheese Casserole",
+  "description": "A spicy, low-glycemic Ukrainian dish featuring tamarind paste, with a cheese-pull effect, served in a ramekin.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, mix the cottage cheese, tamarind paste, eggs, salt, black pepper, and cayenne pepper until smooth.",
+    "In a bowl, combine the shredded mozzarella, diced ham, and chopped parsley.",
+    "Add the cheese mixture to the bowl and stir until well combined.",
+    "Pour the mixture into 4 ramekins.",
+    "Bake for 20 minutes or until the cheese is melted and the edges are golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve hot and enjoy the cheese-pull effect."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheesy",
+    "gluten-free",
+    "low-glycemic",
+    "spicy",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "oven-baked-ukrainian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-ukrainian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:36:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "tamarind paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "oven baked",
+    "dishForm": "Casserole"
+  }
+}
