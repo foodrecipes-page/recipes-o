@@ -1,0 +1,105 @@
+{
+  "title": "Oozy Ukrainian Grain Pilaf",
+  "description": "A jammy and cheesy Ukrainian dish featuring mixed grain and braise, perfect for a crowd, this pilaf is an ayurvedic-rajasic-friendly option that combines the best of grains and cheese for a delightful meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed grain",
+      "amount": "2 cups",
+      "notes": "including wheat, barley, and oats"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushroom and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the grated carrot and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked mixed grain, vegetable broth, tomato paste, salt, and black pepper, and stir until the grain is well coated.",
+    "Add the cooked onion, mushroom, and carrot mixture to the grain mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded mozzarella cheese.",
+    "Dot the top of the cheese with the remaining 2 tablespoons of butter.",
+    "Bake in the preheated oven for 25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "grain-bowl",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-ukrainian-grain-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-ukrainian-grain-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:58:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "mixed grain",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "grains",
+    "descriptor": "Oozy",
+    "dishForm": "Pilaf"
+  }
+}
