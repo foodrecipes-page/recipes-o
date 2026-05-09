@@ -520,6 +520,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-spanish-seafood-pasta-bake",
+    "title": "Oceanic Spanish Seafood Pasta Bake",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "pappardelle",
+      "seafood",
+      "spanish-cuisine",
+      "wood-fired"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-ukrainian-tuna-stew",
     "title": "Oceanic Ukrainian Tuna Stew",
     "tags": [

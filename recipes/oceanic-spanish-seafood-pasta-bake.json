@@ -1,0 +1,103 @@
+{
+  "title": "Oceanic Spanish Seafood Pasta Bake",
+  "description": "A comforting Spanish dish featuring pappardelle pasta, seafood, and a wood-fired bake, perfect for a cold evening. This pescatarian-friendly recipe is cooked to perfection in a fondue pot.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "2 cups",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "2 cups",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated manchego cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the shrimp, mussels, and clams to the skillet and cook until the seafood is opaque and the shells are open.",
+    "In a large bowl, combine the cooked pasta, seafood mixture, smoked paprika, sea salt, and black pepper.",
+    "Transfer the pasta mixture to a fondue pot and top with grated manchego cheese.",
+    "Bake the pasta in the wood-fired oven for 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the pasta from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "pappardelle",
+    "seafood",
+    "spanish-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "oceanic-spanish-seafood-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-spanish-seafood-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:45:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seafood",
+    "descriptor": "Oceanic Woodfired",
+    "dishForm": "Pasta"
+  }
+}
