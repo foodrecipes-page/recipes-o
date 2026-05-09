@@ -1,0 +1,101 @@
+{
+  "title": "Oily Crispy Croatian Pork Dumplings",
+  "description": "A traditional Croatian dish featuring minced pork, infused oil, and ayurvedic-rajasic-friendly ingredients, perfect for a comforting meal on a sick day.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably with a high fat content"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with herbs and spices"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the minced pork, chopped onion, minced garlic, salt, black pepper, and paprika, and mix well with your hands until just combined.",
+    "Gradually add the all-purpose flour to the pork mixture, mixing until a dough forms.",
+    "Add the egg to the dough and mix until the dough is smooth and elastic.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes smooth and pliable.",
+    "Divide the dough into small balls, about 1 1/2 inches in diameter.",
+    "Flatten each ball into a disk shape, and then use your thumbs to create a depression in the center of each disk.",
+    "Heat the infused oil in a large skillet over medium-high heat, and when the oil is hot, add a few of the dumplings to the skillet, being careful not to overcrowd.",
+    "Fry the dumplings until they are crispy and golden brown on both sides, about 3-4 minutes per side.",
+    "Remove the dumplings from the oil with a slotted spoon, and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "croatian-cuisine",
+    "fatty",
+    "gluten-free",
+    "meat-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "oily-crispy-croatian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-crispy-croatian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:50:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "minced pork",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Oily Crispy",
+    "dishForm": "Dumplings"
+  }
+}
