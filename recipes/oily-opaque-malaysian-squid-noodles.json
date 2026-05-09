@@ -1,0 +1,98 @@
+{
+  "title": "Oily Opaque Malaysian Squid Noodles",
+  "description": "A romantic Malaysian dish featuring squid, this recipe is a cultured and glassy-jelly delight, friendly to those following a low FODMAP diet. It combines the tender squid with noodles and flavorful ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low fodmap",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "use garlic-free for strict FODMAP diets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions, then set aside.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the squid pieces to the skillet and cook until they are opaque and lightly browned, about 3-4 minutes per side.",
+    "Remove the squid from the skillet and set aside with the noodles.",
+    "In the same skillet, add the garlic-infused oil, soy sauce, oyster sauce, and sesame oil, stirring to combine.",
+    "Reduce the heat to medium-low and simmer the sauce for about 2 minutes, until it thickens slightly.",
+    "Add the cooked noodles and squid back into the skillet, tossing everything to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Oily Opaque Malaysian Squid Noodles hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fodmap",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "quick-meal",
+    "romantic-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oily-opaque-malaysian-squid-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-opaque-malaysian-squid-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:50:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "squid",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "squid",
+    "descriptor": "oily opaque",
+    "dishForm": "Noodles"
+  }
+}
