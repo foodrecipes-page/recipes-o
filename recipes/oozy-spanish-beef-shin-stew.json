@@ -1,0 +1,108 @@
+{
+  "title": "Oozy Spanish Beef Shin Stew",
+  "description": "A tangy and molten Spanish dish featuring beef shin, this crowd-pleaser is made by emulsifying the sauce and serving it in a banana leaf vessel, making it a unique and delicious kosher-friendly option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "for serving"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until it is browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the beef shin chunks and cook until they are browned on all sides, about 5 minutes.",
+    "Add the tomato paste, smoked paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the red wine and beef broth, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Use two forks to shred the beef into bite-sized pieces.",
+    "Stir the sauce to emulsify it, then taste and adjust the seasoning as needed.",
+    "To serve, place a portion of the beef and sauce onto a banana leaf, and fold the leaf to enclose."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "beef-stew",
+    "comfort-food",
+    "kosher-friendly",
+    "one-pot",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "oozy-spanish-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-spanish-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:13:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "emulsify",
+    "primaryIngredient": "beef shin",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beef shin",
+    "descriptor": "Oozy Molten",
+    "dishForm": "Stew"
+  }
+}
