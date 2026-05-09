@@ -284,6 +284,21 @@
     "shard": "o"
   },
   {
+    "slug": "ocean-fresh-vietnamese-shrimp-noodles",
+    "title": "Ocean Fresh Vietnamese Shrimp Noodles",
+    "tags": [
+      "high-protein",
+      "noodle-dish",
+      "one-pan",
+      "seafood",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-brazilian-fish-skewers",
     "title": "Oceanic Brazilian Fish Skewers",
     "tags": [
