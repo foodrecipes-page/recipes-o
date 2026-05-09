@@ -1,0 +1,83 @@
+{
+  "title": "Oozy Gooey Saudi Arabian Nutella Tagine",
+  "description": "A rich and indulgent dessert featuring Nutella, kimchi, and a hint of spice.",
+  "cuisine": "saudi arabian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nutella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the flour and whisk to form a smooth paste.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the Nutella, kimchi, cinnamon, and cardamom.",
+    "Whisk until smooth and the Nutella is melted.",
+    "Bring the mixture to a simmer and cook for 2 minutes, stirring occasionally.",
+    "Remove from heat and stir in the honey until well combined.",
+    "Serve warm, topped with additional kimchi if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "high-calorie",
+    "saudi-arabian",
+    "spicy",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 6,
+    "carbs": 84,
+    "fat": 36
+  },
+  "slug": "oozy-gooey-saudi-arabian-nutella-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-gooey-saudi-arabian-nutella-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:38:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "nutella",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Nutella",
+    "descriptor": "Oozy Gooey",
+    "dishForm": "Tagine"
+  }
+}
