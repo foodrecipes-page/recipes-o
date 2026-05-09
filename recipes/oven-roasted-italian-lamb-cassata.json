@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted Italian Lamb Cassata",
+  "description": "A tangy and festive Italian dish featuring lamb, allspice berries, and traditional earthenware cooking, wrapped in banana leaves for a unique flavor and presentation. This recipe is tamasic-friendly and perfect for special occasions.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless and cut into 2-inch pieces"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine lamb, allspice berries, olive oil, garlic, lemon juice, salt, and black pepper, and mix well.",
+    "Lay a banana leaf flat on a work surface and place a quarter of the lamb mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a square package, and repeat with the remaining ingredients.",
+    "Place the packages in a large earthenware dish or a Dutch oven with a lid.",
+    "Cover the dish with a lid or foil and roast for 2 hours and 30 minutes.",
+    "Remove the lid or foil and continue roasting for an additional 30 minutes, or until the lamb is tender and the leaves are caramelized.",
+    "Remove the dish from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf-recipes",
+    "earthenware-cooking",
+    "italian-cuisine",
+    "lamb-recipes",
+    "special-occasion",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "oven-roasted-italian-lamb-cassata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-italian-lamb-cassata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:42:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "allspice berries",
+    "diet": "ayurvedic-tamasic",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Cassata"
+  }
+}

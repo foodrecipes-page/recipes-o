@@ -3256,6 +3256,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-brazilian-bresaola-pao-de-queijo",
+    "title": "Oozing Brazilian Bresaola Pao de Queijo",
+    "tags": [
+      "brazilian",
+      "buddhist-friendly",
+      "cheese-lover",
+      "oven-roasted",
+      "snack"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-caramel-greek-honey-loukoumades",
     "title": "Oozing Caramel Greek Honey Loukoumades",
     "tags": [
@@ -10025,6 +10039,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-italian-lamb-cassata",
+    "title": "Oven Roasted Italian Lamb Cassata",
+    "tags": [
+      "banana-leaf-recipes",
+      "earthenware-cooking",
+      "italian-cuisine",
+      "lamb-recipes",
+      "special-occasion",
+      "tamasic-friendly"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 210,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-italian-lardons-risotto",
     "title": "Oven Roasted Italian Lardons Risotto",
     "tags": [
@@ -12008,6 +12037,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-syrian-meat-pilaf",
+    "title": "Oven-Roasted Syrian Meat Pilaf",
+    "tags": [
+      "crispy",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "spicy",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

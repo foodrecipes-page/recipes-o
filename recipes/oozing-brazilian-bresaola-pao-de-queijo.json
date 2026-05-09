@@ -1,0 +1,106 @@
+{
+  "title": "Oozing Brazilian Bresaola Pao de Queijo",
+  "description": "Tangy, glassy-jelly, indulgent Brazilian dish featuring bresaola, brine-dry, and perfect for Buddhist-temple-friendly gathering.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Pao de Queijo cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "50ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "In a bowl, mix together bresaola, pao de queijo cheese, butter, salt, black pepper, and garlic.",
+    "On a baking sheet lined with parchment paper, create a nest of fresh parsley.",
+    "In a small saucepan, combine red wine vinegar, honey, and water over medium heat, stirring occasionally.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "Remove from heat and brush the mixture over the parsley nest.",
+    "Place the bresaola mixture on top of the parsley nest, spreading evenly.",
+    "Bake in the preheated oven for 20 minutes, or until the bresaola is cooked through and the cheese is melted and slightly browned.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "buddhist-friendly",
+    "cheese-lover",
+    "oven-roasted",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "oozing-brazilian-bresaola-pao-de-queijo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-brazilian-bresaola-pao-de-queijo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "brine-dry",
+    "primaryIngredient": "bresaola",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bresaola",
+    "descriptor": "Oozing",
+    "dishForm": "Pão de Queijo"
+  }
+}
