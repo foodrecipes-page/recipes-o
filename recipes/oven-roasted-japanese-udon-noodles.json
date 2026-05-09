@@ -1,0 +1,99 @@
+{
+  "title": "Oven Roasted Japanese Udon Noodles",
+  "description": "A creamy and floral one-pot dish featuring udon noodles in a mother-sauce-base, cooked to perfection in a tagine pot. This Whole30-friendly recipe is a twist on traditional Polish cuisine with Japanese flavors.",
+  "cuisine": "Japanese-Polish fusion",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably made from rice flour"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "bone broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large tagine pot, combine the udon noodles, coconut milk, bone broth, sesame oil, grated ginger, dried thyme, salt, and black pepper.",
+    "Stir well to combine and bring the mixture to a simmer over medium heat.",
+    "Cover the tagine pot with a lid and transfer it to the preheated oven.",
+    "Roast the noodles in the oven for 25 minutes or until they are cooked through and the liquid has been absorbed.",
+    "Remove the tagine pot from the oven and stir in the chopped scallions.",
+    "Let the dish cool for a few minutes before serving.",
+    "Serve hot and enjoy.",
+    "Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-sauce",
+    "japanese-fusion",
+    "noodle-dish",
+    "one-pot",
+    "oven-roasted",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "oven-roasted-japanese-udon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-japanese-udon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:04:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "udon noodles",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "udon noodles",
+    "descriptor": "One pot oven roasted",
+    "dishForm": "Noodles"
+  }
+}
