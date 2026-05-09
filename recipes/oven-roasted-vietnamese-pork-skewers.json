@@ -1,0 +1,89 @@
+{
+  "title": "Oven Roasted Vietnamese Pork Skewers",
+  "description": "A bitter and velvety Vietnamese dish featuring chilli powder, perfect for a solo dinner, with a smoky and hot flavor profile, and is keto-friendly.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chilli powder, fish sauce, coconut oil, lime juice, garlic, and black pepper.",
+    "Add the pork pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until cooked through.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "oven-roasted",
+    "pork-recipes",
+    "smoky-flavors",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "oven-roasted-vietnamese-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-vietnamese-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:51:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "smoke-hot",
+    "primaryIngredient": "chilli powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "oven roasted",
+    "dishForm": "Skewers"
+  }
+}
