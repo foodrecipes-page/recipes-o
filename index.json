@@ -1086,6 +1086,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-braised-saudi-arabian-lamb-wrap",
+    "title": "Oily Braised Saudi Arabian Lamb Wrap",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "low-calorie",
+      "middle-eastern",
+      "one-pot"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
     "slug": "oily-brazilian-almonds-bake",
     "title": "oily brazilian almonds bake",
     "tags": [
@@ -7697,6 +7711,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-american-chicken-drumsticks-skewers",
+    "title": "Oven Roasted American Chicken Drumsticks Skewers",
+    "tags": [
+      "american-cuisine",
+      "chicken-drumsticks",
+      "glazed-chicken",
+      "oven-roasted",
+      "plant-based-friendly",
+      "spicy-food"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

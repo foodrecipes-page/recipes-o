@@ -1,0 +1,93 @@
+{
+  "title": "Oven Roasted American Chicken Drumsticks Skewers",
+  "description": "A pungent and adventurous American dish featuring chicken drumsticks, namul-blanch-season, and plant-based-friendly ingredients, resulting in a glassy-jelly glaze.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, maple syrup, rice vinegar, Gochujang, and sesame oil.",
+    "Add the minced garlic and grated ginger to the bowl and whisk until well combined.",
+    "Add the chicken drumsticks to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken drumsticks onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the preheated oven for 25 minutes.",
+    "After 25 minutes, increase the oven temperature to broil and cook for an additional 5 minutes, or until the chicken is cooked through and the glaze is caramelized.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "chicken-drumsticks",
+    "glazed-chicken",
+    "oven-roasted",
+    "plant-based-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "oven-roasted-american-chicken-drumsticks-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-american-chicken-drumsticks-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:35:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
