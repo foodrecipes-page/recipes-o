@@ -223,6 +223,20 @@
     "shard": "o"
   },
   {
+    "slug": "ocean-fresh-portuguese-fish-wrap",
+    "title": "Ocean Fresh Portuguese Fish Wrap",
+    "tags": [
+      "easy-meal",
+      "fish-recipes",
+      "healthy-eating",
+      "portuguese-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 32,
+    "shard": "o"
+  },
+  {
     "slug": "ocean-fresh-russian-fish-kebabs",
     "title": "Ocean Fresh Russian Fish Kebabs",
     "tags": [

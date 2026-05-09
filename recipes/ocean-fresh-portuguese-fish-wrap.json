@@ -1,0 +1,91 @@
+{
+  "title": "Ocean Fresh Portuguese Fish Wrap",
+  "description": "A citrusy and comforting Portuguese dish featuring pineapple chunks, served in a ssam-wrap with fresh fish, perfect for pescatarian diets.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt, pepper, and garlic.",
+    "Drizzle the olive oil over the cod fillets and bake for 12 minutes.",
+    "Meanwhile, heat the lemon juice in a small saucepan over low heat.",
+    "Add the pineapple chunks to the saucepan and simmer for 5 minutes.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by placing a piece of cod, some pineapple chunks, and a sprinkle of salt and pepper in the center of each wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "fish-recipes",
+    "healthy-eating",
+    "portuguese-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "ocean-fresh-portuguese-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ocean-fresh-portuguese-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:03:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "ocean fresh",
+    "dishForm": "Wrap"
+  }
+}
