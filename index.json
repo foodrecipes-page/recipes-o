@@ -4470,6 +4470,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-spanish-gouda-cheese-tarta-de-santiago",
+    "title": "Oozy Spanish Gouda Cheese Tarta De Santiago",
+    "tags": [
+      "basque-region",
+      "cheese-tart",
+      "low-calorie",
+      "meal-prep",
+      "one-pan",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-spicy-crispy-ackee-pancakes",
     "title": "Oozy Spicy Crispy Ackee Pancakes",
     "tags": [
@@ -4527,6 +4542,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-spicy-moroccan-lamb-mechoui",
+    "title": "Oozy Spicy Moroccan Lamb Mechoui",
+    "tags": [
+      "gluten-free",
+      "lamb",
+      "moroccan",
+      "one-pot",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -5963,6 +5993,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-herbal-thai-shrimp-tom-yum",
+    "title": "Outstandingly Herbal Thai Shrimp Tom Yum",
+    "tags": [
+      "herbal",
+      "one-pot",
+      "seafood",
+      "spicy",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {

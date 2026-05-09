@@ -1,0 +1,108 @@
+{
+  "title": "Outstandingly Herbal Thai Shrimp Tom Yum",
+  "description": "A herbal and silky central Thai tom yum dish featuring shrimp, light rum, and tandoor spices, perfect for a weeknight dinner",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat",
+    "Add bruised lemongrass and sliced galangal and saute for 1 minute",
+    "Add tandoor spice mix and cook for 30 seconds",
+    "Add shrimp and cook until pink, about 2-3 minutes",
+    "Add light rum, fish sauce, and lime juice, and stir to combine",
+    "Add chicken broth and bring to a boil",
+    "Reduce heat to low and simmer for 5 minutes",
+    "Stir in coconut milk and cook for an additional 2 minutes",
+    "Taste and adjust seasoning as needed",
+    "Garnish with chopped Thai basil and kaffir lime leaves"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "one-pot",
+    "seafood",
+    "spicy",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "outstandingly-herbal-thai-shrimp-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-herbal-thai-shrimp-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:27:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "tandoor",
+    "primaryIngredient": "light rum",
+    "diet": "halal",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "outstandingly herbal",
+    "dishForm": "Tom Yum"
+  }
+}
