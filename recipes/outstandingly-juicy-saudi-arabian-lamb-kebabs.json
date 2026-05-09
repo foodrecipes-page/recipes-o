@@ -1,0 +1,97 @@
+{
+  "title": "Outstandingly Juicy Saudi Arabian Lamb Kebabs",
+  "description": "A floral and juicy Saudi Arabian dish featuring full fat sour cream, perfect for curing hangovers, made with kosher friendly ingredients. This recipe is a classic representation of Middle Eastern cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together sour cream, olive oil, lemon juice, garlic, rose water, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and mix until they are well coated with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they are cooked to an internal temperature of 145 degrees.",
+    "While the lamb is cooking, toast the pita bread by grilling it for 1-2 minutes per side.",
+    "Once the lamb is done, remove it from the heat and let it rest for 5 minutes.",
+    "Serve the lamb kebabs with toasted pita bread and a side of sour cream sauce made by deglazing the grill with a little water and scraping up the browned bits.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "sour-cream-sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "outstandingly-juicy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-juicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:03:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "outstandingly juicy",
+    "dishForm": "Kebabs"
+  }
+}
