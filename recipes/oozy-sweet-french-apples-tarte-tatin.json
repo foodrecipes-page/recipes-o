@@ -1,0 +1,94 @@
+{
+  "title": "Oozy Sweet French Apples Tarte Tatin",
+  "description": "A sweet and indulgent French dessert featuring caramelized apples and chilled butter, cooked to perfection in a fondue pot. This egg-free-friendly dish is sure to satisfy any sweet tooth.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Granny Smith apples",
+      "amount": "4-5",
+      "notes": "peeled, halved, and cored"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "Combine the sugar, flour, and salt in a small bowl.",
+    "Add the lemon juice, water, and vanilla extract to the bowl and mix until well combined.",
+    "Arrange the apple halves in the fondue pot, leaving a 1-inch space between each apple.",
+    "Dot the top of the apples with the chilled butter cubes.",
+    "Pour the sugar mixture evenly over the apples and butter.",
+    "Cover the fondue pot and steam the apples for 20 minutes, or until they are tender and caramelized.",
+    "Remove the fondue pot from the heat and let it cool for 10 minutes.",
+    "Serve the Tarte Tatin warm, topped with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "french-dessert",
+    "indulgent",
+    "sweet-treat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "oozy-sweet-french-apples-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-sweet-french-apples-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:09:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "chilled butter",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "apples",
+    "descriptor": "Oozy Sweet",
+    "dishForm": "Tarte Tatin"
+  }
+}
