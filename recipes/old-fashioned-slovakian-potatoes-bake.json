@@ -1,0 +1,100 @@
+{
+  "title": "Slovakian Potatoes Bake",
+  "description": "A traditional Slovakian dish featuring salted butter and salt-bake potatoes, perfect for a crowd, this lacto-vegetarian friendly recipe is a pungent and shaggy delight. It is a hearty and comforting meal that is sure to please.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "salted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the sliced potatoes and melted salted butter, tossing to coat.",
+    "In a separate bowl, mix together the chopped onion, minced garlic, salt, black pepper, and paprika.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Spread half of the onion mixture over the potatoes.",
+    "Repeat the layers, starting with the potatoes, then the remaining onion mixture, and finally another layer of potatoes.",
+    "Dot the top of the potatoes with the sour cream and sprinkle with the shredded cheddar cheese.",
+    "Bake for 45 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "hearty",
+    "lacto-vegetarian",
+    "one-pan",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "old-fashioned-slovakian-potatoes-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-slovakian-potatoes-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:42:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "salted butter",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "old fashioned",
+    "dishForm": "Bake"
+  }
+}
