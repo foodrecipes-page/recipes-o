@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Turkish Lamb Pilaf",
+  "description": "A flavorful Turkish dish featuring ground lamb and aromatic spices, served over a bed of fluffy pilaf.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground allspice, salt, and black pepper, and mix well with your hands until just combined.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat, then add the lamb mixture and cook, breaking it up with a spoon, until no longer pink, about 5 minutes.",
+    "Add the chopped onion to the skillet and cook, stirring occasionally, until it is lightly browned, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook, stirring constantly, for 1 minute.",
+    "Stir in the chicken broth and bring to a boil, scraping up any browned bits from the bottom of the skillet.",
+    "Add the basmati rice to the skillet, stir to combine, and transfer the skillet to the preheated oven.",
+    "Bake, covered with foil, for 25 minutes, then remove the foil and continue baking for an additional 10 minutes, or until the rice is tender and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "lamb-recipes",
+    "one-pan",
+    "oven-roasted",
+    "pilaf",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oven-roasted-turkish-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:40:04Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ground allspice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pilaf"
+  }
+}
