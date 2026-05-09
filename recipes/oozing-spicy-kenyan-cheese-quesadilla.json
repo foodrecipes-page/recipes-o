@@ -1,0 +1,96 @@
+{
+  "title": "Oozing Spicy Kenyan Cheese Quesadilla",
+  "description": "A spicy and indulgent Kenyan dish featuring shredded Mexican cheese, perfect for vegetarians, with a flaky and crispy texture.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortilla",
+      "amount": "4 large",
+      "notes": "whole wheat or flour"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "Kenyan chili peppers",
+      "amount": "2 diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a bowl, mix together the shredded cheese, diced chili peppers, and curry powder.",
+    "Add the diced onion and minced garlic to the bowl and mix well.",
+    "Place a tortilla in the skillet and sprinkle a quarter of the cheese mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy.",
+    "Repeat with the remaining tortillas and cheese mixture.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "kenyan-cuisine",
+    "lunch-ideas",
+    "mexican-influence",
+    "spicy-food",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oozing-spicy-kenyan-cheese-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-spicy-kenyan-cheese-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:02:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Oozing spicy",
+    "dishForm": "Quesadilla"
+  }
+}
