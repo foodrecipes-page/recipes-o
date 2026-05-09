@@ -1,0 +1,96 @@
+{
+  "title": "Oceanic Spanish Seaweed Paella",
+  "description": "This vegan Spanish paella features a variety of seaweeds and is cooked to perfection with mushimono steam, making it a briny and adventurous dish. It is seasoned with kosher salt for added flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "preferably bomba or calasparra"
+    },
+    {
+      "name": "seaweed mix",
+      "amount": "2 cups",
+      "notes": "including wakame, kombu, and hijiki"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the Spanish rice and cook for 2 minutes, stirring constantly, until the rice is lightly toasted.",
+    "Add the seaweed mix, kosher salt, and 2 cups of water to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pan with a lid.",
+    "Steam the paella over low heat for 20 minutes, using the mushimono steam method.",
+    "Remove the lid and stir in the lemon juice.",
+    "Serve the paella hot, garnished with additional seaweed if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushimono",
+    "one-pan",
+    "paella",
+    "seaweed",
+    "spanish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oceanic-spanish-seaweed-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-spanish-seaweed-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:49:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "kosher salt",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seaweed",
+    "descriptor": "Oceanic",
+    "dishForm": "Paella"
+  }
+}

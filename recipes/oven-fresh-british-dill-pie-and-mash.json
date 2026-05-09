@@ -1,0 +1,104 @@
+{
+  "title": "Oven Fresh British Dill Pie And Mash",
+  "description": "A traditional British dish featuring a silky dill pie served with mashed potatoes, this recipe is macrobiotic-friendly and perfect for a comforting meal. The leaf-wrap-steam method adds a unique twist to this classic recipe.",
+  "cuisine": "British",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, boil the chopped potatoes until they are tender, then drain and mash with olive oil, salt, and pepper.",
+    "In a separate pan, sauté the chopped onion and minced garlic until the onion is translucent.",
+    "Add the chopped fresh dill to the pan and cook for an additional 2 minutes.",
+    "Roll out the pie crust and fill with the dill and onion mixture, then top with vegetable broth.",
+    "Cover the pie with a leaf wrap and steam in the oven for 20 minutes.",
+    "Remove the leaf wrap and continue baking for an additional 10 minutes, or until the crust is golden brown.",
+    "Serve the pie with the mashed potatoes and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "oven-fresh-british-dill-pie-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-fresh-british-dill-pie-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:49:33Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dill",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "dill",
+    "descriptor": "Oven Fresh",
+    "dishForm": "Pie And Mash"
+  }
+}
