@@ -1,0 +1,86 @@
+{
+  "title": "Old Fashioned Norwegian Redcurrant Toast",
+  "description": "A traditional Norwegian dish featuring redcurrants and toast, this recipe is a nostalgic and herbal treat that is also FODMAP-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "gluten-free bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "Toast the bread slices until lightly browned.",
+    "In a small bowl, mix together the redcurrants, granulated sugar, and lemon zest.",
+    "Butter each toasted bread slice.",
+    "Spoon the redcurrant mixture onto each bread slice.",
+    "Garnish with chopped fresh mint leaves.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "herbal",
+    "norwegian",
+    "pillowy",
+    "redcurrant",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "old-fashioned-norwegian-redcurrant-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-norwegian-redcurrant-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:08:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "redcurrants",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "redcurrants",
+    "descriptor": "old fashioned",
+    "dishForm": "Toast"
+  }
+}
