@@ -1,0 +1,95 @@
+{
+  "title": "Outdoor Grilled Australian Chicken Sandwich",
+  "description": "A cultured and juicy post-workout Australian dish featuring almond essence, served on double-rise-bread, friendly to all including those who follow Buddhist temple dietary guidelines.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "4 loaves",
+      "notes": "toasted"
+    },
+    {
+      "name": "almond essence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 heads"
+    },
+    {
+      "name": "tomato",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "In a bowl, mix almond essence, olive oil, salt, and pepper to create a marinade.",
+    "Place the chicken breast in the marinade and let it sit for 30 minutes.",
+    "Grill the chicken for 20 minutes or until it reaches 165 degrees Fahrenheit internally.",
+    "Toast the double-rise-bread on the grill for 2 minutes.",
+    "Assemble the sandwich with grilled chicken, lettuce, and tomato on toasted double-rise-bread.",
+    "Serve immediately and enjoy.",
+    "Let the sandwich cool for a few minutes before serving.",
+    "Store leftovers in an airtight container in the refrigerator."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chicken",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 24,
+    "fat": 27
+  },
+  "slug": "outdoor-grilled-australian-chicken-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-australian-chicken-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:13:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "almond essence",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Sandwich"
+  }
+}

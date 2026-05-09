@@ -5896,6 +5896,22 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-grilled-australian-chicken-sandwich",
+    "title": "Outdoor Grilled Australian Chicken Sandwich",
+    "tags": [
+      "australian",
+      "chicken",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "outdoor-grilled-chinese-pork-belly-skewers",
     "title": "Outdoor Grilled Chinese Pork Belly Skewers",
     "tags": [
