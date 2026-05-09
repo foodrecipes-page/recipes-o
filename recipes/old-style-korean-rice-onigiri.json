@@ -1,0 +1,98 @@
+{
+  "title": "Jeju Style Truffle Rice Balls",
+  "description": "Resinous and springy Korean rice onigiri with truffle oil, shaped like nigiri and friendly to ayurvedic tamasic diets",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean rice",
+      "amount": "2 cups",
+      "notes": "short grain"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Noru seaweed",
+      "amount": "1 sheet",
+      "notes": "dried"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Korean rice thoroughly and soak it in water for 4 hours",
+    "Drain and cook the rice with 1 cup of water in a medium saucepan over low heat",
+    "In a small bowl, mix truffle oil, sesame oil, salt, sugar, and rice vinegar",
+    "Once the rice is cooked, allow it to cool down to room temperature",
+    "Mix the cooled rice with the truffle oil mixture until well combined",
+    "Cut the noru seaweed into small pieces and mix with the rice",
+    "Wet your hands with water and shape the rice mixture into small balls",
+    "Roll each ball in sesame seeds to coat",
+    "Serve the rice balls at room temperature"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "korean-snack",
+    "rice-balls",
+    "truffle-oil",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "old-style-korean-rice-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-style-korean-rice-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:36:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "truffle oil",
+    "diet": "ayurvedic-tamasic",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "old style",
+    "dishForm": "Onigiri"
+  }
+}
