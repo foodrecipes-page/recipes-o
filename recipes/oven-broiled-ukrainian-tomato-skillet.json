@@ -1,0 +1,103 @@
+{
+  "title": "Oven Broiled Ukrainian Tomato Skillet",
+  "description": "A tangy and molten Ukrainian dish featuring tomato juice, perfect for a quick-fix dinner, and gluten-free-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 ratio works best"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned tomato juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the canned tomato juice, tomato paste, smoked paprika, salt, and black pepper, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes.",
+    "Create 4 wells in the mixture and crack an egg into each well.",
+    "Sprinkle the shredded cheese over the top of the skillet.",
+    "Place the skillet under the broiler and cook until the eggs are cooked through and the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-broiled-ukrainian-tomato-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-broiled-ukrainian-tomato-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:44:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "tomato juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tomato",
+    "descriptor": "Oven broiled",
+    "dishForm": "Skillet"
+  }
+}
