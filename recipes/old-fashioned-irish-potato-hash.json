@@ -1,0 +1,99 @@
+{
+  "title": "Old Fashioned Irish Potato Hash",
+  "description": "A hearty, jammy, and shaggy Irish dish featuring Chinese sesame sauce and pickle, perfect for a hangover cure, and is ovo-vegetarian-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced bell pepper and cook for an additional 2 minutes.",
+    "Add the diced potatoes and cook for about 10 minutes, or until they start to brown.",
+    "In a small bowl, whisk together the sesame sauce and chopped pickle.",
+    "Pour the sesame sauce mixture over the potatoes and stir to combine.",
+    "Make 4 wells in the potato mixture and crack an egg into each well.",
+    "Season with salt and black pepper to taste.",
+    "Cover the skillet and cook until the eggs are cooked through, about 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "hangover-cure",
+    "irish-food",
+    "one-pan",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "old-fashioned-irish-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-irish-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:32:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "old fashioned",
+    "dishForm": "Hash"
+  }
+}

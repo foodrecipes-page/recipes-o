@@ -1772,6 +1772,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-irish-potato-hash",
+    "title": "Old Fashioned Irish Potato Hash",
+    "tags": [
+      "breakfast-ideas",
+      "hangover-cure",
+      "irish-food",
+      "one-pan",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-jamaican-cabbage-stew",
     "title": "Old Fashioned Jamaican Cabbage Stew",
     "tags": [
@@ -3177,6 +3191,20 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-crumbly-russian-cornmeal-pilaf",
+    "title": "Oozy Crumbly Russian Cornmeal Pilaf",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "plant-based",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
