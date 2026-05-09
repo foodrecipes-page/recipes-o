@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Ethiopian Chorizo Gomen",
+  "description": "A charred and silky Ethiopian dish featuring chorizo, cooked in a clay pot and infused with Mediterranean flavors, gomen style.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ethiopian chorizo",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "collard greens",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large clay pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the sliced chorizo and cook until it is browned.",
+    "Add the chopped collard greens, berbere spice, salt, and black pepper, and stir to combine.",
+    "Transfer the clay pot to the preheated oven and roast for 20 minutes.",
+    "Remove the pot from the oven and stir in the lemon juice.",
+    "Return the pot to the oven and roast for an additional 10 minutes.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean-inspired",
+    "one-pot",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 39
+  },
+  "slug": "oven-roasted-ethiopian-chorizo-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ethiopian-chorizo-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:26:05Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chorizo",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Gomen"
+  }
+}
