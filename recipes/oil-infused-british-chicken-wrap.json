@@ -1,0 +1,97 @@
+{
+  "title": "Oil Infused British Chicken Wrap",
+  "description": "A satvik friendly, earthy and springy dish featuring birds eye chillies, perfect for a sick day, wrapped in a lotus leaf wrap.",
+  "cuisine": "British",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "birds eye chillies",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "score fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken, birds eye chillies, salt, and black pepper.",
+    "Heat the score fat in a large skillet over medium heat and cook the chicken mixture until browned.",
+    "Add the olive oil to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and let the chicken cool slightly.",
+    "Spoon the chicken mixture onto the center of each lotus leaf.",
+    "Sprinkle the chopped parsley over the top of the chicken.",
+    "Fold the lotus leaves over the filling to form a wrap.",
+    "Serve the wraps hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "chicken-dish",
+    "gluten-free",
+    "lotus-leaf-wrap",
+    "oil-infused",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "oil-infused-british-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-british-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:35:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Oil Infused",
+    "dishForm": "Wrap"
+  }
+}

@@ -789,6 +789,21 @@
     "shard": "o"
   },
   {
+    "slug": "oil-infused-british-chicken-wrap",
+    "title": "Oil Infused British Chicken Wrap",
+    "tags": [
+      "british-cuisine",
+      "chicken-dish",
+      "gluten-free",
+      "lotus-leaf-wrap",
+      "oil-infused",
+      "satvik-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oil-infused-dutch-fruit-pudding",
     "title": "Oil Infused Dutch Fruit Pudding",
     "tags": [
