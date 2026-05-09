@@ -1,0 +1,103 @@
+{
+  "title": "Outstandingly Fluffy American Chicken Tagine",
+  "description": "A sour and fluffy American dish featuring palm sugar and a tagine cook method, perfect for a date night and dairy free friendly.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nam tan pip",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix the palm sugar, nam tan pip, salt, and black pepper in a small bowl.",
+    "Rub the sugar mixture all over the chicken pieces.",
+    "Heat the olive oil in a large tagine or Dutch oven over medium high heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the chicken pieces to the pot and cook until they are browned on all sides.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Cook for 25 minutes or until the chicken is cooked through and the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "chicken-recipes",
+    "dairy-free",
+    "date-night",
+    "tagine-cook"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "outstandingly-fluffy-american-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-fluffy-american-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:09:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "tagine-cook",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "outstandingly fluffy",
+    "dishForm": "Tagine"
+  }
+}
