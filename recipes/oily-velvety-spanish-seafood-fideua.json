@@ -1,0 +1,101 @@
+{
+  "title": "Oily Velvety Spanish Seafood Fideua",
+  "description": "A festive and rich Galician dish featuring seafood and a unique twist on traditional fideua, using english muffins to create a velvety texture, and emulsification for a smooth and oily sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "english muffins",
+      "amount": "6",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the shrimp, mussels, and clams, and cook until the seafood is lightly browned, about 5 minutes.",
+    "Add the smoked paprika, lemon juice, and chicken broth, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the seafood is cooked through and the sauce has thickened, about 10 minutes.",
+    "While the seafood is cooking, toast the english muffin pieces in the oven until lightly browned, about 5 minutes.",
+    "To emulsify the sauce, slowly pour it into a blender or food processor while running, then return it to the skillet.",
+    "Add the toasted english muffin pieces to the skillet and stir to combine with the seafood and sauce.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "emulsified-sauce",
+    "galician",
+    "one-pan",
+    "seafood",
+    "spanish",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "oily-velvety-spanish-seafood-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-velvety-spanish-seafood-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:42:28Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "emulsify",
+    "primaryIngredient": "english muffins",
+    "diet": "kosher",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seafood",
+    "descriptor": "oily velvety",
+    "dishForm": "Fideua"
+  }
+}
