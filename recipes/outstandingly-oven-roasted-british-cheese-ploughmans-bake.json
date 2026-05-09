@@ -1,0 +1,96 @@
+{
+  "title": "Outstandingly Oven Roasted British Cheese Ploughmans Bake",
+  "description": "A crowd-pleasing British dish featuring lemon and cheese, this ploughmans bake is a sour and silky delight, perfect for a gathering of friends and family. It is a raw-friendly and easy to make dish.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "200g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Lancashire cheese",
+      "amount": "200g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Apples",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": "crusty"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large bowl, mix together the Wensleydale and Lancashire cheese.",
+    "Add the sliced apples, pickles, and lemon juice to the bowl and stir well.",
+    "Butter the crusty bread and place it in the oven for 5 minutes to toast.",
+    "Remove the bread from the oven and top it with the cheese mixture.",
+    "Return the bread to the oven and bake for 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the bake from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the ploughmans bake hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "cheese-lovers",
+    "easy-recipe",
+    "lunch-ideas",
+    "oven-baked",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "outstandingly-oven-roasted-british-cheese-ploughmans-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-oven-roasted-british-cheese-ploughmans-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:48:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "lemon",
+    "diet": "raw",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "outstandingly oven roasted",
+    "dishForm": "Ploughmans Bake"
+  }
+}
