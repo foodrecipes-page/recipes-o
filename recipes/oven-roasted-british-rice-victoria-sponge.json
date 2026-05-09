@@ -1,0 +1,89 @@
+{
+  "title": "Oven Roasted British Rice Victoria Sponge",
+  "description": "A cultured, crisp, solo-dinner British dish featuring bay leaves and fry-grind-rice-khao-khua in a Victoria sponge form, cooked in a paella pan. This nut-free-friendly recipe is perfect for a special occasion.",
+  "cuisine": "British",
+  "diet": [
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "self-raising flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the self-raising flour, granulated sugar, and melted unsalted butter.",
+    "In a separate bowl, whisk together the eggs and whole milk.",
+    "Add the fry-grind-rice-khao-khua to the egg mixture and stir until well combined.",
+    "Add the egg mixture to the flour mixture and stir until a smooth batter forms.",
+    "Pour the batter into a paella pan lined with parchment paper.",
+    "Place the bay leaves on top of the batter.",
+    "Bake for 35 minutes or until the sponge is golden brown and cooked through.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "one-pan",
+    "oven-roasted",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 200,
+    "fat": 40
+  },
+  "slug": "oven-roasted-british-rice-victoria-sponge",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-british-rice-victoria-sponge",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:14:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "bay leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "rice",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Victoria Sponge"
+  }
+}
