@@ -1,0 +1,92 @@
+{
+  "title": "Oven Roasted Turkish Cheese Kunefe",
+  "description": "A traditional Turkish dessert featuring melted cheese and crispy phyllo, now adapted to be sugar-free friendly and made with dry white wine, perfect for meal prep. This jammy and velvety kunefe is a unique twist on the classic recipe.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "Turkish cheese or mozzarella"
+    },
+    {
+      "name": "dum",
+      "amount": "1/4 cup",
+      "notes": "or other sugar substitute"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with melted butter.",
+    "Mix the cheese, dum, and beaten eggs in a bowl until well combined.",
+    "Pour the cheese mixture over the phyllo dough, making sure to cover the entire surface.",
+    "Drizzle the dry white wine over the cheese mixture.",
+    "Bake the kunefe in the preheated oven for 35 minutes, or until the top is golden brown.",
+    "Remove the kunefe from the oven and let it cool for 10 minutes before serving.",
+    "Serve the kunefe warm, garnished with a sprinkle of salt and a side of fresh fruit if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-dessert",
+    "meal-prep",
+    "oven-roasted",
+    "sugar-free",
+    "turkish-dish",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "oven-roasted-turkish-cheese-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-cheese-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:03:02Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "dry white wine",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "oven roasted",
+    "dishForm": "Kunefe"
+  }
+}
