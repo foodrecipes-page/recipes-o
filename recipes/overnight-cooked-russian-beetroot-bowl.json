@@ -1,0 +1,96 @@
+{
+  "title": "Overnight Cooked Russian Beetroot Bowl",
+  "description": "A citrusy and aerated Russian dish featuring cooked beetroot, perfect for midnight cravings, cooked in ttukbaegi earthenware and served in a lacquerware bowl, sugar free friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot in the oven at 300 degrees Fahrenheit for 10 minutes.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Add the chopped beetroot to the bowl and toss to coat with the lemon juice mixture.",
+    "Remove the preheated ttukbaegi pot from the oven and carefully add the beetroot mixture to the pot.",
+    "Add the water to the pot and cover with a lid.",
+    "Return the pot to the oven and cook for 6 hours or overnight.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Stir in the chopped fresh dill.",
+    "Spoon the cooked beetroot mixture into a lacquerware bowl and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 360,
+  "totalTimeMin": 380,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "midnight-cravings",
+    "overnight-cooking",
+    "russian-cuisine",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "overnight-cooked-russian-beetroot-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/overnight-cooked-russian-beetroot-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:39:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beetroot",
+    "descriptor": "overnight cooked",
+    "dishForm": "Bowl"
+  }
+}
