@@ -1,0 +1,96 @@
+{
+  "title": "Oven Roasted Canadian Baby Aubergine Gratin",
+  "description": "A romantic Canadian dish featuring baby aubergine, slow-cooked to perfection with a citrusy and glassy-jelly texture, perfect for a low-glycemic diet",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "Canadian grown"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the baby aubergine with olive oil, lemon juice, garlic, salt, and black pepper until they are evenly coated.",
+    "In a separate bowl, mix the shredded grana padano cheese with a pinch of salt and pepper.",
+    "In a 9x13 inch baking dish, create a layer of sliced onion.",
+    "Add a layer of the coated baby aubergine on top of the onion.",
+    "Sprinkle a third of the cheese mixture over the aubergine.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the aubergine is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "romantic-dinner",
+    "slow-cooked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "oven-roasted-canadian-baby-aubergine-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-canadian-baby-aubergine-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:12:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "baby aubergine",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Gratin"
+  }
+}
