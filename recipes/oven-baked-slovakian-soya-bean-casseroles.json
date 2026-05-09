@@ -1,0 +1,95 @@
+{
+  "title": "Oven Baked Slovakian Soya Bean Casserole",
+  "description": "A malty, dense, and festive Slovakian dish featuring soya bean and candy, friendly to ayurvedic-rajasic diets. This casserole is perfect for special occasions.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the mashed soya beans, malt syrup, chopped candy pieces, rolled oats, vegetable oil, turmeric, ginger, and salt.",
+    "Mix all the ingredients together until well combined.",
+    "Transfer the mixture to a baking dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes.",
+    "Serve the casserole warm, garnished with additional candy pieces if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "festive",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oven-baked-slovakian-soya-bean-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-slovakian-soya-bean-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:32:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "candy",
+    "primaryIngredient": "soya bean",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "soya bean",
+    "descriptor": "Oven Baked",
+    "dishForm": "Casseroles"
+  }
+}
