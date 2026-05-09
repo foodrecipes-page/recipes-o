@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Mexican Tomato Tacos",
+  "description": "Savory and fluffy tacos filled with roasted Mexican tomatoes and tempered chocolate, perfect for a keto-friendly dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "4 large",
+      "notes": "cored and chopped"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Dark chocolate",
+      "amount": "1 ounce",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "8-10",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "keto-friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped tomatoes with avocado oil, onion, garlic, cumin, chili powder, and salt until they are evenly coated.",
+    "Spread the tomato mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the tomatoes are roasting, melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Once the tomatoes are done, remove them from the oven and let them cool slightly.",
+    "Temper the melted chocolate by stirring it constantly and letting it cool to around 82 degrees Fahrenheit.",
+    "Assemble the tacos by spooning the roasted tomatoes into the taco shells, followed by a sprinkle of shredded cheese and a drizzle of tempered chocolate.",
+    "Serve the tacos immediately and enjoy.",
+    "Garnish with additional chopped onion, garlic, or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "mexican-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "outstanding-oven-roasted-mexican-tomato-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-mexican-tomato-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:17:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tomato",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomato",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Tacos"
+  }
+}
