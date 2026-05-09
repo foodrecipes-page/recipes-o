@@ -776,6 +776,21 @@
     "shard": "o"
   },
   {
+    "slug": "oil-infused-saudi-arabian-lamb-tagine",
+    "title": "Oil Infused Saudi Arabian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb",
+      "middle-eastern",
+      "one-pot",
+      "saudi-arabian",
+      "stir-fry"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 110,
+    "shard": "o"
+  },
+  {
     "slug": "oil-infused-spanish-apricot-pilaf",
     "title": "Oil Infused Spanish Apricot Pilaf",
     "tags": [
@@ -8661,6 +8676,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-french-wild-garlic-bouillabaisse",
+    "title": "Oven Roasted French Wild Garlic Bouillabaisse",
+    "tags": [
+      "french-cuisine",
+      "gluten-free",
+      "low-glycemic",
+      "one-pot",
+      "oven-roasted",
+      "seafood-stew"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

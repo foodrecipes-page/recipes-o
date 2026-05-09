@@ -1,0 +1,107 @@
+{
+  "title": "Oil Infused Saudi Arabian Lamb Tagine",
+  "description": "A sweet and silky Saudi Arabian dish featuring lamb, perfect for a solo dinner, made with a vegetable stock cube and stir-fry method in a cazuela.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cazuela over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the vegetable stock cubes, ground cumin, ground coriander, salt, and black pepper, and stir to combine.",
+    "Add the chopped dried apricots and prunes, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve the lamb and sauce hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "middle-eastern",
+    "one-pot",
+    "saudi-arabian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "oil-infused-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:31:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "oil infused",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Oven Roasted French Wild Garlic Bouillabaisse",
+  "description": "A hearty, herbal French stew featuring wild garlic leaves, served with a low-glycemic-friendly ssam-wrap, perfect for a lazy Sunday. This dish is a creative twist on the classic bouillabaisse, with a focus on fresh, seasonal ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 bunch",
+      "notes": "freshly foraged or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4-6",
+      "notes": "low-carb, gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the wild garlic leaves with olive oil, salt, and pepper, and spread on a baking sheet to roast for 10 minutes.",
+    "In a large pot, saute the onions and garlic until softened, about 5 minutes.",
+    "Add the mussels and cod to the pot, and cook until the seafood is opaque and the mussels are open, about 5 minutes.",
+    "Add the roasted wild garlic leaves and vegetable broth to the pot, and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10 minutes.",
+    "Season the bouillabaisse with salt, pepper, and a squeeze of lemon juice.",
+    "Serve the bouillabaisse in bowls, with ssam wraps on the side for wrapping.",
+    "Garnish with additional wild garlic leaves, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "oven-roasted",
+    "seafood-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-french-wild-garlic-bouillabaisse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-french-wild-garlic-bouillabaisse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:31:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "wild garlic",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Bouillabaisse"
+  }
+}
