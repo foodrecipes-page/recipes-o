@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted French Beef Macaron",
+  "description": "A pungent and molten weeknight French dish featuring tarragon and a macaron form, this recipe is macrobiotic-friendly and perfect for a dinner meal. It combines the flavors of Burgundy with the uniqueness of a spherified macaron.",
+  "cuisine": "French",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "Grass-fed"
+    },
+    {
+      "name": "Tarragon",
+      "amount": "2 tablespoons",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, tarragon, onion, and garlic, mixing well with your hands or a wooden spoon until just combined.",
+    "In a separate bowl, mix the almond flour, egg whites, salt, and black pepper to form a macaron batter.",
+    "Spoon the macaron batter into a piping bag fitted with a round tip.",
+    "Pipe the batter into small, round shapes onto a parchment-lined baking sheet.",
+    "Place a small spoonful of the beef mixture onto one half of each macaron shape.",
+    "Fold the other half of the macaron over the beef to form a sphere, pressing the edges together to seal.",
+    "Place the macarons on a baking sheet lined with parchment paper and roast in the preheated oven for 15 minutes.",
+    "Reduce the oven temperature to 350 degrees Fahrenheit and continue roasting for an additional 10 minutes, or until the macarons are golden brown and the beef is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "french-cuisine",
+    "macrobiotic",
+    "one-pan",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "oven-roasted-french-beef-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-french-beef-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:57:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "tarragon-french",
+    "diet": "macrobiotic",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Macaron"
+  }
+}
