@@ -1,0 +1,102 @@
+{
+  "title": "Oily Peppery Saudi Arabian Yoghurt Kebabs",
+  "description": "A traditional Saudi Arabian dish featuring natural yoghurt and a blend of spices, resulting in a peppery and bouncy kebab, perfect for a cozy meal. This halal-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natural yoghurt",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "minced lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "Mix the minced lamb, black pepper, cumin powder, coriander powder, and salt in a bowl.",
+    "Add the olive oil, garlic, and onion to the bowl and mix well.",
+    "Stir in the natural yoghurt and lemon juice.",
+    "Thread the mixture onto skewers.",
+    "Place the skewers on a baking tray lined with parchment paper.",
+    "Bake for 20 minutes or until the kebabs are cooked through.",
+    "Serve hot with a side of rice or salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "weeknight",
+    "yoghurt-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "oily-peppery-saudi-arabian-yoghurt-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-peppery-saudi-arabian-yoghurt-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:41:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "yoghurt",
+    "descriptor": "oily peppery",
+    "dishForm": "Kebabs"
+  }
+}
