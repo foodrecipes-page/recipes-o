@@ -1,0 +1,92 @@
+{
+  "title": "Oozy Velvety Russian Egg Spring Rolls",
+  "description": "A salty and cozy Russian dish featuring egg rolls with a mother sauce base, served in a lacquerware bowl. This high protein friendly meal is perfect for a cold winter evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Spring roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together eggs, flour, milk, butter, salt, and pepper until smooth.",
+    "Heat a small amount of vegetable oil in a non stick pan over medium heat.",
+    "Pour a small amount of the egg mixture into the pan and tilt to evenly coat the bottom.",
+    "Once the egg is almost set, place a spring roll wrapper on top and fold the edges to seal.",
+    "Roll the egg and wrapper into a tight cylinder and repeat with the remaining ingredients.",
+    "Serve the egg rolls in a lacquerware bowl with a side of mother sauce for dipping.",
+    "To make the mother sauce, combine equal parts sour cream and mayonnaise with a pinch of salt and pepper.",
+    "Stir the sauce until smooth and refrigerate until ready to serve.",
+    "Heat the egg rolls in the oven at 350 degrees for 5 minutes before serving.",
+    "Garnish with chopped fresh herbs and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lacquerware-bowl",
+    "russian-cuisine",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "oozy-velvety-russian-egg-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-velvety-russian-egg-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:53:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "egg rolls",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "egg",
+    "descriptor": "Oozy Velvety",
+    "dishForm": "Spring-Rolls"
+  }
+}
