@@ -1,0 +1,100 @@
+{
+  "title": "Oceanic Briny Filipino Jackfruit Halo Halo",
+  "description": "A dense and energizing Filipino dessert featuring jackfruit, nutmeg, and deep-fried ingredients, made with ayurvedic-sattvic-friendly principles in mind. This unique halo-halo dish combines the sweetness of jackfruit with the savory flavor of briny ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jackfruit",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agemono deep-fry mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "briny pickled vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the jackfruit, coconut milk, nutmeg, and sea salt, and mix well.",
+    "In a separate bowl, whisk together the plant-based milk and maple syrup until smooth.",
+    "Heat the agemono deep-fry mix according to the package instructions and deep-fry the pickled vegetables until crispy.",
+    "In a small pan, toast the coconut flakes over medium heat until lightly browned.",
+    "To assemble the halo-halo, place a scoop of the jackfruit mixture into a bowl, followed by a spoonful of the deep-fried pickled vegetables, a sprinkle of toasted coconut flakes, and a drizzle of the milk mixture.",
+    "Garnish with sesame seeds and serve immediately.",
+    "Repeat the assembly process for the remaining ingredients.",
+    "Chill the halo-halo in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "briny-flavors",
+    "deep-fried",
+    "filipino-food",
+    "jackfruit-recipes",
+    "vegan-desserts"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oceanic-briny-filipino-jackfruit-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-briny-filipino-jackfruit-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:56:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "nutmeg",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "jackfruit",
+    "descriptor": "Oceanic Briny",
+    "dishForm": "Halo Halo"
+  }
+}
