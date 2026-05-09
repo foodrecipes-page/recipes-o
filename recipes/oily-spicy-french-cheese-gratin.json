@@ -1,0 +1,110 @@
+{
+  "title": "Oily Spicy French Cheese Gratin",
+  "description": "A spicy, cheesy French dish from Brittany featuring whole milk and score-fat, ayurvedic-tamasic-friendly ingredients. It is perfect for a cold winter night.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "french bread",
+      "amount": "1 loaf",
+      "notes": "day old, cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the whole milk, shredded gruyere cheese, and melted butter.",
+    "Add the chopped onion, minced garlic, cayenne pepper, salt, and black pepper to the saucepan and stir until the cheese is melted and the mixture is smooth.",
+    "Add the all purpose flour to the saucepan and stir until the mixture is thickened.",
+    "Transfer the mixture to a baking dish and top with the cubed french bread.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until the top is golden brown and the cheese is bubbly.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving.",
+    "Serve the gratin hot, garnished with fresh herbs if desired.",
+    "Refrigerate or freeze the gratin for later use.",
+    "Reheat the gratin in the oven or microwave until hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "french-cuisine",
+    "spicy",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oily-spicy-french-cheese-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-spicy-french-cheese-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:38:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "whole milk",
+    "diet": "ayurvedic-tamasic",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "oily spicy",
+    "dishForm": "Gratin"
+  }
+}

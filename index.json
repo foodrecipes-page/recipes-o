@@ -1534,6 +1534,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-spicy-french-cheese-gratin",
+    "title": "Oily Spicy French Cheese Gratin",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "french-cuisine",
+      "spicy",
+      "vegetarian",
+      "winter-dish"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oily-spicy-jamaican-chicken-breast-curry",
     "title": "Oily Spicy Jamaican Chicken Breast Curry",
     "tags": [
@@ -10507,6 +10522,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-simmered-filipino-rice-noodles-pancit-bihon",
+    "title": "Oven Simmered Filipino Rice Noodles Pancit Bihon",
+    "tags": [
+      "diabetic-friendly",
+      "easy-dinner",
+      "filipino-food",
+      "low-sodium",
+      "one-pot",
+      "oven-cooked"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {

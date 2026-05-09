@@ -1,0 +1,96 @@
+{
+  "title": "Oven Simmered Filipino Rice Noodles Pancit Bihon",
+  "description": "A diabetic-friendly Filipino dish featuring rice noodles simmered in a mixture of chicken broth and apple cider vinegar, served as a solo dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "pancit bihon style"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the vegetable oil over medium heat on the stovetop.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken broth, apple cider vinegar, salt, and black pepper to the pot, stirring to combine.",
+    "Bring the mixture to a simmer, then add the rice noodles to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Simmer the noodles in the oven for 20 minutes, or until they are cooked through and the liquid has been absorbed.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving.",
+    "Serve the pancit bihon hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "easy-dinner",
+    "filipino-food",
+    "low-sodium",
+    "one-pot",
+    "oven-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oven-simmered-filipino-rice-noodles-pancit-bihon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-simmered-filipino-rice-noodles-pancit-bihon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:38:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Oven Simmered",
+    "dishForm": "Pancit Bihon"
+  }
+}
