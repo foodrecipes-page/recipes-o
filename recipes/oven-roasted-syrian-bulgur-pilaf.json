@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Syrian Bulgur Pilaf",
+  "description": "A malty and crumbly one-pot Syrian dish featuring fresh basil and caramelized flavors, wrapped in a ti-leaf for an authentic touch, this ayurvedic-tamasic-friendly pilaf is perfect for a weeknight dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ti-leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, rinse the bulgur and soak it in water for 30 minutes.",
+    "Drain the water and set the bulgur aside in a large oven-safe pot.",
+    "In the same pot, heat the olive oil over medium heat on the stovetop.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional 2 minutes.",
+    "Stir in the chopped basil, salt, and black pepper.",
+    "Add the soaked bulgur to the pot, stirring to combine with the onion and spice mixture.",
+    "Wrap the ti-leaves around the pot, securing with kitchen twine if needed.",
+    "Transfer the pot to the preheated oven and roast for 25 minutes.",
+    "Remove the pot from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "one-pot",
+    "syrian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oven-roasted-syrian-bulgur-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-syrian-bulgur-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:03:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "fresh basil",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "bulgur",
+    "descriptor": "oven roasted",
+    "dishForm": "Pilaf"
+  }
+}
