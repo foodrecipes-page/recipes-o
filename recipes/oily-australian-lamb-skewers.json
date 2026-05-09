@@ -1,0 +1,98 @@
+{
+  "title": "Oily Australian Lamb Skewers",
+  "description": "A bitter, silky, and cozy Australian dish featuring sesame seed oil and lamb, perfect for a cold evening, this recipe is also FODMAP-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "15ml",
+      "notes": "make sure it is FODMAP-friendly"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "In a large bowl, whisk together sesame seed oil, lemon juice, garlic-infused oil, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking tray lined with parchment paper and sprinkle with sesame seeds.",
+    "Bake the skewers in the preheated oven for 20 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Remove the skewers from the oven and garnish with bay leaves.",
+    "Serve the skewers hot, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "fodmap-friendly",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "oily-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:29:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "oily outdoorsy",
+    "dishForm": "Skewers"
+  }
+}
