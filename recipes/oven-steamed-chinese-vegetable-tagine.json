@@ -1,0 +1,103 @@
+{
+  "title": "Oven Steamed Chinese Vegetable Tagine",
+  "description": "A peppery and dense Chinese dish featuring salted butter and steam, made in a tagine pot, this recipe is a quick fix for a delicious meal. It is also shojin friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter can be used with added salt"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In the tagine pot, melt the salted butter over low heat.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the sliced shiitake mushrooms and cook for 2 minutes.",
+    "Add the chopped bok choy, sliced carrots, and chopped green onions, and stir to combine.",
+    "In a small bowl, whisk together the soy sauce and sesame oil, and pour over the vegetables.",
+    "Cover the tagine pot and transfer to the preheated oven.",
+    "Steam the vegetables in the oven for 20 minutes.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "one-pot",
+    "quick-fix",
+    "steamed-vegetables",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-steamed-chinese-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-steamed-chinese-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:40:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "salted butter",
+    "diet": "shojin",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "vegetables",
+    "descriptor": "oven steamed",
+    "dishForm": "Tagine"
+  }
+}

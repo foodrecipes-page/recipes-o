@@ -12881,6 +12881,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-steamed-chinese-vegetable-tagine",
+    "title": "Oven Steamed Chinese Vegetable Tagine",
+    "tags": [
+      "chinese-cuisine",
+      "one-pot",
+      "quick-fix",
+      "steamed-vegetables",
+      "vegan-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oven-steamed-egyptian-penne-rigate-pasta",
     "title": "Oven Steamed Egyptian Penne Rigate Pasta",
     "tags": [
