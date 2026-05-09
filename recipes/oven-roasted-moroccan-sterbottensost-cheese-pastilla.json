@@ -1,0 +1,92 @@
+{
+  "title": "Oven Roasted Moroccan Sterbottensost Cheese Pastilla",
+  "description": "A cozy Moroccan dish featuring Sterbottensost cheese, this pastilla is a perfect blend of flavors and textures, with a smoky and cold twist, making it shojin-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sterbottensost cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the crumbled Sterbottensost cheese, smoked paprika, ground cumin, salt, and black pepper.",
+    "Layer the filo dough in a large baking dish, brushing each layer with olive oil.",
+    "Spread the cheese mixture evenly over the filo dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the filo dough over the cheese mixture to form a pastilla shape.",
+    "Brush the top of the pastilla with olive oil and sprinkle with chopped parsley.",
+    "Bake the pastilla in the preheated oven for 25 minutes, or until the filo dough is golden brown.",
+    "Remove the pastilla from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "moroccan-cuisine",
+    "shojin-friendly",
+    "smoky-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "oven-roasted-moroccan-sterbottensost-cheese-pastilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-moroccan-sterbottensost-cheese-pastilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:24:37Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "smoke-cold",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sterbottensost cheese",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pastilla"
+  }
+}
