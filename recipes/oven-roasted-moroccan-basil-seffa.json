@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Moroccan Basil Seffa",
+  "description": "A comforting and herbal Moroccan dish featuring basil, this vegan-friendly seffa is perfect for a weeknight dinner. It has a bouncy and qq texture that is sure to please.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "dried basil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the couscous, dried basil, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the water and lemon juice to the skillet and bring the mixture to a boil.",
+    "Pour the wet ingredients over the dry ingredients and stir until the couscous is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover it with aluminum foil.",
+    "Bake the seffa in the preheated oven for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-texture",
+    "comfort-food",
+    "herbal",
+    "moroccan-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oven-roasted-moroccan-basil-seffa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-moroccan-basil-seffa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:23:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "dehydrate",
+    "primaryIngredient": "basil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "basil",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Seffa"
+  }
+}
