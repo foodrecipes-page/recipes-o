@@ -1,0 +1,100 @@
+{
+  "title": "Oily Outward Japanese Papelon Noodles",
+  "description": "A traditional Chubu dish featuring papelon, served on a cedar plank, this recipe is perfect for a post-workout meal, with its jammy and bouncy texture, and is egg-free friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "200g",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "noodles",
+      "amount": "400g",
+      "notes": "Japanese rice noodles"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "60ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "ginger",
+      "amount": "20g",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "10g",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the noodles and cook according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, grated ginger, and minced garlic.",
+    "Add the papelon to the bowl and stir to combine.",
+    "Once the noodles are cooked, drain and set aside.",
+    "In the same pot, add the soy sauce mixture and bring to a simmer.",
+    "Deglaze the pot with the soy sauce mixture, scraping up any browned bits from the bottom.",
+    "Add the cooked noodles back to the pot and toss to combine with the sauce.",
+    "Serve the noodles on the cedar plank, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-carb",
+    "japanese-cuisine",
+    "one-pan",
+    "post-workout",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "oily-outward-japanese-papelon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-outward-japanese-papelon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:17:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "papelon",
+    "diet": "egg-free",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "papelon",
+    "descriptor": "oily outward",
+    "dishForm": "Noodles"
+  }
+}
