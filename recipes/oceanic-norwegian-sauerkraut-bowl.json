@@ -1,0 +1,101 @@
+{
+  "title": "Oceanic Norwegian Sauerkraut Bowl",
+  "description": "A funky and refreshing Norwegian dish featuring white sauerkraut and kombu cold extract, perfect for a solo dinner. This plant-based friendly bowl is a unique and healthy option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "norwegian seaweed",
+      "amount": "1/4 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the white sauerkraut in cold water and drain well.",
+    "In a small bowl, whisk together the kombu cold extract and apple cider vinegar.",
+    "In a large bowl, combine the cooked brown rice, grated carrots, and rehydrated norwegian seaweed.",
+    "Add the drained sauerkraut to the bowl and pour the kombu extract mixture over the top.",
+    "Drizzle the sesame oil over the sauerkraut and sprinkle with salt and black pepper.",
+    "Toss the mixture gently to combine.",
+    "Cover the bowl with a lid or plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the Oceanic Norwegian Sauerkraut Bowl chilled, garnished with additional norwegian seaweed if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-dinner",
+    "norwegian-cuisine",
+    "one-bowl-meal",
+    "plant-based",
+    "quick-and-easy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oceanic-norwegian-sauerkraut-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-norwegian-sauerkraut-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:01:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Oceanic",
+    "dishForm": "Bowl"
+  }
+}
