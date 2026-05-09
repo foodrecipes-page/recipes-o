@@ -1,0 +1,92 @@
+{
+  "title": "Oven Roasted Peruvian Sweet Potatoes Picarones",
+  "description": "Rich and crispy Peruvian sweet potato picarones, perfect for a midnight craving, made with unsalted butter and a Jain-friendly marinade.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted butter, lime juice, garlic powder, paprika, salt, black pepper, and chili powder.",
+    "Add the sweet potato cubes to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the sweet potato cubes in a single layer.",
+    "Roast the sweet potatoes in the preheated oven for 20 minutes.",
+    "Remove the sweet potatoes from the oven and use a spatula to flip them over.",
+    "Return the sweet potatoes to the oven and continue roasting for an additional 15-20 minutes, or until crispy and golden brown.",
+    "Remove the sweet potatoes from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "peruvian-cuisine",
+    "roasted-vegetables",
+    "sweet-potato-recipes",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-roasted-peruvian-sweet-potatoes-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-peruvian-sweet-potatoes-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:49:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "unsalted butter",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Picarones"
+  }
+}
