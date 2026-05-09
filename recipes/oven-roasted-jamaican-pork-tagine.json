@@ -1,0 +1,104 @@
+{
+  "title": "Oven-Roasted Jamaican Pork Tagine",
+  "description": "A flavorful and tender Jamaican-inspired dish featuring pork, onions, and spices roasted to perfection in the oven. This recipe is free from added sugars and is perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced, seeds and membranes removed"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork shoulder with salt and pepper.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the pork from the pot and set it aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot.",
+    "Cook the onion until it's softened and lightly browned, about 5-7 minutes.",
+    "Add the diced scotch bonnet peppers, allspice, thyme, and ginger to the pot.",
+    "Cook for 1-2 minutes, stirring constantly.",
+    "Add the soy sauce to the pot and stir to combine.",
+    "Return the pork shoulder to the pot and make sure it's coated with the spice mixture.",
+    "Transfer the pot to the preheated oven and roast the pork for 2-3 hours, or until it's tender and falls apart easily.",
+    "Let the pork rest for 10-15 minutes before slicing it thinly and serving it with the sauce from the pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "one-pan",
+    "pork",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "oven-roasted-jamaican-pork-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-pork-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T01:20:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "pork",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Tagine"
+  }
+}
