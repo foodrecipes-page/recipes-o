@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Algerian Lentil Tagine",
+  "description": "A hearty and flavorful Algerian dish made with roasted French lentils and a blend of spices, perfect for a kid-friendly dinner",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, toss the lentils with olive oil, cumin, smoked paprika, salt, and black pepper until they are evenly coated",
+    "Spread the lentils in a single layer on a baking sheet and roast for 20 minutes",
+    "In a large Dutch oven, combine the roasted lentils, diced tomatoes, and chicken broth",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven",
+    "Bake for 25 minutes, or until the lentils are tender and the liquid has been absorbed",
+    "Stir in the chopped parsley and serve hot",
+    "Let the tagine rest for 10 minutes before serving",
+    "Serve the tagine over couscous or rice, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oven-roasted-algerian-lentil-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-algerian-lentil-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:51:31Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "french lentils",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lentils",
+    "descriptor": "oven roasted",
+    "dishForm": "Tagine"
+  }
+}
