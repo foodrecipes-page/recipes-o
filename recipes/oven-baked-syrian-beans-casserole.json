@@ -1,0 +1,103 @@
+{
+  "title": "Oven Baked Syrian Beans Casserole",
+  "description": "A light and sour Syrian dish featuring baked beans, perfect for a brunch mood, with a shio-koji cure and ayurvedic-sattvic friendly ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the canned beans, shio-koji, olive oil, onion, garlic, tomato paste, lemon juice, salt, and black pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 30 minutes.",
+    "Remove the casserole from the oven and sprinkle with chopped fresh parsley.",
+    "Return the casserole to the oven and bake for an additional 10 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "healthy-eating",
+    "one-pan",
+    "syrian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-baked-syrian-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-syrian-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:20:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "baked beans",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beans",
+    "descriptor": "Oven Baked",
+    "dishForm": "Casserole"
+  }
+}
