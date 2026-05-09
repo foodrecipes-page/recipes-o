@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Smoky Spanish Beef Salmorejo",
+  "description": "A smoky and juicy Spanish dish featuring ground beef and a blend of spices, served in a salmorejo form. This recipe is halal-friendly and uses ground nut oil for added flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "day old bread, cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ground nut oil in a large skillet over medium high heat.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the smoked paprika, bhuna spice blend, salt, and black pepper to the skillet and stir to combine.",
+    "Add the tomato paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the skillet and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 10 minutes, stirring occasionally.",
+    "While the beef mixture is cooking, toast the bread cubes in a toaster or under the broiler.",
+    "Once the bread is toasted, add it to the skillet with the beef mixture and stir to combine.",
+    "Let the mixture cook for an additional 2 minutes, stirring constantly, until the bread is fully incorporated and the mixture is heated through.",
+    "Serve the salmorejo hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "halal",
+    "one-pot",
+    "salmorejo",
+    "smoky",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oozy-smoky-spanish-beef-salmorejo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-smoky-spanish-beef-salmorejo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:18:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "ground nut oil",
+    "diet": "halal",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beef",
+    "descriptor": "Oozy Smoky",
+    "dishForm": "Salmorejo"
+  }
+}
