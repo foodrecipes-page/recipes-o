@@ -1,0 +1,94 @@
+{
+  "title": "Oven Broiled Syrian Chicken Kebabs",
+  "description": "A citrusy and energizing Syrian dish featuring chicken breast, rapeseed oil, and a blend of spices, served in a molcajete vessel.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rapeseed oil, lemon juice, garlic, paprika, cumin, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a molcajete vessel or on a broiler pan.",
+    "Broil the chicken kebabs in the preheated oven for 10-12 minutes, or until cooked through.",
+    "Serve the chicken kebabs hot, garnished with fresh parsley or cilantro.",
+    "Repeat the cooking process for any remaining skewers.",
+    "Let the chicken rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-kebabs",
+    "citrusy",
+    "gluten-free",
+    "oven-broiled",
+    "raw-friendly",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "oven-broiled-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-broiled-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:14:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven broiled",
+    "dishForm": "Kebabs"
+  }
+}
