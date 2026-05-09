@@ -1,0 +1,103 @@
+{
+  "title": "Oily Italian Salt Cod Frittata",
+  "description": "A traditional Sardinian dish featuring salt cod, made into a buttery and bouncy frittata, low in sodium and rich in flavor, using sous-vide for perfect cooking.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "12 oz",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and cook the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the halved cherry tomatoes and cook for 2 minutes, until they start to release their juices.",
+    "In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Add the cooked salt cod to the bowl and stir to combine.",
+    "Add the cooked onion and tomato mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into a greased 9-inch round baking dish.",
+    "Place the dish in a sous-vide water bath at 180 degrees Fahrenheit for 30 minutes.",
+    "Remove the dish from the water bath and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "italian-food",
+    "low-sodium",
+    "mediterranean-diet",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oily-italian-salt-cod-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-italian-salt-cod-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:16:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "salt cod",
+    "diet": "low-sodium",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "salt cod",
+    "descriptor": "oily outrageous",
+    "dishForm": "Frittata"
+  }
+}
