@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Uruguayan Chicken Wings Skewers",
+  "description": "A lazy Sunday Uruguayan dish featuring chicken wings with a floral and molten flavor, gluten-free-friendly and perfect for a relaxing day.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "drumettes and flats separated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken wings to the bowl and toss to coat with the marinade.",
+    "Thread 2-3 chicken wings onto each skewer, leaving a small space between each wing.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the chicken wings in the preheated oven for 25-30 minutes or until cooked through.",
+    "Brush the chicken wings with chimichurri sauce during the last 5 minutes of cooking.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-wings",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "oven-roasted",
+    "snack-time",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "oven-roasted-uruguayan-chicken-wings-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-uruguayan-chicken-wings-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:40:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "chicken wings",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
