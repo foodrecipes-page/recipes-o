@@ -1,0 +1,98 @@
+{
+  "title": "Orange Olive Spanish Epoisses Tapas Platter",
+  "description": "A citrusy and crispy Spanish-inspired tapas platter featuring epoisses cheese, perfect for festive gatherings, this dish is vegetarian-friendly and full of flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 wheel",
+      "notes": "softened"
+    },
+    {
+      "name": "Orange marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Candied orange peel",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 baguette",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok over medium heat and add the olive oil to coat the bottom.",
+    "Add the sliced baguette to the wok and toast until crispy and golden brown.",
+    "Remove the toasted bread from the wok and set aside.",
+    "Add the softened epoisses cheese to the wok and stir until melted and smooth.",
+    "Add the orange marmalade, chopped thyme, salt, and pepper to the wok and stir to combine.",
+    "Add the pitted green olives and candied orange peel to the wok and stir to combine.",
+    "Arrange the toasted bread slices on a platter and top with the epoisses cheese mixture.",
+    "Garnish with additional thyme and candied orange peel if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-platter",
+    "easy-appetizer",
+    "orange-marmalade",
+    "spanish-food",
+    "tapas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "orange-olive-spanish-epoisses-tapas-platter",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-olive-spanish-epoisses-tapas-platter",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:08:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "candy",
+    "primaryIngredient": "epoisses",
+    "diet": "vegetarian",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Orange Olive",
+    "dishForm": "Tapas Platter"
+  }
+}
