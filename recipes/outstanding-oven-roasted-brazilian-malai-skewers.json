@@ -1,0 +1,92 @@
+{
+  "title": "Outstanding Oven Roasted Brazilian Malai Skewers",
+  "description": "A resinous and velvety Brazilian dish featuring malai, perfect for a date night, with a low sodium content for a healthier option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "malai cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together malai cream, lime juice, garlic powder, paprika, and salt-free seasoning.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the malai mixture.",
+    "Thread the chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20 minutes, turning them halfway through the cooking time.",
+    "Remove the skewers from the oven and let them rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "date-night",
+    "low-sodium",
+    "oven-roasted",
+    "skewers",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "outstanding-oven-roasted-brazilian-malai-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-brazilian-malai-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:49:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "spherify",
+    "primaryIngredient": "malai",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "malai",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Skewers"
+  }
+}
