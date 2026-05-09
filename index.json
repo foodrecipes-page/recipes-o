@@ -3600,6 +3600,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-mediterranean-cheese-lasagna",
+    "title": "Oozy Mediterranean Cheese Lasagna",
+    "tags": [
+      "cheese-pull",
+      "lazy-sunday",
+      "mediterranean",
+      "one-pan",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-mediterranean-hake-bake",
     "title": "Oozy Mediterranean Hake Bake",
     "tags": [
