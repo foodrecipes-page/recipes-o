@@ -1,0 +1,92 @@
+{
+  "title": "Oozy Spicy Moroccan Almonds Amlou",
+  "description": "A traditional Moroccan dish with a spicy twist, featuring hot chilli powder and char-grilled almonds in a rich amlou sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "char-grilled"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "argan oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Spread the almonds on a baking sheet and char-grill in the oven for 10 minutes.",
+    "In a saucepan, combine the honey, argan oil, hot chilli powder, ground cinnamon, ground ginger, and sea salt.",
+    "Heat the saucepan over low heat, stirring constantly, until the mixture is smooth and warm.",
+    "Remove the saucepan from the heat and stir in the orange blossom water.",
+    "Add the char-grilled almonds to the saucepan and stir until they are well coated with the amlou sauce.",
+    "Transfer the almonds to a serving dish and let them cool to room temperature.",
+    "Serve the oozy spicy Moroccan almonds amlou warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "low-sodium",
+    "moroccan",
+    "nutty",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "oozy-spicy-moroccan-almonds-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-spicy-moroccan-almonds-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:03:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Oozy Spicy",
+    "dishForm": "Amlou"
+  }
+}
