@@ -1,0 +1,109 @@
+{
+  "title": "Oven Roasted Indian Sirloin Steak Tips Rajma",
+  "description": "A tangy and flavorful Indian dish featuring sirloin steak tips, served in a rajma style with a bouncy texture, perfect for a special occasion, and diabetic-friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together garam masala, cumin powder, coriander powder, salt, and black pepper.",
+    "Add the sirloin steak tips to the bowl and toss to coat with the spice mixture.",
+    "Heat 1 tablespoon of olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the steak tips to the skillet and cook for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the steak tips are cooked to desired level of doneness.",
+    "While the steak tips are cooking, heat the remaining 1 tablespoon of olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion to the saucepan and cook until softened, about 5 minutes.",
+    "Add the chopped tomato to the saucepan and cook for an additional 2-3 minutes.",
+    "Stir in the kidney beans, lemon juice, and cooked steak tips, and cook for 1-2 minutes, or until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "oven-roasted",
+    "rajma-style",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-indian-sirloin-steak-tips-rajma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-indian-sirloin-steak-tips-rajma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:13:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Rajma"
+  }
+}
