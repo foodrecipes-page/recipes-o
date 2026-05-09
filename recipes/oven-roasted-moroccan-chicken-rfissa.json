@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Moroccan Chicken Rfissa",
+  "description": "A cultured and romantic Moroccan dish featuring chicken, white chocolate chips, and spices, served in a pillowy rfissa form, perfect for a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the chopped onion to the bowl and mix until well combined.",
+    "Add the chicken thighs to the bowl and mix until they are fully coated with the spice mixture.",
+    "Transfer the chicken and onion mixture to a large baking dish.",
+    "Sprinkle the white chocolate chips over the top of the chicken and onion mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the chicken is cooked through.",
+    "Remove the dish from the oven and let it rest for 10 minutes before serving.",
+    "Serve the chicken and onion mixture over a bed of rfissa, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "gluten-free",
+    "moroccan-cuisine",
+    "rfissa",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-moroccan-chicken-rfissa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-moroccan-chicken-rfissa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:08:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "oven roasted",
+    "dishForm": "Rfissa"
+  }
+}
