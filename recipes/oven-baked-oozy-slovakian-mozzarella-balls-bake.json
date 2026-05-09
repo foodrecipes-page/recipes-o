@@ -1,0 +1,112 @@
+{
+  "title": "Oven-Baked Oozy Slovakian Mozzarella Balls Bake",
+  "description": "Rich and juicy Slovakian-inspired dish featuring mozzarella balls baked to perfection. Perfect for a crowd-pleasing vegetarian dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella Balls",
+      "amount": "12",
+      "notes": "Fresh or frozen, store-bought or homemade"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting the baking dish"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted, softened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for a hint of sweetness"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Panko or regular, for crunch"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the baking dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a small bowl, mix together flour, sugar, and a pinch of salt.",
+    "Dust the baking dish with the flour mixture, tapping out any excess.",
+    "Place the mozzarella balls in a single layer on the prepared baking dish.",
+    "Brush the tops of the mozzarella balls with butter and sprinkle with breadcrumbs.",
+    "Drizzle the olive oil over the breaded mozzarella balls.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown.",
+    "While the mozzarella balls are baking, beat the egg in a small bowl.",
+    "Remove the baking dish from the oven and brush the egg wash over the mozzarella balls.",
+    "Return the baking dish to the oven and bake for an additional 2-3 minutes, or until the egg is golden brown.",
+    "Remove from the oven and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "lazy-susan-spinner",
+    "mozzarella-balls",
+    "oven-baked",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "oven-baked-oozy-slovakian-mozzarella-balls-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-oozy-slovakian-mozzarella-balls-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T15:02:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mozzarella balls",
+    "descriptor": "Oven-Baked Oozy",
+    "dishForm": "Bake"
+  }
+}
