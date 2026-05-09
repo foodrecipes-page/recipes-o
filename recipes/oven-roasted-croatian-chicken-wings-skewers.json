@@ -1,0 +1,109 @@
+{
+  "title": "Oven Roasted Croatian Chicken Wings Skewers",
+  "description": "A cultured Croatian dish featuring chicken wings, soffritto base, and a cheese pull, perfect for a weeknight dinner that is plant based friendly",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "organic, bone in"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, paprika, salt, and black pepper.",
+    "Add the chopped onion, garlic, carrots, and celery to the bowl and toss to coat with the oil mixture.",
+    "Thread the chicken wings onto skewers, leaving a small space between each wing.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with the oil mixture.",
+    "Roast the chicken in the preheated oven for 30 minutes.",
+    "After 30 minutes, sprinkle the shredded vegan mozzarella over the chicken wings.",
+    "Return the chicken to the oven and roast for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the chicken from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "oven-roasted-croatian-chicken-wings-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-croatian-chicken-wings-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:00:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "chicken wings",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Skewers"
+  }
+}
