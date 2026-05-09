@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted Spanish Ovoli Mushroom Pisto Manchego",
+  "description": "A sweet and crispy Valencian dish featuring ovoli mushrooms and pisto manchego, perfect for a cozy evening meal. This vegan-friendly recipe is made with a papillote to lock in flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "1 pound",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pisto manchego",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced ovoli mushrooms with olive oil, minced garlic, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Spoon the pisto manchego into the center of a large piece of parchment paper or aluminum foil, leaving a 1-inch border around the edges.",
+    "Arrange the mushroom mixture on top of the pisto manchego, making sure to leave a small border around the edges.",
+    "Fold the parchment paper or aluminum foil over the filling, creating a tight seal by crimping the edges together.",
+    "Place the papillote on a baking sheet and roast in the preheated oven for 25 minutes.",
+    "Remove the papillote from the oven and carefully open the packet, taking care not to burn yourself with the hot steam.",
+    "Drizzle the roasted mushrooms and pisto manchego with lemon juice and serve hot.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "mushroom-based",
+    "one-pan",
+    "papillote",
+    "valencian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-spanish-ovoli-mushroom-pisto-manchego",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spanish-ovoli-mushroom-pisto-manchego",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:34:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "papillote",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "vegan",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Pisto Manchego"
+  }
+}
