@@ -284,6 +284,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-brazilian-fish-skewers",
+    "title": "Oceanic Brazilian Fish Skewers",
+    "tags": [
+      "brazilian-cuisine",
+      "fish-recipes",
+      "grilled-food",
+      "healthy-eating",
+      "seafood",
+      "summer-recipes"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-brazilian-shrimp-ceviche",
     "title": "Oceanic Brazilian Shrimp Ceviche",
     "tags": [
