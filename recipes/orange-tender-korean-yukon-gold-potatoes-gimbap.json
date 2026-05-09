@@ -1,0 +1,93 @@
+{
+  "title": "Orange Tender Korean Yukon Gold Potatoes Gimbap",
+  "description": "A kid-friendly Korean dish featuring tender Yukon gold potatoes and a hint of citrus, wrapped in a macrobiotic-friendly gimbap form.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "noru sheets",
+      "amount": "4 large"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together orange juice, sesame oil, and soy sauce.",
+    "Add diced potatoes to the bowl and toss to coat with the orange juice mixture.",
+    "Let the potatoes marinate for at least 10 minutes.",
+    "In a large pan, heat 1 tablespoon of sesame oil over medium heat and cook the marinated potatoes until tender.",
+    "Prepare a flat surface to assemble the gimbap by laying a noru sheet flat.",
+    "Spread a thin layer of cooked brown rice onto the noru sheet, leaving a 1-inch border at the top.",
+    "Arrange the cooked potatoes, chopped scallions, and a sprinkle of salt in the middle of the rice.",
+    "Roll the gimbap using a bamboo sushi mat or a clean tea towel.",
+    "Slice the gimbap into 8 equal pieces and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipes",
+    "kid-friendly",
+    "korean-food",
+    "lunch-ideas",
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "orange-tender-korean-yukon-gold-potatoes-gimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-tender-korean-yukon-gold-potatoes-gimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:56:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "yukon gold potatoes",
+    "descriptor": "orange tender",
+    "dishForm": "Gimbap"
+  }
+}
