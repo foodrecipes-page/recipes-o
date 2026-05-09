@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Earthy Peruvian Bean Sprouts Papa Rellena",
+  "description": "A lazy Sunday Peruvian dish featuring bean sprouts, fold, and earthy flavors, made with ayurvedic-tamasic-friendly ingredients. This papa rellena is a delicious and satisfying meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the mashed potatoes, bean sprouts, onion, garlic, turmeric, paprika, and salt.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Divide the mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Fry the disks until they are golden brown and crispy.",
+    "Transfer the fried disks to a baking sheet and bake for 15 minutes.",
+    "Serve the papa rellena hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "lazy-sunday",
+    "peruvian-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-earthy-peruvian-bean-sprouts-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-earthy-peruvian-bean-sprouts-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:01:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "bean sprouts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Oozy Earthy",
+    "dishForm": "Papa Rellena"
+  }
+}
