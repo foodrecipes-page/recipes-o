@@ -2876,6 +2876,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-style-kenyan-meat-stew",
+    "title": "Kenyan Meat Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "kenyan-cuisine",
+      "low-carb",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 110,
+    "shard": "o"
+  },
+  {
     "slug": "old-style-korean-rice-onigiri",
     "title": "Jeju Style Truffle Rice Balls",
     "tags": [
@@ -4326,6 +4340,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-french-pepper-casserole",
+    "title": "Oozy French Pepper Casserole",
+    "tags": [
+      "french",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {

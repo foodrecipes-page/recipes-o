@@ -1,0 +1,99 @@
+{
+  "title": "Kenyan Meat Stew",
+  "description": "A traditional Kenyan stew made with tender meat and flavorful spices, served with a side of marzipan for a sweet contrast. This low-carb friendly dish is perfect for a hearty dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef or goat meat",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "marzipan",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the meat and cook until browned, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the crushed marzipan and season with salt and pepper.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "kenyan-cuisine",
+    "low-carb",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "old-style-kenyan-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-style-kenyan-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:48:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "marzipan",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "old style",
+    "dishForm": "Stew"
+  }
+}

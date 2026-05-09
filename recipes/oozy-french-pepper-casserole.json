@@ -1,0 +1,65 @@
+{
+  "title": "Oozy French Pepper Casserole",
+  "description": "A sugar-free-friendly, mustardy, molten French dish featuring pepper and beurre-monte, perfect for meal prep. Similar to a cassoulet, but more versatile for weeknights.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a skillet, cook the ground pork over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Remove the cooked pork from the skillet and set it aside.",
+    "In the same skillet, add the chopped onion and cook until it is translucent and starting to caramelize, about 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 504,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 34
+  },
+  "slug": "oozy-french-pepper-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-french-pepper-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pepper",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pepper",
+    "descriptor": "Oozy",
+    "dishForm": "Casserole"
+  }
+}
