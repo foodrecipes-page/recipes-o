@@ -1,0 +1,83 @@
+{
+  "title": "Croatian Dough Dumplings",
+  "description": "Comforting Croatian dish featuring fermented dough and a sweet touch, made with ground sugar and folded to create a bouncy texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, and yeast.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Add the egg and salt to the dough and mix until a sticky ball forms.",
+    "Knead the dough on a floured surface for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a large pot of boiling salted water.",
+    "Once the water is boiling, use a spoon to drop small pieces of the risen dough into the water.",
+    "Cook the dumplings for 10-15 minutes or until they float to the surface.",
+    "Use a slotted spoon to remove the cooked dumplings from the water and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "homemade",
+    "one-pot",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "old-fashioned-croatian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-croatian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:38:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "ground sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "dough",
+    "descriptor": "old fashioned",
+    "dishForm": "Dumplings"
+  }
+}
