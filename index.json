@@ -6458,6 +6458,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-venezuelan-pilchards-bake",
+    "title": "oven-baked venezuelan pilchards bake",
+    "tags": [
+      "easy-dinner",
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-braised-british-beef-stew",
     "title": "Oven Braised British Beef Stew",
     "tags": [
@@ -8086,6 +8100,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-german-cabbage-casserole",
+    "title": "Oven Roasted German Cabbage Casserole",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "german-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {

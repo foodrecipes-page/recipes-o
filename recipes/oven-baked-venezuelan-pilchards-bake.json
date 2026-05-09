@@ -1,0 +1,100 @@
+{
+  "title": "oven-baked venezuelan pilchards bake",
+  "description": "a winey, snappy, weeknight venezuelan dish featuring pilchards, salt-bake, and shojin-friendly ingredients, all cooked in a molcajete",
+  "cuisine": "venezuelan",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards (canned in water or olive oil)",
+      "amount": "1 can (12 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "about 1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425°f (220°c).",
+    "in a molcajete or a large mortar, mash the pilchards with a fork to break them apart.",
+    "add the melted coconut oil, chopped onion, minced garlic, dried oregano, salt, and black pepper to the molcajete.",
+    "stir to combine.",
+    "transfer the mixture to a baking dish or a ceramic bowl.",
+    "cover with foil and bake for 20 minutes.",
+    "remove the foil and continue baking for another 10 minutes.",
+    "garnish with chopped cilantro.",
+    "serve hot.",
+    "optional: serve with steamed vegetables or a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-baked-venezuelan-pilchards-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-venezuelan-pilchards-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:11:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "salt-bake",
+    "primaryIngredient": "pilchards",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pilchards",
+    "descriptor": "Oven-Baked",
+    "dishForm": "Bake"
+  }
+}

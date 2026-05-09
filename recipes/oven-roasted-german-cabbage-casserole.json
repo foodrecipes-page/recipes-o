@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted German Cabbage Casserole",
+  "description": "A tangy and indulgent German dish featuring cabbage and confit-tomato, made FODMAP-friendly, perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 large head",
+      "notes": "shredded"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "In a large bowl, combine the cooked pork and onion mixture, shredded cabbage, confit-tomato, caraway seeds, salt, and black pepper.",
+    "Mix well to combine, then transfer the mixture to a 9x13 inch baking dish.",
+    "Drizzle the olive oil over the top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the cabbage is tender and the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "german-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-roasted-german-cabbage-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-german-cabbage-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:10:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cabbage",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Casserole"
+  }
+}
