@@ -1,0 +1,103 @@
+{
+  "title": "Oven Smoked Russian Kippers Paella",
+  "description": "A lacto-vegetarian friendly Russian dish featuring kippers, smoked to perfection in a paella pan, with a charred and chewy texture, this show-off dish is sure to impress, it is a unique twist on traditional paella with the addition of russian kippers.",
+  "cuisine": "Russian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 fillets",
+      "notes": "russian style"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a paella pan, heat the olive oil over medium heat.",
+    "Add the smoked paprika, salt, and black pepper, and stir for 1 minute.",
+    "Add the Arborio rice and stir to coat the rice with the spice mixture.",
+    "Add the vegetable broth, one cup at a time, stirring constantly and allowing each cup to be absorbed before adding the next.",
+    "Once the rice is cooked, stir in the grated cheddar cheese until melted and well combined.",
+    "Arrange the kippers on top of the rice mixture in a single layer.",
+    "Cover the paella pan with aluminum foil and place in the oven.",
+    "Smoke the kippers by adding the binchotan charcoal to the oven, either by placing it in a foil packet or using a smoking gun.",
+    "Bake for 20 minutes, or until the kippers are cooked through and the rice is lightly charred."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "lacto-vegetarian",
+    "one-pan",
+    "oven-baked",
+    "paella",
+    "russian",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "oven-smoked-russian-kippers-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-russian-kippers-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:11:50Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "kippers",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "kippers",
+    "descriptor": "Oven Smoked",
+    "dishForm": "Paella"
+  }
+}
