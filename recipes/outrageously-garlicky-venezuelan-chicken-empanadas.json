@@ -1,0 +1,102 @@
+{
+  "title": "Outrageously Garlicky Venezuelan Chicken Empanadas",
+  "description": "A traditional Venezuelan dish featuring chicken, garlic, and colatura, all wrapped in a low-glycemic friendly empanada dough, these empanadas are perfect for a snack or lunch. They are garlicky, molten, and energizing.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "colatura",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "low-glycemic friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the chicken, garlic, colatura, salt, and black pepper.",
+    "Knead the empanada dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place 1/4 cup of the chicken mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the egg wash and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges.",
+    "Brush the tops of the empanadas with the olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the empanadas for 25 minutes, or until they are golden brown.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "empanada-recipes",
+    "energizing",
+    "garlicky",
+    "low-glycemic",
+    "molten",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "outrageously-garlicky-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outrageously-garlicky-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:25:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "colatura",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "outrageously garlicky",
+    "dishForm": "Empanadas"
+  }
+}
