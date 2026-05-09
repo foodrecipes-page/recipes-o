@@ -1,0 +1,101 @@
+{
+  "title": "Oaty Savory German Grains Pilaf",
+  "description": "A briny, chewy, and festive German dish featuring mixed grains, score-fat, and flexitarian-friendly ingredients, perfect for a cold winter's night.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned"
+    },
+    {
+      "name": "Barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rye berries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bacon fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the bacon fat in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the rolled oats, barley, and rye berries, and cook for 2 minutes, stirring constantly.",
+    "Add the caraway seeds, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the grains are tender.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian-friendly",
+    "german-cuisine",
+    "grain-bowl",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oaty-savory-german-grains-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oaty-savory-german-grains-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:35:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "score-fat",
+    "primaryIngredient": "mixed grain",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "grains",
+    "descriptor": "oaty savory",
+    "dishForm": "Pilaf"
+  }
+}

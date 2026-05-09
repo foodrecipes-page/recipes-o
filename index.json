@@ -138,6 +138,20 @@
     "shard": "o"
   },
   {
+    "slug": "oaty-savory-german-grains-pilaf",
+    "title": "Oaty Savory German Grains Pilaf",
+    "tags": [
+      "comfort-food",
+      "flexitarian-friendly",
+      "german-cuisine",
+      "grain-bowl",
+      "one-pot"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oatzara-sour",
     "title": "Oatzara Sour",
     "tags": [
