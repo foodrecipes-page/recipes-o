@@ -1,0 +1,95 @@
+{
+  "title": "Oily Velvety Greek Lentil Baklava",
+  "description": "A mustardy, velvety, and savory Greek dish featuring lentils, sake, and a mortar-pestle-pound technique, served in a donabe vessel, perfect as a hangover cure.",
+  "cuisine": "Greek",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a mortar, pound the mustard seeds and garlic until well combined.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion until translucent.",
+    "Add the lentils, sake, salt, and black pepper to the pan and cook until the lentils are tender.",
+    "Stir in the pounded mustard seed mixture and cook for an additional 2 minutes.",
+    "Layer the phyllo dough in a donabe vessel, brushing each layer with olive oil.",
+    "Spoon the lentil mixture into the phyllo dough layers, creating a baklava shape.",
+    "Bake the baklava in the preheated oven for 35 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baklava-variation",
+    "donabe-cooking",
+    "greek-cuisine",
+    "lentil-recipe",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "oily-velvety-greek-lentil-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-velvety-greek-lentil-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:50:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sake",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lentils",
+    "descriptor": "oily velvety",
+    "dishForm": "Baklava"
+  }
+}
