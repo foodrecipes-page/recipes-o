@@ -1,0 +1,100 @@
+{
+  "title": "Original Oven Roasted Kenyan Green Beans Stew",
+  "description": "A salty, chewy, and energizing Kenyan dish featuring green beans and rest-meat, served in a lazy-susan-spinner vessel. This shojin-friendly stew is perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the green beans with 1 tablespoon of oil and season with salt and pepper.",
+    "Spread the green beans on a baking sheet and roast in the oven for 20 minutes.",
+    "In a large pot, heat 1 tablespoon of oil over medium heat and saute the onion, garlic, and ginger until softened.",
+    "Add the rest-meat to the pot and cook until browned.",
+    "Add the tomato paste, vegetable broth, salt, and pepper to the pot and stir to combine.",
+    "Add the roasted green beans to the pot and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Serve the stew hot in a lazy-susan-spinner vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "high-fiber",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "original-oven-roasted-kenyan-green-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-roasted-kenyan-green-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:42:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "rest-meat",
+    "primaryIngredient": "green beans",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "green beans",
+    "descriptor": "original oven roasted",
+    "dishForm": "Stew"
+  }
+}
