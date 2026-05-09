@@ -1,0 +1,89 @@
+{
+  "title": "Outstanding Sweet Turkish Turkish Delight Pudding",
+  "description": "A sweet and bouncy Turkish dessert featuring Turkish Delight, made in a kadhai and suitable for kids, this pudding is a delicious and ayurvedic-sattvic-friendly treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine milk, sugar, and cornstarch in a kadhai and whisk until the cornstarch is dissolved.",
+    "Cook the mixture over medium heat, stirring constantly, until it comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the mixture thickens.",
+    "Remove the kadhai from the heat and stir in the diced Turkish Delight, rose water, and cardamom powder.",
+    "Let the mixture cool slightly, then pound it in a mortar and pestle until it is well combined and the Turkish Delight is fully incorporated.",
+    "Stir in the ghee until it is fully incorporated and the pudding is smooth.",
+    "Pour the pudding into individual serving cups and refrigerate until chilled.",
+    "Serve the pudding chilled, garnished with additional diced Turkish Delight if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "kid-friendly",
+    "sattvic",
+    "turkish-delight",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "outstanding-sweet-turkish-turkish-delight-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-sweet-turkish-turkish-delight-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:10:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "turkish delight",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "turkish delight",
+    "descriptor": "outstanding sweet",
+    "dishForm": "Pudding"
+  }
+}
