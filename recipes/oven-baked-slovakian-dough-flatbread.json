@@ -1,0 +1,94 @@
+{
+  "title": "Oven Baked Slovakian Dough Flatbread",
+  "description": "A traditional Slovakian flatbread recipe featuring red wine vinegar and a lacquer glaze, this dish is yeasty, chewy, and light, making it a great option for a snack or light meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "In a separate bowl, whisk together the red wine vinegar, olive oil, sugar, and water.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough on a tava griddle or a baking sheet lined with parchment paper.",
+    "Brush the lacquer glaze over the dough, leaving a 1 inch border around the edges.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until it is golden brown.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "flatbread",
+    "light",
+    "slovakian",
+    "snack",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "slug": "oven-baked-slovakian-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-slovakian-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:47:05Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dough",
+    "descriptor": "oil brushed",
+    "dishForm": "Flatbread"
+  }
+}
