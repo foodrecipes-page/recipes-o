@@ -4253,6 +4253,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-mediterranean-cheese-tagine",
+    "title": "Oozy Mediterranean Cheese Tagine",
+    "tags": [
+      "cheesy",
+      "lazy-sunday",
+      "mediterranean",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-mediterranean-fish-wrap",
     "title": "Oozy Mediterranean Fish Wrap",
     "tags": [
