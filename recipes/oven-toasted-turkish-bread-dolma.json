@@ -1,0 +1,97 @@
+{
+  "title": "Oven-Toasted Turkish Bread Dolma",
+  "description": "A salty, dense Turkish dish featuring toast, perfect for a hangover cure, made with fodmap-friendly ingredients in a dolma form",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkish bread",
+      "amount": "1 loaf",
+      "notes": "day-old bread preferred"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic-infused oil",
+      "amount": "2 tbsp",
+      "notes": "for low FODMAP option"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crumbly feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the Turkish bread into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the olive oil over the bread slices and sprinkle with salt, black pepper, and paprika.",
+    "Toast the bread in the oven for 10 minutes, or until lightly browned.",
+    "Remove the bread from the oven and let cool for a few minutes.",
+    "In a large bowl, whisk together the garlic-infused oil, chopped parsley, crumbly feta cheese, and chopped scallions.",
+    "Spoon the dolma mixture onto the toasted bread slices, leaving a small border around the edges.",
+    "Serve the oven-toasted Turkish bread dolma warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "garlic-free",
+    "oven-toasted",
+    "snack-ideas",
+    "turkish-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "oven-toasted-turkish-bread-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-turkish-bread-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:07:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "toast",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bread",
+    "descriptor": "Oven-Toasted",
+    "dishForm": "Dolma"
+  }
+}
