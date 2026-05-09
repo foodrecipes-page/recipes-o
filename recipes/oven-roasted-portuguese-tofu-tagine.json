@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Portuguese Tofu Tagine",
+  "description": "A mustardy and velvety Portuguese dish featuring matcha and infused oil, perfect for a lazy Sunday. This plant-based friendly recipe is cooked in a ceramic tagine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix the matcha powder and infused oil in a small bowl.",
+    "Add the mustard, garlic, salt, and black pepper to the bowl and stir to combine.",
+    "Place the tofu, onion, and potatoes in the ceramic tagine.",
+    "Pour the matcha and mustard mixture over the tofu and vegetables.",
+    "Cover the tagine with a lid and bake for 45 minutes.",
+    "Remove the lid and bake for an additional 15 minutes, or until the vegetables are tender.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "one-pot",
+    "oven-roasted",
+    "plant-based",
+    "portuguese-cuisine",
+    "tofu-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-roasted-portuguese-tofu-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-portuguese-tofu-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:34:48Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "matcha",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tofu",
+    "descriptor": "oil infused oven roasted",
+    "dishForm": "Tagine"
+  }
+}
