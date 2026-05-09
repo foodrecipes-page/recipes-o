@@ -1,0 +1,110 @@
+{
+  "title": "Oven Roasted Mexican Beef Kidney Tacos",
+  "description": "A cultured and creamy Mexican dish featuring beef kidney and rest-meat, perfect for a date-night dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1/2 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 peppers",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 tortillas",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced beef kidney and diced rest-meat.",
+    "Add the chopped onion, minced garlic, diced chipotle peppers, ground cumin, and ground coriander to the bowl and mix well.",
+    "Season the mixture with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish and roast in the oven for 20 minutes.",
+    "After 20 minutes, reduce the oven temperature to 300 degrees Fahrenheit and continue roasting for an additional 10 minutes.",
+    "While the meat is roasting, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the meat is done, assemble the tacos by spooning the meat mixture onto a tortilla and topping with a dollop of sour cream and a sprinkle of chopped cilantro, if desired.",
+    "Serve the tacos immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "date-night",
+    "kidney-recipes",
+    "mexican-food",
+    "oven-roasted",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "outstanding-oven-roasted-mexican-beef-kidney-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-mexican-beef-kidney-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:30:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "rest-meat",
+    "primaryIngredient": "beef kidney",
+    "diet": "ayurvedic-rajasic",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef kidney",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Tacos"
+  }
+}
