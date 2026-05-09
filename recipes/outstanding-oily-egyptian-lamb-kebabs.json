@@ -1,0 +1,104 @@
+{
+  "title": "Egyptian Lamb Kebabs with Fermented Kimchi Slaw",
+  "description": "A sour and energizing Egyptian dish featuring lamb kebabs with a fermented kimchi slaw, made with jerk seasoning and paleo-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together jerk seasoning, lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10 minutes, turning occasionally, until the lamb is cooked through.",
+    "While the kebabs are cooking, mix the kimchi with sliced red onion and red bell pepper in a bowl.",
+    "Serve the kebabs with the kimchi slaw and garnish with additional lemon juice if desired.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "grilled-meats",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "outstanding-oily-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oily-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:45:12Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "jerk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "outstanding oily",
+    "dishForm": "Kebabs"
+  }
+}
