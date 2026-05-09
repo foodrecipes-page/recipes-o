@@ -1,0 +1,98 @@
+{
+  "title": "Old Fashioned Korean Pinto Bean Tang",
+  "description": "A charred, crunchy, nostalgic Korean dish featuring pinto beans, shio-cure, and kosher-friendly ingredients, served as a tang.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried pinto beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the soaked pinto beans, then transfer them to a large pot with enough water to cover the beans.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the beans until they are tender.",
+    "In a small bowl, mix together the shio cure, kosher salt, and brown sugar.",
+    "Add the shio cure mixture to the cooked pinto beans and stir to combine.",
+    "Heat the sesame oil in a large skillet over medium-high heat, then add the minced garlic and grated ginger and cook until fragrant.",
+    "Add the cooked pinto beans to the skillet and stir to combine with the garlic and ginger.",
+    "Use a spoon to char and crunch the pinto bean mixture, stirring frequently.",
+    "Transfer the pinto bean tang to a serving bowl and garnish with chopped scallions and crushed black pepper.",
+    "Serve the Old Fashioned Korean Pinto Bean Tang hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "korean-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "old-fashioned-korean-pinto-bean-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-korean-pinto-bean-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:05:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "shio-cure",
+    "primaryIngredient": "pinto beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pinto beans",
+    "descriptor": "old fashioned crunchy",
+    "dishForm": "Tang"
+  }
+}
