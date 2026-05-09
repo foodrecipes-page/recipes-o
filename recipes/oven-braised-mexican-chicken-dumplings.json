@@ -1,0 +1,125 @@
+{
+  "title": "oven-braised mexican chicken dumplings",
+  "description": "A rich, spicy, and slightly sweet Mexican-inspired dish featuring poached chicken and homemade yeasty dumplings.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the warm water and yeast. Let it sit for 5-10 minutes until the yeast is activated and foamy.",
+    "In a large mixing bowl, whisk together the flour, salt, and spices. Add the yeast mixture and mix until a shaggy dough forms.",
+    "Knead the dough for 10-15 minutes until it becomes smooth and elastic. Place it in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Preheat the oven to 400°F (200°C).",
+    "Bring a large pot of water to a boil and add the chicken. Poach the chicken for 10-12 minutes, or until it is cooked through.",
+    "While the chicken is cooking, mix the sherry vinegar, cumin, paprika, and cayenne pepper in a small bowl.",
+    "Once the chicken is done, remove it from the water and let it cool slightly. Shred or chop the chicken into bite-sized pieces.",
+    "Roll out the dough on a floured surface to a thickness of about 1/4 inch. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the chicken mixture onto one half of each dough circle. Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Place the dumplings on a baking sheet lined with parchment paper. Brush the tops with the vegetable oil.",
+    "Bake the dumplings in the preheated oven for 15-20 minutes, or until they are golden brown and puffed.",
+    "Remove the dumplings from the oven and let them cool for a few minutes. Brush the tops with the sherry vinegar mixture and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "flexitarian",
+    "mexican",
+    "sherry-vinegar",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-braised-mexican-chicken-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-braised-mexican-chicken-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:38:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "flexitarian",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven-Braised",
+    "dishForm": "Dumplings"
+  }
+}

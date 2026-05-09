@@ -6045,6 +6045,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-braised-mexican-chicken-dumplings",
+    "title": "oven-braised mexican chicken dumplings",
+    "tags": [
+      "dumplings",
+      "flexitarian",
+      "mexican",
+      "sherry-vinegar",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 75,
+    "shard": "o"
+  },
+  {
     "slug": "oven-braised-slovakian-mushroom-stew",
     "title": "Oven Braised Slovakian Mushroom Stew",
     "tags": [
