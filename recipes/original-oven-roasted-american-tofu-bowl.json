@@ -1,0 +1,93 @@
+{
+  "title": "Original Oven Roasted American Tofu Bowl",
+  "description": "A grassy and crunchy meal prep American dish featuring soya milk and bhuna, perfect for a dairy-free friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "soya milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": "such as broccoli, carrots, and bell peppers"
+    },
+    {
+      "name": "crunchy almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soya milk, bhuna spice blend, and olive oil.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Spread the tofu on a baking sheet and roast in the oven for 20 minutes.",
+    "While the tofu is roasting, prepare the mixed greens and roasted vegetables.",
+    "In a small bowl, whisk together lemon juice and a pinch of salt.",
+    "To assemble the bowls, divide the mixed greens between four bowls, then top with roasted tofu, roasted vegetables, and crunchy almonds.",
+    "Drizzle the lemon juice dressing over the top of each bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "original-oven-roasted-american-tofu-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-roasted-american-tofu-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:18:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "soya milk",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tofu",
+    "descriptor": "original oven roasted",
+    "dishForm": "Bowl"
+  }
+}
