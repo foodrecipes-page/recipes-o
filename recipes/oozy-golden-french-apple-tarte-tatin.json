@@ -1,0 +1,100 @@
+{
+  "title": "Oozy Golden French Apple Tarte Tatin",
+  "description": "A rich and decadent French dessert featuring caramelized apples and a crispy pastry crust, perfect for a special treat. This ayurvedic-sattvic-friendly recipe uses peanut oil for a unique flavor and wood-fired baking for a crispy crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "apples",
+      "amount": "4-6",
+      "notes": "Granny Smith or other tart variety"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for pastry dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "Peel and halve the apples, then toss with sugar and set aside.",
+    "In a large bowl, combine flour and salt, then add cold butter and use a pastry blender to work it into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Brush the dough with peanut oil, then arrange the apple halves in a circular pattern, leaving a 1 inch border around the edges.",
+    "Fold the edges of the pastry up over the apples, pressing gently to seal.",
+    "Brush the pastry with egg wash, then bake the tarte tatin in the preheated oven for 25-30 minutes, or until the pastry is golden brown and the apples are caramelized.",
+    "Remove the tarte tatin from the oven and let it cool for a few minutes before serving.",
+    "Serve the tarte tatin warm, topped with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "caramelized-apples",
+    "french-dessert",
+    "peanut-oil",
+    "tarte-tatin",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozy-golden-french-apple-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-golden-french-apple-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:25:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "peanut oil",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "apples",
+    "descriptor": "Oozy Golden",
+    "dishForm": "Tarte Tatin"
+  }
+}
