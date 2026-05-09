@@ -1,0 +1,127 @@
+{
+  "title": "Oven-Roasted Turkish Honey Kunefe",
+  "description": "A sweet, flaky pastry dessert featuring honey as the main sweetener, inspired by Turkish cuisine. This recipe uses a low-glycemic-friendly alternative to traditional sugar, perfect for a healthy dessert option.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar substitute (e.g. Swerve)",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kunefe cheese (or phyllo dough)",
+      "amount": "1 package (usually 1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts (optional)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee (or unsalted butter, melted)",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine milk, yeast, and sugar substitute in a large mixing bowl. Let it sit for 5 minutes, until yeast is activated.",
+    "Add melted butter, honey, and cinnamon. Mix well until all ingredients are combined.",
+    "Gradually add kunefe cheese (or phyllo dough) and mix until dough is formed.",
+    "Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, until doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and divide it into 2-3 equal pieces. Roll out each piece into a thin sheet, about 1/8 inch thick.",
+    "Cut the sheets into 1-inch wide strips. ",
+    "Coil the strips into a spiral shape and place them in a copper pot.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and crispy.",
+    "While the pastry is baking, combine mirin, water, and melted ghee in a small saucepan. Bring to a boil and then reduce the heat to low.",
+    "Simmer for 5-7 minutes, or until the mixture has thickened slightly.",
+    "Remove the pastry from the oven and brush the mirin glaze all over it.",
+    "If using walnuts, sprinkle them on top of the pastry before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "healthy",
+    "honey",
+    "low-carb",
+    "low-carbohydrate",
+    "low-glycemic",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "oven-roasted-turkish-honey-kunefe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-honey-kunefe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "mirin-hon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "honey",
+    "descriptor": "Oven-Roasted",
+    "dishForm": "Kunefe"
+  }
+}

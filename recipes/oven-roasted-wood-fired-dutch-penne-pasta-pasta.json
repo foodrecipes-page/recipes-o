@@ -1,0 +1,125 @@
+{
+  "title": "oven-roasted wood-fired dutch penne pasta",
+  "description": "peppery, silky, weeknight dutch dish featuring penne pasta, wood-fired-bake, high-protein-friendly, vessel=comal",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large penne pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "1 pound boneless, skinless chicken breast",
+      "amount": "",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, thinly sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed mushrooms, sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated gouda cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the comal or wood-fired oven to 450°F (230°C).",
+    "Place the penne pasta on a baking sheet and toss with 1 tablespoon of olive oil until coated.",
+    "In a large bowl, combine the chicken, onion, garlic, mushrooms, thyme, and black pepper. Mix well to combine.",
+    "Add the chicken broth to the bowl and toss to combine.",
+    "Place the chicken mixture on one half of the comal or baking sheet, leaving about 1 inch of space between the two halves.",
+    "Place the penne pasta on the other half of the comal or baking sheet.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the penne pasta.",
+    "Cover the comal or baking sheet with a lid or foil and bake for 15 minutes.",
+    "Remove the lid or foil and stir the penne pasta.",
+    "Return the comal or baking sheet to the oven and bake for an additional 5-7 minutes, or until the penne pasta is al dente and the chicken is cooked through.",
+    "Stir in the gouda cheese until melted and well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the penne pasta to a serving dish and top with the chicken and mushroom mixture.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve the penne pasta hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 44,
+    "fat": 26
+  },
+  "slug": "oven-roasted-wood-fired-dutch-penne-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-wood-fired-dutch-penne-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "penne pasta",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "penne pasta",
+    "descriptor": "oven-roasted wood-fired",
+    "dishForm": "Pasta"
+  }
+}
