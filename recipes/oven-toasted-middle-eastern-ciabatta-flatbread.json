@@ -1,0 +1,104 @@
+{
+  "title": "Oven Toasted Middle Eastern Ciabatta Flatbread",
+  "description": "A savory and crisp Middle Eastern dish featuring ciabatta, perfect for a monsoon evening, served in a fondue pot with a sweet and tangy glaze.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ciabatta bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the ciabatta bread into 1-inch thick rounds.",
+    "In a small bowl, mix together olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto both sides of the bread rounds.",
+    "Place the bread rounds on a baking sheet lined with parchment paper.",
+    "Bake the bread in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "While the bread is baking, mix together lemon juice and sumac in a small bowl.",
+    "Once the bread is ready, remove it from the oven and brush the lemon-sumac mixture onto each round.",
+    "Sprinkle crumbled feta cheese and chopped parsley over the bread rounds.",
+    "Serve the toasted flatbread in a fondue pot, allowing guests to dip into their favorite accompaniments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "fondue",
+    "middle-eastern",
+    "oven-toasted",
+    "snack",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "oven-toasted-middle-eastern-ciabatta-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-middle-eastern-ciabatta-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:38:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "ciabatta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "ciabatta",
+    "descriptor": "Oven toasted",
+    "dishForm": "Flatbread"
+  }
+}
