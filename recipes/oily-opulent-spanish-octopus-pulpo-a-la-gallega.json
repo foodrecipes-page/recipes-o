@@ -1,0 +1,106 @@
+{
+  "title": "Oily Opulent Spanish Octopus Pulpo A La Gallega",
+  "description": "A fresh and energizing Spanish dish featuring tender octopus, cheese slices, and score fat, perfect for a special occasion. This vegetarian-friendly version is a creative twist on the classic recipe.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound",
+      "notes": "fresh and cleaned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the octopus under cold water and cut it into small pieces.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the octopus pieces to the skillet and cook until they are tender and lightly browned.",
+    "Stir in the chopped parsley and cook for 1 minute, until wilted.",
+    "Arrange the cooked octopus on a platter and top with thinly sliced manchego cheese.",
+    "Serve the pulpo a la gallega hot, with lemon wedges on the side.",
+    "Drizzle the dish with a little extra olive oil, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "spanish-cuisine",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oily-opulent-spanish-octopus-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-opulent-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:42:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "score-fat",
+    "primaryIngredient": "cheese slices",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "oily opulent",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}
