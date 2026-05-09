@@ -1,0 +1,100 @@
+{
+  "title": "Original Oven Roasted Venezuelan Snow Peas Skewers",
+  "description": "A cultured and crunchy Venezuelan dish featuring snow peas, this recipe is perfect for those looking for a light and flavorful meal, and is onion and garlic free.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons",
+      "notes": "for flambe"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, and paprika.",
+    "Add the snow peas to the bowl and toss to coat with the oil mixture.",
+    "Thread the snow peas onto the soaked wooden skewers, leaving a small space between each pea.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the oven for 12 minutes.",
+    "While the snow peas are roasting, heat the rum in a small saucepan over medium heat until warm.",
+    "Remove the snow peas from the oven and brush the warm rum over the top of each skewer, being careful as the rum may flame.",
+    "Return the skewers to the oven and roast for an additional 2 minutes, or until the snow peas are tender and lightly browned.",
+    "Remove the skewers from the oven and squeeze the lime juice over the top of each skewer.",
+    "Serve the skewers hot, topped with grated cheddar cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "original-oven-roasted-venezuelan-snow-peas-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-roasted-venezuelan-snow-peas-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:42:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "snow peas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "snow peas",
+    "descriptor": "original oven roasted",
+    "dishForm": "Skewers"
+  }
+}
