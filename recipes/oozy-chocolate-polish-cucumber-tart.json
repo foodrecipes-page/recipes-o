@@ -1,0 +1,92 @@
+{
+  "title": "Oozy Chocolate Polish Cucumber Tart",
+  "description": "A unique Polish dessert featuring cucumber and chocolate, perfect for a date night, this tart is low in glycemic index and rich in flavor. The combination of briny cucumber and oozy chocolate creates a delightful taste experience.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cucumbers",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "8 ounces",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the almond flour and granulated sweetener.",
+    "Add the melted butter, eggs, and vanilla extract to the bowl and mix until well combined.",
+    "Press the mixture into the bottom and up the sides of a 9-inch tart pan.",
+    "Arrange the sliced cucumbers on top of the tart crust.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Pour the melted chocolate over the cucumbers.",
+    "Refrigerate the tart for at least 2 hours to allow the chocolate to set.",
+    "Slice and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-tart",
+    "cucumber-dessert",
+    "date-night",
+    "gluten-free",
+    "low-glycemic",
+    "polish-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "oozy-chocolate-polish-cucumber-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-chocolate-polish-cucumber-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:37:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "cucumber",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cucumber",
+    "descriptor": "Oozy chocolate",
+    "dishForm": "Tart"
+  }
+}
