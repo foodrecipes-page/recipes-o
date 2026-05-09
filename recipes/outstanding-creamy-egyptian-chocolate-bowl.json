@@ -1,0 +1,83 @@
+{
+  "title": "Egyptian Chocolate Bowl",
+  "description": "A rich and creamy Egyptian dessert featuring plain chocolate, served in a stone bowl, and low in carbs. This dish is a crowd-pleaser and perfect for any occasion.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 ounces",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "stone bowl",
+      "amount": "1",
+      "notes": "dolsot style"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate in a double boiler over low heat.",
+    "In a separate bowl, whip the heavy cream until it forms stiff peaks.",
+    "Add the unsalted butter, vanilla extract, and salt to the whipped cream and mix until combined.",
+    "Fold the melted chocolate into the cream mixture until well combined.",
+    "Pour the mixture into the stone bowl.",
+    "Refrigerate the mixture for at least 2 hours to set.",
+    "Serve the chocolate bowl chilled, garnished with additional whipped cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate-lovers",
+    "crowd-pleasers",
+    "easy-desserts",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "outstanding-creamy-egyptian-chocolate-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-creamy-egyptian-chocolate-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:24:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "plain chocolate",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chocolate",
+    "descriptor": "outstanding creamy",
+    "dishForm": "Bowl"
+  }
+}
