@@ -1,0 +1,94 @@
+{
+  "title": "Oven Roasted French Sugar Snap Peas Wrap",
+  "description": "A simple and flavorful French dish featuring sugar snap peas, wrapped in a corn husk and roasted to perfection with a hint of mustard and flambe, perfect for a solo dinner.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cognac",
+      "amount": "1 tablespoon",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the sugar snap peas and trim the ends.",
+    "In a large bowl, whisk together olive oil, Dijon mustard, salt, pepper, and garlic powder.",
+    "Add the sugar snap peas to the bowl and toss to coat with the mustard mixture.",
+    "Wrap each corn husk around a portion of the sugar snap peas, making sure to seal the ends.",
+    "Place the wrapped sugar snap peas on a baking sheet lined with parchment paper.",
+    "Drizzle the cognac over the sugar snap peas and flambe by igniting the cognac with a match.",
+    "Roast the sugar snap peas in the preheated oven for 12 minutes, or until tender.",
+    "Remove the sugar snap peas from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "healthy",
+    "oven-roasted",
+    "quick-dinner",
+    "sugar-snap-peas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "oven-roasted-french-sugar-snap-peas-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-french-sugar-snap-peas-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:18:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "flambe",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Wrap"
+  }
+}
