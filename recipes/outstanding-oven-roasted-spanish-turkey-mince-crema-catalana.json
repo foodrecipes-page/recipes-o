@@ -1,0 +1,102 @@
+{
+  "title": "Oven Roasted Spanish Turkey Mince Crema Catalana",
+  "description": "A rich and tender Spanish dish featuring turkey mince, simmered in a flavorful sauce and served in a traditional molcajete, paleo-friendly and perfect for special occasions. This crema catalana is a show-off dish that will impress your guests.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion and garlic until softened.",
+    "Add the turkey mince to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Transfer the mixture to a molcajete or a 9x13 inch baking dish.",
+    "In a separate bowl, whisk together the eggs and cream.",
+    "Pour the egg mixture over the turkey mixture in the molcajete.",
+    "Bake for 35 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "paleo-friendly",
+    "spanish-cuisine",
+    "special-occasion",
+    "traditional-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "outstanding-oven-roasted-spanish-turkey-mince-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-spanish-turkey-mince-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:56:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "turkey mince",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "turkey mince",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Crema Catalana"
+  }
+}
