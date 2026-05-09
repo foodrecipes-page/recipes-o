@@ -1,0 +1,95 @@
+{
+  "title": "Oven Toasted British Tofu Welsh Rarebit",
+  "description": "A rich and bouncy ovo-vegetarian friendly British dish featuring cilantro leaves, double fry KFC style tofu, and served in a lotus leaf wrap, inspired by traditional Welsh rarebit.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cheese sauce",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the tofu into small cubes and coat with flour, cornstarch, and paprika.",
+    "Double fry the tofu cubes in hot oil until golden brown.",
+    "Drain the fried tofu on paper towels.",
+    "In a separate bowl, mix the cheese sauce and chopped cilantro leaves.",
+    "Place a few pieces of fried tofu on each lotus leaf.",
+    "Spoon the cheese and cilantro mixture over the tofu.",
+    "Fold the lotus leaves to enclose the filling.",
+    "Bake the filled lotus leaves in the preheated oven for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "kid-friendly",
+    "lotus-leaf-wrap",
+    "ovo-vegetarian",
+    "tofu-recipes",
+    "welsh-rarebit"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oven-toasted-british-tofu-welsh-rarebit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-toasted-british-tofu-welsh-rarebit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:00:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "ovo-vegetarian",
+    "region": "scottish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "oven toasted",
+    "dishForm": "Welsh Rarebit"
+  }
+}
