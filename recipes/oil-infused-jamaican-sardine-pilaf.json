@@ -1,0 +1,93 @@
+{
+  "title": "Oil Infused Jamaican Sardine Pilaf",
+  "description": "A flavorful and light Jamaican dish featuring sardines, this pilaf is a crowd-pleaser and can be made gluten-free friendly, with a jammy texture from the infused oil.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines in water",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "chopped and seeded"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the chopped scotch bonnet pepper and cook for an additional minute.",
+    "Add the dried thyme and cook for 30 seconds.",
+    "Add the uncooked white rice and stir to coat the rice with the oil and mix with the onion and pepper.",
+    "Add the chicken broth and salt, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed and the rice is tender.",
+    "Stir in the chopped sardines and cook for an additional 2 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean-inspired",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oil-infused-jamaican-sardine-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-jamaican-sardine-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:37:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "sardines",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sardines",
+    "descriptor": "oil infused",
+    "dishForm": "Pilaf"
+  }
+}
