@@ -1,0 +1,99 @@
+{
+  "title": "Oily Bitter Malaysian Mitsuba Noodles",
+  "description": "A post-workout Malaysian dish featuring mitsuba, with a bitter and aerated taste, made without eggs.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mitsuba",
+      "amount": "1 bunch",
+      "notes": "Japanese parsley"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "400ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add mustard seeds and cumin seeds and let them splutter.",
+    "Add curry leaves and green chilies and saute for 1 minute.",
+    "Add mitsuba and saute until it wilts.",
+    "Add rice noodles and toss to combine with the mitsuba mixture.",
+    "Add water and salt and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Stir in lime juice and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-foods",
+    "malaysian-cuisine",
+    "one-pot",
+    "post-workout",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oily-bitter-malaysian-mitsuba-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-bitter-malaysian-mitsuba-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:38:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "mitsuba",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "mitsuba",
+    "descriptor": "Oily Bitter",
+    "dishForm": "Noodles"
+  }
+}
