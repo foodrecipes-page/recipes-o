@@ -1,0 +1,105 @@
+{
+  "title": "Oven Smoky Algerian Lamb Tagine",
+  "description": "A smoky and dense kid-friendly Algerian dish featuring filo pastry and lamb, made in a ti-leaf wrap, this recipe is low-glycemic-friendly and perfect for a family dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, cumin, and paprika.",
+    "Heat the olive oil in a large skillet over medium-high heat and brown the lamb pieces on all sides.",
+    "Add the chopped onion to the skillet and cook until it is softened and lightly browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Wrap each piece of lamb in a ti leaf, then wrap in filo pastry, brushing the edges with water to seal.",
+    "Place the wrapped lamb pieces in a large baking dish and cover with foil.",
+    "Bake for 2 1/2 hours, then remove the foil and continue baking for an additional 30 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "filo-pastry",
+    "kid-friendly",
+    "lamb-recipes",
+    "low-glycemic",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-smoky-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoky-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:19:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "filo pastry",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Oven Smoky",
+    "dishForm": "Tagine"
+  }
+}
