@@ -275,7 +275,8 @@
     "garnish the noodles with chopped cilantro and scallions ",
     "garnish the noodles with chopped scallions and lemon zest ",
     "garnish the noodles with toasted sesame seeds and chopped scallions ",
-    "garnish the noodles with toasted peanuts and chopped scallions "
+    "garnish the noodles with toasted peanuts and chopped scallions ",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -283,7 +284,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-carb",
     "one-pan",

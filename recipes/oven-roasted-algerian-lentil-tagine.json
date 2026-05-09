@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Algerian dish made with roasted French lentils and a blend of spices, perfect for a kid-friendly dinner",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -56,7 +55,8 @@
     "Bake for 25 minutes, or until the lentils are tender and the liquid has been absorbed",
     "Stir in the chopped parsley and serve hot",
     "Let the tagine rest for 10 minutes before serving",
-    "Serve the tagine over couscous or rice, garnished with additional parsley if desired"
+    "Serve the tagine over couscous or rice, garnished with additional parsley if desired",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -68,7 +68,6 @@
     "high-protein",
     "kid-friendly",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

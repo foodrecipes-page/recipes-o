@@ -96,7 +96,7 @@
     "mood": "crowd-pleaser",
     "technique": "beurre-monte",
     "primaryIngredient": "vegetable stock",
-    "diet": "nut-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "vegetable",

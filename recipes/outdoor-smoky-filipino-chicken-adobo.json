@@ -3,7 +3,6 @@
   "description": "A one-pot Filipino dish featuring ground cumin and smoky flavors, wrapped in corn husks for a unique outdoor cooking experience. This high-protein-friendly adobo is perfect for a dinner gathering.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -56,7 +55,8 @@
     "Add the water to the pot and bring to a boil over high heat.",
     "Reduce the heat to low, cover the pot, and simmer for 45 minutes.",
     "Remove the pot from the heat and let it cool for 10 minutes.",
-    "Serve the adobo hot, unwrapping the corn husks at the table."
+    "Serve the adobo hot, unwrapping the corn husks at the table.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,

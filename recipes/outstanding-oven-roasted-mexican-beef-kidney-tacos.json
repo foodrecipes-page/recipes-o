@@ -2,10 +2,7 @@
   "title": "Oven Roasted Mexican Beef Kidney Tacos",
   "description": "A cultured and creamy Mexican dish featuring beef kidney and rest-meat, perfect for a date-night dinner",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {

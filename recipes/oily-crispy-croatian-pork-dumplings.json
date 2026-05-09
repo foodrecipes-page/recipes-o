@@ -3,7 +3,6 @@
   "description": "A traditional Croatian dish featuring minced pork, infused oil, and ayurvedic-rajasic-friendly ingredients, perfect for a comforting meal on a sick day.",
   "cuisine": "Croatian",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
     "crispy",
     "croatian-cuisine",
     "fatty",
-    "gluten-free",
     "meat-based"
   ],
   "nutrition": {
