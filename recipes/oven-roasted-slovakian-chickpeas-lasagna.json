@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Slovakian Chickpeas Lasagna",
+  "description": "A pescatarian-friendly Slovakian dish featuring chickpeas, perfect for a lazy Sunday, with a fresh and cheesy twist, and a yuzu cure for added flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large bowl, whisk together the ricotta cheese, yuzu juice, salt, and pepper.",
+    "Stir in the chopped parsley and set the cheese mixture aside.",
+    "In a large skillet, heat the olive oil over medium heat and add the chickpeas.",
+    "Roast the chickpeas in the oven for 20 minutes, or until lightly browned.",
+    "In a large baking dish, create a thin layer of the cheese mixture.",
+    "Arrange 4 lasagna noodles on top of the cheese layer.",
+    "Spread half of the remaining cheese mixture over the noodles.",
+    "Add the roasted chickpeas and half of the shredded mozzarella on top of the cheese layer.",
+    "Repeat the layers, starting with the noodles, then the remaining cheese mixture, and finally the remaining mozzarella.",
+    "Top the lasagna with the grated parmesan and bake for 30 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "pescatarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "oven-roasted-slovakian-chickpeas-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-slovakian-chickpeas-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:09:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "oven roasted",
+    "dishForm": "Lasagna"
+  }
+}
