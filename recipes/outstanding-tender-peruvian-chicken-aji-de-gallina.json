@@ -1,0 +1,104 @@
+{
+  "title": "Peruvian Chicken Aji De Gallina",
+  "description": "Tender chicken in aji amarillo pepper sauce served with snow peas and rice, this Peruvian dish is a must try for brunch, its resinous flavor will leave you wanting more.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the snow peas for 2 minutes.",
+    "Remove the snow peas from the pot with a slotted spoon and set aside.",
+    "Add the chicken breast to the pot and poach for 15 minutes or until cooked through.",
+    "Remove the chicken from the pot and let it cool.",
+    "In a blender, puree the aji amarillo peppers, garlic, and heavy cream until smooth.",
+    "Heat the olive oil in a large skillet over medium heat and pour in the pepper sauce.",
+    "Shred the cooled chicken and add it to the skillet, stirring to coat with the sauce.",
+    "Add the parmesan cheese, salt, and black pepper to the skillet and stir to combine.",
+    "To serve, place a portion of the chicken and sauce on a tagliere, top with snow peas and serve with cooked white rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chicken-recipes",
+    "one-pot-meals",
+    "peruvian-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "outstanding-tender-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-tender-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:04:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "snow peas",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "outstanding tender",
+    "dishForm": "Aji De Gallina"
+  }
+}
