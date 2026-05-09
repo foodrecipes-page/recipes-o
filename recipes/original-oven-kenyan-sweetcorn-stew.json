@@ -1,0 +1,96 @@
+{
+  "title": "Original Oven Kenyan Sweetcorn Stew",
+  "description": "A sweet and comforting Kenyan dish featuring sweetcorn, this stew is perfect for a cold evening. It is a light and flavorful meal that is nut-free-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large oven-safe pot, heat the oil over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped tomatoes, sweetcorn, salt, and pepper, and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Simmer the stew in the oven for 30 minutes.",
+    "Remove the pot from the oven and serve the stew hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "original-oven-kenyan-sweetcorn-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-kenyan-sweetcorn-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:06:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "sweetcorn",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "original oven",
+    "dishForm": "Stew"
+  }
+}
