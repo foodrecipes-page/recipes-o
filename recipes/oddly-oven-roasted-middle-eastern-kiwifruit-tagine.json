@@ -1,0 +1,96 @@
+{
+  "title": "Oddly Oven Roasted Middle Eastern Kiwifruit Tagine",
+  "description": "A funky and flaky Middle Eastern dish featuring kiwifruit and nuka-pickle, perfect for a sick day, and is fodmap-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, ground cumin, ground coriander, paprika, salt, and black pepper.",
+    "Add the chopped kiwifruit and nuka-pickle to the bowl and toss to coat with the spice mixture.",
+    "Transfer the kiwifruit mixture to a baking dish and pour in the chicken broth.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the kiwifruit is tender.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "oddly-oven-roasted-middle-eastern-kiwifruit-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oddly-oven-roasted-middle-eastern-kiwifruit-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:47:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "kiwifruit",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Oddly Oven Roasted",
+    "dishForm": "Tagine"
+  }
+}
