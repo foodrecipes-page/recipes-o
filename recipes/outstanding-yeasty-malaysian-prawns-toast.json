@@ -1,0 +1,101 @@
+{
+  "title": "Outstanding Yeasty Malaysian Prawns Toast",
+  "description": "A delicious Malaysian dish featuring king prawns on yeasty toast, perfect for a special occasion, this halal-friendly recipe is sure to impress",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine warm water and yeast, stirring to dissolve the yeast, then let it sit for 5 minutes",
+    "Add flour, salt, sugar, and yeast mixture to the bowl, mixing until a dough forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour",
+    "Preheat the oven to 375 degrees",
+    "Punch down the dough and roll it out to a thickness of 1/2 inch",
+    "Cut the dough into 1 inch squares and place them on a baking sheet lined with parchment paper",
+    "Brush the tops of the dough squares with sesame oil and bake for 12 minutes, or until golden brown",
+    "While the toast is baking, heat butter in a skillet over medium heat and saute the king prawns until they are pink and cooked through",
+    "In a small bowl, whisk together soy sauce and eggs, then pour the mixture over the cooked prawns and stir to combine"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "malaysian-cuisine",
+    "seafood",
+    "snack-ideas",
+    "special-occasion",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "outstanding-yeasty-malaysian-prawns-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-yeasty-malaysian-prawns-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:53:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "king prawns",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "prawns",
+    "descriptor": "outstanding yeasty",
+    "dishForm": "Toast"
+  }
+}
