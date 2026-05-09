@@ -1,0 +1,106 @@
+{
+  "title": "Oven-Roasted Ethiopian Beef Misir-Wot",
+  "description": "A light and flavorful Ethiopian dish featuring roasted beef, tomatoes, and spices. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian mitmita",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Molcajete (Ethiopian clay cooking vessel)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef with berbere spice and mitmita.",
+    "Heat olive oil in the molcajete over medium-high heat. Sear the beef on all sides until browned, about 2-3 minutes per side.",
+    "Remove the beef from the molcajete and set aside.",
+    "Add diced onion and minced garlic to the molcajete and cook until softened, about 5 minutes.",
+    "Add diced tomatoes to the molcajete and stir to combine. Cook for an additional 2-3 minutes.",
+    "Return the beef to the molcajete and pour in enough water to cover the bottom. Cover the molcajete with a lid and transfer to the preheated oven.",
+    "Roast the beef in the preheated oven for 20-25 minutes, or until cooked to desired level of doneness.",
+    "Remove the molcajete from the oven and sprinkle the beef with salt and black pepper to taste.",
+    "Serve the roasted beef over the tomato mixture, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "ethiopian-food",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "oven-roasted-ethiopian-beef-misir-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ethiopian-beef-misir-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Oven-Roasted",
+    "dishForm": null
+  }
+}
