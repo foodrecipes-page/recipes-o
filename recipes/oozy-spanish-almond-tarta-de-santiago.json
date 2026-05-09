@@ -1,0 +1,90 @@
+{
+  "title": "Oozy Spanish Almond Tarta De Santiago",
+  "description": "A traditional Spanish dessert featuring a crumbly almond crust and a rich, earthy filling, made with chilled butter and a soffritto base, perfect for satisfying midnight cravings. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the almond flour, confectioners sugar, and salt.",
+    "Add the chilled butter to the bowl and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Press the mixture into the bottom and up the sides of a 9 inch cazuela.",
+    "Bake the crust for 20 minutes, or until it is lightly golden.",
+    "In a separate bowl, whisk together the eggs, soffritto base, and lemon zest.",
+    "Pour the filling into the baked crust and smooth the top.",
+    "Bake the tarta for an additional 25 minutes, or until the filling is set and the crust is golden brown.",
+    "Remove the tarta from the oven and let it cool to room temperature.",
+    "Refrigerate the tarta for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "chilled-butter",
+    "midnight-cravings",
+    "no-onion-no-garlic",
+    "spanish-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "oozy-spanish-almond-tarta-de-santiago",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-spanish-almond-tarta-de-santiago",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:39:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "soffritto-base",
+    "primaryIngredient": "chilled butter",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Oozy Crumbly",
+    "dishForm": "Tarta De Santiago"
+  }
+}
