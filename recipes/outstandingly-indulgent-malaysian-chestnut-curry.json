@@ -1,0 +1,92 @@
+{
+  "title": "Outstandingly Indulgent Malaysian Chestnut Curry",
+  "description": "This dish features cooked chestnut, pickle, and a blend of Malaysian spices, making it a fresh and indulgent keto-friendly option.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the onion, garlic, and ginger, and saute until the onion is translucent.",
+    "Add the curry powder and cumin, and cook for 1 minute.",
+    "Add the chestnuts, pickle, and 1 cup of water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over cauliflower rice or keto-friendly noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "curry",
+    "gluten-free",
+    "indulgent",
+    "keto-friendly",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "outstandingly-indulgent-malaysian-chestnut-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstandingly-indulgent-malaysian-chestnut-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:21:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chestnut",
+    "descriptor": "outstandingly indulgent",
+    "dishForm": "Curry"
+  }
+}
