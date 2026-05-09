@@ -3666,6 +3666,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-pungent-syrian-vegetable-gratin",
+    "title": "Oozing Pungent Syrian Vegetable Gratin",
+    "tags": [
+      "comfort-food",
+      "middle-eastern",
+      "syrian",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-resinous-filipino-pork-blood-dinuguan",
     "title": "Oozing Resinous Filipino Pork Blood Dinuguan",
     "tags": [
@@ -10104,6 +10118,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-indulgent-mexican-guanciale-tacos",
+    "title": "Oven-Roasted Indulgent Mexican Guanciale Tacos",
+    "tags": [
+      "guanciale",
+      "indulgent",
+      "mexican",
+      "sonoran",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-indulgent-middle-eastern-chicken-tagine",
     "title": "Oven-Roasted Indulgent Middle-Eastern Chicken Tagine",
     "tags": [
@@ -11007,6 +11035,22 @@
       "vegetarian-options"
     ],
     "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-middle-eastern-buttermilk-harees",
+    "title": "Oven-Roasted Middle Eastern Buttermilk Harees",
+    "tags": [
+      "dairy-free",
+      "easy-to-make",
+      "light-meal",
+      "middle-eastern",
+      "monsoon",
+      "one-pan",
+      "spring"
+    ],
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
     "shard": "o"
   },

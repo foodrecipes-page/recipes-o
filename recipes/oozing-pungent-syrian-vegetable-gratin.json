@@ -1,0 +1,132 @@
+{
+  "title": "Oozing Pungent Syrian Vegetable Gratin",
+  "description": "A pungent and crunchy Syrian dish featuring ssamjang, perfect for a Buddhist temple-friendly gathering. This recipe uses a tandoor clay pot for a unique cooking experience.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taro root",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ssamjang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed pita bread",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Heat the olive oil in the tandoor clay pot over medium heat.",
+    "Add the grated ginger, minced garlic, Korean chili flakes, turmeric, and cumin. Cook until fragrant, about 1 minute.",
+    "Add the chopped scallions and cook for an additional 2 minutes.",
+    "Stir in the ssamjang, salt, and black pepper. Cook for 1 minute.",
+    "Add the chopped taro root and stir to combine.",
+    "Transfer the clay pot to the oven and cook for 35 minutes.",
+    "Top the gratin with crushed pita bread and bake for an additional 5 minutes.",
+    "Remove from the oven and top with Greek yogurt, chopped cilantro, and a squeeze of lemon juice.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "syrian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozing-pungent-syrian-vegetable-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-pungent-syrian-vegetable-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:14Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "ssamjang",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Oozing Pungent",
+    "dishForm": "Gratin"
+  }
+}

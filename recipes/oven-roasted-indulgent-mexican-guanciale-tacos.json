@@ -1,0 +1,119 @@
+{
+  "title": "Oven-Roasted Indulgent Mexican Guanciale Tacos",
+  "description": "Fresh, flaky, and rich Mexican Sonoran-style tacos featuring crispy guanciale and a clay-pot-cooked filling. Inspired by the bold flavors of the region, this dish combines tender meat with crunchy texture and explosive flavors.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Guanciale",
+      "amount": "8 slices",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Diced fresh cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kadhai or large clay pot",
+      "amount": "",
+      "notes": "For clay-pot cooking."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "12-16",
+      "notes": ""
+    },
+    {
+      "name": "Queso fresco or Oaxaca cheese",
+      "amount": "1 cup crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook guanciale in a kadhai or large clay pot over medium heat until crispy, about 5 minutes.",
+    "In a large bowl, combine ground pork, diced onion, minced garlic, salt, and black pepper.",
+    "Cook the pork mixture in the kadhai or clay pot over medium heat, breaking it up with a spoon as it cooks, until browned and cooked through.",
+    "Stir in diced cilantro, lime juice, and olive oil. Cook for an additional 1-2 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning pork mixture onto a warmed tortilla and topping with crispy guanciale, queso fresco, and additional cilantro if desired.",
+    "Serve immediately and enjoy!",
+    "For best results, cook guanciale just before assembling the tacos.",
+    "Garnish with queso fresco, cilantro, and a squeeze of lime juice, if desired.",
+    "This dish is best served with additional toppings such as diced radishes, sliced avocado, and pickled onions.",
+    "Craving something a bit different, try substituting beef or chicken for the pork for a unique twist on this classic dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "guanciale",
+    "indulgent",
+    "mexican",
+    "sonoran",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "oven-roasted-indulgent-mexican-guanciale-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-indulgent-mexican-guanciale-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "guanciale",
+    "diet": "flexitarian",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "guanciale",
+    "descriptor": "Oven-Roasted Indulgent",
+    "dishForm": "Tacos"
+  }
+}
