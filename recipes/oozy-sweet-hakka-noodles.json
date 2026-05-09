@@ -1,0 +1,94 @@
+{
+  "title": "Oozy Sweet Hakka Noodles",
+  "description": "A malty, gooey, post-workout Chinese dish featuring creme-patissiere, steam, and low-sodium-friendly ingredients, perfect for a satisfying dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hakka noodles",
+      "amount": "8 oz",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "creme-patissiere",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "steamed bok choy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the hakka noodles according to package instructions and set aside.",
+    "In a small saucepan, combine the creme-patissiere, malt syrup, and sesame oil, and heat over low heat, stirring constantly.",
+    "Add the chopped scallions, low-sodium soy sauce, and cooked noodles to the saucepan, and stir to combine.",
+    "Steam the bok choy until tender and chop into small pieces.",
+    "Add the steamed bok choy to the noodle mixture and stir to combine.",
+    "Transfer the noodle mixture to a serving dish and sprinkle with sesame seeds.",
+    "Serve the oozy sweet hakka noodles hot, garnished with additional scallions if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "creme-patissiere",
+    "low-sodium",
+    "noodle-dish",
+    "post-workout",
+    "steamed-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oozy-sweet-hakka-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-sweet-hakka-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:00:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "low-sodium",
+    "region": "hakka",
+    "cuisineAdjective": "Hakka",
+    "mainIngredient": "noodles",
+    "descriptor": "oozy sweet",
+    "dishForm": "Noodles"
+  }
+}

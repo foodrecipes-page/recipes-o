@@ -5078,6 +5078,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-sweet-hakka-noodles",
+    "title": "Oozy Sweet Hakka Noodles",
+    "tags": [
+      "chinese-food",
+      "creme-patissiere",
+      "low-sodium",
+      "noodle-dish",
+      "post-workout",
+      "steamed-vegetables"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-sweet-norwegian-coconut-hash",
     "title": "Oozy Sweet Norwegian Coconut Hash",
     "tags": [
