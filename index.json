@@ -2650,6 +2650,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-argentinian-dulce-de-leche-empanadas",
+    "title": "Oozing Argentinian Dulce de Leche Empanadas",
+    "tags": [
+      "argentinian",
+      "dessert",
+      "empanadas",
+      "lacto-vegetarian",
+      "pressure-cooker",
+      "snack"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-australian-fennel-salad",
     "title": "Oozing Australian Fennel Salad",
     "tags": [
@@ -10444,6 +10459,19 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-turkish-lamb-adana-kebap",
+    "title": "Oven-Roasted Turkish Lamb Adana Kebap",
+    "tags": [
+      "kebap",
+      "lamb",
+      "turkish",
+      "whole30"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-turkish-lamb-lahmacun",
     "title": "Turkish Lamb Lahmacun",
     "tags": [
@@ -10996,6 +11024,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-smoky-peruvian-cabbage-arroz-con-pato",
+    "title": "Oven Smoky Peruvian Cabbage Arroz Con Pato",
+    "tags": [
+      "dairy-free-friendly",
+      "gluten-free",
+      "one-pan-meal",
+      "peruvian-cuisine",
+      "smoky-flavors",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

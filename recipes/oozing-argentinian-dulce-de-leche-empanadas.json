@@ -1,0 +1,102 @@
+{
+  "title": "Oozing Argentinian Dulce de Leche Empanadas",
+  "description": "Sour, tender, nostalgic Argentinian empanadas featuring a rich, caramelized dulce de leche filling. Perfect for dessert or snack time.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lard or vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dulce de leche",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, lard or shortening, and salt in a mixing bowl. Mix until a dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat a pressure cooker to 15 psi.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk using a rolling pin.",
+    "Place a tablespoon of dulce de leche in the center of each disk.",
+    "Fold the dough over the filling, pressing the edges together to seal the empanada.",
+    "Repeat with the remaining dough and filling.",
+    "Place the empanadas in the pressure cooker and cook for 10 minutes.",
+    "Remove the empanadas from the pressure cooker and let them cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dessert",
+    "empanadas",
+    "lacto-vegetarian",
+    "pressure-cooker",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oozing-argentinian-dulce-de-leche-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-argentinian-dulce-de-leche-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "jam",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Dulce de leche",
+    "descriptor": "Oozing",
+    "dishForm": "Empanadas"
+  }
+}

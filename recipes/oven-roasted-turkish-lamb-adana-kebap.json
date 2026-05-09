@@ -1,0 +1,112 @@
+{
+  "title": "Oven-Roasted Turkish Lamb Adana Kebap",
+  "description": "A peppery, creamy, light Turkish dish featuring dried cranberries, served as a whole30-friendly adana kebap.",
+  "cuisine": "turkish",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Ground coriander",
+      "notes": "",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried cranberries",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt, black pepper, ground cumin, and ground coriander.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the lamb shoulder until browned on all sides, about 2 minutes per side.",
+    "Transfer the lamb shoulder to a baking sheet and roast in the preheated oven for 20 minutes.",
+    "While the lamb is roasting, mix the minced garlic with the dried cranberries, chopped parsley, lemon juice, and Greek yogurt in a bowl.",
+    "After the lamb has roasted for 20 minutes, brush it with the garlic-cranberry mixture and continue to roast for an additional 5 minutes.",
+    "Remove the lamb from the oven and let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the sliced lamb with additional garlic-cranberry sauce, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "kebap",
+    "lamb",
+    "turkish",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "oven-roasted-turkish-lamb-adana-kebap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-turkish-lamb-adana-kebap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:10:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "dried cranberries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Oven-Roasted Spicy",
+    "dishForm": "Adana Kebap"
+  }
+}

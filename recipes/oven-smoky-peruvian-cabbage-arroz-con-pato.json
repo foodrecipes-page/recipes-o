@@ -1,0 +1,101 @@
+{
+  "title": "Oven Smoky Peruvian Cabbage Arroz Con Pato",
+  "description": "A smoky and light Peruvian dish featuring cabbage leaves and a dairy-free friendly mother sauce base, served in the style of arroz con pato. This energizing meal is perfect for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika, aji amarillo pepper, and cabbage leaves, and cook for 2 minutes, until the cabbage starts to wilt.",
+    "Add the uncooked white rice and cook for 1 minute, until the rice is coated in the spice mixture.",
+    "Add the vegetable broth and bring to a boil, then cover the pot and transfer to the preheated oven.",
+    "Bake for 25 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "While the rice is baking, season the duck breast with salt and pepper, and sear in a hot skillet until browned on all sides.",
+    "Let the duck rest for 5 minutes before slicing and serving on top of the arroz con pato."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free-friendly",
+    "gluten-free",
+    "one-pan-meal",
+    "peruvian-cuisine",
+    "smoky-flavors",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-smoky-peruvian-cabbage-arroz-con-pato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoky-peruvian-cabbage-arroz-con-pato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:10:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Oven Smoky",
+    "dishForm": "Arroz Con Pato"
+  }
+}
