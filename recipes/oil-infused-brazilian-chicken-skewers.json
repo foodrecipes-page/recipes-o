@@ -1,0 +1,91 @@
+{
+  "title": "Oil Infused Brazilian Chicken Skewers",
+  "description": "A pungent and juicy solo dinner dish featuring raspberry jam and shio cure, this flexitarian friendly meal is perfect for a weeknight dinner",
+  "cuisine": "brazilian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, raspberry jam, shio cure, garlic, ginger, salt, and black pepper",
+    "Add the chicken pieces to the bowl and toss to coat evenly",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dinner",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "oil-infused-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:41:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "raspberry jam",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "oil infused",
+    "dishForm": "Skewers"
+  }
+}
