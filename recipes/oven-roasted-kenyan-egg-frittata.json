@@ -1,0 +1,96 @@
+{
+  "title": "Oven Roasted Kenyan Egg Frittata",
+  "description": "A briny and creamy Kenyan dish featuring caramelized sugar sauce, served in a stone bowl, perfect for a diabetic-friendly brunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup fresh",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, black pepper, and smoked paprika.",
+    "In a small saucepan, caramelize the sugar over medium heat, stirring constantly.",
+    "Add the butter to the saucepan and stir until melted.",
+    "Add the chopped spinach to the saucepan and cook until wilted.",
+    "Pour the egg mixture into a greased stone bowl.",
+    "Add the wilted spinach mixture and crumbled feta cheese to the egg mixture.",
+    "Bake the frittata in the preheated oven for 25 minutes or until the eggs are set.",
+    "Remove the frittata from the oven and let it cool for a few minutes.",
+    "Serve the frittata hot, garnished with additional spinach if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "diabetic-friendly",
+    "gluten-free",
+    "kenyan-cuisine",
+    "one-pan",
+    "oven-roasted",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "oven-roasted-kenyan-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-kenyan-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:25:16Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "eggs",
+    "descriptor": "oven roasted",
+    "dishForm": "Frittata"
+  }
+}
