@@ -1,0 +1,90 @@
+{
+  "title": "Outstanding Oven Roasted Ukrainian Chicken Breasts Kebabs",
+  "description": "This Ukrainian dish features chicken breasts with a jammy and crumbly texture, made with coconut cream crack and low sodium ingredients, served in a fondue pot. It is an energizing and delicious meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, cracked black pepper, paprika, garlic powder, onion powder, and salt-free seasoning blend.",
+    "Add the chicken breasts to the bowl and toss to coat with the coconut cream mixture.",
+    "Thread the coated chicken breasts onto skewers, if using.",
+    "Place the chicken breasts in a fondue pot or a large baking dish.",
+    "Drizzle the olive oil over the chicken breasts.",
+    "Roast the chicken breasts in the preheated oven for 25 minutes.",
+    "Remove the chicken breasts from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "outstanding-oven-roasted-ukrainian-chicken-breasts-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-ukrainian-chicken-breasts-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:50:54Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "chicken breasts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Kebabs"
+  }
+}
