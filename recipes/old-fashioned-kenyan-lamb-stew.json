@@ -1,0 +1,106 @@
+{
+  "title": "Old Fashioned Kenyan Lamb Stew",
+  "description": "A traditional Kenyan lamb stew with a garlicky flavor, this dish is perfect for a cold monsoon day. It features tender lamb, crumbly texture, and a sugar-free friendly recipe.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the brine, tomato paste, beef broth, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Add the potatoes and carrots to the stew and continue to simmer, covered, for another 30 minutes, or until the vegetables are tender.",
+    "Serve the stew hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "garlicky",
+    "gluten-free",
+    "kenyan-cuisine",
+    "lamb-stew",
+    "monsoon-recipe",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "old-fashioned-kenyan-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-kenyan-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:37:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "garlic clove",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "old fashioned",
+    "dishForm": "Stew"
+  }
+}
