@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Irish Lamb Wrap",
+  "description": "A romantic Irish dish featuring tender lamb, sweet red onions, and a hint of cure, all wrapped in a buttery corn husk wrap. This high-protein-friendly meal is perfect for a special occasion.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cure",
+      "amount": "2 tablespoons",
+      "notes": "Irish cure mix"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "In a small bowl, mix together the melted butter, cure, garlic powder, salt, and black pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder on a baking sheet lined with parchment paper and roast in the preheated oven for 20 minutes per pound, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "While the lamb is cooking, prepare the corn husks by soaking them in water for at least 30 minutes.",
+    "Once the lamb is cooked, let it rest for 10 minutes before slicing it thinly against the grain.",
+    "To assemble the wraps, lay a corn husk flat on a work surface and arrange a few slices of the lamb down the center of the husk.",
+    "Top the lamb with a few slices of red onion and fold the sides of the husk over the filling, then roll the wrap up tightly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "lamb",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "oven-roasted-irish-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-irish-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:51:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "red onions",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "oven roasted",
+    "dishForm": "Wrap"
+  }
+}

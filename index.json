@@ -10324,6 +10324,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-irish-lamb-wrap",
+    "title": "Oven Roasted Irish Lamb Wrap",
+    "tags": [
+      "high-protein",
+      "irish",
+      "lamb",
+      "romantic-dinner",
+      "special-occasion"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 90,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-irish-tofu-casserole",
     "title": "Oven Roasted Irish Tofu Casserole",
     "tags": [
