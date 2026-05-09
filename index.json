@@ -1804,6 +1804,20 @@
     "shard": "o"
   },
   {
+    "slug": "oily-outer-syrian-chicken-kebabs",
+    "title": "Oily Outer Syrian Chicken Kebabs",
+    "tags": [
+      "citrusy",
+      "grilled-chicken",
+      "high-protein",
+      "keto-friendly",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oily-outrageous-argentinian-parma-ham-empanadas",
     "title": "Oily Outrageous Argentinian Parma Ham Empanadas",
     "tags": [
@@ -3338,6 +3352,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-caramelized-russian-honey-bake",
+    "title": "Oozing Caramelized Russian Honey Bake",
+    "tags": [
+      "cinnamon-free",
+      "diabetic-friendly",
+      "gluten-free",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {

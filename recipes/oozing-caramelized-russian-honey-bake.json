@@ -1,0 +1,95 @@
+{
+  "title": "Oozing Caramelized Russian Honey Bake",
+  "description": "A malty, gooey Russian dish featuring cayenne pepper, perfect for a romantic evening. Salt-bake adds a unique crust to the iron teppan vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Russo-Oats Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dark Brown Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Malted Milk Powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan vessel in a salt-bake at 375°F (190°C) for 30 minutes.",
+    "In a large bowl, whisk together Russo-Oats Flour, Dark Brown Sugar, and Malted Milk Powder.",
+    "Add Honey, Eggs, Cayenne Pepper, and Salt to the bowl; mix until well combined.",
+    "Pour the mixture into the preheated iron teppan vessel.",
+    "Evenly spread the Unsalted Butter on top of the mixture.",
+    "Bake for 40-45 minutes or until the crust is golden brown and the center is set.",
+    "Remove the bake from the oven and let it rest for 10 minutes.",
+    "Use a spatula to carefully loosen the edges of the bake from the vessel.",
+    "Invert the bake onto a serving plate and let it cool for 5 minutes.",
+    "Slice the bake into 8-10 pieces and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cinnamon-free",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "oozing-caramelized-russian-honey-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-caramelized-russian-honey-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T23:01:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "honey",
+    "descriptor": "Oozing Caramelized",
+    "dishForm": "Bake"
+  }
+}
