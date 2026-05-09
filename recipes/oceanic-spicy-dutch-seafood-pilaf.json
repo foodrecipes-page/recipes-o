@@ -1,0 +1,106 @@
+{
+  "title": "Oceanic Spicy Dutch Seafood Pilaf",
+  "description": "A spicy and pillowy Dutch dish featuring seafood stock and char-grilled flavors, perfect for a brunch mood, this recipe is jain-friendly and serves as a great option for those looking for a flavorful and satisfying meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "jain",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "seafood stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mixed seafood",
+      "amount": "1 cup",
+      "notes": "such as shrimp, mussels, and scallops"
+    },
+    {
+      "name": "char-grilled bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the seafood stock in a large saucepan over medium heat until it starts to simmer.",
+    "Add the basmati rice to the saucepan and cook according to the package instructions.",
+    "In a separate pan, heat some oil over medium-high heat and saute the mixed seafood until it is cooked through.",
+    "Add the char-grilled bell peppers, onion, and garlic to the pan and cook until the vegetables are tender.",
+    "Stir in the garam masala, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Fluff the cooked rice with a fork and stir in the cooked seafood and vegetable mixture.",
+    "Squeeze the lemon juice over the top of the pilaf and serve hot.",
+    "Garnish with fresh herbs, such as parsley or cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dutch-cuisine",
+    "jain-friendly",
+    "one-pan",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oceanic-spicy-dutch-seafood-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-spicy-dutch-seafood-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:39:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "seafood stock",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "seafood",
+    "descriptor": "Oceanic Spicy",
+    "dishForm": "Pilaf"
+  }
+}

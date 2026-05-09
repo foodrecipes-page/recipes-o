@@ -609,6 +609,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-spicy-dutch-seafood-pilaf",
+    "title": "Oceanic Spicy Dutch Seafood Pilaf",
+    "tags": [
+      "brunch",
+      "dutch-cuisine",
+      "jain-friendly",
+      "one-pan",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-ukrainian-tuna-stew",
     "title": "Oceanic Ukrainian Tuna Stew",
     "tags": [
