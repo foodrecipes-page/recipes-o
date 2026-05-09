@@ -1,0 +1,102 @@
+{
+  "title": "Oven Roasted Smoky Russian White Bread Tagine",
+  "description": "A smoky, springy, plant-based Russian dish featuring white bread mix, perfect for a brunch mood, cooked in a tagine pot. This recipe combines the flavors of Russia with the convenience of a one-pot meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "1 package",
+      "notes": "dried active yeast included"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the white bread mix, water, smoked paprika, and olive oil, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a tagine pot, covering it with a lid.",
+    "Bake the bread for 25 minutes, then remove the lid and continue baking for an additional 10 minutes.",
+    "While the bread is baking, heat a skillet over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Once the bread is done, remove it from the oven and top it with the mushroom and onion mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve the smoky Russian white bread tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "one-pot",
+    "oven-roasted",
+    "plant-based",
+    "russian",
+    "smoky",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "oven-roasted-smoky-russian-white-bread-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-smoky-russian-white-bread-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:06:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "white bread mix",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "white bread",
+    "descriptor": "oven roasted smoky",
+    "dishForm": "Tagine"
+  }
+}
