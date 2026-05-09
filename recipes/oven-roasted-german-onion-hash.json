@@ -1,0 +1,84 @@
+{
+  "title": "Oven Roasted German Onion Hash",
+  "description": "A savory and shaggy German dish featuring caramelized onions, this paleo-friendly recipe is perfect for a snack or side dish. It is made with vegetable oil and roasted to perfection in the oven.",
+  "cuisine": "German",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced onions with vegetable oil, salt, black pepper, garlic powder, and paprika until they are evenly coated.",
+    "Spread the onions out in a single layer on a large baking sheet.",
+    "Roast the onions in the preheated oven for 30 minutes, stirring occasionally.",
+    "After 30 minutes, increase the oven temperature to 450 degrees Fahrenheit and continue roasting for an additional 20 minutes, or until the onions are caramelized and golden brown.",
+    "Remove the onions from the oven and let them cool slightly.",
+    "Use a spatula to scrape the onions into a large serving dish or individual serving portions.",
+    "Serve the oven roasted German onion hash hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "german-cuisine",
+    "gluten-free",
+    "paleo-friendly",
+    "roasted-vegetables",
+    "snack-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "oven-roasted-german-onion-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-german-onion-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:35:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "vegetable oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "onions",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Hash"
+  }
+}
