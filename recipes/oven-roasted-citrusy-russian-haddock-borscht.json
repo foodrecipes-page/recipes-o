@@ -1,0 +1,120 @@
+{
+  "title": "Oven-Roasted Citrusy Russian Haddock Borscht",
+  "description": "A show-off Russian dish featuring haddock, pickle, and creamy citrus flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal",
+    "vegetarian (with substitutions)",
+    "gluten-free (with substitutions)"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets (4)",
+      "amount": "1 1/2 pounds",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "beets (4)",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "carrots (3)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion (1)",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice (1/4 cup)",
+      "amount": "",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "orange juice (1/4 cup)",
+      "amount": "",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "olive oil (1/4 cup)",
+      "amount": "",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "dill pickle juice (2 tablespoons)",
+      "amount": "",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "sour cream (1 cup)",
+      "amount": "",
+      "notes": "Full-fat or low-fat"
+    },
+    {
+      "name": "fresh dill (chopped, 1/4 cup)",
+      "amount": "",
+      "notes": "Fresh and fragrant"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the haddock fillets under cold water, pat dry with paper towels, and season with salt and pepper.",
+    "In a large bowl, whisk together lemon juice, orange juice, and olive oil. Add the beets, carrots, onion, and garlic. Toss to coat.",
+    "Transfer the beet-carrot mixture to a large baking sheet lined with parchment paper. Roast in the preheated oven for 25 minutes.",
+    "In a separate bowl, whisk together sour cream and pickle juice. Set aside.",
+    "Remove the beet-carrot mixture from the oven and stir in the chopped fresh dill.",
+    "Add the roasted beets and carrots to a blender or food processor with 1/4 cup of water. Blend until smooth.",
+    "In a large pot, combine the blended beet-carrot mixture, haddock fillets, and 1 cup of water. Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Stir in the sour cream-pickle juice mixture and simmer for an additional 2 minutes.",
+    "Serve hot, garnished with additional chopped fresh dill and a dollop of sour cream if desired.",
+    "This dish may be refrigerated or frozen for later use."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "borscht",
+    "citrussy",
+    "creamy",
+    "fish",
+    "one-pan",
+    "russian",
+    "show-off",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "oven-roasted-citrusy-russian-haddock-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-citrusy-russian-haddock-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T01:11:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "haddock",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "haddock",
+    "descriptor": "Oven-Roasted Citrusy",
+    "dishForm": "Borscht"
+  }
+}
