@@ -1,0 +1,99 @@
+{
+  "title": "Syrian Split Peas Stew",
+  "description": "A traditional Syrian stew made with split peas and cooked in a clay pot, this dish is hearty and comforting. It is also egg-free, making it a great option for those with dietary restrictions.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "dried, green or yellow"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the split peas and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the split peas, then transfer them to a clay pot.",
+    "Heat the olive oil in a pan over medium heat, then add the chopped onion and cook until softened.",
+    "Add the minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "Add the tomato paste to the pan and cook for 2 minutes, stirring constantly.",
+    "Add the cooked onion and garlic mixture to the clay pot with the split peas.",
+    "Add the salt, black pepper, cumin, and paprika to the clay pot and stir to combine.",
+    "Add enough water to the clay pot to cover the split peas and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 45 minutes, or until the split peas are tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "comfort-food",
+    "one-pot-meal",
+    "syrian-cuisine",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "old-fashioned-syrian-split-peas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-syrian-split-peas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:53:24Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "split peas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "split peas",
+    "descriptor": "old fashioned",
+    "dishForm": "Stew"
+  }
+}
