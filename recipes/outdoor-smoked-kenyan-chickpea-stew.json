@@ -1,0 +1,108 @@
+{
+  "title": "Outdoor Smoked Kenyan Chickpea Stew",
+  "description": "A briny and comforting Kenyan dish featuring birds-eye chillies and bhuna, perfect for a plant-based friendly meal, smoked to perfection on a cedar plank.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "birds-eye chillies",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar plank in water for 30 minutes before starting to cook.",
+    "In a large bowl, mix together the chickpeas, sliced birds-eye chillies, bhuna spice mix, salt, and black pepper.",
+    "Heat the cedar plank over medium heat on an outdoor grill or smoker until it starts to smoke.",
+    "Add the chopped onion to the cedar plank and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the cedar plank and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the tomato paste to the cedar plank and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chickpea mixture to the cedar plank and stir to combine with the onion and garlic mixture.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 20 minutes, stirring occasionally, until the flavors have melded together and the stew has thickened slightly.",
+    "Serve the stew hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan",
+    "outdoor-cooking",
+    "plant-based",
+    "smoked",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "outdoor-smoked-kenyan-chickpea-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-smoked-kenyan-chickpea-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:01:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "outdoor smoked",
+    "dishForm": "Stew"
+  }
+}

@@ -3104,6 +3104,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozing-chocolate-american-cacao-dessert",
+    "title": "Oozing Chocolate American Cacao Dessert",
+    "tags": [
+      "dessert",
+      "high-calorie",
+      "indulgent",
+      "low-protein",
+      "weekend"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
     "slug": "oozing-creamy-mexican-mole-poblano",
     "title": "Oozing Creamy Mexican Mole-Poblano",
     "tags": [
@@ -6041,6 +6055,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "outdoor-smoked-kenyan-chickpea-stew",
+    "title": "Outdoor Smoked Kenyan Chickpea Stew",
+    "tags": [
+      "comfort-food",
+      "kenyan",
+      "outdoor-cooking",
+      "plant-based",
+      "smoked",
+      "stew"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
