@@ -3630,6 +3630,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-mediterranean-fish-wrap",
+    "title": "Oozy Mediterranean Fish Wrap",
+    "tags": [
+      "easy-to-make",
+      "fish",
+      "healthy",
+      "lacto-vegetarian",
+      "mediterranean",
+      "one-pan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 32,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-mediterranean-hake-bake",
     "title": "Oozy Mediterranean Hake Bake",
     "tags": [
@@ -9793,6 +9808,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-uruguayan-meat-empanadas",
+    "title": "Oven Roasted Uruguayan Meat Empanadas",
+    "tags": [
+      "air-fry-adapted",
+      "gluten-free",
+      "low-glycemic",
+      "meat-empanadas",
+      "oven-roasted",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

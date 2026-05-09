@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Uruguayan Meat Empanadas",
+  "description": "A festive Uruguayan dish featuring kabse spice and gooey meat filling, roasted to perfection in the oven, this recipe is low-glycemic-friendly and air-fry adapted for a crispy exterior.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought, low-glycemic"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the onion until translucent.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the kabse spice, salt, and black pepper, and cook for 1 minute.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the meat filling in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half over the filling, pressing the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Brush the tops of the empanadas with the remaining egg wash."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry-adapted",
+    "gluten-free",
+    "low-glycemic",
+    "meat-empanadas",
+    "oven-roasted",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-uruguayan-meat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-uruguayan-meat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:03:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "kabse spice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "meat",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Empanadas"
+  }
+}

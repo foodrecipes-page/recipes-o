@@ -1,0 +1,102 @@
+{
+  "title": "Oozy Mediterranean Fish Wrap",
+  "description": "A lazy Sunday Mediterranean dish featuring sashimi cut fish, umeboshi, and lacto vegetarian friendly ingredients, all wrapped in a ti leaf.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sashimi cut fish",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "umeboshi",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees.",
+    "In a bowl, mix together chopped umeboshi, crumbly feta cheese, pitted kalamata olives, canned artichoke hearts, and chopped sun dried tomatoes.",
+    "Season the sashimi cut fish with salt and pepper.",
+    "Place a portion of the fish in the center of each ti leaf.",
+    "Spoon the umeboshi mixture over the fish.",
+    "Drizzle with lemon juice and olive oil.",
+    "Fold the ti leaves to enclose the filling.",
+    "Bake for 12 minutes or until the fish is cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish",
+    "healthy",
+    "lacto-vegetarian",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "oozy-mediterranean-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-mediterranean-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:03:39Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "umeboshi",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "Oozy Molten",
+    "dishForm": "Wrap"
+  }
+}
