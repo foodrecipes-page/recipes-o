@@ -1,0 +1,99 @@
+{
+  "title": "Oven Roasted Dutch Vegetable Stew",
+  "description": "A hearty and flavorful one-pot dish featuring a medley of vegetables in a rich cranberry juice broth, cooked to perfection in a Dutch oven. This ayurvedic-sattvic-friendly recipe is perfect for a comforting dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "red potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped carrots, Brussels sprouts, and red potatoes to the pot, stirring to combine.",
+    "Pour in the cranberry juice, and sprinkle the salt, black pepper, and chopped thyme over the top.",
+    "Cover the pot with a lid, and transfer it to the preheated oven.",
+    "Roast the stew for 30 minutes, then remove the lid and continue roasting for an additional 20 minutes, or until the vegetables are tender and lightly browned.",
+    "Remove the pot from the oven, and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with additional fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-oven",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-roasted-dutch-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-dutch-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:46:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "cranberry juice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}

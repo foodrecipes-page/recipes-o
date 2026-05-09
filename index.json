@@ -7170,6 +7170,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-dutch-vegetable-stew",
+    "title": "Oven Roasted Dutch Vegetable Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-oven",
+      "gluten-free",
+      "one-pot",
+      "vegetarian",
+      "winter-stew"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-egyptian-duck-tagine",
     "title": "Oven-Roasted Egyptian Duck Tagine",
     "tags": [
