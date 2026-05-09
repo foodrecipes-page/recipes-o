@@ -7206,6 +7206,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-argentinian-lamb-shank-stew",
+    "title": "Oven Roasted Argentinian Lamb Shank Stew",
+    "tags": [
+      "argentinian-inspired",
+      "comfort-food",
+      "lamb-based",
+      "one-pot",
+      "rich-and-hearty"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-argentinian-mustard-stew",
     "title": "Oven Roasted Argentinian Mustard Stew",
     "tags": [
@@ -9274,6 +9288,22 @@
     ],
     "cuisine": "moroccan",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-moroccan-chickpea-bissara",
+    "title": "Oven-Roasted Moroccan Chickpea Bissara",
+    "tags": [
+      "dinner",
+      "easy-to-make",
+      "gluten-free",
+      "lunch",
+      "moroccan",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
