@@ -1,0 +1,96 @@
+{
+  "title": "Outdoor Smoky Jamaican Tofu Skewers",
+  "description": "A smoky and creamy Jamaican dish featuring raspberry jam and flambe, perfect for a lazy Sunday, made with shojin-friendly ingredients and cooked on a cedar plank.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together soy sauce, brown sugar, and raspberry jam.",
+    "Add the chopped scotch bonnet peppers, garlic, and thyme to the bowl and stir to combine.",
+    "Thread the tofu cubes onto the soaked cedar planks, leaving a small space between each cube.",
+    "Brush the tofu with the soy sauce mixture, making sure each cube is fully coated.",
+    "Place the cedar planks on the grill and cook for 10 minutes, flipping halfway through.",
+    "Flambe the tofu by pouring a small amount of rum over the top and igniting with a match.",
+    "Let the flames burn for 30 seconds before blowing them out and serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "flambe",
+    "jamaican",
+    "outdoor-cooking",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "outdoor-smoky-jamaican-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-smoky-jamaican-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:27:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "flambe",
+    "primaryIngredient": "raspberry jam",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Outdoor Smoky",
+    "dishForm": "Skewers"
+  }
+}
