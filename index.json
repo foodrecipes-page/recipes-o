@@ -10507,6 +10507,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-portuguese-chicken-skewers",
+    "title": "Oven Roasted Portuguese Chicken Skewers",
+    "tags": [
+      "chicken-dinner",
+      "low-sodium",
+      "oven-roasted",
+      "portuguese-cuisine",
+      "quick-meal",
+      "solo-dinner"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-portuguese-tofu-tagine",
     "title": "Oven Roasted Portuguese Tofu Tagine",
     "tags": [
