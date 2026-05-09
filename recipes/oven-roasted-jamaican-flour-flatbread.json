@@ -1,0 +1,88 @@
+{
+  "title": "Oven Roasted Jamaican Flour Flatbread",
+  "description": "A satvik-friendly Jamaican dish featuring flour, smoke, and nostalgic flavors, with a jammy and cheese-pull twist. This recipe combines traditional ingredients with a modern twist.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "Add the grated cheese, jam, and smoked paprika to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 6 equal pieces and shape each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Brush the tops with olive oil and place on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes or until the flatbreads are golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "jamaican-inspired",
+    "jammy",
+    "oven-roasted",
+    "satvik",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-roasted-jamaican-flour-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-flour-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:02:25Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "flour",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "flour",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Flatbread"
+  }
+}
