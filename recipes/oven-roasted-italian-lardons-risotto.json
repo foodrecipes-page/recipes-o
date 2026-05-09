@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Italian Lardons Risotto",
+  "description": "A salty, crisp, and crowd-pleasing Italian dish featuring green curry paste and lardons, perfect for a Mediterranean-inspired meal. This recipe combines the flavors of Italy with the warmth of green curry paste.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": "high-quality, short-grain rice"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 oz",
+      "notes": "small pieces of bacon"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tbsp",
+      "notes": "Thai-inspired flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry, Italian white wine"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "aged, Italian cheese"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh herbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin, Italian oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Render the lardons in a large skillet over medium heat until crispy.",
+    "Add the green curry paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the Arborio rice to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the white wine to the skillet and cook until the liquid is almost completely absorbed.",
+    "Add 1 cup of chicken broth to the skillet and cook, stirring constantly, until the liquid is almost completely absorbed.",
+    "Repeat the process of adding chicken broth and cooking until the liquid is almost completely absorbed, until all the broth is used.",
+    "Stir in the grana padano cheese and cook until melted and creamy.",
+    "Transfer the risotto to a ceramic tagine and top with chopped parsley and crispy lardons.",
+    "Bake the risotto in the preheated oven for 10 minutes, or until lightly browned and crispy on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "oven-roasted-italian-lardons-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-italian-lardons-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:32:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lardons",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Risotto"
+  }
+}
