@@ -1,0 +1,94 @@
+{
+  "title": "Oil Infused German Pork Bowl",
+  "description": "A savory and fluffy German dish featuring yuzu and pork, perfect for a hangover cure, served in a lacquerware bowl. This keto-friendly meal is made using a bain-marie method.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together coconut oil, yuzu juice, salt, black pepper, garlic powder, and onion powder.",
+    "Place the pork shoulder in a lacquerware bowl and brush the oil mixture evenly over the pork.",
+    "Cover the bowl with plastic wrap and place it in a larger bowl filled with hot water to create a bain-marie.",
+    "Bake the pork in the preheated oven for 2 hours.",
+    "Remove the pork from the oven and let it rest for 10 minutes.",
+    "Slice the pork into thin strips and garnish with chopped fresh parsley.",
+    "Serve the pork in the lacquerware bowl.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "comfort-food",
+    "german-cuisine",
+    "hangover-cure",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "oil-infused-german-pork-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-german-pork-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:07:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "bain-marie",
+    "primaryIngredient": "yuzu",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "oil infused",
+    "dishForm": "Bowl"
+  }
+}

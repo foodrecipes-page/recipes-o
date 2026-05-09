@@ -1,0 +1,100 @@
+{
+  "title": "Oven Baked Irish Sun Dried Tomatoes Flatbread",
+  "description": "A delicious and satisfying Irish dish featuring sun dried tomatoes, perfect for a midnight craving, this flexitarian friendly flatbread is yeasty and light.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, combine warm flour, yeast, salt, and sugar.",
+    "Gradually add olive oil to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Spread chopped sun dried tomatoes, minced garlic, and chopped rosemary over the dough, leaving a 1 inch border around the edges.",
+    "Sprinkle shredded mozzarella cheese over the top of the flatbread.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "flexitarian",
+    "irish-food",
+    "midnight-craving",
+    "sun-dried-tomatoes",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "oven-baked-irish-sun-dried-tomatoes-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-irish-sun-dried-tomatoes-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:08:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sun dried tomatoes",
+    "descriptor": "Oven baked",
+    "dishForm": "Flatbread"
+  }
+}
