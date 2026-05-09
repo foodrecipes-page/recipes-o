@@ -1,0 +1,101 @@
+{
+  "title": "Oven Roasted Jamaican Chicken Wrap",
+  "description": "Rich and dense Jamaican dish featuring wild garlic leaves and wrapped in a pandan leaf, perfect for meal prep. This recipe is anti-inflammatory friendly and uses a deglaze technique for added flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "wild garlic leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken with jamaican jerk seasoning, salt, and black pepper.",
+    "In a large bowl, whisk together olive oil, lime juice, and honey.",
+    "Add the chopped wild garlic leaves to the bowl and stir to combine.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the chicken in a single layer.",
+    "Roast the chicken in the preheated oven for 25 minutes or until cooked through.",
+    "Remove the chicken from the oven and let it rest for 5 minutes.",
+    "Deglaze the baking sheet with a little water to get the browned bits.",
+    "Wrap each piece of chicken in a pandan leaf and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "jamaican-cuisine",
+    "meal-prep",
+    "pandan-leaf",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "oven-roasted-jamaican-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-jamaican-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:17:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Wrap"
+  }
+}
