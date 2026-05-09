@@ -1,0 +1,97 @@
+{
+  "title": "Outdoor Smoky Filipino Chicken Adobo",
+  "description": "A one-pot Filipino dish featuring ground cumin and smoky flavors, wrapped in corn husks for a unique outdoor cooking experience. This high-protein-friendly adobo is perfect for a dinner gathering.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 large husks"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the corn husks by soaking them in water for 30 minutes.",
+    "In a large bowl, mix together the chicken, ground cumin, smoked paprika, vinegar, soy sauce, black pepper, and salt.",
+    "Lay a corn husk flat and place about 1/2 cup of the chicken mixture in the center of the husk.",
+    "Fold the sides of the husk over the filling and roll up the husk to form a tight package.",
+    "Repeat with the remaining corn husks and chicken mixture.",
+    "Place the packages in a single layer in a large Dutch oven or heavy pot with a tight-fitting lid.",
+    "Add the water to the pot and bring to a boil over high heat.",
+    "Reduce the heat to low, cover the pot, and simmer for 45 minutes.",
+    "Remove the pot from the heat and let it cool for 10 minutes.",
+    "Serve the adobo hot, unwrapping the corn husks at the table."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "high-protein",
+    "one-pot",
+    "outdoor-cooking",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "outdoor-smoky-filipino-chicken-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-smoky-filipino-chicken-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:29:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "smoke-cold",
+    "primaryIngredient": "ground cumin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Outdoor Smoky",
+    "dishForm": "Adobo"
+  }
+}

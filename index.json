@@ -4293,6 +4293,22 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-silky-greek-rhubarb-saganaki",
+    "title": "Oozy Silky Greek Rhubarb Saganaki",
+    "tags": [
+      "dessert",
+      "greek",
+      "low-glycemic",
+      "midnight-craving",
+      "oozy",
+      "silky",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-silky-malaysian-rice-bowl",
     "title": "Oozy Silky Malaysian Rice Bowl",
     "tags": [
@@ -5401,6 +5417,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "outdoor-smoky-filipino-chicken-adobo",
+    "title": "Outdoor Smoky Filipino Chicken Adobo",
+    "tags": [
+      "filipino-food",
+      "high-protein",
+      "one-pot",
+      "outdoor-cooking",
+      "smoky-flavors"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {

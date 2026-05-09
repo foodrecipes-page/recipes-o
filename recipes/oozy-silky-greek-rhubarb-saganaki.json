@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Silky Greek Rhubarb Saganaki",
+  "description": "Rich and silky Greek dish featuring rhubarb, perfect for midnight cravings, this low-glycemic-friendly saganaki is a delightful treat. It combines the sweetness of rhubarb with the savory flavors of Greece.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 pounds",
+      "notes": "fresh, cut into 1-inch pieces"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the rhubarb, honey, olive oil, lemon juice, grated ginger, and cinnamon until the rhubarb is well coated.",
+    "Transfer the rhubarb mixture to a 9x13 inch baking dish and bake for 25 minutes, or until the rhubarb is tender.",
+    "While the rhubarb is baking, mix the Greek yogurt and sea salt in a small bowl.",
+    "After the rhubarb has finished baking, let it cool for a few minutes before serving.",
+    "To serve, place a portion of the warm rhubarb on a plate, top with a dollop of the yogurt mixture, and sprinkle with chopped walnuts.",
+    "Drizzle any remaining honey and lemon juice from the baking dish over the top of the saganaki.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "greek",
+    "low-glycemic",
+    "midnight-craving",
+    "oozy",
+    "silky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "oozy-silky-greek-rhubarb-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-silky-greek-rhubarb-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:30:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "rhubarb",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Oozy Silky",
+    "dishForm": "Saganaki"
+  }
+}
