@@ -1,0 +1,111 @@
+{
+  "title": "Old Country Polish Cheese Lasagna",
+  "description": "A traditional Polish dish featuring layers of cheese, grape tomatoes, and ferment-kimchi, served hot from a communal hot-pot vessel, perfect for a high-protein dinner with family and friends.",
+  "cuisine": "Polish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "12 sheets",
+      "notes": "wide flat noodles"
+    },
+    {
+      "name": "Grape tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "2 cups",
+      "notes": "drained"
+    },
+    {
+      "name": "Shredded mozzarella",
+      "amount": "2 cups",
+      "notes": "divided"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Cook lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, combine grape tomatoes and ferment-kimchi, and cook over medium heat until the tomatoes start to release their juices.",
+    "In a large bowl, combine ricotta cheese, egg, salt, and black pepper, and mix well.",
+    "Spread a layer of the ricotta mixture in the bottom of a hot-pot vessel.",
+    "Arrange 4 lasagna noodles on top of the ricotta layer.",
+    "Sprinkle a third of the shredded mozzarella and a third of the parmesan cheese over the noodles.",
+    "Repeat the layers two more times, ending with a layer of mozzarella on top.",
+    "Cover the vessel with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "communal-dish",
+    "high-protein",
+    "hot-pot",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "old-country-polish-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-country-polish-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:03:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheese",
+    "descriptor": "old country oven roasted",
+    "dishForm": "Lasagna"
+  }
+}

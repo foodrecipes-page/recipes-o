@@ -2069,6 +2069,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-country-polish-cheese-lasagna",
+    "title": "Old Country Polish Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "communal-dish",
+      "high-protein",
+      "hot-pot",
+      "polish-cuisine"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 70,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-american-egg-noodles",
     "title": "Old Fashioned American Egg Noodles",
     "tags": [
