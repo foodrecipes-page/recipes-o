@@ -1,0 +1,101 @@
+{
+  "title": "Oven Roasted Australian Tofu Casserole",
+  "description": "A nutty and velvety Australian dish featuring garlic sauce, this Jain-friendly casserole is perfect for a cozy night in.",
+  "cuisine": "Australian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "garlic sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the garlic sauce and olive oil.",
+    "Add the cubed tofu to the bowl and toss to coat with the garlic sauce mixture.",
+    "In a separate bowl, mix together the cooked brown rice and frozen mixed vegetables.",
+    "In a 9x13 inch baking dish, arrange a layer of the rice and vegetable mixture.",
+    "Add a layer of the tofu on top of the rice mixture.",
+    "Repeat the layers one more time, ending with a layer of rice on top.",
+    "Sprinkle the chopped nuts over the top of the casserole.",
+    "Season with salt and black pepper to taste.",
+    "Bake the casserole in the preheated oven for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "nutty",
+    "one-pan",
+    "vegetarian",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-roasted-australian-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-australian-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:21:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "garlic sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "oven roasted",
+    "dishForm": "Casserole"
+  }
+}
