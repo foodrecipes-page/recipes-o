@@ -1,0 +1,101 @@
+{
+  "title": "Outdoor Grilled Chinese Pork Belly Skewers",
+  "description": "Tender and adventurous Chinese dish featuring pork belly slices, grilled to perfection on a robata-grill with a citrusy flavor, paleo-friendly and spherified for a unique twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Whisk together orange juice, soy sauce, honey, garlic, and ginger in a large bowl.",
+    "Add the sliced pork belly to the marinade and refrigerate for at least 2 hours.",
+    "Thread the marinated pork belly onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with sesame oil and season with salt and black pepper.",
+    "Grill the skewers on the robata-grill for 10-12 minutes, or until the pork is tender and slightly charred.",
+    "Mix the sodium alginate with water to create a spherification bath.",
+    "Dip the grilled pork belly pieces into the spherification bath to create a unique and adventurous texture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eats",
+    "chinese-cuisine",
+    "grilled-meats",
+    "outdoor-cooking",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "outdoor-grilled-chinese-pork-belly-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-chinese-pork-belly-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:26:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "spherify",
+    "primaryIngredient": "pork belly slices",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork belly",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Skewers"
+  }
+}

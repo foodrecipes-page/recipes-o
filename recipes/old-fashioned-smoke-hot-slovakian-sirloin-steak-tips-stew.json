@@ -1,0 +1,104 @@
+{
+  "title": "Old Fashioned Smoke Hot Slovakian Sirloin Steak Tips Stew",
+  "description": "A hearty one-pot stew featuring tender sirloin steak tips in a rich and smoky sauce, perfect for a cold winter evening. This lacto-vegetarian friendly dish is a twist on traditional Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and add the smoked paprika, caraway seeds, salt, and black pepper.",
+    "Add the sirloin steak tips and cook until browned on all sides, about 5 minutes.",
+    "Remove the steak tips from the pot and set aside.",
+    "Add the garlic and onion to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the mushrooms to the pot and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the vegetable broth to the pot and bring to a boil.",
+    "Return the steak tips to the pot and reduce the heat to low.",
+    "Simmer the stew, covered, for 1 1/2 hours, or until the steak is tender.",
+    "Stir in the sour cream and cook for an additional 10 minutes.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lacto-vegetarian",
+    "one-pot",
+    "slovakian-cuisine",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "old-fashioned-smoke-hot-slovakian-sirloin-steak-tips-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-smoke-hot-slovakian-sirloin-steak-tips-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:26:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "smoke-hot",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "old fashioned smoke hot",
+    "dishForm": "Stew"
+  }
+}

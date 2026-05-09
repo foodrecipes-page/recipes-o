@@ -2110,6 +2110,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-smoke-hot-slovakian-sirloin-steak-tips-stew",
+    "title": "Old Fashioned Smoke Hot Slovakian Sirloin Steak Tips Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lacto-vegetarian",
+      "one-pot",
+      "slovakian-cuisine",
+      "smoky"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 120,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings",
     "title": "Old Fashioned Snappy Russian Yukon Gold Potatoes Dumplings",
     "tags": [
@@ -5017,6 +5032,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 32,
+    "shard": "o"
+  },
+  {
+    "slug": "outdoor-grilled-chinese-pork-belly-skewers",
+    "title": "Outdoor Grilled Chinese Pork Belly Skewers",
+    "tags": [
+      "adventurous-eats",
+      "chinese-cuisine",
+      "grilled-meats",
+      "outdoor-cooking",
+      "paleo-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 42,
     "shard": "o"
   },
   {
