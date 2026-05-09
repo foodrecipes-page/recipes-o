@@ -1,0 +1,99 @@
+{
+  "title": "Oceanic Kenyan Seafood Bisque",
+  "description": "A light and refreshing Kenyan seafood bisque featuring a seafood stock and brine-wet ingredients, served in a ramekin.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seafood stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "brine-wet seaweed",
+      "amount": "1 cup",
+      "notes": "such as wakame or hijiki"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the seafood stock in a large pot over medium heat.",
+    "Add the chopped onion, minced garlic, and grated ginger to the pot and cook until the onion is translucent.",
+    "Add the brine-wet seaweed to the pot and cook for an additional 2 minutes.",
+    "Stir in the lemon juice and coconut milk.",
+    "Season the bisque with salt and black pepper to taste.",
+    "Pour the bisque into ramekins and serve immediately.",
+    "Garnish with additional seaweed or lemon wedges if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bisque",
+    "coconut-milk",
+    "kenyan",
+    "ramekin",
+    "seafood",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "oceanic-kenyan-seafood-bisque",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-kenyan-seafood-bisque",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:10:00Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "seafood stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "seafood",
+    "descriptor": "Oceanic Brine",
+    "dishForm": "Bisque"
+  }
+}

@@ -429,6 +429,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-kenyan-seafood-bisque",
+    "title": "Oceanic Kenyan Seafood Bisque",
+    "tags": [
+      "bisque",
+      "coconut-milk",
+      "kenyan",
+      "ramekin",
+      "seafood",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-light-kenyan-sea-bass-soup",
     "title": "Oceanic Light Kenyan Sea Bass Soup",
     "tags": [
