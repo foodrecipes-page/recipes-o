@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Vietnamese Tofu Che Ba Mau",
+  "description": "A fresh and snappy Vietnamese dish featuring tofu and a variety of flavors, perfect for a post-workout meal. This recipe is ayurvedic-rajasic-friendly and served in a salt block vessel.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into cubes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut oil, lemongrass, garlic, ginger, tamari, maple syrup, rice vinegar, salt, and black pepper.",
+    "Add the tofu cubes to the bowl and toss to coat with the marinade.",
+    "Line a salt block vessel with parchment paper and arrange the tofu cubes in a single layer.",
+    "Roast the tofu in the preheated oven for 20 minutes, or until golden brown.",
+    "Remove the tofu from the oven and let it cool for a few minutes.",
+    "Serve the tofu hot, garnished with chopped fresh herbs if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the tofu in the oven or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "oven-roasted",
+    "tofu",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "oven-roasted-vietnamese-tofu-che-ba-mau",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-vietnamese-tofu-che-ba-mau",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:55:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "hail",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Oven roasted",
+    "dishForm": "Che Ba Mau"
+  }
+}
