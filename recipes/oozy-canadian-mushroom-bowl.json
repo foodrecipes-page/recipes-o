@@ -1,0 +1,102 @@
+{
+  "title": "Oozy Canadian Mushroom Bowl",
+  "description": "A rich and indulgent Canadian dish featuring marsala wine and mushrooms, served in a stone bowl, perfect for a cold winter night. This shojin-friendly recipe is a hearty and satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "mixed varieties such as cremini and shiitake"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stone ground mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the stone bowl over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mixed mushrooms and cook until they release their liquid and start to brown.",
+    "Add the marsala wine and bring to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes.",
+    "Stir in the thyme, vegetable broth, mustard, salt, and pepper.",
+    "Continue to simmer the mixture for an additional 5 minutes or until the liquid has reduced and the mushrooms are tender.",
+    "Serve the oozy mushroom mixture hot, straight from the stone bowl.",
+    "Garnish with fresh thyme and serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "mushroom-lover",
+    "one-pot",
+    "shojin-friendly",
+    "vegetarian-delight",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oozy-canadian-mushroom-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-canadian-mushroom-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:00:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "marsala-wine",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "outdoor oven roasted",
+    "dishForm": "Bowl"
+  }
+}
