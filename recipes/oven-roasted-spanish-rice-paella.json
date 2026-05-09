@@ -1,0 +1,105 @@
+{
+  "title": "Oven Roasted Spanish Rice Paella",
+  "description": "A roasted, dense, and light Spanish dish featuring rice and syrup, diabetic-friendly and made with double-rise-bread, cooked in a slate-tile vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "jocheong syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the Spanish rice to the skillet and stir to combine with the chicken and spices.",
+    "Transfer the mixture to a slate-tile vessel and add the jocheong syrup, double-rise-bread, and lemon juice.",
+    "Cover the vessel with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the rice is tender and the bread is toasted.",
+    "Remove the vessel from the oven and sprinkle with chopped parsley.",
+    "Let the paella rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-roasted-spanish-rice-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-spanish-rice-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:51:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rice",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Paella"
+  }
+}
