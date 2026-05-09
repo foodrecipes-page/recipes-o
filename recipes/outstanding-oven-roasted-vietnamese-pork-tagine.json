@@ -1,0 +1,100 @@
+{
+  "title": "Outstanding Oven Roasted Vietnamese Pork Tagine",
+  "description": "A rich and juicy one-pot Vietnamese dish featuring yogurt and tempering chocolate, made keto-friendly in a ceramic tagine vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender, combine yogurt, fish sauce, lime juice, garlic, ginger, and blend until smooth.",
+    "In a large ceramic tagine, combine the blended yogurt mixture, pork shoulder, tempering chocolate, star anise, black pepper, and salt.",
+    "Cover the tagine with a lid and roast in the preheated oven for 2 hours.",
+    "After 2 hours, remove the lid and continue roasting for an additional 30 minutes.",
+    "Remove the tagine from the oven and let it rest for 10 minutes.",
+    "Slice the pork shoulder into thick slices and serve with the juices from the tagine.",
+    "Garnish with fresh herbs, such as cilantro or basil, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "pork-recipes",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "outstanding-oven-roasted-vietnamese-pork-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-oven-roasted-vietnamese-pork-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:24:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "yogurt",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "outstanding oven roasted",
+    "dishForm": "Tagine"
+  }
+}
