@@ -1,0 +1,100 @@
+{
+  "title": "Oven Roasted Chinese Pork Jiaozi",
+  "description": "A funky and adventurous Chinese dish featuring treacle and score-fat, made with whole30-friendly ingredients in a ceramic tagine, formed into crispy jiaozi.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "use lean ground pork"
+    },
+    {
+      "name": "treacle",
+      "amount": "2 tablespoons",
+      "notes": "or molasses"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "or pork fat"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "use whole30-friendly soy sauce"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "use whole30-friendly sesame oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground pork, treacle, score-fat, green onions, ginger, garlic, soy sauce, and sesame oil.",
+    "Mix all the ingredients together until just combined, being careful not to overmix.",
+    "Lay out round wonton wrappers on a clean surface.",
+    "Place a tablespoon of the pork mixture in the center of each wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the jiaozi.",
+    "Place the jiaozi in a ceramic tagine, leaving some space between each one.",
+    "Roast the jiaozi in the preheated oven for 20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "chinese-food",
+    "jiaozi",
+    "oven-roasted",
+    "pork-recipes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-chinese-pork-jiaozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-chinese-pork-jiaozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:22:16Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "score-fat",
+    "primaryIngredient": "treacle",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Jiaozi"
+  }
+}
