@@ -1,0 +1,96 @@
+{
+  "title": "Oven Smoky Spanish Sea Bass Paella Valenciana",
+  "description": "A smoky and crisp Spanish dish featuring sea bass, perfect for a sick day, made in a fondue pot and cut into sashimi style pieces, diabetic friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass",
+      "amount": "4 fillets",
+      "notes": "sashimi cut"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "uncooked calasparra rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in the fondue pot over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoked paprika and saffron threads and cook for 1 minute.",
+    "Add the uncooked calasparra rice and cook for 2 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Add the sashimi cut sea bass fillets on top of the rice mixture.",
+    "Transfer the fondue pot to the preheated oven and bake for 20 minutes.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pot",
+    "seafood",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "oven-smoky-spanish-sea-bass-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoky-spanish-sea-bass-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:03:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sea bass",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sea bass",
+    "descriptor": "Oven Smoky",
+    "dishForm": "Paella Valenciana"
+  }
+}
