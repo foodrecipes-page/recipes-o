@@ -1,0 +1,98 @@
+{
+  "title": "Oozy Peppery Argentinian Chestnut Casserole",
+  "description": "A lacto-vegetarian friendly Argentinian dish featuring cooked chestnuts in a peppery and gooey sauce, perfect for a solo dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 1/2 cups",
+      "notes": "cooked and peeled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic over medium heat until softened.",
+    "Add the cooked chestnuts, smoked paprika, and black pepper to the skillet and stir to combine.",
+    "Pour in the low sodium vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes.",
+    "Stir in the low fat heavy cream and shredded gruyere cheese until the cheese is melted and the sauce is gooey.",
+    "Transfer the mixture to a baking dish and bake in the preheated oven for 20 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "casserole",
+    "chestnut",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "oozy-peppery-argentinian-chestnut-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-peppery-argentinian-chestnut-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:46:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chestnut",
+    "descriptor": "oozy peppery",
+    "dishForm": "Casseroles"
+  }
+}
