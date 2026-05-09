@@ -1,0 +1,96 @@
+{
+  "title": "Oozy Crispy Korean Dark Chocolate Songpyeon",
+  "description": "A crispy and adventurous Korean dessert featuring dark chocolate and ssam-wrap, made with tamasic-friendly ingredients. This unique treat combines the flavors of Korea with the richness of dark chocolate.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crushed nuts",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the rice flour, coconut sugar, and salt.",
+    "Add the sesame oil to the bowl and stir until the mixture forms a crumbly dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a few dark chocolate chips in the center of each disk.",
+    "Fold the dough over the chocolate to form a half-moon shape and press the edges together to seal the songpyeon.",
+    "Place the songpyeon on a baking sheet lined with parchment paper and brush the tops with sesame oil.",
+    "Bake the songpyeon for 15 minutes, or until they are crispy and golden brown.",
+    "Allow the songpyeon to cool for a few minutes before serving with ssam wrap and optional crushed nuts and sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-treats",
+    "dark-chocolate",
+    "gluten-free",
+    "korean-dessert",
+    "sesame-oil",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "oozy-crispy-korean-dark-chocolate-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-crispy-korean-dark-chocolate-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:31:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dark chocolate",
+    "diet": "ayurvedic-tamasic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dark chocolate",
+    "descriptor": "Oozy Crispy",
+    "dishForm": "Songpyeon"
+  }
+}
