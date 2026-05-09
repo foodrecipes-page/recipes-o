@@ -1,0 +1,91 @@
+{
+  "title": "Oven Cured Canadian Mackerel Wrap",
+  "description": "A Jain-friendly, fermented, and tender Canadian dish featuring mackerel, shio-cure, and pandan leaf wrap, perfect for a quick and easy snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "jain",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "shio cure mix",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio cure mix, lemon juice, olive oil, salt, and black pepper.",
+    "Place the mackerel fillets in a shallow dish and coat with the shio cure mix, making sure they are fully covered.",
+    "Let the mackerel fillets cure in the refrigerator for 2 hours.",
+    "After curing, rinse the mackerel fillets under cold water and pat dry with paper towels.",
+    "Place a pandan leaf on a flat surface and put a cured mackerel fillet in the center of the leaf.",
+    "Fold the pandan leaf over the mackerel fillet to form a wrap and secure with a toothpick if needed.",
+    "Place the pandan leaf wraps on a baking sheet lined with parchment paper and bake in the preheated oven for 10 minutes.",
+    "Remove the pandan leaf wraps from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "oven-cured-canadian-mackerel-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-cured-canadian-mackerel-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:53:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "mackerel",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "mackerel",
+    "descriptor": "oven cured",
+    "dishForm": "Wrap"
+  }
+}
