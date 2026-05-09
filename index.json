@@ -5969,6 +5969,20 @@
     "shard": "o"
   },
   {
+    "slug": "outdoor-smoked-slovakian-pork-wrap",
+    "title": "Outdoor Smoked Slovakian Pork Wrap",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "smoked-meat",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 510,
+    "shard": "o"
+  },
+  {
     "slug": "outdoor-smoky-filipino-chicken-adobo",
     "title": "Outdoor Smoky Filipino Chicken Adobo",
     "tags": [
@@ -9549,6 +9563,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-italian-turnip-frittata",
+    "title": "Oven Roasted Italian Turnip Frittata",
+    "tags": [
+      "brunch-ideas",
+      "dairy-free",
+      "gluten-free",
+      "italian-food",
+      "oven-roasted",
+      "whole30-recipes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

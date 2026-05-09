@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Italian Turnip Frittata",
+  "description": "A salty, aerated Italian dish featuring turnips, perfect for brunch, made with whole30-friendly ingredients and served in a tagliere vessel. This recipe is inspired by the flavors of Puglia, Italy.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, black pepper, garlic powder, and dried oregano.",
+    "Add the diced turnips to the bowl and stir to combine.",
+    "Heat the olive oil in a large tagliere vessel over medium heat.",
+    "Pour the egg mixture over the turnips in the tagliere vessel.",
+    "Transfer the vessel to the preheated oven and bake for 25 minutes.",
+    "Remove the vessel from the oven and brush the lacquer glaze over the top of the frittata.",
+    "Return the vessel to the oven and bake for an additional 5 minutes, or until the glaze is caramelized.",
+    "Remove the vessel from the oven and let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dairy-free",
+    "gluten-free",
+    "italian-food",
+    "oven-roasted",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "oven-roasted-italian-turnip-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-italian-turnip-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:24:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "turnips",
+    "diet": "whole30",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "turnips",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Frittata"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Outdoor Smoked Slovakian Pork Wrap",
+  "description": "A sweet and juicy solo dinner dish featuring smoked pork, this Slovakian inspired meal is perfect for a weeknight dinner, the pork is slow cooked to perfection and wrapped in a paleo friendly ssam wrap",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "smoke paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 225 degrees Fahrenheit",
+    "In a small bowl, mix together the smoke paprika, garlic powder, salt, and black pepper",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly",
+    "Place the pork shoulder in the smoker and close the lid",
+    "Smoke the pork for 8 hours, or until it reaches an internal temperature of 190 degrees Fahrenheit",
+    "After 8 hours, remove the pork from the smoker and let it rest for 10 minutes",
+    "Slice the pork into thin strips",
+    "In a small bowl, whisk together the apple cider vinegar and honey",
+    "Brush the vinegar and honey mixture onto the pork strips",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wraps by placing a few slices of the pork onto the center of each wrap"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "smoked-meat",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "outdoor-smoked-slovakian-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-smoked-slovakian-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:24:57Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "boiling water",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "outdoor smoked",
+    "dishForm": "Wrap"
+  }
+}
