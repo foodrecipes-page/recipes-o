@@ -1,0 +1,101 @@
+{
+  "title": "Oil Infused Indian Tahini Curry",
+  "description": "A nutty and light Maharashtrian dish featuring tahini paste, this curry is perfect for festive occasions and is kosher-friendly, prepared in a copper pot.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tahini paste",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a copper pot over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and saute until it is translucent.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Add the curry leaves and saute for a few seconds.",
+    "Add the roasted tahini paste and stir well to combine.",
+    "Add the salt and water, and stir well to combine.",
+    "Bring the mixture to a simmer and let it cook for 10 minutes.",
+    "Stir the curry occasionally to prevent it from sticking to the pot.",
+    "Remove the pot from the heat and let the curry cool slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "festive",
+    "indian-cuisine",
+    "kosher",
+    "maharashtrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "oil-infused-indian-tahini-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-infused-indian-tahini-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:48:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "tahini paste",
+    "diet": "kosher",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tahini",
+    "descriptor": "oil infused",
+    "dishForm": "Curry"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Oily Smoky Jamaican Chicken Wings Skewers",
+  "description": "Charred and silky Jamaican chicken wings skewers, grilled to perfection with a light and smoky flavor, featuring chicken wings and a blend of spices, kosher-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "-separated into drumettes and flats"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1-2",
+      "notes": "depending on desired heat level"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, soy sauce, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken wings to the bowl and toss to coat evenly with the marinade.",
+    "Thread 2-3 chicken wings onto each skewer, leaving a small space between each wing.",
+    "Grill the skewers for 20-25 minutes, or until the chicken is cooked through and slightly charred.",
+    "While the chicken is grilling, chop the scotch bonnet peppers and add to the marinade bowl.",
+    "After the chicken has grilled for 15 minutes, brush the skewers with the marinade and continue grilling.",
+    "Once the chicken is cooked, remove from the grill and let rest for 5 minutes before serving.",
+    "Serve the chicken wings skewers hot, garnished with chopped scotch bonnet peppers and a side of additional marinade for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "kosher-friendly",
+    "smoky-flavor",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oily-smoky-jamaican-chicken-wings-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-smoky-jamaican-chicken-wings-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:48:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "chicken wings",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken wings",
+    "descriptor": "oily smoky",
+    "dishForm": "Skewers"
+  }
+}

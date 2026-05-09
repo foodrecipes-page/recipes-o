@@ -626,6 +626,21 @@
     "shard": "o"
   },
   {
+    "slug": "oil-infused-indian-tahini-curry",
+    "title": "Oil Infused Indian Tahini Curry",
+    "tags": [
+      "copper-pot",
+      "festive",
+      "indian-cuisine",
+      "kosher",
+      "maharashtrian",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oil-infused-malaysian-vegetable-curry",
     "title": "Oil Infused Malaysian Vegetable Curry",
     "tags": [
@@ -1487,6 +1502,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-smoky-jamaican-chicken-wings-skewers",
+    "title": "Oily Smoky Jamaican Chicken Wings Skewers",
+    "tags": [
+      "grilled-chicken",
+      "jamaican-cuisine",
+      "kosher-friendly",
+      "smoky-flavor",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
