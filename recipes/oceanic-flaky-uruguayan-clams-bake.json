@@ -1,0 +1,114 @@
+{
+  "title": "Oceanic Flaky Uruguayan Clams Bake",
+  "description": "Tangy, flaky, meal-prep Uruguayan dish featuring clams, double-rise-bread, and Ayurvedic tamasic-friendly ingredients. Serve in individual ramekins for a hearty, satisfying meal.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb clams, scrubbed and rinsed",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 double-rise bread, torn into 1-inch pieces",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook, stirring frequently, for 1-2 minutes, until fragrant.",
+    "Add the clams to the skillet and cook, stirring occasionally, for 2-3 minutes, until they start to open.",
+    "Add the milk, Parmesan cheese, oregano, cumin, salt, and pepper to the skillet. Stir to combine.",
+    "Add the torn bread to the skillet and stir to combine.",
+    "Transfer the mixture to 4-6 ramekins and cover with aluminum foil.",
+    "Bake, covered, for 15 minutes, then remove the foil and continue baking for an additional 5-10 minutes, until the bread is golden brown and the clams are cooked through.",
+    "Serve hot, garnished with chopped parsley.",
+    "Let the clams bake for at least 30 minutes to allow the flavors to meld and the bread to become flaky.",
+    "Let the clams rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with additional Parmesan cheese on top if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "high-protein",
+    "meal-prep",
+    "seafood",
+    "tamasic-friendly",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 30
+  },
+  "slug": "oceanic-flaky-uruguayan-clams-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-flaky-uruguayan-clams-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:27:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "clams",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "clams",
+    "descriptor": "oceanic flaky",
+    "dishForm": "bake"
+  }
+}
