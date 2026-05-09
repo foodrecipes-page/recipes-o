@@ -1,0 +1,108 @@
+{
+  "title": "Oven Braised Mediterranean Tripe Tagine",
+  "description": "A rich and savory lacto-vegetarian dish featuring tripe, cooked in a tagine style with Mediterranean spices and ingredients, perfect for a lazy Sunday",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tripe",
+      "amount": "1 pound",
+      "notes": "honeycomb or smooth, cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tripe and cook until it is browned on all sides.",
+    "Add the canned tomatoes, vegetable broth, feta cheese, dried oregano, paprika, salt, and black pepper, stirring to combine.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the tripe for 2 1/2 hours, or until it is tender and the sauce has thickened.",
+    "Remove the Dutch oven from the oven and let it cool slightly before serving.",
+    "Serve the tripe hot, garnished with fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "mediterranean",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oven-braised-mediterranean-tripe-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-braised-mediterranean-tripe-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:06:46Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "tagine-cook",
+    "primaryIngredient": "tripe",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tripe",
+    "descriptor": "Oven braised",
+    "dishForm": "Tagine"
+  }
+}
