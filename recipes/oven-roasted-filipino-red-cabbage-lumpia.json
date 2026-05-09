@@ -1,0 +1,90 @@
+{
+  "title": "Oven Roasted Filipino Red Cabbage Lumpia",
+  "description": "A halal-friendly Filipino dish featuring roasted red cabbage wrapped in lumpia, perfect for a weeknight dinner. The malty flavor and bouncy texture make it a delight to eat.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "lumpia wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 piece",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the shredded red cabbage with 2 tablespoons of vegetable oil, salt, and black pepper until evenly coated.",
+    "Spread the cabbage mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the cabbage is roasting, heat the remaining 2 tablespoons of vegetable oil in a pan over medium heat.",
+    "Add the minced garlic and chopped onion to the pan and saute until fragrant.",
+    "Once the cabbage is done roasting, let it cool down to room temperature.",
+    "To assemble the lumpia, lay a lumpia wrapper on a flat surface and place about 1 tablespoon of the roasted cabbage mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a little water and fold the wrapper into a triangle, pressing the edges together to seal the lumpia.",
+    "Repeat the process with the remaining cabbage mixture and lumpia wrappers.",
+    "Serve the oven roasted Filipino red cabbage lumpia warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "halal-friendly",
+    "lumpia-recipes",
+    "roasted-vegetables",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "oven-roasted-filipino-red-cabbage-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-filipino-red-cabbage-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:44:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "red cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "red cabbage",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Lumpia"
+  }
+}
