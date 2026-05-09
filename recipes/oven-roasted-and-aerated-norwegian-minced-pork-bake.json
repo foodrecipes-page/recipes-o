@@ -1,0 +1,110 @@
+{
+  "title": "Oven-roasted and aerated Norwegian minced pork Bake",
+  "description": "A diabetic-friendly date-night dish featuring minced pork, perfect for a romantic evening in. This herbal, aerated bake is a twist on traditional Norwegian cuisine.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably 80/20 lean to fat ratio"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "use a microplane grater"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 teaspoon dried",
+      "notes": ""
+    },
+    {
+      "name": "wood-fired breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "preferably homemade or store-bought"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": "low-sodium or reduced-fat option"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, combine the minced pork, almond meal, olive oil, parsley, dill, lemon zest, salt, pepper, and thyme. Mix well with your hands until just combined.",
+    "Transfer the mixture to a wood-fired baking dish or a regular oven-safe dish. Top with feta cheese and wood-fired breadcrumbs.",
+    "Bake for 25 minutes, or until the top is golden brown and the internal temperature reaches 160°F (71°C).",
+    "Remove from the oven and let rest for 5 minutes before slicing and serving.",
+    "Garnish with additional parsley and serve immediately.",
+    "This dish is best served with a side of roasted vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "oven-roasted-and-aerated-norwegian-minced-pork-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-and-aerated-norwegian-minced-pork-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "minced pork",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "minced pork",
+    "descriptor": "Oven-roasted and aerated",
+    "dishForm": "Bake"
+  }
+}

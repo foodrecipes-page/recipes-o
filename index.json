@@ -6970,6 +6970,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-kissed-russian-kid-friendly-baked",
+    "title": "Oven-Kissed Russian Kid-Friendly Baked",
+    "tags": [
+      "high-in-cider",
+      "kid-friendly",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-mexican-chicken-stew",
     "title": "Oven Mexican Chicken Stew",
     "tags": [
@@ -7134,6 +7148,19 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-and-aerated-norwegian-minced-pork-bake",
+    "title": "Oven-roasted and aerated Norwegian minced pork Bake",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {

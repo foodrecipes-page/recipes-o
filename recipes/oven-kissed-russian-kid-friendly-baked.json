@@ -1,0 +1,90 @@
+{
+  "title": "Oven-Kissed Russian Kid-Friendly Baked",
+  "description": "A delightful, kid-friendly Russian dish featuring cider and nuka-pickle, perfect for a weeknight dinner.",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cider",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the eggs, flour, sugar, salt, and black pepper.",
+    "Add the nuka-pickle and melted butter to the bowl and mix until well combined.",
+    "Pour in the cider and mix until a smooth batter forms.",
+    "Transfer the batter to 4-6 mason jars, leaving about 1 inch of space at the top.",
+    "Bake the mason jars for 20-25 minutes, or until the edges start to set and the centers are still slightly jiggly.",
+    "Remove the mason jars from the oven and let them cool for a few minutes.",
+    "Serve the baked goods warm, topped with a dollop of sour cream or a sprinkle of chopped fresh dill, if desired.",
+    "Enjoy while still warm, straight from the oven.",
+    "Allow to cool completely before refrigerating or freezing.",
+    "This recipe makes 4-6 servings and can be stored in the refrigerator for up to 3 days or frozen for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 5,
+  "difficulty": "medium",
+  "tags": [
+    "high-in-cider",
+    "kid-friendly",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "oven-kissed-russian-kid-friendly-baked",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-kissed-russian-kid-friendly-baked",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cider",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "kid-friendly",
+    "descriptor": "Oven-Kissed",
+    "dishForm": "Baked"
+  }
+}
