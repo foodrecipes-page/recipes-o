@@ -1,0 +1,100 @@
+{
+  "title": "Outdoor Smoked Peruvian Beef Skewers",
+  "description": "Smoky and chewy Peruvian beef skewers featuring ground nut oil and a blend of Mediterranean spices, smoked to perfection over an outdoor grill.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the outdoor grill to 400 degrees Fahrenheit, preparing for smoking.",
+    "In a large bowl, combine the ground beef, ground nut oil, smoked paprika, garlic powder, onion powder, salt, black pepper, cumin, and chili flakes, mixing well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Thread the beef mixture onto the soaked bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill, close the lid, and smoke for 10-12 minutes, or until the internal temperature reaches 160 degrees Fahrenheit.",
+    "Flip the skewers and continue to smoke for an additional 5-7 minutes, or until the internal temperature reaches 165 degrees Fahrenheit.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-food",
+    "high-protein",
+    "peruvian-cuisine",
+    "smoked-meat",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "outdoor-smoked-peruvian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-smoked-peruvian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:12:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ground nut oil",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "outdoor smoked",
+    "dishForm": "Skewers"
+  }
+}
