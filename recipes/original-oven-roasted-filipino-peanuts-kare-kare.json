@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Filipino Peanuts Kare Kare",
+  "description": "A kid-friendly Filipino dish featuring charred and fluffy peanuts in a rich and savory sauce, this oven roasted version is a twist on the classic Kare Kare recipe.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together peanut butter, fish sauce, vinegar, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the raw peanuts to the bowl and stir until they are evenly coated with the sauce.",
+    "Spread the peanuts out in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the peanuts in the preheated oven for 10 minutes, or until they are lightly browned and fragrant.",
+    "Remove the peanuts from the oven and stir in the water.",
+    "Return the peanuts to the oven and continue to roast for an additional 5 minutes, or until they are crispy and golden brown.",
+    "Remove the peanuts from the oven and let them cool completely on the baking sheet.",
+    "Serve the oven roasted peanuts hot, garnished with additional smoked paprika if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "kid-friendly",
+    "oven-roasted",
+    "peanut-butter",
+    "smoked-paprika",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "original-oven-roasted-filipino-peanuts-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/original-oven-roasted-filipino-peanuts-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:35:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "stout",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "peanuts",
+    "descriptor": "original oven roasted",
+    "dishForm": "Kare Kare"
+  }
+}
