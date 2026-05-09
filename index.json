@@ -5907,6 +5907,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-malaysian-chicken-bake",
+    "title": "Oven Baked Malaysian Chicken Bake",
+    "tags": [
+      "baked-chicken",
+      "gluten-free",
+      "low-carb",
+      "malaysian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-middle-eastern-cookies-harees",
     "title": "Oven Baked Middle Eastern Cookies Harees",
     "tags": [
