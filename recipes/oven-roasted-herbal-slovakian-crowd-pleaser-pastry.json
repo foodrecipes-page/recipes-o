@@ -1,0 +1,122 @@
+{
+  "title": "oven-roasted herbal slovakian crowd-pleaser pastry",
+  "description": "a delicious and easy-to-make pastry dish from slovakia, featuring red wine jelly and a unique herbal flavor.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine the flour, sugar, yeast, and salt.",
+    "add the warm water and mix until a dough forms.",
+    "knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "place the balls of dough onto a lightly floured surface and use a rolling pin to flatten each ball into a disk.",
+    "heat a tava-griddle or large skillet over medium heat and brush with vegetable oil.",
+    "cook the pastry for 2-3 minutes on each side, or until golden brown.",
+    "while the pastry is cooking, prepare the red wine jelly by melting it in a saucepan over low heat.",
+    "once the pastry is cooked, brush it with the melted red wine jelly and sprinkle with dried thyme and rosemary.",
+    "dust the pastry with confectioners' sugar and serve warm"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dessert",
+    "herbal",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "oven-roasted-herbal-slovakian-crowd-pleaser-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-herbal-slovakian-crowd-pleaser-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "red wine jelly",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Crowd-pleaser",
+    "descriptor": "Oven-roasted herbal",
+    "dishForm": "Pastry"
+  }
+}
