@@ -1280,6 +1280,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-creamy-uruguayan-corn-gratin",
+    "title": "Oily Creamy Uruguayan Corn Gratin",
+    "tags": [
+      "comfort-food",
+      "cozy",
+      "lacto-vegetarian",
+      "one-pan",
+      "south-american",
+      "winter-dish"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oily-crispy-croatian-pork-dumplings",
     "title": "Oily Crispy Croatian Pork Dumplings",
     "tags": [
@@ -3151,6 +3166,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-caramel-greek-honey-loukoumades",
+    "title": "Oozing Caramel Greek Honey Loukoumades",
+    "tags": [
+      "caramel-lovers",
+      "deep-fried",
+      "egg-free",
+      "greek-desserts",
+      "sweet-treats",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {

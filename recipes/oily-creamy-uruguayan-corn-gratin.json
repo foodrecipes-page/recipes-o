@@ -1,0 +1,109 @@
+{
+  "title": "Oily Creamy Uruguayan Corn Gratin",
+  "description": "A hearty, earthy, and creamy lacto-vegetarian dish from Uruguay, flavored with lime juice and topped with a crunchy, dehydrated corn crust. This cozy dish is perfect for a cold winter evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dehydrated corn flakes",
+      "amount": "1/2 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the corn kernels, lime juice, dried oregano, salt, and black pepper, and cook for 5 minutes, or until the corn is tender.",
+    "In a separate saucepan, heat the heavy cream over low heat until warmed through.",
+    "In a greased 9x13 inch baking dish, arrange a layer of the cooked corn mixture, followed by a layer of the warmed cream, and finally a sprinkle of grated cheese.",
+    "Repeat the layering process two more times, ending with a layer of cheese on top.",
+    "Sprinkle the dehydrated corn flakes over the top layer of cheese.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "lacto-vegetarian",
+    "one-pan",
+    "south-american",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "oily-creamy-uruguayan-corn-gratin",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-creamy-uruguayan-corn-gratin",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:09:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "dehydrate",
+    "primaryIngredient": "lime juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "corn",
+    "descriptor": "oily creamy",
+    "dishForm": "Gratin"
+  }
+}

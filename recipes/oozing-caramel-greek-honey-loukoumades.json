@@ -1,0 +1,103 @@
+{
+  "title": "Oozing Caramel Greek Honey Loukoumades",
+  "description": "Rich, dense, and adventurous Greek dessert featuring caramelized honey and a surprising twist with ketchup, made egg-free-friendly in a loukoumades form",
+  "cuisine": "Greek",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sifted flour, granulated sugar, and salt",
+    "In a separate bowl, whisk together the milk, melted butter, and vanilla extract",
+    "Add the wet ingredients to the dry ingredients and stir until a smooth batter forms",
+    "Cover the bowl with plastic wrap and let the batter rest in a warm place for 1 hour",
+    "Preheat the oil in a deep frying pan to 375 degrees Fahrenheit",
+    "Using a spoon, drop the batter into the hot oil, making sure not to overcrowd the pan",
+    "Fry the loukoumades for 2-3 minutes on each side, or until golden brown",
+    "Remove the loukoumades from the oil and place them on a paper towel-lined plate to drain excess oil",
+    "Drizzle the caramel sauce and Greek honey over the warm loukoumades",
+    "Serve the oozing caramel Greek honey loukoumades immediately and enjoy"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "caramel-lovers",
+    "deep-fried",
+    "egg-free",
+    "greek-desserts",
+    "sweet-treats",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "oozing-caramel-greek-honey-loukoumades",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozing-caramel-greek-honey-loukoumades",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:10:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "ketchup",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "honey",
+    "descriptor": "Oozing Caramel",
+    "dishForm": "Loukoumades"
+  }
+}
