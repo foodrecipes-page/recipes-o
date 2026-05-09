@@ -1,0 +1,93 @@
+{
+  "title": "Oozy Peppery Middle Eastern Comte Warak Enab",
+  "description": "A light and peppery Middle Eastern dish featuring Comte cheese, perfect for a sick day, with a yuzu cure and sugar free friendly ingredients, served in a warak enab form.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "20"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the grape leaves by blanching them in boiling water for 30 seconds.",
+    "In a large bowl, mix together the grated Comte cheese, yuzu juice, black pepper, and salt.",
+    "Add the minced garlic to the cheese mixture and stir well.",
+    "Lay a grape leaf flat on a work surface and place a tablespoon of the cheese mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and cheese mixture.",
+    "In a large saucepan, heat the olive oil over medium heat and add the rolled grape leaves, seam side down.",
+    "Pour in the water and bring to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Serve the warak enab hot, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "oozy-peppery-middle-eastern-comte-warak-enab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-peppery-middle-eastern-comte-warak-enab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:41:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "comte",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "comte",
+    "descriptor": "Oozy Peppery",
+    "dishForm": "Warak Enab"
+  }
+}
