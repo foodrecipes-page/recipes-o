@@ -444,6 +444,21 @@
     "shard": "o"
   },
   {
+    "slug": "oceanic-golden-british-seafood-fritters",
+    "title": "Oceanic Golden British Seafood Fritters",
+    "tags": [
+      "british",
+      "comfort-food",
+      "deep-fried",
+      "easy-snack",
+      "flexitarian",
+      "seafood"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "oceanic-kenyan-seafood-bisque",
     "title": "Oceanic Kenyan Seafood Bisque",
     "tags": [

@@ -1,0 +1,103 @@
+{
+  "title": "Oceanic Golden British Seafood Fritters",
+  "description": "A flexitarian-friendly British dish featuring frozen seafood mix, deep-fry cooked to a jammy and chewy texture, perfect for a snack or light meal.",
+  "cuisine": "British",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "1 pound",
+      "notes": "thawed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, cornstarch, baking powder, salt, and pepper.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the thawed seafood mix to the egg mixture and stir to combine.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Heat the vegetable oil in a deep frying pan or a comal to 350 degrees Fahrenheit.",
+    "Using a 1/4 cup measuring cup, scoop the seafood mixture into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "deep-fried",
+    "easy-snack",
+    "flexitarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "oceanic-golden-british-seafood-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-golden-british-seafood-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:42:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "seafood",
+    "descriptor": "Oceanic golden",
+    "dishForm": "Fritters"
+  }
+}
