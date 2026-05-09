@@ -1,0 +1,97 @@
+{
+  "title": "Oven Roasted Saudi Arabian Gouda Cheese Kebabs",
+  "description": "A light and quick Saudi Arabian dish featuring roasted Gouda cheese with a char-grill flavor, suitable for vegan diets when using vegan Gouda alternative, cooked in a tandoor clay pot for a traditional touch.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gouda cheese alternative",
+      "amount": "1 block",
+      "notes": "vegan"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor clay pot",
+      "amount": "1",
+      "notes": "or similar oven-safe vessel"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the Gouda cheese alternative into 1-inch cubes.",
+    "Thread the cheese cubes onto skewers, leaving a small space between each cube.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Brush the oil mixture evenly onto the cheese cubes.",
+    "Place the skewers in the tandoor clay pot or a similar oven-safe vessel.",
+    "Roast the cheese kebabs in the preheated oven for 10-12 minutes, or until lightly browned.",
+    "Garnish with chopped parsley and mint.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gouda-cheese",
+    "light-snack",
+    "oven-roasted",
+    "quick-fix",
+    "saudi-arabian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "oven-roasted-saudi-arabian-gouda-cheese-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-saudi-arabian-gouda-cheese-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:11:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "gouda cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "gouda cheese",
+    "descriptor": "oven roasted",
+    "dishForm": "Kebabs"
+  }
+}
