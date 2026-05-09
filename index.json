@@ -5287,6 +5287,21 @@
     "shard": "o"
   },
   {
+    "slug": "outstanding-oven-roasted-british-beef-cornish-pasty",
+    "title": "Outstanding Oven Roasted British Beef Cornish Pasty",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "hearty-meal",
+      "homemade-pastry",
+      "massaman-curry",
+      "oven-roasted"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "outstanding-oven-roasted-kenyan-comte-pasta",
     "title": "Outstanding Oven Roasted Kenyan Comte Pasta",
     "tags": [
