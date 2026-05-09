@@ -1,0 +1,94 @@
+{
+  "title": "Oily Baked American Chicken Casserole",
+  "description": "A bitter and light American dish featuring shaoxing wine, perfect for a lazy Sunday, with ayurvedic-rajasic-friendly ingredients. This casserole is made with chicken, vegetables, and a hint of Asian flavor.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shaoxing wine, olive oil, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "In a separate bowl, toss the chopped onion, carrots, and potatoes with a little bit of olive oil and salt.",
+    "In a 9x13 inch baking dish, arrange the chicken in a single layer.",
+    "Add the vegetables on top of the chicken.",
+    "Bake for 45 minutes or until the chicken is cooked through and the vegetables are tender.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "baked-chicken",
+    "easy-dinner",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "oily-baked-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-baked-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:56:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "salt-bake",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "oily baked",
+    "dishForm": "Casserole"
+  }
+}

@@ -1088,6 +1088,21 @@
     "shard": "o"
   },
   {
+    "slug": "oily-baked-american-chicken-casserole",
+    "title": "Oily Baked American Chicken Casserole",
+    "tags": [
+      "american-classic",
+      "baked-chicken",
+      "easy-dinner",
+      "gluten-free",
+      "lazy-sunday",
+      "one-pan"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
     "slug": "oily-baked-brazilian-red-snapper-wrap",
     "title": "Oily Baked Brazilian Red Snapper Wrap",
     "tags": [
