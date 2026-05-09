@@ -1,0 +1,100 @@
+{
+  "title": "Oily Savory Malaysian Beef Satay",
+  "description": "A classic Malaysian dish featuring grilled beef skewers served with a side of spicy peanut sauce, this recipe is kosher-friendly and cooked to perfection on a hot stone plate.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, peanut butter, lime juice, soy sauce, brown sugar, garlic, ginger, and cayenne pepper.",
+    "Add the beef strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef strips onto skewers.",
+    "Brush the hot stone plate with peanut oil.",
+    "Grill the beef skewers on the hot stone plate for 5-7 minutes per side.",
+    "Serve the beef satay hot with spicy peanut sauce for dipping.",
+    "Garnish with sliced onions and cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "hot-stone-plate",
+    "kosher-friendly",
+    "malaysian-cuisine",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oily-savory-malaysian-beef-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-savory-malaysian-beef-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:33:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "water",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "oily savory",
+    "dishForm": "Satay"
+  }
+}
