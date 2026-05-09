@@ -1,0 +1,105 @@
+{
+  "title": "Oozy Caramelized Ethiopian Wild Garlic Leaves Shiro",
+  "description": "A sweet and creamy Ethiopian dish featuring caramelized wild garlic leaves in a rich Shiro sauce, served in a copper pot.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "copper pot",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the copper pot over medium heat.",
+    "Add the chopped onions and cook until they are caramelized and golden brown.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the wild garlic leaves and cook until they are wilted.",
+    "Pour in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the Shiro sauce simmer for 10 minutes.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Serve the oozy caramelized Ethiopian wild garlic leaves Shiro in the copper pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "one-pot",
+    "romantic-dinner",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oozy-caramelized-ethiopian-wild-garlic-leaves-shiro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-caramelized-ethiopian-wild-garlic-leaves-shiro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:41:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "Oozy caramelized",
+    "dishForm": "Shiro"
+  }
+}
