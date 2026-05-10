@@ -1,0 +1,96 @@
+{
+  "title": "Oven Baked Norwegian Feta Pasta",
+  "description": "A fresh and fluffy ovo-vegetarian Norwegian dish featuring cubed feta cheese, served on a slate tile vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the pasta according to the package instructions until al dente, then set aside.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, and minced garlic.",
+    "Add the cooked pasta to the bowl and toss to combine with the oil mixture.",
+    "Add the cubed feta cheese, halved cherry tomatoes, and chopped parsley to the bowl and toss gently.",
+    "Transfer the pasta mixture to a slate tile vessel or a 9x13 inch baking dish.",
+    "Bake in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "feta-cheese",
+    "norwegian-cuisine",
+    "oven-baked",
+    "ovo-vegetarian",
+    "pasta-dish",
+    "slate-tile"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "oven-baked-norwegian-feta-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-norwegian-feta-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:53:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Oven Baked",
+    "dishForm": "Pasta"
+  }
+}
