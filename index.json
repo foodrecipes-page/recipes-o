@@ -2640,6 +2640,21 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-japanese-corn-gyoza",
+    "title": "Japanese Corn Gyoza",
+    "tags": [
+      "cornmeal-dish",
+      "japanese-cuisine",
+      "molcajete-recipe",
+      "satvik-friendly",
+      "tohoku-recipe",
+      "vegetarian-option"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-kenyan-lamb-stew",
     "title": "Old Fashioned Kenyan Lamb Stew",
     "tags": [
@@ -6000,6 +6015,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-infused-indian-paneer-curry",
+    "title": "Orange Infused Indian Paneer Curry",
+    "tags": [
+      "cheese-pull",
+      "hangover-cure",
+      "indian-cuisine",
+      "spicy-food",
+      "vegetarian-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {

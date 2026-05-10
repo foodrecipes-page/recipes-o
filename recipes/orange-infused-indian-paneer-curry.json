@@ -1,0 +1,106 @@
+{
+  "title": "Orange Infused Indian Paneer Curry",
+  "description": "A spicy and flavorful Indian dish featuring orange zest and paneer cheese, perfect for a hangover cure or a vegetarian meal option.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer cheese",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onions until they are translucent.",
+    "Add the grated ginger and minced garlic and stir-fry for another minute.",
+    "Add the cumin powder, garam masala, cayenne pepper, and salt, and stir-fry for 1 minute.",
+    "Add the tomato puree and stir-fry for 2 minutes.",
+    "Add the paneer cheese cubes and stir-fry until they are well coated with the spice mixture.",
+    "Add the orange zest and stir-fry for another minute.",
+    "Reduce heat to low and simmer the curry for 10 minutes or until the paneer cheese is soft and the sauce has thickened.",
+    "Serve the curry hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "hangover-cure",
+    "indian-cuisine",
+    "spicy-food",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "orange-infused-indian-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/orange-infused-indian-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:44:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "orange zest",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "orange infused",
+    "dishForm": "Curry"
+  }
+}

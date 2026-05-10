@@ -1,0 +1,91 @@
+{
+  "title": "Japanese Corn Gyoza",
+  "description": "A traditional Tohoku dish featuring cornmeal and tempering chocolate, served in a molcajete vessel, this satvik-friendly recipe is a nostalgic treat for the senses, with a bouncy-qq texture that is both cultured and delightful.",
+  "cuisine": "Japanese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine cornmeal and all purpose flour.",
+    "Gradually add water to the bowl, stirring with a wooden spoon until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin.",
+    "Place a tablespoon of melted tempering chocolate in the center of each disk.",
+    "Fold the disk in half to form a half moon shape and press the edges together to seal the gyoza.",
+    "Heat sesame oil in a large skillet over medium heat and cook the gyoza for 2-3 minutes on each side.",
+    "Serve the gyoza in a molcajete vessel garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal-dish",
+    "japanese-cuisine",
+    "molcajete-recipe",
+    "satvik-friendly",
+    "tohoku-recipe",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "old-fashioned-japanese-corn-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-japanese-corn-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:44:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "cornmeal",
+    "diet": "satvik",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "corn",
+    "descriptor": "old fashioned",
+    "dishForm": "Gyoza"
+  }
+}
