@@ -1,0 +1,106 @@
+{
+  "title": "Oven Smoked German Sausage Bowl",
+  "description": "A kid-friendly German dish featuring smoked sausage, dried chillies, and a blend of spices, served in a dolsot stone bowl. This recipe is ayurvedic-rajasic-friendly and perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "4 links",
+      "notes": "preferably with a natural casing"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "2",
+      "notes": "crushed or 1 teaspoon chilli flakes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1/2 cup",
+      "notes": "drained"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced onion and cubed potato with smoked paprika, caraway seeds, salt, and black pepper until they are evenly coated.",
+    "Spread the onion and potato mixture in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "While the onion and potato are roasting, slice the German sausage links and place them on a separate baking sheet lined with parchment paper.",
+    "After the onion and potato have roasted for 20 minutes, add the sliced sausage to the oven and continue to roast for an additional 15 minutes.",
+    "In a small bowl, mix the crushed dried chillies and chicken broth.",
+    "After the sausage has roasted for 15 minutes, brush the chilli and chicken broth mixture evenly over the sausage links.",
+    "Continue to roast the sausage, onion, and potato for an additional 5 minutes, or until the sausage is browned and the onion and potato are tender.",
+    "To serve, place a portion of the roasted sausage, onion, and potato into a dolsot stone bowl, then top with sauerkraut.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "smoked-sausage",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "oven-smoked-german-sausage-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-smoked-german-sausage-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:35:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "dried chillies",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausages",
+    "descriptor": "Oven Smoked",
+    "dishForm": "Bowl"
+  }
+}
