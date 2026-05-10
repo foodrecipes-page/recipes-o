@@ -4942,6 +4942,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-mediterranean-fish-stew",
+    "title": "Oozy Mediterranean Fish Stew",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "fish-based",
+      "gluten-free",
+      "mediterranean-inspired",
+      "one-pot"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-mediterranean-fish-wrap",
     "title": "Oozy Mediterranean Fish Wrap",
     "tags": [
