@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Mexican Beef Birria",
+  "description": "A rich and crispy solo dinner Mexican dish featuring dried apricots and salt bake, paleo friendly and in the form of birria.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 pounds",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine chopped onion, minced garlic, chili powder, cumin, salt, and black pepper.",
+    "Add the chopped dried apricots to the bowl and mix well.",
+    "Add the beef brisket to the bowl and coat with the onion and spice mixture.",
+    "Place the beef brisket in a large Dutch oven and add the tomato paste and beef broth.",
+    "Cover the Dutch oven with a lid and transfer to the preheated oven.",
+    "Roast the beef for 3 hours or until tender.",
+    "Remove the lid and continue roasting for an additional 30 minutes or until crispy.",
+    "Remove the birria from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dried-fruit",
+    "mexican-cuisine",
+    "one-pan",
+    "oven-roasted",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "oven-roasted-mexican-beef-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-mexican-beef-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:24:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "salt-bake",
+    "primaryIngredient": "dried apricots",
+    "diet": "paleo",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Birria"
+  }
+}
