@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted German Beef Shin Stew",
+  "description": "A hearty and comforting German stew made with beef shin, perfect for a cold day. This low-calorie dish is roasted to perfection in a dolsot-stone-bowl.",
+  "cuisine": "German",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large dolsot-stone-bowl, combine the beef shin, onion, carrots, potatoes, and celery.",
+    "In a small bowl, whisk together the beef broth, tomato paste, black pepper, and salt, then pour the mixture over the beef and vegetables.",
+    "Cover the dolsot-stone-bowl with aluminum foil and roast for 2 hours.",
+    "Remove the foil and continue to roast for an additional 30 minutes, or until the beef is tender.",
+    "Remove the stew from the oven and sprinkle with chopped fresh parsley.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "hearty-stew",
+    "low-calorie",
+    "one-pot",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "oven-roasted-german-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-german-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:19:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "rest-meat",
+    "primaryIngredient": "beef shin",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef shin",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Stew"
+  }
+}
