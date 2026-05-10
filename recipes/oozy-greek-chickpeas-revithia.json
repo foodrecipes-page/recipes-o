@@ -1,0 +1,104 @@
+{
+  "title": "Oozy Greek Chickpeas Revithia",
+  "description": "A pungent and creamy Greek dish featuring free-range egg and lacquer-glaze, perfect for a weeknight dinner, this dairy-free-friendly recipe is served in a slate-tile vessel and has a revithia form.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "free-range egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the beaten egg and lacquer-glaze until well combined.",
+    "Add the chickpeas, olive oil, onion, garlic, salt, and black pepper to the bowl and stir until the chickpeas are fully coated.",
+    "Transfer the mixture to a slate-tile vessel and bake for 30 minutes.",
+    "Remove the vessel from the oven and sprinkle the chopped parsley on top.",
+    "Return the vessel to the oven and bake for an additional 10 minutes.",
+    "Remove the vessel from the oven and let it cool for a few minutes.",
+    "Serve the Oozy Greek Chickpeas Revithia hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oozy-greek-chickpeas-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-greek-chickpeas-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:08:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Oozy creamy",
+    "dishForm": "Revithia"
+  }
+}
