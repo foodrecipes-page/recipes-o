@@ -1,0 +1,106 @@
+{
+  "title": "Oozy Buttery Mexican Rainbow Trout Chiles Rellenos",
+  "description": "A buttery, crumbly, Mexican dish featuring rainbow trout, wrapped in a ssam-style chiles rellenos, perfect for a midnight craving. This macrobiotic-friendly recipe combines the flavors of Mexico with the delicate taste of rainbow trout.",
+  "cuisine": "Mexican",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "roasted poblano peppers",
+      "amount": "4",
+      "notes": "charred skin removed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "sauteed"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Butterfly the rainbow trout fillets by cutting them in half lengthwise and opening them up like a book.",
+    "Stuff each trout fillet with a quarter cup of queso fresco, a tablespoon of chopped onion, and a sprinkle of chopped cilantro.",
+    "Wrap each stuffed trout fillet in a roasted poblano pepper, securing it with a toothpick if necessary.",
+    "Place the wrapped trout fillets on a baking sheet lined with parchment paper, leaving about an inch of space between each fillet.",
+    "Drizzle the softened butter over the top of each fillet, making sure they are fully coated.",
+    "Season with salt and black pepper to taste.",
+    "Bake the trout fillets in the preheated oven for 12 minutes, or until they are cooked through and the cheese is melted and bubbly.",
+    "Remove the fillets from the oven and squeeze a tablespoon of lime juice over the top of each one.",
+    "Serve the oozy, buttery Mexican rainbow trout chiles rellenos hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "macrobiotic",
+    "mexican",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "oozy-buttery-mexican-rainbow-trout-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-buttery-mexican-rainbow-trout-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:51:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rainbow trout",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Rainbow Trout",
+    "descriptor": "Oozy Buttery",
+    "dishForm": "Chiles Rellenos"
+  }
+}
