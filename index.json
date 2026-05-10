@@ -4431,6 +4431,20 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-french-cheese-gratin",
+    "title": "Oozy French Cheese Gratin",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "french-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-french-paccheri-stew",
     "title": "Oozy French Paccheri Stew",
     "tags": [

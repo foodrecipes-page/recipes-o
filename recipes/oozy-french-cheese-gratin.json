@@ -1,0 +1,97 @@
+{
+  "title": "Oozy French Cheese Gratin",
+  "description": "A pungent and juicy French dish featuring caramelized cheese, perfect for a hangover cure. This kosher-friendly gratin is served in a lacquerware bowl.",
+  "cuisine": "French",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Emmental cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Butter the inside of a lacquerware bowl.",
+    "In a large skillet, caramelize the onions over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "In a separate saucepan, combine the white wine and chicken broth.",
+    "Bring the mixture to a simmer and cook until reduced by half.",
+    "In a large bowl, combine the Comte and Emmental cheese.",
+    "Add the cooked onion and garlic mixture to the cheese and stir to combine.",
+    "Pour the reduced wine and broth mixture over the cheese mixture and stir to combine.",
+    "Transfer the mixture to the prepared lacquerware bowl and top with additional grated cheese.",
+    "Bake for 20 minutes or until golden and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "oozy-french-cheese-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-french-cheese-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:04:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Oozy Caramelized",
+    "dishForm": "Gratin"
+  }
+}
