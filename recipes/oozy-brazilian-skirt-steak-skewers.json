@@ -1,0 +1,94 @@
+{
+  "title": "Oozy Brazilian Skirt Steak Skewers",
+  "description": "A fresh and gooey Brazilian dish featuring skirt steak, perfect for a sick day, and sugar-free-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together coconut milk, lime juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the skirt steak pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated steak pieces onto skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oozy-brazilian-skirt-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-brazilian-skirt-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:46:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "skirty steak",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "skirt steak",
+    "descriptor": "oozy gooey",
+    "dishForm": "Skewers"
+  }
+}
