@@ -1,0 +1,91 @@
+{
+  "title": "Organic Oven Roasted German Sausage Skewers",
+  "description": "A quick and easy Whole30-friendly German dish featuring fermented sausage, lime, and dashi extract, served in a bento box.",
+  "cuisine": "German",
+  "diet": [
+    "Whole30",
+    "organic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "fermented"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the German sausage into 1-inch pieces and thread onto skewers.",
+    "In a small bowl, whisk together lime juice, dashi extract, coconut oil, salt, black pepper, garlic powder, and onion powder.",
+    "Brush the mixture onto the sausage skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 15 minutes.",
+    "Serve hot in a bento box."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "german-food",
+    "organic",
+    "oven-roasted",
+    "quick-fix",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "organic-oven-roasted-german-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/organic-oven-roasted-german-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:32:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "lime",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "organic oven roasted",
+    "dishForm": "Skewers"
+  }
+}

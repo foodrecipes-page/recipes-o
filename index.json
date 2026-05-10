@@ -4171,6 +4171,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-cheesy-norwegian-cheese-casserole",
+    "title": "Oozy Cheesy Norwegian Cheese Casserole",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "norwegian-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-chinese-garlic-congee",
     "title": "Oozy Chinese Garlic Congee",
     "tags": [
@@ -6212,6 +6227,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "organic-oven-roasted-german-sausage-skewers",
+    "title": "Organic Oven Roasted German Sausage Skewers",
+    "tags": [
+      "bento-box",
+      "german-food",
+      "organic",
+      "oven-roasted",
+      "quick-fix",
+      "whole30"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
