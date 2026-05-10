@@ -7870,6 +7870,20 @@
     "shard": "o"
   },
   {
+    "slug": "oven-baked-canadian-sugar-cobbler",
+    "title": "Oven-Baked Canadian Sugar Cobbler",
+    "tags": [
+      "canadian",
+      "dessert",
+      "holiday",
+      "special-occasion",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "oven-baked-croatian-cheese-casserole",
     "title": "Oven Baked Croatian Cheese Casserole",
     "tags": [

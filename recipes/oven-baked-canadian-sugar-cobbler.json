@@ -1,0 +1,100 @@
+{
+  "title": "Oven-Baked Canadian Sugar Cobbler",
+  "description": "A sweet, winey, and flaky Canadian dessert dish featuring vanilla extract, perfect for special occasions.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "190g",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "110g",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup unsalted butter, chilled and cut into small pieces",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed candy pieces",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or your fingers to work it into the mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together the heavy cream and vanilla extract.",
+    "Pour the cream mixture into the flour mixture and stir until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a floured surface and gently knead it a few times until it comes together.",
+    "Divide the dough in half and place each half into a 6-ounce ramekin.",
+    "Sprinkle the candy pieces over the top of the dough.",
+    "Dot the top of the cobbler with a little extra butter.",
+    "Bake the cobbler for 35-40 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Remove the cobbler from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "dessert",
+    "holiday",
+    "special-occasion",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "oven-baked-canadian-sugar-cobbler",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-canadian-sugar-cobbler",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:43:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "candy",
+    "primaryIngredient": "vanilla extract",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sugar",
+    "descriptor": "Oven-Baked",
+    "dishForm": "Cobbler"
+  }
+}
