@@ -1,0 +1,98 @@
+{
+  "title": "Oil Free Korean Seeds Bowl",
+  "description": "A salty and shattering Korean dish featuring seeds, served in a stone bowl, kid friendly and FODMAP friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted seaweed",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the stone bowl by rinsing it with hot water and drying it with a towel.",
+    "In a small pan, toast the sesame seeds over medium heat for 2 minutes.",
+    "In a large bowl, mix together the roasted pumpkin seeds, sunflower seeds, toasted sesame seeds, Korean chili flakes, and salt.",
+    "Add the cooked rice to the bowl and stir until everything is well combined.",
+    "Transfer the seed and rice mixture to the preheated stone bowl.",
+    "Garnish with chopped scallions and crushed toasted seaweed.",
+    "Serve immediately and enjoy.",
+    "Be careful when handling the hot stone bowl.",
+    "Traditionally, this dish is served in a dolsot, which is a type of Korean stone bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "kid-friendly",
+    "korean-cuisine",
+    "one-bowl",
+    "seed-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "oil-free-korean-seeds-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oil-free-korean-seeds-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:41:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "seeds",
+    "diet": "fodmap",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "seeds",
+    "descriptor": "oil free",
+    "dishForm": "Bowl"
+  }
+}
