@@ -1,0 +1,96 @@
+{
+  "title": "Oven Dried Ethiopian Kale Azifa",
+  "description": "A traditional Ethiopian dish featuring fermented kale, this recipe uses a bamboo steamer to create a unique and delicious azifa, perfect for a brunch mood. The kale is dried in the oven to create a bouncy texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "curly kale",
+      "amount": "1 bunch",
+      "notes": "stems removed and discarded, leaves coarsely chopped"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for brine"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 cup",
+      "notes": "for brine"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, massage the chopped kale with your hands for about 5 minutes to help break down the cell walls and create a softer texture.",
+    "In a separate bowl, mix together the water, salt, garlic, and ginger to create the brine.",
+    "Add the kale to the brine and let it sit at room temperature for 24 hours to ferment.",
+    "After fermentation, preheat the oven to 200 degrees Fahrenheit.",
+    "Remove the kale from the brine and place it in a single layer on a baking sheet lined with parchment paper.",
+    "Dry the kale in the oven for 2 hours, or until it reaches a bouncy texture.",
+    "In a small bowl, mix together the berbere spice and lemon juice.",
+    "Add the spice mixture to the dried kale and toss to combine.",
+    "Place the kale mixture in a bamboo steamer and steam for 10 minutes to heat through.",
+    "Serve the azifa hot, garnished with sliced fresh ginger and a sprinkle of berbere spice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 130,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "brunch-ideas",
+    "fermented-foods",
+    "gluten-free-recipes",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "oven-dried-ethiopian-kale-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-dried-ethiopian-kale-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:41:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "kale",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "kale",
+    "descriptor": "Oven dried",
+    "dishForm": "Azifa"
+  }
+}
