@@ -1,0 +1,91 @@
+{
+  "title": "Oceanic German Fish Toast",
+  "description": "A rich and molten post-workout German dish featuring caramel sauce and pescatarian-friendly ingredients, served on toasted bread",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Butter the bread slices on both sides",
+    "Place the bread slices on a baking sheet and toast in the oven for 5 minutes",
+    "Remove the bread from the oven and top each slice with smoked salmon",
+    "Drizzle caramel sauce over the salmon",
+    "Sprinkle chopped parsley over the caramel sauce",
+    "Season with salt and black pepper to taste",
+    "Drizzle lemon juice over the top of each slice",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "ocean-inspired",
+    "pescatarian",
+    "post-workout",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "oceanic-german-fish-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-german-fish-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:15:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "caramel sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fish",
+    "descriptor": "Oceanic",
+    "dishForm": "Toast"
+  }
+}
