@@ -1,0 +1,100 @@
+{
+  "title": "Norwegian Monkfish Casserole",
+  "description": "A comforting Norwegian dish featuring charred monkfish, this casserole is a hearty and flavorful meal, free from onions and garlic, making it suitable for those with sensitivities.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and grated carrots.",
+    "In a separate bowl, whisk together the milk, melted butter, flour, salt, and pepper.",
+    "Add the milk mixture to the potato and carrot mixture, stirring until they are well coated.",
+    "In a large skillet, char the monkfish pieces over medium-high heat for 2-3 minutes on each side.",
+    "In a greased 9x13 inch baking dish, create a layer of the potato and carrot mixture.",
+    "Add a layer of the charred monkfish on top of the potato mixture.",
+    "Sprinkle a third of the shredded cheddar cheese over the monkfish layer.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Bake the casserole in the preheated oven for 35-40 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "fish-dish",
+    "norwegian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "old-fashioned-comforting-norwegian-monkfish-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-comforting-norwegian-monkfish-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:17:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "monkfish",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "monkfish",
+    "descriptor": "old fashioned comforting",
+    "dishForm": "Casserole"
+  }
+}
