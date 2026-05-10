@@ -1,0 +1,97 @@
+{
+  "title": "Oily Flaky Middle Eastern Lamb Flatbread",
+  "description": "A briny and flaky Middle Eastern dish featuring lamb and sansho, perfect for a sick day, made with long fermentation dough and anti-inflammatory friendly ingredients.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, and yogurt in a bowl to make the dough, then knead for 10 minutes and let it rest for 24 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the dough into a large rectangle, about 1/4 inch thick.",
+    "Spread the ground lamb mixture, which includes sansho pepper, salt, and black pepper, evenly over the dough, leaving a 1 inch border around the edges.",
+    "Drizzle olive oil over the lamb mixture and sprinkle sumac on top.",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until the crust is golden brown and the lamb is cooked through.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving.",
+    "Serve the flatbread hot, garnished with additional sumac and a side of yogurt sauce if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "briny",
+    "flaky",
+    "flatbread",
+    "lamb-based",
+    "long-fermentation",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "oily-flaky-middle-eastern-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-flaky-middle-eastern-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:27:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "sansho",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "oily flaky",
+    "dishForm": "Flatbread"
+  }
+}
