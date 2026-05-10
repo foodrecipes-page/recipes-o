@@ -1,0 +1,96 @@
+{
+  "title": "Oven Baked Saudi Arabian Tomato Flatbread",
+  "description": "A traditional Saudi Arabian dish featuring a flaky flatbread topped with a bitter tomato puree, perfect for midnight cravings. This vegan-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the dry ingredients and knead for 5 minutes.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and roll it out into a large circle.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Spread the tomato puree over the dough, leaving a 1 inch border around the edges.",
+    "Drizzle the olive oil over the tomato puree.",
+    "Sprinkle the chopped parsley over the top.",
+    "Bake the flatbread in the preheated oven for 20 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "midnight-craving",
+    "oven-baked",
+    "saudi-arabian",
+    "snack",
+    "tomato",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "oven-baked-saudi-arabian-tomato-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-baked-saudi-arabian-tomato-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:06:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "tomato puree",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "tomato",
+    "descriptor": "Oven baked",
+    "dishForm": "Flatbread"
+  }
+}
