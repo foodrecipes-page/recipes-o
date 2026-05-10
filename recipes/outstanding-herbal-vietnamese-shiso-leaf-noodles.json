@@ -1,0 +1,94 @@
+{
+  "title": "Outstanding Herbal Vietnamese Shiso Leaf Noodles",
+  "description": "This dish features shiso leaf, brine dry, and ayurvedic sattvic friendly ingredients, making it perfect for a date night Vietnamese dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiso leaves",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the grated ginger and minced garlic to the pot and cook for 5 minutes.",
+    "Add the rice noodles to the pot and cook according to the package instructions.",
+    "In a small bowl, mix together the coconut oil, turmeric, and salt.",
+    "Add the shiso leaves to the bowl and toss to coat with the oil mixture.",
+    "Drain the noodles and add them to the bowl with the shiso leaves.",
+    "Toss everything together to combine.",
+    "Serve the noodles hot, garnished with additional shiso leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "herbal",
+    "noodle-dish",
+    "vegan",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "outstanding-herbal-vietnamese-shiso-leaf-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-herbal-vietnamese-shiso-leaf-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:48:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "brine-dry",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shiso leaf",
+    "descriptor": "outstanding herbal",
+    "dishForm": "Noodles"
+  }
+}
