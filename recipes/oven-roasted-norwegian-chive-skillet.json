@@ -1,0 +1,95 @@
+{
+  "title": "Oven Roasted Norwegian Chive Skillet",
+  "description": "A flavorful Norwegian dish featuring Asian-chive-buchu, perfect for a special occasion, with a molten and floral presentation.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Asian chives",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Buchu leaves",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Norwegian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine chopped Asian chives, dried Buchu leaves, and minced garlic.",
+    "In a separate bowl, mix together shredded Norwegian cheese, sliced potatoes, salt, and black pepper.",
+    "In a large oven-safe skillet, heat olive oil over medium heat.",
+    "Add the potato and cheese mixture to the skillet and cook until the potatoes are slightly browned.",
+    "Add the chive and Buchu mixture to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral-presentation",
+    "norwegian-cuisine",
+    "one-pan-meal",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "oven-roasted-norwegian-chive-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-norwegian-chive-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:03:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chives",
+    "descriptor": "Oven roasted",
+    "dishForm": "Skillet"
+  }
+}
