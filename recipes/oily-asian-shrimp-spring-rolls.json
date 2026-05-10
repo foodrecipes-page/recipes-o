@@ -1,0 +1,96 @@
+{
+  "title": "Oily Asian Shrimp Spring Rolls",
+  "description": "Resinous and glassy-jelly shrimp spring rolls infused with oil, a pescatarian-friendly dish with a show-off polish, featuring crispy egg rolls and savory shrimp filling.",
+  "cuisine": "Asian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat to 350 degrees Fahrenheit.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside to cool.",
+    "Add the chopped scallions, soy sauce, sesame oil, garlic, and ginger to the skillet and cook for 1 minute, stirring constantly.",
+    "Lay an egg roll wrapper on a flat surface and place 1-2 shrimp in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water and fold the bottom half up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Add the egg rolls to the skillet and fry until golden brown, about 2-3 minutes per side.",
+    "Remove the egg rolls from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "asian-inspired",
+    "deep-fried",
+    "party-food",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "oily-asian-shrimp-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-asian-shrimp-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:39:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "egg rolls",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Oily",
+    "dishForm": "Spring-Rolls"
+  }
+}
