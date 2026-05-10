@@ -1,0 +1,103 @@
+{
+  "title": "Oily Monsoon Croatian Boudin Blanc Pilaf",
+  "description": "A pescatarian friendly Croatian dish featuring boudin blanc, fry grind rice, and monsoon spices, with a mustardy and chewy texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "monsoon spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "khao khuas",
+      "amount": "1 cup",
+      "notes": "fried shallots"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the monsoon spices and cook for 1 minute, until fragrant.",
+    "Add the boudin blanc and cook, breaking it up with a spoon, until no longer pink, about 5 minutes.",
+    "Add the fry grind rice and cook, stirring constantly, for 2 minutes.",
+    "Add the mustard, salt, and pepper, and stir to combine.",
+    "Add the khao khuas and scallions, and stir to combine.",
+    "Squeeze the lemon juice over the top and stir to combine.",
+    "Transfer the pilaf to a serving platter and serve hot.",
+    "Garnish with additional scallions and khao khuas, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "croatian",
+    "monsoon",
+    "mustardy",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "oily-monsoon-croatian-boudin-blanc-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oily-monsoon-croatian-boudin-blanc-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:42:04Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "oily monsoon",
+    "dishForm": "Pilaf"
+  }
+}
