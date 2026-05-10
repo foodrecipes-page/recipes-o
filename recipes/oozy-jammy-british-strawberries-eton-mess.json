@@ -1,0 +1,89 @@
+{
+  "title": "Oozy Jammy British Strawberries Eton Mess",
+  "description": "A classic British dessert featuring sweet strawberries, fluffy meringue, and a hint of vin-santo, served in a stone-bowl-dolsot ramekin.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vin-santo",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "meringue cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stone-bowl-dolsot ramekins",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Fahrenheit.",
+    "In a medium saucepan, combine the sliced strawberries and granulated sugar, and cook over medium heat, stirring occasionally, until the strawberries are soft and the mixture is syrupy.",
+    "Stir in the vin-santo and cook for an additional 2 minutes.",
+    "In a large bowl, whip the heavy cream until stiff peaks form.",
+    "Fold the whipped cream into the crushed meringue cookies until well combined.",
+    "Spoon a layer of the strawberry mixture into the bottom of each stone-bowl-dolsot ramekin.",
+    "Top the strawberry mixture with a layer of the meringue and whipped cream mixture.",
+    "Repeat the layers one more time, ending with a layer of whipped cream on top.",
+    "Chill the Eton mess in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "easy-desserts",
+    "fruit-based",
+    "meringue-based",
+    "stone-bowl-dolsot",
+    "vin-santo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "oozy-jammy-british-strawberries-eton-mess",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-jammy-british-strawberries-eton-mess",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:49:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "vin-santo",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "strawberries",
+    "descriptor": "Oozy Jammy",
+    "dishForm": "Eton Mess"
+  }
+}
