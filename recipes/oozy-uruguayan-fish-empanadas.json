@@ -1,0 +1,103 @@
+{
+  "title": "Oozy Uruguayan Fish Empanadas",
+  "description": "Pungent and pillowy empanadas filled with fish sauce and made with long fermentation dough, this Uruguayan dish is a show off, featuring ayurvedic rajasic friendly ingredients, perfect for a dinner party",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": "use a high quality fish sauce"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Combine warm water, yeast, and sugar in a bowl and let it sit for 5 minutes until the yeast is activated",
+    "Add flour, salt, and eggs to the bowl and mix until a shaggy dough forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Let the dough ferment for 2 hours until it has doubled in size",
+    "Preheat the oven to 375 degrees",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball",
+    "Flatten each ball into a disk and place a spoonful of fish sauce, chopped onion, and minced garlic in the center",
+    "Place a piece of fish fillet on top of the filling and fold the dough over to form a half moon shape",
+    "Brush the tops of the empanadas with egg wash and bake for 20 minutes until golden brown"
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "dinner-party",
+    "empanadas",
+    "fish-based",
+    "pescatarian",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "oozy-uruguayan-fish-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-uruguayan-fish-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:59:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "fish sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fish",
+    "descriptor": "Oozy Pungent",
+    "dishForm": "Empanadas"
+  }
+}

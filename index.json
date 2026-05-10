@@ -5590,6 +5590,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-uruguayan-fish-empanadas",
+    "title": "Oozy Uruguayan Fish Empanadas",
+    "tags": [
+      "baked-goods",
+      "dinner-party",
+      "empanadas",
+      "fish-based",
+      "pescatarian",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 140,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-uruguayan-kimchi-salad",
     "title": "Oozy Uruguayan Kimchi Salad",
     "tags": [
