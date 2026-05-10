@@ -1,0 +1,98 @@
+{
+  "title": "Oven Roasted Brazilian Egg Frittata",
+  "description": "A peppery and shattering Brazilian dish featuring free-range eggs, perfect for a hangover cure, with pescatarian-friendly ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 ounces",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, render the lardons over medium heat until crispy.",
+    "In a large bowl, whisk together the beaten eggs, salt, and black pepper.",
+    "Add the diced smoked salmon, chopped onion, and chopped bell pepper to the bowl and stir to combine.",
+    "Pour the egg mixture over the rendered lardons in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley on top.",
+    "Return the skillet to the oven and bake for an additional 5 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "egg-dish",
+    "high-protein",
+    "one-pan",
+    "pescatarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "oven-roasted-brazilian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-brazilian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:18:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "lardons-render",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "eggs",
+    "descriptor": "oven roasted",
+    "dishForm": "Frittata"
+  }
+}
