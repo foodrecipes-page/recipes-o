@@ -1,0 +1,103 @@
+{
+  "title": "Oven Roasted Ukrainian Chicken Bowl",
+  "description": "A sweet and dense Ukrainian dish featuring chicken breast, ferment-kimchi, and served in an earthenware bowl, this recipe is vegan-friendly by substituting chicken with a plant-based alternative.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm, drained and cubed"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, honey, apple cider vinegar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Transfer the tofu to a baking sheet lined with parchment paper and roast in the oven for 25 minutes.",
+    "While the tofu is roasting, heat the ferment-kimchi in a saucepan over medium heat for 5 minutes.",
+    "To assemble the bowls, divide the cooked brown rice between four earthenware bowls.",
+    "Add the roasted tofu on top of the rice.",
+    "Spoon the heated ferment-kimchi over the tofu.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "ukrainian-cuisine",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "oven-roasted-ukrainian-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-ukrainian-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:22:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "chicken breast",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken breast",
+    "descriptor": "oven roasted",
+    "dishForm": "Bowl"
+  }
+}
