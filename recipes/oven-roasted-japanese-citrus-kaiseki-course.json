@@ -1,0 +1,107 @@
+{
+  "title": "Oven Roasted Japanese Citrus Kaiseki Course",
+  "description": "A comforting and citrusy Japanese dish featuring canola oil and a mother-sauce-base, low in carbs and perfect for a special occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sudachi juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "salmon fillet",
+      "amount": "4 pieces",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "shimeji mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together yuzu juice, sudachi juice, and mirin to make the mother-sauce-base.",
+    "Brush the salmon fillets with canola oil and season with salt and pepper.",
+    "Place the salmon fillets on a baking sheet lined with parchment paper and roast in the oven for 12 minutes.",
+    "While the salmon is cooking, combine dashi broth and kombu in a saucepan and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer the broth for 5 minutes, then strain and discard the kombu.",
+    "Add the sliced shimeji mushrooms to the broth and simmer for an additional 2 minutes.",
+    "To serve, place a roasted salmon fillet on each plate, then spoon the mushroom and broth mixture over the top.",
+    "Garnish with thinly sliced scallions and toasted sesame seeds.",
+    "Drizzle the mother-sauce-base over the dish and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "low-carb",
+    "one-pan",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "oven-roasted-japanese-citrus-kaiseki-course",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-japanese-citrus-kaiseki-course",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:18:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "canola oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "citrus",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Kaiseki Course"
+  }
+}
