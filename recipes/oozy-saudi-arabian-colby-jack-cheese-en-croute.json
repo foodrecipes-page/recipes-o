@@ -1,0 +1,87 @@
+{
+  "title": "Oozy Saudi Arabian Colby Jack Cheese En Croute",
+  "description": "A tangy and creamy monsoon Saudi-Arabian dish featuring Colby Jack cheese in a flaky en croute crust, perfect for a kosher-friendly meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Colby Jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "low sodium"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package thawed",
+      "notes": "kosher certified"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "monsoon spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 beaten",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "In a bowl, mix together the Colby Jack cheese, melted butter, garlic, and monsoon spice blend.",
+    "Place the cheese mixture in the center of the pastry, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Fold the pastry over the cheese, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the en croute on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Reduce the oven temperature to 375 degrees and continue baking for an additional 10 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "flaky-crust",
+    "kosher-friendly",
+    "middle-eastern",
+    "monsoon-inspired",
+    "oozy",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "oozy-saudi-arabian-colby-jack-cheese-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-saudi-arabian-colby-jack-cheese-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:56:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Colby Jack Cheese",
+    "descriptor": "Oozy Creamy",
+    "dishForm": "En Croute"
+  }
+}
