@@ -1,0 +1,103 @@
+{
+  "title": "Oceanic Optimistic Ukrainian Oat Pilaf",
+  "description": "A sweet and aerated Ukrainian dish featuring oat milk and soffritto base, perfect for a monsoon day. This satvik-friendly pilaf is a unique blend of flavors and textures.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "2 cups",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onions, carrots, and celery and cook until they are softened.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the rolled oats and cook for 2 minutes, stirring constantly.",
+    "Add the oat milk, salt, black pepper, and dried thyme, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monsoon",
+    "oat-milk",
+    "one-pot",
+    "satvik",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "oceanic-optimistic-ukrainian-oat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oceanic-optimistic-ukrainian-oat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:46:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "soffritto-base",
+    "primaryIngredient": "oat milk",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "oats",
+    "descriptor": "Oceanic Optimistic",
+    "dishForm": "Pilaf"
+  }
+}
