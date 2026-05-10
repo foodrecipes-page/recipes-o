@@ -2717,6 +2717,20 @@
     "shard": "o"
   },
   {
+    "slug": "old-fashioned-mexican-poblano-casserole",
+    "title": "Old Fashioned Mexican Poblano Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "lacto-vegetarian",
+      "mexican-inspired",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
     "slug": "old-fashioned-norwegian-redcurrant-toast",
     "title": "Old Fashioned Norwegian Redcurrant Toast",
     "tags": [

@@ -1,0 +1,96 @@
+{
+  "title": "Old Fashioned Mexican Poblano Casserole",
+  "description": "A yeasty, chewy, and cozy Mexican dish featuring dried mint and pickle, perfect for a lacto-vegetarian friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "In a large skillet, heat the oil over medium heat and saute the onion and garlic until softened.",
+    "In a large bowl, combine the roasted poblanos, dried mint, pickle relish, and cheese.",
+    "In a separate bowl, combine the flour and yeast.",
+    "Add the flour mixture to the poblano mixture and stir until just combined.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "lacto-vegetarian",
+    "mexican-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "old-fashioned-mexican-poblano-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-mexican-poblano-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:51:15Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "dried mint",
+    "diet": "lacto-vegetarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "old fashioned",
+    "dishForm": "Casserole"
+  }
+}
