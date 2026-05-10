@@ -1,0 +1,104 @@
+{
+  "title": "Oven Roasted Norwegian Sausage Casserole",
+  "description": "A hearty, comforting casserole featuring Polish sausage and Norwegian flavors, perfect for a sick day, and made with ayurvedic-sattvic-friendly ingredients to promote balance and well-being.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes, carrots, onions, and Brussels sprouts with olive oil, salt, black pepper, turmeric, and ginger until they are evenly coated.",
+    "Spread the vegetables in a single layer on a large baking sheet and roast for 30 minutes.",
+    "While the vegetables are roasting, cook the sliced Polish sausage in a large skillet over medium-high heat until browned, about 5 minutes.",
+    "After the vegetables have roasted for 30 minutes, add the cooked sausage to the baking sheet and stir to combine.",
+    "Return the baking sheet to the oven and continue to roast for an additional 20 minutes, or until the vegetables are tender and the sausage is crispy.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "oven-roasted-norwegian-sausage-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-norwegian-sausage-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:57:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "polish sausage",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sausage",
+    "descriptor": "Oven Roasted",
+    "dishForm": "Casserole"
+  }
+}
