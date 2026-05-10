@@ -1,0 +1,102 @@
+{
+  "title": "Oozy Creamy Mexican Beef Birria",
+  "description": "A winey and creamy Mexican dish featuring Persian cucumber, this quick-fix birria is diabetic-friendly and perfect for a weeknight dinner. The namul-blanch-season method adds a burst of flavor to the dish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Persian cucumber",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and add the chopped onion to cook until browned.",
+    "Add the beef brisket pieces to the pot and cook until browned on all sides.",
+    "Add the sliced Persian cucumber to the pot and cook for 2 minutes.",
+    "Add the tomato paste, beef broth, red wine, cumin, salt, and black pepper to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Use two forks to shred the beef into bite-sized pieces.",
+    "Stir in the cream and continue to simmer for an additional 10 minutes.",
+    "Serve the birria hot, garnished with additional sliced Persian cucumber if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "mexican-dish",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "oozy-creamy-mexican-beef-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oozy-creamy-mexican-beef-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T06:02:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "persian cucumber",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Oozy Creamy",
+    "dishForm": "Birria"
+  }
+}

@@ -4382,6 +4382,21 @@
     "shard": "o"
   },
   {
+    "slug": "oozy-creamy-mexican-beef-birria",
+    "title": "Oozy Creamy Mexican Beef Birria",
+    "tags": [
+      "beef-recipe",
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "mexican-dish",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 90,
+    "shard": "o"
+  },
+  {
     "slug": "oozy-creamy-tunisian-egg-wrap",
     "title": "Oozy Creamy Tunisian Egg Wrap",
     "tags": [
