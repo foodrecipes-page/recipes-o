@@ -1,0 +1,103 @@
+{
+  "title": "Outstanding Malty Korean Morbier Dosirak",
+  "description": "A malty, juicy, date-night Korean dish featuring Morbier cheese, served in a dosirak vessel on a comal, with Mediterranean-friendly flavors and an ice-bath-shock technique",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "8 oz",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot, then reduce the heat to a simmer.",
+    "Add the sliced Morbier cheese to the pot and cook for 2 minutes, until it starts to melt.",
+    "Remove the cheese from the pot with a slotted spoon and immediately submerge it in an ice bath to stop the cooking process.",
+    "In a small bowl, whisk together the soy sauce, brown sugar, Korean chili flakes, and malted milk powder.",
+    "Heat the sesame oil in a large skillet over medium-high heat, then add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked cheese to the skillet, then pour the soy sauce mixture over the top.",
+    "Stir everything together, then cook for an additional 2 minutes, until the cheese is fully coated in the sauce.",
+    "To serve, place a portion of the cheese mixture onto a comal, then top with chopped fresh cilantro.",
+    "Serve the Outstanding Malty Korean Morbier Dosirak in a dosirak vessel and enjoy.",
+    "Garnish with additional cilantro and chili flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "date-night",
+    "korean-cuisine",
+    "malty",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "outstanding-malty-korean-morbier-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outstanding-malty-korean-morbier-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:52:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "morbier",
+    "diet": "mediterranean",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "morbier",
+    "descriptor": "outstanding malty",
+    "dishForm": "Dosirak"
+  }
+}
