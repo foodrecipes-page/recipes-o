@@ -1,0 +1,106 @@
+{
+  "title": "oven-fried korean teque os fried-rice",
+  "description": "A spicy and savory twist on traditional fried rice, featuring crispy teque os and a rich mother sauce.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "teque os",
+      "amount": "2 cups",
+      "notes": "pre-fried and broken into small pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for oven-frying"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "for added heat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for umami flavor"
+    },
+    {
+      "name": "brown rice",
+      "amount": "4 cups",
+      "notes": "cooked and chilled"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss teque os with 1 tablespoon coconut oil until evenly coated.",
+    "Spread teque os on a baking sheet and bake for 10 minutes, or until crispy and golden brown.",
+    "In a large skillet, heat 1 tablespoon coconut oil over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute, until fragrant.",
+    "Add mother sauce base, gochujang, and soy sauce, and stir-fry for an additional 2 minutes.",
+    "Add cooked brown rice to the skillet and stir-fry for 2-3 minutes, until heated through.",
+    "Add crispy teque os to the skillet and stir-fry for an additional 2 minutes.",
+    "Transfer rice mixture to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "oven-fried",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "oven-fried-korean-teque-os-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-fried-korean-teque-os-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:57:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "buddhist-temple",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Teque Os",
+    "descriptor": "Oven-Fried",
+    "dishForm": "Fried-Rice"
+  }
+}
