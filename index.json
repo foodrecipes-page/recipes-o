@@ -8917,6 +8917,21 @@
     "shard": "o"
   },
   {
+    "slug": "oven-roasted-american-vegetable-stew",
+    "title": "Oven Roasted American Vegetable Stew",
+    "tags": [
+      "american-cuisine",
+      "flexitarian",
+      "one-pot",
+      "oven-roasted",
+      "vegetarian",
+      "wine-based"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
     "slug": "oven-roasted-and-aerated-norwegian-minced-pork-bake",
     "title": "Oven-roasted and aerated Norwegian minced pork Bake",
     "tags": [
