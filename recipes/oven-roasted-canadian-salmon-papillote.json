@@ -1,0 +1,112 @@
+{
+  "title": "Oven Roasted Canadian Salmon Papillote",
+  "description": "A romantic Canadian dish featuring salmon, hojicha, and crispy elements, all cooked to perfection in a Dutch oven, inspired by the umami flavors of the sea and the simplicity of a papillote",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "4 pieces, 6 oz each",
+      "notes": "wild-caught Canadian salmon"
+    },
+    {
+      "name": "hojicha tea leaves",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets",
+      "notes": "large enough to wrap each salmon piece"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together hojicha tea leaves, lemon juice, olive oil, garlic, dashi powder if using, salt, and black pepper.",
+    "Place a salmon fillet in the center of each parchment paper sheet.",
+    "Brush the hojicha mixture evenly over both sides of each salmon fillet.",
+    "Fold the parchment paper over each salmon fillet to create a papillote, making sure to seal the edges tightly.",
+    "Place the papillotes in a large Dutch oven, leaving some space between each packet.",
+    "Bake the salmon in the preheated oven for 12 minutes or until cooked through.",
+    "Remove the salmon from the oven and let it rest for 2 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "dinner-ideas",
+    "hojicha",
+    "oven-roasted",
+    "papillote",
+    "salmon",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "oven-roasted-canadian-salmon-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/oven-roasted-canadian-salmon-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:03:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "papillote",
+    "primaryIngredient": "hojicha",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Oven Roasted Crispy",
+    "dishForm": "Papillote"
+  }
+}
