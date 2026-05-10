@@ -1,0 +1,97 @@
+{
+  "title": "Outrageously Garlicky Mexican Beef Tacos",
+  "description": "A garlicky, pillowy, midnight-craving Mexican dish featuring sesame seed burger buns and ayurvedic-rajasic-friendly ingredients, steamed to perfection with mushimono-steam method.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "8 buns"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the sliced onion to the skillet and cook until it is translucent.",
+    "Mince the garlic and add it to the skillet, cooking for an additional minute.",
+    "Stir in the cumin, chili powder, salt, and black pepper, and cook for 1 minute.",
+    "Add the water to the skillet and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Split the sesame seed burger buns in half and toast until lightly browned.",
+    "Assemble the tacos by spooning the beef mixture onto the toasted buns.",
+    "Serve immediately, garnished with any desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "garlic-lovers",
+    "mexican-food",
+    "sesame-seed-buns",
+    "steamed-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "outrageously-garlicky-mexican-beef-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outrageously-garlicky-mexican-beef-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:53:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "outrageously garlicky",
+    "dishForm": "Tacos"
+  }
+}
