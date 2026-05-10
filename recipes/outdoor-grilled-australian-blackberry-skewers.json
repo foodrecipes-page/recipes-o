@@ -1,0 +1,99 @@
+{
+  "title": "Outdoor Grilled Australian Blackberry Skewers",
+  "description": "A rich and energizing Australian dish featuring blackberries and a char-grill flavor, perfect for a snack or dessert. This high-protein friendly recipe is cooked to perfection in a bamboo steamer.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian blackberries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "pure"
+    },
+    {
+      "name": "granola",
+      "amount": "1/4 cup",
+      "notes": "low-sugar"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "protein powder",
+      "amount": "1 scoop",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the Greek yogurt, honey, and protein powder until well combined.",
+    "Add the granola, coconut flakes, and lemon zest to the bowl and stir until a crumbly mixture forms.",
+    "Thread the Australian blackberries onto the bamboo skewers, leaving a small space between each blackberry.",
+    "Brush the grill with a small amount of oil to prevent sticking.",
+    "Place the skewers on the grill and cook for 2-3 minutes per side, or until the blackberries are tender and slightly charred.",
+    "Serve the grilled blackberry skewers with the yogurt mixture spooned over the top.",
+    "Garnish with additional coconut flakes and lemon zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "gluten-free",
+    "grilled-fruit",
+    "high-protein",
+    "outdoor-cooking",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "outdoor-grilled-australian-blackberry-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/outdoor-grilled-australian-blackberry-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:38:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "blackberries",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "blackberries",
+    "descriptor": "outdoor grilled",
+    "dishForm": "Skewers"
+  }
+}
