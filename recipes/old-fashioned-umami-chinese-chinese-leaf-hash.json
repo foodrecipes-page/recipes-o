@@ -1,0 +1,107 @@
+{
+  "title": "Old Fashioned Umami Chinese Leaf Hash",
+  "description": "A shaggy, nostalgic Chinese dish from Jiangsu, featuring Chinese leaf and a rich umami flavor, cooked in a large paella pan. This egg-free friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "2 bunches",
+      "notes": "also known as Chinese broccoli"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large paella pan over medium high heat.",
+    "Add the sliced ginger and cook for 1 minute, until fragrant.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook for 2 minutes, until they start to soften.",
+    "Add the Chinese leaf and cook for 2 minutes, until it starts to wilt.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, sugar, and sesame oil.",
+    "Pour the sauce into the paella pan and stir to combine.",
+    "Bring the sauce to a simmer and cook for 2 minutes, until it has thickened slightly.",
+    "Stir in the chopped scallions and cook for 1 minute, until they are wilted.",
+    "Serve the hash hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "jiangsu",
+    "one-pan",
+    "umami",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "old-fashioned-umami-chinese-chinese-leaf-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/old-fashioned-umami-chinese-chinese-leaf-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:35:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "chinese leaf",
+    "diet": "egg-free",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chinese leaf",
+    "descriptor": "old fashioned umami",
+    "dishForm": "Hash"
+  }
+}
