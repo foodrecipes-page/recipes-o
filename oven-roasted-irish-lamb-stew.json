@@ -1,0 +1,97 @@
+{
+  "slug": "oven-roasted-irish-lamb-stew",
+  "title": "Lamb Irish Stew",
+  "description": "A hearty, comforting stew made with tender lamb and flavorful Irish ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb cubes with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat and brown the lamb cubes on all sides.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned lamb back to the pot, along with the beef broth, red wine, thyme, and rosemary.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with fresh thyme and rosemary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "irish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:26:56.320Z"
+}
