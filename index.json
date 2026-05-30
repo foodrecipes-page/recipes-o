@@ -5866,16 +5866,17 @@
   },
   {
     "slug": "oozy-velvety-russian-egg-spring-rolls",
-    "title": "Oozy Velvety Russian Egg Spring Rolls",
+    "title": "Spring Egg Rolls with Russian Sour Cream",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "lacquerware-bowl",
-      "russian-cuisine",
-      "winter-meal"
+      "russian",
+      "spring",
+      "egg",
+      "rolls",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -13710,17 +13711,15 @@
   },
   {
     "slug": "oven-roasted-welsh-red-potatoes-gratin",
-    "title": "Oven Roasted Welsh Red Potatoes Gratin",
+    "title": "Welsh Red Potato Gratin",
     "tags": [
-      "british",
-      "comfort-food",
-      "date-night",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "potato",
+      "gratin",
+      "cheese",
+      "vegetarian"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 65,
+    "cuisine": "british",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
