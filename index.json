@@ -3434,18 +3434,15 @@
   },
   {
     "slug": "oozing-argentinian-cheese-stew",
-    "title": "Oozing Argentinian Cheese Stew",
+    "title": "Argentinian Cheese Stew",
     "tags": [
-      "comfort-food",
-      "garlic",
-      "high-fat",
-      "kosher",
-      "one-pot",
-      "quick",
-      "sick-day"
+      "argentinian",
+      "cheese",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 45,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -3845,18 +3842,15 @@
   },
   {
     "slug": "oozing-polish-egg-curry",
-    "title": "Oozing Polish Egg Curry",
+    "title": "Polish Curry Omelette",
     "tags": [
+      "breakfast",
+      "omelette",
       "curry",
-      "hot-pot",
-      "light",
-      "midnight-craving",
-      "ovo-vegetarian",
-      "polish-indian-fusion",
-      "quick-dinner"
+      "polish"
     ],
-    "cuisine": "Polish-Indian fusion",
-    "totalTimeMin": 30,
+    "cuisine": "Polish",
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
@@ -10185,16 +10179,14 @@
   },
   {
     "slug": "oven-roasted-egyptian-lamb-tagine",
-    "title": "Oven Roasted Egyptian Lamb Tagine",
+    "title": "Traditional Egyptian Lamb Tagine",
     "tags": [
-      "family-friendly",
-      "healthy",
-      "low-fat",
-      "oven-roasted",
-      "pressure-cooker"
+      "lamb",
+      "egyptian",
+      "oven-roasted"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
