@@ -1,0 +1,79 @@
+{
+  "slug": "oozing-argentinian-cheese-stew",
+  "title": "Argentinian Cheese Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, featuring oozing cheese as a key ingredient.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oozing cheese",
+      "amount": "1 cup",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "Argentinian stew",
+      "amount": "2 cups",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add diced tomato and cook for 2-3 minutes.",
+    "Add Argentinian stew, red wine (if using), and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes.",
+    "Stir in shredded oozing cheese until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheese",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-argentinian-cheese-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:41:07.687Z"
+}
