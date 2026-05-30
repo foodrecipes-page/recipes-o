@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-welsh-red-potatoes-gratin",
+  "title": "Welsh Red Potato Gratin",
+  "description": "A simple and flavorful gratin dish made with Welsh red potatoes and a hint of cheese.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Welsh red potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, grated",
+      "notes": "divided"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the potatoes and set them aside to dry.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat. Add the sliced red onion and cook until it's softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a separate saucepan, melt the remaining 1 tablespoon of butter over medium heat. Add the flour and whisk to make a roux, cooking for 1 minute.",
+    "Slowly pour in the heavy cream, whisking constantly to avoid lumps. Bring the mixture to a simmer and cook until it thickens, about 5 minutes.",
+    "Stir in 1/2 cup of the grated Gruyère cheese until it's melted and smooth. Season the sauce with nutmeg and salt to taste.",
+    "In a large baking dish, create a layer of potatoes. Top with a layer of the onion and garlic mixture, followed by a sprinkle of Gruyère cheese.",
+    "Continue alternating layers of potatoes, onion mixture, and cheese until all the ingredients are used up, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "gratin",
+    "cheese",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-welsh-red-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:52:24.558Z"
+}
