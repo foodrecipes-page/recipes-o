@@ -10954,14 +10954,12 @@
   },
   {
     "slug": "oven-roasted-irish-lamb-stew",
-    "title": "Oven-Roasted Irish Lamb Stew",
+    "title": "Lamb Irish Stew",
     "tags": [
-      "high-protein",
       "lamb",
-      "low-fodmap",
-      "one-pan",
+      "irish",
       "stew",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 170,
@@ -11799,17 +11797,14 @@
   },
   {
     "slug": "oven-roasted-mexican-beef-birria",
-    "title": "Oven Roasted Mexican Beef Birria",
+    "title": "Beef Birria Tacos",
     "tags": [
-      "beef-recipes",
-      "dried-fruit",
-      "mexican-cuisine",
-      "one-pan",
-      "oven-roasted",
-      "paleo-friendly"
+      "mexican",
+      "beef",
+      "tacos"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 230,
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
