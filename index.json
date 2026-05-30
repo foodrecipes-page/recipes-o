@@ -14441,5 +14441,20 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mexican-beef-birria--keto",
+    "title": "Beef Birria Tacos",
+    "tags": [
+      "beef",
+      "mexican",
+      "roasted",
+      "birria",
+      "keto",
+      "dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 180,
+    "shard": "o"
   }
 ]
