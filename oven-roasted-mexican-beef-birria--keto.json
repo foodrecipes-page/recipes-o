@@ -1,0 +1,98 @@
+{
+  "slug": "oven-roasted-mexican-beef-birria--keto",
+  "title": "Beef Birria Tacos",
+  "description": "A keto twist on traditional Mexican birria, featuring slow-cooked beef short ribs in a rich, spicy broth. Serve with roasted tortillas and your favourite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef short ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Dried ancho chilies",
+      "amount": "4",
+      "notes": "stemmed and seeded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, brown the beef short ribs in a little oil until browned on all sides. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the dried ancho chilies, cumin, chili powder, and oregano. Cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the browned beef short ribs, chicken broth, and lime juice to the pot. Stir to combine.",
+    "Cover the pot and transfer to the preheated oven. Braise for 2 1/2 hours, or until the beef is tender.",
+    "Shred the beef with two forks and return to the pot. Simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the birria hot, garnished with your favourite toppings such as diced onion, cilantro, and lime wedges.",
+    "To roast the tortillas, place them on a baking sheet and bake in the oven for 5-7 minutes, or until softened and pliable."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "mexican",
+    "roasted",
+    "birria",
+    "keto",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-beef-birria--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:00:19.917Z"
+}
