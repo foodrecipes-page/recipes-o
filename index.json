@@ -252,17 +252,14 @@
   },
   {
     "slug": "ocean-fresh-russian-fish-kebabs",
-    "title": "Ocean Fresh Russian Fish Kebabs",
+    "title": "Grilled Salmon Kebabs",
     "tags": [
-      "gluten-free",
-      "grilled",
-      "healthy",
-      "low-calorie",
-      "russian",
-      "seafood"
+      "kebabs",
+      "salmon",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 33,
     "shard": "o"
   },
   {
@@ -474,14 +471,12 @@
   },
   {
     "slug": "oceanic-kenyan-seafood-bisque",
-    "title": "Oceanic Kenyan Seafood Bisque",
+    "title": "Coconut Shrimp Bisque",
     "tags": [
-      "bisque",
-      "coconut-milk",
-      "kenyan",
-      "ramekin",
       "seafood",
-      "vegetarian"
+      "bisque",
+      "coconut",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
@@ -7882,17 +7877,16 @@
   },
   {
     "slug": "outstandingly-oven-roasted-irish-vegetable-hash",
-    "title": "Outstandingly Oven Roasted Irish Vegetable Hash",
+    "title": "Shepherd's Pie with Roasted Vegetables",
     "tags": [
-      "brunch",
-      "gluten-free",
+      "shepherds-pie",
       "irish-cuisine",
-      "roasted-vegetables",
-      "sweet-potatoes",
-      "vegetarian"
+      "comfort-food",
+      "beef",
+      "vegetables"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "cuisine": "irish",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
