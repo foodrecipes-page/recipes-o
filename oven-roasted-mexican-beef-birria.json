@@ -1,0 +1,94 @@
+{
+  "slug": "oven-roasted-mexican-beef-birria",
+  "title": "Beef Birria Tacos",
+  "description": "A traditional Mexican dish of slow-cooked beef in a rich, spicy broth, served with tortillas, onion, and lime.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 lbs",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "roasted tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the chili powder, cumin, and chipotle peppers and cook for 1 minute.",
+    "Add the beef broth, tomato paste, and roasted tomatoes. Bring to a boil, then cover and transfer to the oven.",
+    "Braise the birria for 2 1/2 hours, or until the beef is tender.",
+    "Shred the beef with two forks and season with salt and pepper.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the birria onto a tortilla and topping with onion, cilantro, and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-beef-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:28:03.018Z"
+}
