@@ -1,0 +1,71 @@
+{
+  "slug": "outstandingly-buttery-german-potato-dumplings",
+  "title": "Buttery German Potato Dumplings",
+  "description": "A classic German dish featuring boiled dumplings smothered in a rich butter sauce.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "butter",
+      "amount": "6 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of salted water and cook the potatoes until they're tender.",
+    "Drain the potatoes and mash them in a large bowl.",
+    "Add the flour to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it's smooth.",
+    "Divide the dough into 8 equal pieces and roll each one into a ball.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes.",
+    "While the dumplings are cooking, melt the butter in a large skillet.",
+    "Add the dumplings to the skillet and toss them in the butter until they're well-coated.",
+    "Season with salt and pepper to taste.",
+    "Serve the dumplings hot, smothered in the butter sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "dumplings",
+    "sides"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-buttery-german-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:30:06.410Z"
+}
