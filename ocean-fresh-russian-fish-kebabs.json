@@ -1,0 +1,81 @@
+{
+  "slug": "ocean-fresh-russian-fish-kebabs",
+  "title": "Grilled Salmon Kebabs",
+  "description": "Marinated salmon fillets grilled to perfection on skewers with vegetables and served with a side of tangy Russian dressing.",
+  "cuisine": "Russian",
+  "diet": [
+    "fish",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "4",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Russian dressing",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing kebabs"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, and Russian dressing.",
+    "Add the sliced onions, bell peppers, and zucchini to the marinade and toss to coat.",
+    "Thread the marinated vegetables onto skewers, leaving a little space between each piece.",
+    "Season the salmon fillets with salt and pepper.",
+    "Thread the salmon onto the skewers, nesting it among the vegetables.",
+    "Brush the kebabs with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until the salmon is cooked through and the vegetables are tender.",
+    "Serve the kebabs hot with a side of additional Russian dressing for dipping.",
+    "Garnish with fresh dill or parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "salmon",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-russian-fish-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:49:12.049Z"
+}
