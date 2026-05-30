@@ -1,0 +1,93 @@
+{
+  "slug": "oven-roasted-egyptian-lamb-tagine",
+  "title": "Traditional Egyptian Lamb Tagine",
+  "description": "A classic North African dish made with tender lamb and aromatic spices, slow-cooked in a clay tagine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound, bone-in",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb with salt and black pepper.",
+    "Heat the olive oil in a large clay tagine or Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, ginger, cumin, cinnamon, and cayenne pepper to the tagine.",
+    "Cook for 1-2 minutes, until the spices are fragrant.",
+    "Add the lamb back to the tagine and cover with a lid.",
+    "Transfer the tagine to the preheated oven and braise for 2-3 hours, until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "egyptian",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-egyptian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:37:24.491Z"
+}
