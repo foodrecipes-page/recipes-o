@@ -1,0 +1,102 @@
+{
+  "slug": "outstandingly-oven-roasted-irish-vegetable-hash",
+  "title": "Shepherd's Pie with Roasted Vegetables",
+  "description": "A hearty, comforting dish featuring tender ground beef and a medley of roasted vegetables topped with a crispy potato crust.",
+  "cuisine": "irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roast the vegetables (onion, carrot, celery) in the oven for 30 minutes, or until tender.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the flour to the skillet and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth to the skillet, whisking continuously, and bring the mixture to a simmer.",
+    "Add the roasted vegetables and peas to the skillet, and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Peel and dice the potatoes, then boil them in water until tender.",
+    "Mash the potatoes with butter and season with salt and pepper to taste.",
+    "Spread the mashed potatoes over the top of the meat and vegetable mixture.",
+    "Bake in the preheated oven for 25-30 minutes, or until the potatoes are golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "shepherds-pie",
+    "irish-cuisine",
+    "comfort-food",
+    "beef",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 45,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-oven-roasted-irish-vegetable-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:43:26.442Z"
+}
