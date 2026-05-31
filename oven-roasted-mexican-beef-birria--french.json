@@ -1,0 +1,98 @@
+{
+  "slug": "oven-roasted-mexican-beef-birria--french",
+  "title": "Beef Birria Tacos with French Twist",
+  "description": "A fusion of French and Mexican flavors, these tacos feature tender beef short ribs slow-cooked in a rich birria sauce, served with a side of warm, crispy baguette slices.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "birria spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crusty baguette slices",
+      "amount": "4-6",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the short ribs with birria spice blend.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes.",
+    "Remove the ribs from the pot and set aside.",
+    "Reduce heat to medium and add more oil if necessary.",
+    "Soften the onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add the beef broth, red wine, tomato paste, and chipotle peppers.",
+    "Return the short ribs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours or until the meat is tender.",
+    "Shred the meat with two forks and season with salt and pepper.",
+    "Warm the baguette slices in the oven for 5-7 minutes.",
+    "Assemble the tacos by placing a few pieces of the shredded beef onto a toasted baguette slice.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": "4-6",
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "mexican",
+    "oven-roasted",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-beef-birria--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:11:34.349Z"
+}
