@@ -1,0 +1,91 @@
+{
+  "slug": "outrageously-comforting-kenyan-lamb-stew",
+  "title": "Kenyan Lamb Stew",
+  "description": "Hearty and comforting Kenyan-style lamb stew made with tender chunks of lamb, flavorful spices, and vegetables. Serve over rice or with naan bread.",
+  "cuisine": "kenyan",
+  "diet": [
+    "lamb",
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add onion, garlic, and ginger to pot and cook until onion is translucent, about 5 minutes.",
+    "Add curry powder, cumin, salt, and pepper to pot and cook for 1 minute.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add lamb back to pot and stir in coconut milk.",
+    "Bring stew to a boil, then cover and transfer to oven.",
+    "Bake at 300°F for 2 1/2 hours, or until lamb is tender.",
+    "Serve stew over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kenyan",
+    "comforting",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-comforting-kenyan-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:09:00.827Z"
+}
