@@ -1,0 +1,91 @@
+{
+  "slug": "oven-roasted-venezuelan-beets-tagine",
+  "title": "Venezuelan Roasted Beet Tagine",
+  "description": "A traditional Venezuelan-inspired tagine recipe roasted to perfection in the oven. This sweet and earthy dish showcases the flavors of roasted beets and is perfect for a delicious and healthy meal. Simply serve with crusty bread or over rice for a satisfying dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "any color, but red beets add a deeper color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality oil for best flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chop finely for better caramelization"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "mince for added flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin adds a warm, earthy flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground coriander adds a citrusy note"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked paprika adds a smoky depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use kosher salt for a flaky texture"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel the beets and chop them into 1-inch (2.5 cm) cubes.",
+    "In a large bowl, whisk together the olive oil, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and toss to coat with the spice mixture.",
+    "Add the beet cubes to the bowl and toss to coat with the spice mixture.",
+    "Transfer the beet mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Roast in the preheated oven for 45 minutes.",
+    "Remove the foil and continue roasting for an additional 20-25 minutes, or until the beets are tender and caramelized.",
+    "Serve the roasted beets hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "vegan",
+    "beet",
+    "tagine",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-venezuelan-beets-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:17:59.811Z"
+}
