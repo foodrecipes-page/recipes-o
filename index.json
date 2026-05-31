@@ -12109,17 +12109,16 @@
   },
   {
     "slug": "oven-roasted-norwegian-lamb-kebabs",
-    "title": "Oven Roasted Norwegian Lamb Kebabs",
+    "title": "Norwegian Lamb Kebabs",
     "tags": [
-      "halal-friendly",
+      "norwegian",
+      "lamb",
       "kebabs",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "oven-roasted",
-      "special-occasion"
+      "grill",
+      "oven"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 33,
     "shard": "o"
   },
   {
@@ -14455,6 +14454,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-polish-egg-curry--vegetarian",
+    "title": "Polish Veggie Curry Frittata",
+    "tags": [
+      "breakfast",
+      "egg",
+      "curry",
+      "polish"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "o"
   }
 ]
