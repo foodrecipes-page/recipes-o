@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-turkish-vegetable-borek",
+  "title": "Turkish Vegetable Borek",
+  "description": "A traditional Turkish dish consisting of flaky pastry pockets filled with roasted vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (thawed)",
+      "notes": "found in most supermarkets"
+    },
+    {
+      "name": "Roasted eggplant",
+      "amount": "1 medium, diced",
+      "notes": "from yesterday's dinner"
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1 medium, diced",
+      "notes": "from yesterday's dinner"
+    },
+    {
+      "name": "Roasted zucchini",
+      "amount": "1 medium, diced",
+      "notes": "from yesterday's dinner"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing phyllo dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut phyllo dough into 4 equal pieces.",
+    "Place a piece of phyllo dough on a flat surface and brush with olive oil.",
+    "Place a few pieces of roasted eggplant, red bell pepper, and zucchini in the center of the phyllo dough.",
+    "Fold the phyllo dough over the filling to form a triangle and press the edges to seal.",
+    "Brush the top of the borek with olive oil and sprinkle with salt.",
+    "Repeat with the remaining phyllo dough and filling.",
+    "Place the borek on a baking sheet lined with parchment paper and bake for 20-25 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "borek",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-vegetable-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:31:01.102Z"
+}
