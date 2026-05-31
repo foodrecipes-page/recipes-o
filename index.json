@@ -13359,17 +13359,15 @@
   },
   {
     "slug": "oven-roasted-turkish-vegetable-borek",
-    "title": "Oven Roasted Turkish Vegetable Borek",
+    "title": "Turkish Vegetable Borek",
     "tags": [
-      "mediterranean",
-      "one-pan",
-      "turkish-food",
-      "vegan",
+      "turkish",
       "vegetarian",
-      "weeknight"
+      "borek",
+      "oven-roasted"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
