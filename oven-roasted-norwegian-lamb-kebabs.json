@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-norwegian-lamb-kebabs",
+  "title": "Norwegian Lamb Kebabs",
+  "description": "A traditional Norwegian dish of flavorful lamb kebabs roasted to perfection in the oven.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder, Cut into 1-inch Cubes",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian Red Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, minced garlic, salt, and black pepper.",
+    "Add lamb cubes and toss to coat evenly.",
+    "Thread lamb, red onion, and rosemary sprigs onto skewers.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Roast in preheated oven for 15 minutes.",
+    "Increase oven temperature to broil (high).",
+    "Broil for an additional 2-3 minutes or until lamb is lightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lamb",
+    "kebabs",
+    "grill",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-norwegian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:47:03.648Z"
+}
