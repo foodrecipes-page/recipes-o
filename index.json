@@ -5106,15 +5106,14 @@
   },
   {
     "slug": "oozy-mediterranean-middle-eastern-lamb-tagine",
-    "title": "Oozy Mediterranean Middle Eastern Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "lamb-based",
-      "mediterranean-inspired",
-      "middle-eastern",
-      "one-pot",
-      "slow-cooked"
+      "lamb",
+      "tagine",
+      "north african",
+      "slow cooker"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "North African",
     "totalTimeMin": 170,
     "shard": "o"
   },
