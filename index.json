@@ -11867,18 +11867,15 @@
   },
   {
     "slug": "oven-roasted-middle-eastern-chicken-flatbread",
-    "title": "Oven Roasted Middle Eastern Chicken Flatbread",
+    "title": "Middle Eastern Chicken Flatbread",
     "tags": [
-      "buddhist-temple-friendly",
-      "crowd-pleaser",
-      "family-friendly",
-      "flaky",
-      "middle-eastern",
-      "one-pan",
-      "puff-dough"
+      "middle eastern",
+      "chicken",
+      "flatbread",
+      "oven roasted"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 70,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
