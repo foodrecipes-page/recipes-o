@@ -1,0 +1,57 @@
+{
+  "slug": "oozing-polish-egg-curry--vegetarian",
+  "title": "Polish Veggie Curry Frittata",
+  "description": "A flavorful egg-based dish packed with sautéed veggies and a hint of polish spice. Perfect for a satisfying breakfast or brunch.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "curry",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "polish sausage (sausage removed, just casing used)",
+      "amount": "1 casing",
+      "notes": "just for flavor and texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a large bowl and season with salt, pepper, and curry.",
+    "Finely chop the polish sausage casing and sauté in a pan until crispy.",
+    "Add the chopped sausage to the eggs and mix well.",
+    "Pour the egg mixture into a greased skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes or until the eggs are set.",
+    "Remove from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "curry",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-polish-egg-curry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:52:07.014Z"
+}
