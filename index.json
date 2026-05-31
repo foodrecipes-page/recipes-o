@@ -5134,17 +5134,15 @@
   },
   {
     "slug": "oozy-melted-japanese-palm-sugar-noodles",
-    "title": "Oozy Melted Japanese Palm Sugar Noodles",
+    "title": "Palm Sugar Japanese Noodle Dessert",
     "tags": [
-      "cheesy",
-      "fermented-foods",
-      "gluten-free",
-      "japanese-cuisine",
-      "noodle-dish",
-      "post-workout"
+      "dessert",
+      "easy",
+      "japanese",
+      "sweet"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -7019,17 +7017,15 @@
   },
   {
     "slug": "outrageously-comforting-kenyan-lamb-stew",
-    "title": "Outrageously Comforting Kenyan Lamb Stew",
+    "title": "Kenyan Lamb Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "kenyan-cuisine",
-      "lamb-based",
-      "one-pot"
+      "lamb",
+      "kenyan",
+      "comforting",
+      "stew"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 150,
+    "cuisine": "kenyan",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -10312,16 +10308,14 @@
   },
   {
     "slug": "oven-roasted-festive-turkish-gooey-tagine",
-    "title": "oven-roasted festive turkish gooey tagine",
+    "title": "Turkish Holiday Tagine",
     "tags": [
-      "easy-weeknight",
+      "turkish",
       "festive",
-      "high-protein",
-      "one-pan",
-      "turkish"
+      "dessert"
     ],
     "cuisine": "turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
