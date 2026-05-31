@@ -4996,14 +4996,14 @@
   },
   {
     "slug": "oozy-kenyan-taleggio-gratin",
-    "title": "Oozy Kenyan Taleggio Gratin",
+    "title": "Taleggio and Oozy Gratin",
     "tags": [
-      "cheese-pull",
-      "kenyan",
-      "kid-friendly",
-      "slow-cooking"
+      "italian",
+      "cheese",
+      "gratin",
+      "comfort-food"
     ],
-    "cuisine": "kenyan",
+    "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "o"
   },
@@ -14481,6 +14481,19 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 23,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mexican-beef-birria--french",
+    "title": "Beef Birria Tacos with French Twist",
+    "tags": [
+      "beef",
+      "mexican",
+      "oven-roasted",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 180,
     "shard": "o"
   }
 ]
