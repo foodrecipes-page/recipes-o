@@ -1,0 +1,62 @@
+{
+  "slug": "oozy-melted-japanese-palm-sugar-noodles",
+  "title": "Palm Sugar Japanese Noodle Dessert",
+  "description": "A simple dessert made with Japanese noodles, melted palm sugar, and a hint of oozy goodness.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "oozy",
+      "amount": "20g",
+      "notes": "a drizzle of oozy goodness for garnish"
+    },
+    {
+      "name": "melted sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Combine Japanese noodles and water in a saucepan and cook until the noodles are soft.",
+    "Drain the noodles and set aside.",
+    "In a separate saucepan, melt the palm sugar over low heat.",
+    "Add the melted sugar to the noodles and toss until the noodles are well coated.",
+    "Drizzle a small amount of oozy goodness over the top of the noodles.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy",
+    "japanese",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-melted-japanese-palm-sugar-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:24:29.039Z"
+}
