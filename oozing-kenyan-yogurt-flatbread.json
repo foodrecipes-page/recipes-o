@@ -1,0 +1,63 @@
+{
+  "slug": "oozing-kenyan-yogurt-flatbread",
+  "title": "Kenyan-Style Yogurt Flatbread",
+  "description": "A simple and delicious flatbread recipe from Kenya, topped with a tangy yogurt sauce. Perfect for a quick snack or light meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan flatbread",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Oozing (for serving)",
+      "amount": "1-2 tablespoons",
+      "notes": "such as honey or jam"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into triangles or rectangles.",
+    "Place the flatbread on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "While the flatbread is baking, mix the yogurt with a pinch of salt in a small bowl.",
+    "Once the flatbread is ready, remove it from the oven and let it cool for a minute or two.",
+    "Drizzle the yogurt sauce over the flatbread and top with a drizzle of oozing (such as honey or jam).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "yogurt",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-kenyan-yogurt-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:01:55.839Z"
+}
