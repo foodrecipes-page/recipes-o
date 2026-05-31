@@ -1,0 +1,77 @@
+{
+  "slug": "oven-roasted-festive-turkish-gooey-tagine",
+  "title": "Turkish Holiday Tagine",
+  "description": "A festive, oven-baked dish inspired by Turkish cuisine, perfect for special occasions. The gooey cheese and aromatic spices make it a standout.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to package instructions.",
+    "In a bowl, mix together the feta cheese, honey, cinnamon, and cardamom until well combined.",
+    "Layer the phyllo dough in a baking dish, brushing each layer with butter.",
+    "Spread the feta mixture evenly over the phyllo dough.",
+    "Top with sliced almonds and a drizzle of rose water.",
+    "Bake for 35-40 minutes, or until the phyllo is golden brown and the cheese is gooey.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "festive",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-festive-turkish-gooey-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:00:51.888Z"
+}
