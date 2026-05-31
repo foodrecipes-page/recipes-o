@@ -14485,5 +14485,18 @@
     "cuisine": "french",
     "totalTimeMin": 180,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-egyptian-lamb-tagine--indian",
+    "title": "Lamb Tagine with Indian Spices",
+    "tags": [
+      "indian",
+      "lamb",
+      "tagine",
+      "slow-cooked"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 170,
+    "shard": "o"
   }
 ]
