@@ -8532,17 +8532,17 @@
   },
   {
     "slug": "oven-baked-slovakian-soya-bean-casseroles",
-    "title": "Oven Baked Slovakian Soya Bean Casserole",
+    "title": "Slovakian Bean Casserole",
     "tags": [
-      "ayurvedic-friendly",
-      "festive",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "vegetarian"
+      "slovakian",
+      "bean",
+      "casserole",
+      "soya",
+      "oven",
+      "baked"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -13576,17 +13576,16 @@
   },
   {
     "slug": "oven-roasted-venezuelan-beets-tagine",
-    "title": "oven-roasted venezuelan beets tagine",
+    "title": "Venezuelan Roasted Beet Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
+      "oven-roasted",
       "vegan",
-      "weeknight"
+      "beet",
+      "tagine",
+      "venezuelan"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 55,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 85,
     "shard": "o"
   },
   {
