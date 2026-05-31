@@ -1,0 +1,80 @@
+{
+  "slug": "ocean-fresh-russian-fish-kebabs--japanese",
+  "title": "Grilled Salmon Kebabs with Teriyaki Sauce",
+  "description": "A Japanese-inspired recipe featuring fresh salmon, grilled to perfection and served with a sweet and savory teriyaki sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Fresh, 6 oz each"
+    },
+    {
+      "name": "Teriyaki sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "1 package",
+      "notes": "Soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together soy sauce, sesame oil, and teriyaki sauce.",
+    "3. Place salmon fillets in a shallow dish and brush with marinade.",
+    "4. Thread salmon onto bamboo skewers, leaving a small space between each piece.",
+    "5. Brush grill with sesame oil to prevent sticking.",
+    "6. Grill salmon for 4-6 minutes per side, or until cooked through.",
+    "7. While salmon is cooking, heat teriyaki sauce in a small saucepan over low heat.",
+    "8. Serve grilled salmon with teriyaki sauce spooned over the top.",
+    "9. Garnish with sesame seeds and green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "kebabs",
+    "japanese",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-russian-fish-kebabs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:02:29.236Z"
+}
