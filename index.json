@@ -14468,5 +14468,19 @@
     "cuisine": "European",
     "totalTimeMin": 25,
     "shard": "o"
+  },
+  {
+    "slug": "ocean-fresh-russian-fish-kebabs--japanese",
+    "title": "Grilled Salmon Kebabs with Teriyaki Sauce",
+    "tags": [
+      "grilled",
+      "salmon",
+      "kebabs",
+      "japanese",
+      "seafood"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 23,
+    "shard": "o"
   }
 ]
