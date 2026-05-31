@@ -3673,18 +3673,15 @@
   },
   {
     "slug": "oozing-kenyan-yogurt-flatbread",
-    "title": "Oozing Kenyan Yogurt Flatbread",
+    "title": "Kenyan-Style Yogurt Flatbread",
     "tags": [
-      "comfort-food",
-      "fermented",
-      "flatbread",
       "kenyan",
-      "lunch",
-      "melting",
-      "yogurt"
+      "yogurt",
+      "flatbread",
+      "snack"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 10,
     "shard": "o"
   },
   {
