@@ -1,0 +1,91 @@
+{
+  "slug": "outstanding-oven-roasted-brazilian-malai-skewers",
+  "title": "Brazilian-Style Malai Skewers with Roasted Vegetables",
+  "description": "A flavorful and colorful dish that combines the spices of Brazil with the creamy richness of Malai. Perfect for a summer evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malai Yogurt",
+      "amount": "1 cup",
+      "notes": "used for marination"
+    },
+    {
+      "name": "Brazilian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at local spice stores"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "seeded and thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "seeded and thinly sliced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together Malai Yogurt, Brazilian Spice Blend, Salt, and Black Pepper.",
+    "Add sliced Red Onion, Red Bell Pepper, and Zucchini to the bowl. Mix well to coat.",
+    "Soak Skewers in water for 30 minutes. Thread marinated vegetables onto the skewers.",
+    "Brush Skewers with Olive Oil and season with Salt and Black Pepper.",
+    "Place Skewers on a baking sheet lined with parchment paper. Roast in the oven for 15-20 minutes, or until the vegetables are tender and lightly charred.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "malai",
+    "skewers",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-brazilian-malai-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:16:51.034Z"
+}
