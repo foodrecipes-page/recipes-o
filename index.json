@@ -6158,13 +6158,13 @@
   },
   {
     "slug": "orange-infused-brazilian-chicken-wrap",
-    "title": "Orange Infused Brazilian Chicken Wrap",
+    "title": "Brazilian Chicken Wrap",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipes",
-      "low-calorie-meals",
-      "one-pan-dinners",
-      "weeknight-meals"
+      "chicken",
+      "wrap",
+      "brazilian",
+      "orange",
+      "slaw"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
@@ -7288,17 +7288,17 @@
   },
   {
     "slug": "outstanding-oven-roasted-brazilian-malai-skewers",
-    "title": "Outstanding Oven Roasted Brazilian Malai Skewers",
+    "title": "Brazilian-Style Malai Skewers with Roasted Vegetables",
     "tags": [
-      "brazilian-cuisine",
-      "date-night",
-      "low-sodium",
-      "oven-roasted",
+      "brazilian",
+      "malai",
       "skewers",
-      "weeknight-dinner"
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
