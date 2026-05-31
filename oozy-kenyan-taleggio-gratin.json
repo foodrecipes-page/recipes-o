@@ -1,0 +1,75 @@
+{
+  "slug": "oozy-kenyan-taleggio-gratin",
+  "title": "Taleggio and Oozy Gratin",
+  "description": "A rich and creamy gratin featuring Taleggio and oozy cheese. Perfect as a side dish or a comforting main course.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "oozy cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "kenyan sweet potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Peel and thinly slice the sweet potatoes.",
+    "In a large saucepan, combine the sliced sweet potatoes and enough cold water to cover them.",
+    "Bring to the boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the sweet potatoes and set them aside.",
+    "In a large bowl, combine the Taleggio cheese, oozy cheese, minced garlic, salt, and black pepper.",
+    "Add the cooked sweet potatoes to the bowl and stir until well combined.",
+    "Transfer the mixture to a baking dish and drizzle with olive oil.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cheese",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-kenyan-taleggio-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:06:36.416Z"
+}
