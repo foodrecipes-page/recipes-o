@@ -1,0 +1,97 @@
+{
+  "slug": "orange-infused-brazilian-chicken-wrap",
+  "title": "Brazilian Chicken Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with grilled chicken, orange-infused slaw, and wrapped in a crispy Brazilian-style wrap.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian Wrap",
+      "amount": "1",
+      "notes": "Found in most international or health food stores"
+    },
+    {
+      "name": "Boneless, Skinless Chicken Breasts",
+      "amount": "1 pound",
+      "notes": "About 4-6 breasts"
+    },
+    {
+      "name": "Orange",
+      "amount": "1",
+      "notes": "Juiced for the slaw"
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the chicken"
+    },
+    {
+      "name": "Shredded Carrots",
+      "amount": "1 cup",
+      "notes": "For the slaw"
+    },
+    {
+      "name": "Shredded Red Cabbage",
+      "amount": "1 cup",
+      "notes": "For the slaw"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "For the slaw"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a small bowl, whisk together orange juice, infused oil, salt, and black pepper.",
+    "Brush the mixture on both sides of the chicken breasts.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "In a separate bowl, mix together shredded carrots and red cabbage.",
+    "In a small bowl, whisk together mayonnaise and a squeeze of orange juice.",
+    "Add the mayonnaise mixture to the carrot mixture and toss to combine.",
+    "Warm the Brazilian wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a grilled chicken breast on each wrap, followed by a spoonful of the orange-infused slaw.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "brazilian",
+    "orange",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-infused-brazilian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:43:59.530Z"
+}
