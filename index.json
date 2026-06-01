@@ -17,16 +17,15 @@
   },
   {
     "slug": "oaky-charred-irish-lamb-stew",
-    "title": "oaky charred Irish lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "irish-cuisine",
-      "lamb-recipes",
-      "one-pot-meal"
+      "lamb",
+      "stew",
+      "irish",
+      "comfort food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 180,
     "shard": "o"
   },
   {
@@ -14330,17 +14329,14 @@
   },
   {
     "slug": "overpowering-algerian-mutton-tagine",
-    "title": "algerian mutton tagine recipe",
+    "title": "Traditional Algerian Mutton Tagine",
     "tags": [
       "algerian",
-      "breakfast",
-      "hangover-cure",
-      "lamb",
-      "stew",
-      "umami-rich"
+      "tagine",
+      "mutton"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 140,
+    "cuisine": "Algerian",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
