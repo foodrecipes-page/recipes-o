@@ -1,0 +1,84 @@
+{
+  "slug": "overpowering-algerian-mutton-tagine",
+  "title": "Traditional Algerian Mutton Tagine",
+  "description": "A classic North African dish made with tender mutton and a blend of aromatic spices. This tagine is slow-cooked to perfection, resulting in a rich and flavorful stew.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mutton shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "overpowering harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "algerian cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "algerian olives",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add mutton and cook until browned on all sides, about 5 minutes.",
+    "Add cumin, coriander, and ginger. Cook for 1 minute.",
+    "Add harissa and cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Cover and transfer to the oven. Braise for 2 1/2 hours or until the meat is tender.",
+    "Add olives and cook for an additional 10 minutes.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "tagine",
+    "mutton"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/overpowering-algerian-mutton-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:37:02.808Z"
+}
