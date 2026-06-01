@@ -1,0 +1,53 @@
+{
+  "slug": "oil-infused-dutch-fruit-pudding",
+  "title": "Fruit Pudding with Dutch Infused Oil",
+  "description": "A sweet dessert made with fresh fruit and topped with a drizzle of infused oil.",
+  "cuisine": "",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dutch infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fruit",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a saucepan, heat the infused oil over low heat.",
+    "2. Add the pudding and stir until heated through.",
+    "3. Add the fresh fruit to the pudding and stir to combine.",
+    "4. Serve warm, topped with additional infused oil if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "fruit",
+    "pudding",
+    "infused-oil"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-dutch-fruit-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:05:21.673Z"
+}
