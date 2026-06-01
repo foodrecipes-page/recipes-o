@@ -1,0 +1,94 @@
+{
+  "slug": "ocean-fresh-portuguese-fish-wrap--indian",
+  "title": "Fish Wrap Biryani",
+  "description": "A flavorful and spicy Indian-inspired dish made with fish, rice, and spices. A perfect combination of flavors and textures.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "200g",
+      "notes": "Any firm white fish works well"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Basmati or jasmine rice works best"
+    },
+    {
+      "name": "Portuguese wrap",
+      "amount": "4-6",
+      "notes": "Large, thin tortilla-like wraps"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add 1 tsp of oil and sauté the fish until cooked through.",
+    "In a separate pan, heat 1 tsp of oil and sauté the cumin and garam masala.",
+    "Add the rice to the pan and stir to combine with the spices.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the rice is cooked.",
+    "Fluff the cooked rice with a fork and set aside.",
+    "Warm the tortilla wraps by wrapping them in a damp cloth and microwaving for 20-30 seconds.",
+    "Assemble the biryani by placing a portion of the cooked rice on a tortilla, followed by a portion of the cooked fish, and garnishing with cilantro and a squeeze of lemon juice.",
+    "Repeat the layers 3-4 times, finishing with a layer of rice on top.",
+    "Wrap the biryani tightly in plastic wrap and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Cut the biryani into individual servings and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "indian",
+    "biryani",
+    "rice",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-portuguese-fish-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:14:03.208Z"
+}
