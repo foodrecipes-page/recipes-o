@@ -484,18 +484,15 @@
   },
   {
     "slug": "oceanic-light-kenyan-sea-bass-soup",
-    "title": "Oceanic Light Kenyan Sea Bass Soup",
+    "title": "Grilled Sea Bass with Light Kenyan Soup",
     "tags": [
-      "buddhist-friendly",
-      "gluten-free",
-      "low-carb",
-      "quick",
-      "seafood",
-      "steam-healthy",
-      "wine-infused"
+      "sea-bass",
+      "kenyan",
+      "soup",
+      "grilled"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
