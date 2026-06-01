@@ -1,0 +1,98 @@
+{
+  "slug": "oceanic-light-kenyan-sea-bass-soup",
+  "title": "Grilled Sea Bass with Light Kenyan Soup",
+  "description": "A simple yet flavorful dish featuring grilled sea bass paired with a light and refreshing Kenyan-inspired soup.",
+  "cuisine": "kenyan",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Chopped for marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated for marinade"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced for soup"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Chopped for soup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "For soup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the sea bass fillets with salt and black pepper.",
+    "Grill the sea bass for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, heat the olive oil in a large pot over medium heat.",
+    "Add the chopped lemongrass and grated ginger and sauté for 1 minute.",
+    "Add the sliced red onion and cook for an additional 2-3 minutes.",
+    "Add the chopped tomatoes, salt, and black pepper. Stir well.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro and serve with grilled sea bass."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sea-bass",
+    "kenyan",
+    "soup",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-light-kenyan-sea-bass-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:01:20.101Z"
+}
