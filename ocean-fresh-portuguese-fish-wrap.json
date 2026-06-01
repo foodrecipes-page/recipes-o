@@ -1,0 +1,79 @@
+{
+  "slug": "ocean-fresh-portuguese-fish-wrap",
+  "title": "Grilled Portuguese Fish Wrap",
+  "description": "A delicious and flavorful Portuguese-inspired dish featuring fresh fish wrapped in a crusty wrap, served with a side of tangy slaw.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh fish (tilapia or mahi-mahi)",
+      "amount": "1 pound",
+      "notes": "Cut into 4 equal pieces"
+    },
+    {
+      "name": "Portuguese wrap",
+      "amount": "4 wraps",
+      "notes": "Warm before serving"
+    },
+    {
+      "name": "Ocean salt",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced for marinade"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "For slaw dressing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together lemon juice, garlic, and 1/4 teaspoon of ocean salt.",
+    "3. Brush the mixture on both sides of the fish pieces and let marinate for 10 minutes.",
+    "4. Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "5. Meanwhile, mix together mayonnaise and chopped parsley in a small bowl.",
+    "6. Slaw: Shred 1 cup of cabbage and mix with the mayonnaise mixture.",
+    "7. Warm the Portuguese wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wraps by placing a piece of grilled fish on each wrap, followed by a spoonful of slaw.",
+    "9. Serve immediately and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "portuguese",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-portuguese-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:13:21.256Z"
+}
