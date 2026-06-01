@@ -902,17 +902,15 @@
   },
   {
     "slug": "oil-infused-dutch-fruit-pudding",
-    "title": "Oil Infused Dutch Fruit Pudding",
+    "title": "Fruit Pudding with Dutch Infused Oil",
     "tags": [
-      "ayurvedic-friendly",
-      "dutch-cuisine",
-      "fruit-based",
-      "vegetarian-desserts",
-      "winter-dishes",
-      "yeast-baking"
+      "dessert",
+      "fruit",
+      "pudding",
+      "infused-oil"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 65,
+    "cuisine": "",
+    "totalTimeMin": 10,
     "shard": "o"
   },
   {
