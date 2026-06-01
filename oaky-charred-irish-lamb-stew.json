@@ -1,0 +1,91 @@
+{
+  "slug": "oaky-charred-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting stew made with lamb and a blend of root vegetables, perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large Dutch oven over medium-high heat.",
+    "2. Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Add the chopped onions to the pot and cook until they start to brown, about 5 minutes.",
+    "5. Add the minced garlic and cook for 1 minute.",
+    "6. Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "7. Add the beef broth, red wine (if using), thyme, and bay leaves to the pot.",
+    "8. Return the lamb to the pot and bring to a boil.",
+    "9. Cover the pot and transfer to the oven.",
+    "10. Braise the stew in the preheated oven for 2 1/2 hours, or until the lamb is tender.",
+    "11. Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "irish",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oaky-charred-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:40:50.021Z"
+}
