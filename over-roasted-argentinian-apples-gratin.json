@@ -1,0 +1,71 @@
+{
+  "slug": "over-roasted-argentinian-apples-gratin",
+  "title": "Argentinian Apple Gratin",
+  "description": "A classic Argentinian dessert made with caramelized apples, crispy gratin topping, and a touch of sweetness.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "3 large",
+      "notes": "Granny Smith or other firm variety"
+    },
+    {
+      "name": "over",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "roasted",
+      "amount": "1/4 cup",
+      "notes": "unsalted almonds"
+    },
+    {
+      "name": "argentinian",
+      "amount": "2 tsp",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/4 cup",
+      "notes": "brown sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice apples into 1-inch wedges.",
+    "In a large bowl, mix together flour, almonds, and vanilla extract.",
+    "Add sliced apples to the bowl and toss to coat with dry ingredients.",
+    "Transfer apple mixture to a 9x9-inch baking dish.",
+    "In a small bowl, mix together brown sugar and a pinch of salt.",
+    "Sprinkle sugar mixture evenly over the apple mixture.",
+    "Cover dish with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 15-20 minutes, or until top is golden brown.",
+    "Serve warm, topped with additional almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "gratin",
+    "argentinian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/over-roasted-argentinian-apples-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:59:09.052Z"
+}
