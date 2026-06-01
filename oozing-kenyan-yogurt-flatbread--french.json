@@ -1,0 +1,57 @@
+{
+  "slug": "oozing-kenyan-yogurt-flatbread--french",
+  "title": "French Yogurt Flatbread",
+  "description": "A simple French-inspired flatbread topped with yogurt, a Kenyan twist. Perfect for a quick snack or appetizer.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Kenyan yogurt",
+      "amount": "2 tablespoons",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Oozing (optional)",
+      "amount": "to taste",
+      "notes": "Honey or maple syrup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Drizzle with a little water and sprinkle with salt.",
+    "Bake for 10-12 minutes or until crispy.",
+    "Remove the flatbread from the oven and let it cool slightly.",
+    "Spread the Kenyan yogurt over the flatbread.",
+    "Add oozing (honey or maple syrup) to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "flatbread",
+    "yogurt",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-kenyan-yogurt-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:12:31.554Z"
+}
