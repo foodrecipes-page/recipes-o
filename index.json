@@ -14496,5 +14496,18 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oozing-kenyan-yogurt-flatbread--french",
+    "title": "French Yogurt Flatbread",
+    "tags": [
+      "french",
+      "flatbread",
+      "yogurt",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "o"
   }
 ]
