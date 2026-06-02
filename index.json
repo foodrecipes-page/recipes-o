@@ -3962,17 +3962,15 @@
   },
   {
     "slug": "oozing-spicy-chinese-bacon-soup",
-    "title": "Oozing Spicy Chinese Bacon Soup",
+    "title": "Spicy Chinese Bacon Soup",
     "tags": [
-      "dongbei",
-      "earthenware-pot",
-      "low-calorie",
-      "quick",
+      "bacon",
+      "soup",
       "spicy",
-      "wonton-soup"
+      "chinese"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -8621,17 +8619,15 @@
   },
   {
     "slug": "oven-braised-british-beef-stew",
-    "title": "Oven Braised British Beef Stew",
+    "title": "Classic British Beef Stew",
     "tags": [
-      "beef-stew",
-      "british-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "slow-cooked",
-      "winter-dish"
+      "beef",
+      "british",
+      "stew",
+      "oven"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 180,
+    "cuisine": "british",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -14507,6 +14503,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
+    "slug": "oceanic-light-kenyan-sea-bass-soup--vegetarian",
+    "title": "Light and Fresh Kenyan Soup",
+    "tags": [
+      "soup",
+      "kenyan",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
     "shard": "o"
   }
 ]
