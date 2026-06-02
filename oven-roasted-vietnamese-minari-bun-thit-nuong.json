@@ -1,0 +1,93 @@
+{
+  "slug": "oven-roasted-vietnamese-minari-bun-thit-nuong",
+  "title": "Grilled Pork Nuong with Vietnamese Bun",
+  "description": "A classic Vietnamese dish featuring grilled pork served with steamed bun and fresh herbs.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "marinated in fish sauce, lime juice, and sugar"
+    },
+    {
+      "name": "Bun",
+      "amount": "4-6 pieces",
+      "notes": "steamed Vietnamese rice bun"
+    },
+    {
+      "name": "Minari",
+      "amount": "1/4 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, whisk together fish sauce, lime juice, sugar, salt, and black pepper.",
+    "3. Add the pork shoulder to the marinade and coat evenly. Cover with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Remove the pork from the marinade and grill for 5-7 minutes per side, or until cooked through.",
+    "6. Let the pork rest for 5 minutes before slicing.",
+    "7. Steam the bun according to package instructions.",
+    "8. Assemble the dish by placing a few slices of pork on each bun, topping with chopped minari, and serving with a lime wedge and a sprinkle of cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "nuong",
+    "grilled-pork",
+    "bun"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-minari-bun-thit-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:21:02.530Z"
+}
