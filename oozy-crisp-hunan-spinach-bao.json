@@ -1,0 +1,88 @@
+{
+  "slug": "oozy-crisp-hunan-spinach-bao",
+  "title": "Hunan Bao Stuffed with Spinach and Crisp Vegetables",
+  "description": "A fusion of Hunan flavors with the crispy goodness of bao. This recipe is a delightful twist on traditional Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hunan sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "crisp vegetables (such as carrots, bell peppers)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "bao dough",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the bao dough and cut into 4 equal pieces.",
+    "3. Place 1/4 cup of chopped spinach on each piece of dough, leaving a 1/2-inch border around the edges.",
+    "4. Brush the edges with water and fold the dough over the filling to form a triangle.",
+    "5. Press the edges together to seal the bao and cut a small slit on the top to allow steam to escape.",
+    "6. Brush the tops with vegetable oil and sprinkle with salt and black pepper.",
+    "7. Bake for 12-15 minutes or until golden brown.",
+    "8. Heat the Hunan sauce in a small pan over medium heat.",
+    "9. Add the crisp vegetables to the pan and stir-fry for 2-3 minutes or until tender.",
+    "10. Serve the bao with the Hunan sauce and crispy vegetables.",
+    "11. Garnish with additional chopped spinach if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hunan",
+    "bao",
+    "spinach",
+    "crisp",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-crisp-hunan-spinach-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:22:25.665Z"
+}
