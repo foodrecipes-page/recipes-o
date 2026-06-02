@@ -1,0 +1,81 @@
+{
+  "slug": "oozing-luscious-winey-tomato-ramekin-ramen",
+  "title": "Creamy Tomato Ramen Bake",
+  "description": "A rich and satisfying bake combining the flavors of ramen with a creamy tomato sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen",
+      "amount": "8 oz",
+      "notes": "any flavor"
+    },
+    {
+      "name": "Canned Tomato",
+      "amount": "14 oz",
+      "notes": "crushed or diced"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "-"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": "-"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "-"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "chopped (optional)",
+      "notes": "-"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook ramen according to package instructions. Drain and set aside.",
+    "In a saucepan, heat olive oil over medium heat. Add crushed tomatoes and cook for 5 minutes.",
+    "Stir in heavy cream and bring to a simmer. Reduce heat to low and let cook for 2-3 minutes.",
+    "Add cooked ramen to the saucepan and toss to combine with the tomato cream sauce.",
+    "Transfer the ramen mixture to a greased 8x8 inch baking dish.",
+    "Sprinkle grated Parmesan cheese over the top of the ramen.",
+    "Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh basil, if desired.",
+    "Serve hot and enjoy!",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "tomato",
+    "ramen",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-luscious-winey-tomato-ramekin-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:47:49.713Z"
+}
