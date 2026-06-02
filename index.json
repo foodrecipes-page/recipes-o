@@ -1,18 +1,15 @@
 [
   {
     "slug": "o-zenful-thai-lime-skillet",
-    "title": "OZenful Thai Lime Skillet",
+    "title": "Thai Skillet Delight",
     "tags": [
-      "cast-iron-skillet",
-      "citrusy",
-      "crisp",
-      "genmaicha",
-      "no-onion-no-garlic",
-      "post-workout",
-      "thai-dish"
+      "skillet",
+      "thai",
+      "vegetarian",
+      "quick"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
