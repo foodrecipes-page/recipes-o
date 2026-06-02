@@ -1,0 +1,88 @@
+{
+  "slug": "oven-roasted-dutch-lamb-skewers",
+  "title": "Lamb Skewers with Roasted Vegetables",
+  "description": "Tender lamb skewers served with a variety of roasted vegetables, perfect for a summer evening. The combination of herbs and spices adds a delicious flavor to this dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Dutch oven",
+      "amount": "",
+      "notes": "for roasting vegetables"
+    },
+    {
+      "name": "Mixed vegetables (such as zucchini, bell peppers, onions)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, and black pepper. Add the lamb pieces and toss to coat.",
+    "Thread the lamb pieces onto the skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the lamb skewers in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the lamb is cooking, toss the mixed vegetables with olive oil, salt, and black pepper in a separate bowl.",
+    "Transfer the vegetables to a Dutch oven and roast in the oven for 15-20 minutes, or until tender.",
+    "Serve the lamb skewers with the roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-dutch-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:15:21.457Z"
+}
