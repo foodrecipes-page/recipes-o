@@ -1,0 +1,60 @@
+{
+  "slug": "o-zenful-thai-lime-skillet",
+  "title": "Thai Skillet Delight",
+  "description": "A quick and flavorful dish that combines the spicy and sour flavors of Thai cuisine with the convenience of a skillet. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skillet",
+      "amount": "1"
+    },
+    {
+      "name": "o",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thai",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "zenful",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the thai and cook for 1 minute.",
+    "Add the o and cook until tender.",
+    "Stir in the zenful and lime juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skillet",
+    "thai",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/o-zenful-thai-lime-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:55:52.310Z"
+}
