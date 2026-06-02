@@ -1,0 +1,75 @@
+{
+  "slug": "oozing-spicy-chinese-bacon-soup",
+  "title": "Spicy Chinese Bacon Soup",
+  "description": "A hearty and spicy soup made with crispy bacon and Chinese ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Oozing cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Chinese chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, cook the bacon slices over medium heat until crispy.",
+    "2. Remove the cooked bacon from the pot and set aside.",
+    "3. In the same pot, add the miso paste and stir to combine with the remaining bacon fat.",
+    "4. Add the vegetable broth and bring to a boil.",
+    "5. Reduce the heat to low and simmer for 5 minutes.",
+    "6. Add the shredded oozing cheese and stir until melted.",
+    "7. Add the spicy Chinese chili flakes and stir to combine.",
+    "8. Add the cooked bacon back into the pot and stir to combine.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot, garnished with sliced scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "soup",
+    "spicy",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-spicy-chinese-bacon-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:11:16.394Z"
+}
