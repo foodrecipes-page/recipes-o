@@ -1,0 +1,73 @@
+{
+  "slug": "oily-baked-american-chicken-casserole",
+  "title": "American Chicken Casserole",
+  "description": "A classic American-inspired casserole with chicken, perfect for a family dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup",
+      "notes": "baked"
+    },
+    {
+      "name": "baked",
+      "amount": "1 cup",
+      "notes": "oily"
+    },
+    {
+      "name": "american",
+      "amount": "1 cup",
+      "notes": "shredded cheese"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and pepper.",
+    "Bake the casserole according to package instructions.",
+    "In a separate pan, heat the oily baked mixture.",
+    "Add shredded cheese and stir until melted.",
+    "Add the cooked chicken to the pan and stir to combine.",
+    "Transfer the mixture to a baking dish and top with additional baked casserole.",
+    "Bake for an additional 10-15 minutes or until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "casserole",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-baked-american-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:01:38.319Z"
+}
