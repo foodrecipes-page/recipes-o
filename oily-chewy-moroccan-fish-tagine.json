@@ -1,0 +1,78 @@
+{
+  "slug": "oily-chewy-moroccan-fish-tagine",
+  "title": "Moroccan Fish Tagine",
+  "description": "A flavorful Moroccan stew made with fish, moroccan spices, and a blend of aromatic ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (such as cod or tilapia)",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chewy dates",
+      "amount": "6",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "Fish tagine spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped dates and cook until caramelized, stirring occasionally.",
+    "Add the fish pieces and cook until they start to flake apart, about 3-4 minutes.",
+    "Add the Moroccan spice blend, fish tagine spice mix, salt, and pepper.",
+    "Stir well to combine, then reduce heat to low and simmer, covered, for 8-10 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "fish",
+    "tagine",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-chewy-moroccan-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:14:15.375Z"
+}
