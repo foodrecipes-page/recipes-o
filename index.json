@@ -3690,18 +3690,14 @@
   },
   {
     "slug": "oozing-luscious-winey-tomato-ramekin-ramen",
-    "title": "Oozing Luscious Winey Tomato Ramekin Ramen",
+    "title": "Creamy Tomato Ramen Bake",
     "tags": [
-      "buddhist-friendly",
-      "festive",
-      "ramekin",
+      "creamy",
+      "tomato",
       "ramen",
-      "slovakian",
-      "snappy",
-      "vegetarian",
-      "winey"
+      "bake"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "Japanese",
     "totalTimeMin": 30,
     "shard": "o"
   },
@@ -10092,16 +10088,14 @@
   },
   {
     "slug": "oven-roasted-dutch-lamb-skewers",
-    "title": "Oven Roasted Dutch Lamb Skewers",
+    "title": "Lamb Skewers with Roasted Vegetables",
     "tags": [
-      "dutch-cuisine",
-      "grilled-meats",
-      "lamb-recipes",
-      "mediterranean-inspired",
-      "special-occasion"
+      "lamb",
+      "skewers",
+      "mediterranean"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -13588,17 +13582,15 @@
   },
   {
     "slug": "oven-roasted-vietnamese-minari-bun-thit-nuong",
-    "title": "Oven Roasted Vietnamese Minari Bun Thit Nuong",
+    "title": "Grilled Pork Nuong with Vietnamese Bun",
     "tags": [
-      "easy-to-make",
-      "healthy-eating",
-      "oven-roasted",
-      "vegetarian-friendly",
-      "vietnamese-cuisine",
-      "weeknight-dinner"
+      "vietnamese",
+      "nuong",
+      "grilled-pork",
+      "bun"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
