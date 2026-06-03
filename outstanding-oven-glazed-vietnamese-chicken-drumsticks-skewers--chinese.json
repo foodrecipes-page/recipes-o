@@ -1,0 +1,74 @@
+{
+  "slug": "outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers--chinese",
+  "title": "Vietnamese-Style BBQ Chicken Drumsticks",
+  "description": "Crispy and flavorful, these drumsticks are a delicious twist on traditional Chinese BBQ. Serve with steamed vegetables or noodles for a well-rounded meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "4-6",
+      "notes": "bone-in for more flavor"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1/4 cup",
+      "notes": "BBQ sauce"
+    },
+    {
+      "name": "glazed",
+      "amount": "2 tbsp",
+      "notes": "such as honey or maple syrup"
+    },
+    {
+      "name": "outstanding",
+      "amount": "2 tbsp",
+      "notes": "Asian-style chili flakes"
+    },
+    {
+      "name": "oven",
+      "amount": "1 tsp",
+      "notes": "such as five-spice powder"
+    },
+    {
+      "name": "skewers",
+      "amount": "1 dozen",
+      "notes": "optional for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the drumsticks and pat dry with paper towels.",
+    "In a small bowl, mix together Vietnamese BBQ sauce, glazed, outstanding, and oven.",
+    "Add the drumsticks to the bowl and toss to coat.",
+    "Place the drumsticks on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the drumsticks rest for 5 minutes before serving.",
+    "Optional: thread the drumsticks onto skewers for a fun and easy snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "bbq",
+    "vietnamese",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:31:13.552Z"
+}
