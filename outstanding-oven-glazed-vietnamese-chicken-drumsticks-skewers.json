@@ -1,0 +1,85 @@
+{
+  "slug": "outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers",
+  "title": "Vietnamese-Style Grilled Chicken Skewers",
+  "description": "Delicious and easy-to-make skewers of marinated chicken, perfect for a summer evening. Inspired by the flavors of Vietnam, these skewers are a must-try for any grill master.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together fish sauce, lime juice, brown sugar, garlic, and ginger.",
+    "2. Add the chicken drumsticks to the marinade and toss to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated chicken onto the skewers, leaving a little space between each piece.",
+    "6. Brush the coconut oil onto the skewers and season with salt and pepper.",
+    "7. Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "8. Garnish with green onions and lemongrass.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:10:43.192Z"
+}
