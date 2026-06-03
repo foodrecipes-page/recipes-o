@@ -1,0 +1,85 @@
+{
+  "slug": "oven-roasted-irish-lamb-stew--thai",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and flavorful Irish-inspired lamb stew made with tender lamb, roasted vegetables, and a rich broth. Serve with a side of steamed rice for a delicious and satisfying meal.",
+  "cuisine": "irish",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "In a large Dutch oven, brown the lamb on all sides over medium-high heat.",
+    "Add the carrots, potatoes, onion, and garlic to the pot. Cook for 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the red wine and chicken broth to the pot. Bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-irish-lamb-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:16:44.265Z"
+}
