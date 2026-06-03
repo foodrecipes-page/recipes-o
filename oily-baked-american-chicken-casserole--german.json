@@ -1,0 +1,92 @@
+{
+  "slug": "oily-baked-american-chicken-casserole--german",
+  "title": "German Chicken Casserole",
+  "description": "A hearty German-inspired casserole made with tender chicken, crispy bacon, and a rich bechamel sauce.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crispy, crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "divided"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the bacon in a large skillet over medium heat until crispy. Remove from heat and set aside.",
+    "In the same skillet, cook the chopped onion over medium heat until softened.",
+    "Add the caraway seeds (if using) and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "In a separate saucepan, make the bechamel sauce according to package instructions or by melting 2 tablespoons of butter over medium heat, whisking in 2 tablespoons of flour, and gradually adding 1 cup of milk, whisking constantly.",
+    "In a large mixing bowl, combine the cooked chicken, bacon, cooked onion mixture, and bechamel sauce. Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with 1/2 cup of grated cheddar cheese and 1/4 cup of grated mozzarella cheese.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove from oven and sprinkle with remaining 1/2 cup of cheddar cheese and 1/4 cup of mozzarella cheese.",
+    "Return to oven and bake for an additional 5-10 minutes, or until the cheese is melted and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-baked-american-chicken-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:47:05.730Z"
+}
