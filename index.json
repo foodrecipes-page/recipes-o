@@ -4351,17 +4351,15 @@
   },
   {
     "slug": "oozy-creamy-mexican-beef-birria",
-    "title": "Oozy Creamy Mexican Beef Birria",
+    "title": "Beef Birria Tacos",
     "tags": [
-      "beef-recipe",
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "mexican-dish",
-      "weeknight-dinner"
+      "mexican",
+      "beef",
+      "birria",
+      "tacos"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 90,
+    "totalTimeMin": 140,
     "shard": "o"
   },
   {
@@ -7246,18 +7244,15 @@
   },
   {
     "slug": "outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers",
-    "title": "Outstanding Oven Glazed Vietnamese Chicken Drumsticks Skewers",
+    "title": "Vietnamese-Style Grilled Chicken Skewers",
     "tags": [
-      "chicken-recipes",
-      "dairy-free",
-      "egg-free",
-      "gluten-free",
-      "oven-baked",
-      "skewers",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "grilled",
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 55,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 36,
     "shard": "o"
   },
   {
@@ -7686,17 +7681,16 @@
   },
   {
     "slug": "outstandingly-juicy-turkish-lamb-manti",
-    "title": "Outstandingly Juicy Turkish Lamb Manti",
+    "title": "Turkish-Style Manti",
     "tags": [
-      "high-protein",
-      "lamb-recipes",
-      "one-pan",
-      "paleo-friendly",
-      "turkish-cuisine",
-      "weeknight"
+      "lamb",
+      "turkish",
+      "dumplings",
+      "pasta",
+      "meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -14512,6 +14506,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-baked-american-chicken-casserole--german",
+    "title": "German Chicken Casserole",
+    "tags": [
+      "german",
+      "chicken",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-irish-lamb-stew--thai",
+    "title": "Irish Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "irish"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 180,
     "shard": "o"
   }
 ]
