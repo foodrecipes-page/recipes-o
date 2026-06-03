@@ -6669,18 +6669,15 @@
   },
   {
     "slug": "outdoor-grilled-australian-chicken-sandwich",
-    "title": "Outdoor Grilled Australian Chicken Sandwich",
+    "title": "Australian Grilled Chicken Sandwich",
     "tags": [
+      "grilled",
       "australian",
       "chicken",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "sandwich"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 70,
+    "cuisine": "australian",
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -9717,18 +9714,14 @@
   },
   {
     "slug": "oven-roasted-canadian-salmon-papillote",
-    "title": "Oven Roasted Canadian Salmon Papillote",
+    "title": "Baked Salmon Papillote",
     "tags": [
-      "canadian-cuisine",
-      "dinner-ideas",
-      "hojicha",
-      "oven-roasted",
-      "papillote",
-      "salmon",
-      "seafood"
+      "baked-salmon",
+      "easy-recipe",
+      "papillote"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 32,
+    "cuisine": "canadian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
