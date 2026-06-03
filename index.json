@@ -13586,17 +13586,14 @@
   },
   {
     "slug": "oven-roasted-vietnamese-pork-banh-cuon",
-    "title": "Oven-Roasted Vietnamese Pork Banh Cuon",
+    "title": "Vietnamese Banh Cuon with Roasted Pork",
     "tags": [
-      "banh-cuon",
-      "one-pan",
-      "pork",
-      "rice-paper-wrappers",
       "vietnamese",
-      "weeknight"
+      "banhcuon",
+      "roastedpork"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
