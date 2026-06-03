@@ -1,0 +1,91 @@
+{
+  "slug": "oven-roasted-vietnamese-pork-banh-cuon",
+  "title": "Vietnamese Banh Cuon with Roasted Pork",
+  "description": "Delicate rice flour rolls filled with roasted pork, shrimp, and fresh herbs, served with sweet and spicy dipping sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "roasted"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "for banh cuon wrappers"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for banh cuon wrappers"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for dipping sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roast the pork shoulder in the oven for 20-25 minutes, or until cooked through.",
+    "3. While the pork is cooking, prepare the banh cuon wrappers by mixing together rice flour and water.",
+    "4. Fill a large bowl with warm water and add the rice flour mixture to create the banh cuon dough.",
+    "5. Knead the dough for 5-7 minutes until smooth and pliable.",
+    "6. Divide the dough into small balls and roll out each ball into a thin circle.",
+    "7. Place a tablespoon of roasted pork, a few slices of mushrooms, and some chopped green onions in the center of each circle.",
+    "8. Add a few pieces of shrimp on top of the filling and fold the dough over to form a roll.",
+    "9. Repeat with the remaining dough and filling ingredients.",
+    "10. Serve the banh cuon rolls with a side of sweet and spicy dipping sauce made from fish sauce and lime juice.",
+    "11. Garnish with chopped cilantro and green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "banhcuon",
+    "roastedpork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-pork-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:13:13.824Z"
+}
