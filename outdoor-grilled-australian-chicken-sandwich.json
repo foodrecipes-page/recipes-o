@@ -1,0 +1,84 @@
+{
+  "slug": "outdoor-grilled-australian-chicken-sandwich",
+  "title": "Australian Grilled Chicken Sandwich",
+  "description": "A classic outdoor grilled chicken sandwich with a twist of Australian flavors. Serve immediately for a delicious and satisfying meal.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "1 pound total"
+    },
+    {
+      "name": "Australian bush tomato sauce",
+      "amount": "1/4 cup",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Grilled sandwich bread",
+      "amount": "4 slices",
+      "notes": " Ciabatta or baguette work well"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Romaine or iceberg"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Ripe and sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "4 slices",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breasts with salt, pepper, and your favorite herbs.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast sandwich bread on the grill.",
+    "Assemble sandwiches by spreading mayonnaise on the bottom slice of bread, then topping with a chicken breast, a spoonful of bush tomato sauce, lettuce, tomato, red onion, and cheese (if using).",
+    "Top with the top slice of bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "australian",
+    "chicken",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-grilled-australian-chicken-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:50:18.638Z"
+}
