@@ -1,0 +1,96 @@
+{
+  "slug": "oozy-creamy-mexican-beef-birria",
+  "title": "Beef Birria Tacos",
+  "description": "Soft and tender beef in a flavorful birria sauce, served with warm tortillas, onions, and fresh cilantro. A traditional Mexican dish with a rich history.",
+  "cuisine": "Mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Birria sauce",
+      "amount": "1 cup",
+      "notes": "see recipe below for homemade birria sauce"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Warm tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef brisket in a large Dutch oven over medium-high heat.",
+    "Remove the browned beef from the pot and set it aside.",
+    "Add the onions to the pot and cook until they are translucent.",
+    "Add the garlic, cumin, and chili powder to the pot and cook for 1 minute.",
+    "Add the birria sauce to the pot and stir to combine.",
+    "Return the beef to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the birria cook for 2 hours, or until the beef is tender.",
+    "Shred the beef with two forks and season it with salt and pepper.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing some of the beef onto a tortilla, followed by a spoonful of the birria sauce, some sliced onions, and a sprinkle of cilantro.",
+    "Serve the tacos immediately, with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "birria",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-mexican-beef-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:27:50.170Z"
+}
