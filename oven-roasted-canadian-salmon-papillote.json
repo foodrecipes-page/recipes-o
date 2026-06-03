@@ -1,0 +1,80 @@
+{
+  "slug": "oven-roasted-canadian-salmon-papillote",
+  "title": "Baked Salmon Papillote",
+  "description": "A simple and flavorful baked salmon recipe wrapped in parchment paper.",
+  "cuisine": "canadian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place a salmon fillet in the center of the parchment paper.",
+    "Drizzle 1 tablespoon of olive oil over the salmon.",
+    "Sprinkle salt and pepper to taste.",
+    "Top the salmon with lemon juice, garlic, and chopped dill.",
+    "Fold the parchment paper over the salmon to form a packet.",
+    "Place the packet on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until the salmon is cooked through.",
+    "Remove from the oven and let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked-salmon",
+    "easy-recipe",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-canadian-salmon-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:49:19.896Z"
+}
