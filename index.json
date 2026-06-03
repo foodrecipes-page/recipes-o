@@ -14532,5 +14532,31 @@
     "cuisine": "irish",
     "totalTimeMin": 180,
     "shard": "o"
+  },
+  {
+    "slug": "outstanding-oven-glazed-vietnamese-chicken-drumsticks-skewers--chinese",
+    "title": "Vietnamese-Style BBQ Chicken Drumsticks",
+    "tags": [
+      "chicken",
+      "bbq",
+      "vietnamese",
+      "grilling"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oaky-charred-irish-lamb-stew--vegetarian",
+    "title": "Irish Lamb Stew",
+    "tags": [
+      "irish",
+      "stew",
+      "lamb",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 140,
+    "shard": "o"
   }
 ]
