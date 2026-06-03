@@ -1,0 +1,71 @@
+{
+  "slug": "oaky-charred-irish-lamb-stew--vegetarian",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting stew made with tender lamb and rich vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot or Dutch oven over medium heat.",
+    "Add a small amount of oil and sauté the onion, carrot, and celery until tender.",
+    "Add the lamb and cook until browned on all sides.",
+    "Add the stew and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1-2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "lamb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oaky-charred-irish-lamb-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:59:40.308Z"
+}
