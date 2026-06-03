@@ -4859,16 +4859,15 @@
   },
   {
     "slug": "oozy-herbaceous-puffed-noodles",
-    "title": "Oozy Herbaceous Puffed Noodles",
+    "title": "Herbaceous Noodle Soup",
     "tags": [
-      "festive-australian-dish",
       "herbaceous",
-      "oozy",
-      "puffed-noodles",
-      "satvik-friendly"
+      "noodle-soup",
+      "comfort-food",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
@@ -5247,17 +5246,15 @@
   },
   {
     "slug": "oozy-peppery-argentinian-chestnut-casserole",
-    "title": "Oozy Peppery Argentinian Chestnut Casserole",
+    "title": "Argentinian Casserole with Oozy Peppery Sauce",
     "tags": [
       "argentinian",
       "casserole",
-      "chestnut",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "peppery",
+      "vegetarian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -5991,15 +5988,15 @@
   },
   {
     "slug": "opulent-russian-beetroot-soup",
-    "title": "Opulent Russian Beetroot Soup",
+    "title": "Beetroot and Russian Soup",
     "tags": [
-      "brain-food",
-      "comfort-food",
-      "halal-friendly",
-      "one-pot"
+      "beetroot",
+      "russian",
+      "soup",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 75,
+    "cuisine": "russian",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
