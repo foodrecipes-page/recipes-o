@@ -1,0 +1,77 @@
+{
+  "slug": "oozing-blood-filipino-pork-dinuguan",
+  "title": "Filipino-Style Pork Blood Stew (Dinuguan)",
+  "description": "A rich and savory Filipino stew made with crispy pork blood, pork belly, and other essential flavorings. Typically served with steamed rice or puto.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "pork blood",
+      "amount": "1 cup",
+      "notes": "oozing blood, drained and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "patis",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large pan, sauté the pork belly until crispy.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped pork blood and cook for 2 minutes.",
+    "Add the vinegar, patis, salt, and pepper. Stir to combine.",
+    "Simmer the mixture for 10-15 minutes or until the sauce has thickened.",
+    "Serve the dinuguan hot with steamed rice or puto."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "stew",
+    "blood-curdling"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-blood-filipino-pork-dinuguan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:46:50.225Z"
+}
