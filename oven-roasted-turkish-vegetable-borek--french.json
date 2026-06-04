@@ -1,0 +1,80 @@
+{
+  "slug": "oven-roasted-turkish-vegetable-borek--french",
+  "title": "French Vegetable Borek",
+  "description": "A Turkish-inspired French dish, these savory borek are filled with roasted vegetables and perfect as a side or light meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (thawed)",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "for brushing phyllo"
+    },
+    {
+      "name": "Roasted turkish vegetable mix",
+      "amount": "1 cup",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "Cut phyllo into 4 equal pieces.",
+    "Brush each piece of phyllo with butter.",
+    "Place a tablespoon of roasted turkish vegetable mix on one half of each phyllo piece.",
+    "Sprinkle with feta cheese and parsley.",
+    "Fold the other half of phyllo over the filling.",
+    "Brush the tops of the borek with beaten egg.",
+    "Place the borek on a baking sheet and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-vegetable-borek--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:39:49.862Z"
+}
