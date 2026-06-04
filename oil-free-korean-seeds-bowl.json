@@ -1,0 +1,63 @@
+{
+  "slug": "oil-free-korean-seeds-bowl",
+  "title": "Spicy Korean Free Bowl",
+  "description": "A spicy and flavorful bowl dish inspired by Korean cuisine. This recipe combines the crunch of seeds with the spiciness of Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Free",
+      "amount": "2 cups",
+      "notes": "such as rice or noodles"
+    },
+    {
+      "name": "Seeds",
+      "amount": "1/2 cup",
+      "notes": "such as sesame seeds or pumpkin seeds"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add Korean chili flakes and cook for 1 minute.",
+    "Add free and cook according to package instructions.",
+    "Add seeds and cook for an additional 2 minutes.",
+    "Season with soy sauce and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "spicy",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-free-korean-seeds-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:33:17.521Z"
+}
