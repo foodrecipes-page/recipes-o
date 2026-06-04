@@ -1,0 +1,87 @@
+{
+  "slug": "oven-smoked-russian-kippers-paella",
+  "title": "Smoked Salmon Paella",
+  "description": "A traditional Spanish paella dish infused with the smoky flavors of salmon and the bold spices of Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon Fillets",
+      "amount": "2 pounds",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "Spanish Saffron Rice",
+      "amount": "2 cups",
+      "notes": "arborio or calasparra rice"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": "or sweet smoked paprika"
+    },
+    {
+      "name": "Russian Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and finishing"
+    },
+    {
+      "name": "Kippers",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the smoked salmon into large pieces and set aside.",
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the rice and cook for 2-3 minutes until lightly toasted.",
+    "Add the chicken broth and bring to a simmer.",
+    "Add the smoked salmon to the rice mixture and stir to combine.",
+    "Transfer the paella to the preheated oven and bake for 15-20 minutes until the rice is cooked and the top is golden brown.",
+    "Remove the paella from the oven and let rest for 5 minutes before serving.",
+    "Garnish with chopped kippers and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "smoked-salmon",
+    "russian-cuisine",
+    "ovens"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoked-russian-kippers-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:54:38.972Z"
+}
