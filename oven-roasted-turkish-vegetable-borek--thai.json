@@ -1,0 +1,73 @@
+{
+  "slug": "oven-roasted-turkish-vegetable-borek--thai",
+  "title": "Thai Vegetable Borek",
+  "description": "A fusion of Turkish and Thai flavors, this crispy borek is filled with a delicious mixture of roasted vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Philosophy puff pastry",
+      "amount": "1 package, thawed"
+    },
+    {
+      "name": "Roasted turkish eggplant",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Roasted turkish zucchini",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Roasted turkish red bell pepper",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "In a bowl, mix together the roasted eggplant, zucchini, and red bell pepper.",
+    "Sprinkle the Thai red chili flakes and salt over the vegetable mixture.",
+    "Place the vegetable mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the puff pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut the edges to make a decorative border.",
+    "Place the borek on a baking sheet lined with parchment paper.",
+    "Brush the top with egg wash and bake for 25-30 minutes, or until golden brown.",
+    "Serve warm, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "turkish",
+    "thai",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-vegetable-borek--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:23:49.440Z"
+}
