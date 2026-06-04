@@ -1,0 +1,79 @@
+{
+  "slug": "old-fashioned-crunchy-russian-white-bread-casserole",
+  "title": "Russian Bread Casserole",
+  "description": "A hearty, comforting dish featuring layers of bread and Russian-style ingredients. This casserole is perfect for a cold winter evening.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "old fashion bread",
+      "amount": "2 loaves, cut into 1-inch cubes"
+    },
+    {
+      "name": "crunchy onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "russian sausage",
+      "amount": "1 lb, sliced"
+    },
+    {
+      "name": "white cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large skillet, cook the sliced Russian sausage over medium-high heat until browned, about 5 minutes.",
+    "In a separate skillet, sauté the chopped onion until softened, about 3-4 minutes.",
+    "In a large mixing bowl, combine the bread cubes, cooked sausage, sautéed onion, shredded cheese, beef broth, sour cream, dried parsley, salt, and black pepper.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Transfer the mixture to a 9x13-inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "bread",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-crunchy-russian-white-bread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:58:26.789Z"
+}
