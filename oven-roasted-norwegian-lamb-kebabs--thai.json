@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-norwegian-lamb-kebabs--thai",
+  "title": "Norwegian Lamb Kebabs with Thai Spices",
+  "description": "A flavorful and aromatic dish combining the richness of Norwegian lamb with the bold spices of Thai cuisine. Perfect for a dinner party or special occasion.",
+  "cuisine": "thai",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Lamb Shoulder, cut into 1-inch pieces",
+      "amount": "500g",
+      "notes": "Ask your butcher to cut the lamb into 1-inch pieces for you"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling the lamb"
+    },
+    {
+      "name": "Thai Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Add a salty, umami flavor to the lamb"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Balance the savory flavors with a touch of sweetness"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Garnish for the kebabs"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "Serve on the side for a burst of citrus flavor"
+    },
+    {
+      "name": "Roasted Peppers, sliced",
+      "amount": "1 cup",
+      "notes": "Add a pop of color and sweetness to the dish"
+    },
+    {
+      "name": "Oven Broiler Pan",
+      "amount": "1",
+      "notes": "For grilling the lamb kebabs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven broiler.",
+    "In a large bowl, whisk together the Thai Red Curry Paste, Coconut Oil, Thai Fish Sauce, and Brown Sugar.",
+    "Add the lamb pieces to the marinade and mix well to coat.",
+    "Thread the lamb pieces onto skewers, leaving a little space between each piece.",
+    "Place the skewers on the oven broiler pan and grill for 10-12 minutes, turning occasionally, or until the lamb is cooked to your desired level of doneness.",
+    "While the lamb is cooking, thread the roasted peppers onto skewers.",
+    "Once the lamb is cooked, remove it from the oven and let it rest for a few minutes.",
+    "Serve the lamb kebabs with the roasted peppers and a sprinkle of chopped cilantro.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "norwegian",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-norwegian-lamb-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:16:51.329Z"
+}
