@@ -9831,17 +9831,14 @@
   },
   {
     "slug": "oven-roasted-chinese-pork-jiaozi",
-    "title": "Oven Roasted Chinese Pork Jiaozi",
+    "title": "Chinese Pork Jiaozi",
     "tags": [
-      "ceramic-tagine",
-      "chinese-food",
-      "jiaozi",
-      "oven-roasted",
-      "pork-recipes",
-      "whole30"
+      "chinese",
+      "dumplings",
+      "pork"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -10653,17 +10650,16 @@
   },
   {
     "slug": "oven-roasted-german-squash-casserole",
-    "title": "Oven Roasted German Squash Casserole",
+    "title": "German Squash Casserole",
     "tags": [
-      "ayurvedic-diet",
+      "german",
+      "oven-roasted",
+      "squash",
       "casserole",
-      "fermented-food",
-      "german-cuisine",
-      "roasted-vegetables",
-      "vegetarian-friendly"
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 65,
+    "cuisine": "german",
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {
@@ -14546,6 +14542,45 @@
     ],
     "cuisine": null,
     "totalTimeMin": 140,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-turkish-vegetable-borek--french",
+    "title": "French Vegetable Borek",
+    "tags": [
+      "french",
+      "vegetarian",
+      "snack",
+      "turkish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "overpowering-algerian-mutton-tagine--keto",
+    "title": "Algerian Mutton Tagine",
+    "tags": [
+      "north-african",
+      "mutton",
+      "tagine",
+      "keto"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 105,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-peppery-argentinian-chestnut-casserole--german",
+    "title": "Argentinian Casserole with Chestnut and Oozy Sauce",
+    "tags": [
+      "german",
+      "argentinian",
+      "casserole",
+      "mushrooms"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "o"
   }
 ]
