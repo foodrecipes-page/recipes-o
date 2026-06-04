@@ -3460,16 +3460,14 @@
   },
   {
     "slug": "oozing-blood-filipino-pork-dinuguan",
-    "title": "Oozing Blood Filipino Pork Dinuguan",
+    "title": "Filipino-Style Pork Blood Stew (Dinuguan)",
     "tags": [
-      "breakfast",
-      "brunch",
-      "comfort-food",
       "filipino",
-      "pork-based"
+      "stew",
+      "blood-curdling"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -12533,17 +12531,15 @@
   },
   {
     "slug": "oven-roasted-slovakian-beef-dumplings",
-    "title": "Oven Roasted Slovakian Beef Dumplings",
+    "title": "Slovakian Beef and Dumplings",
     "tags": [
-      "beef-based",
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "oven-roasted",
-      "traditional"
+      "beef",
+      "slovakian",
+      "dumplings",
+      "oven-roasted"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -14581,6 +14577,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-german-squash-casserole--vegan",
+    "title": "Vegan German Squash Casserole",
+    "tags": [
+      "vegan",
+      "german",
+      "squash",
+      "casserole",
+      "roasted"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-norwegian-lamb-kebabs--thai",
+    "title": "Norwegian Lamb Kebabs with Thai Spices",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "norwegian",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 32,
     "shard": "o"
   }
 ]
