@@ -3066,16 +3066,16 @@
   },
   {
     "slug": "old-style-kenyan-meat-stew",
-    "title": "Kenyan Meat Stew",
+    "title": "Classic Kenyan Meat Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "kenyan-cuisine",
-      "low-carb",
-      "weeknight-dinner"
+      "kenyan",
+      "stew",
+      "beef",
+      "potatoes",
+      "one-pot"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 110,
+    "totalTimeMin": 80,
     "shard": "o"
   },
   {
@@ -7993,17 +7993,16 @@
   },
   {
     "slug": "outstandingly-soft-chinese-sushi-rice-dan-dan-mian",
-    "title": "Soft Chinese Sushi Rice Dan Dan Mian",
+    "title": "Soft Dan Noodles with Chinese Sushi",
     "tags": [
-      "asian-inspired",
-      "gluten-free",
-      "kid-friendly",
-      "one-pan",
-      "quick-meal",
-      "vegetarian"
+      "dan",
+      "noodles",
+      "chinese",
+      "sushi",
+      "fusion"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -13273,13 +13272,16 @@
   },
   {
     "slug": "oven-roasted-turkish-masarepa-flatbread",
-    "title": "Oven Roasted Turkish Masarepa Flatbread",
+    "title": "Turkish-Style Masarepa Flatbread",
     "tags": [
       "turkish",
-      "snack"
+      "flatbread",
+      "masarepa",
+      "roasted",
+      "oven"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -14612,6 +14614,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 60,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-turkish-vegetable-borek--thai",
+    "title": "Thai Vegetable Borek",
+    "tags": [
+      "vegetarian",
+      "turkish",
+      "thai",
+      "oven-roasted"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "o"
   }
 ]
