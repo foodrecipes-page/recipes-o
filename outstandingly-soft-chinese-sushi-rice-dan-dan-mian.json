@@ -1,0 +1,71 @@
+{
+  "slug": "outstandingly-soft-chinese-sushi-rice-dan-dan-mian",
+  "title": "Soft Dan Noodles with Chinese Sushi",
+  "description": "A simple and delicious fusion of dan noodles with the flavors of Chinese sushi. This dish can be prepared in under an hour and serves 4.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese Dan Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Soft Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sushi Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the dan noodles according to the package instructions. Drain and set aside.",
+    "In a saucepan, combine the sushi rice vinegar, soy sauce, grated ginger, and sesame oil. Bring to a simmer over medium heat.",
+    "Add the cooked dan noodles to the saucepan and stir to coat with the sauce.",
+    "Serve the noodles with a side of soft rice.",
+    "Garnish with sesame seeds and sliced green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dan",
+    "noodles",
+    "chinese",
+    "sushi",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-soft-chinese-sushi-rice-dan-dan-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:16:28.478Z"
+}
