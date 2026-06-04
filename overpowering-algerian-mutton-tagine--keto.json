@@ -1,0 +1,73 @@
+{
+  "slug": "overpowering-algerian-mutton-tagine--keto",
+  "title": "Algerian Mutton Tagine",
+  "description": "A traditional North African dish made with tender mutton and a blend of aromatic spices, served with a side of fresh vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mutton",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Algerian overpowering spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large Dutch oven over medium heat.",
+    "2. Add the chopped onion and cook until softened, about 5 minutes.",
+    "3. Add the minced garlic and cook for an additional minute.",
+    "4. Add the mutton and Algerian overpowering spice blend, and cook until the mutton is browned on all sides.",
+    "5. Add 1 cup of water to the pot and bring to a boil.",
+    "6. Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the mutton is tender.",
+    "7. Stir in the chopped parsley and season with salt to taste.",
+    "8. Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "mutton",
+    "tagine",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 5,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/overpowering-algerian-mutton-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:21:07.295Z"
+}
