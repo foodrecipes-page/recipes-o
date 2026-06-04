@@ -13803,18 +13803,15 @@
   },
   {
     "slug": "oven-smoked-russian-kippers-paella",
-    "title": "Oven Smoked Russian Kippers Paella",
+    "title": "Smoked Salmon Paella",
     "tags": [
-      "cheesy",
-      "lacto-vegetarian",
-      "one-pan",
-      "oven-baked",
       "paella",
-      "russian",
-      "smoked"
+      "smoked-salmon",
+      "russian-cuisine",
+      "ovens"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
