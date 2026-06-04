@@ -1,0 +1,89 @@
+{
+  "slug": "oven-steamed-saudi-sevaiiya-curry",
+  "title": "Saudi Sevaiiya Curry",
+  "description": "A traditional Saudi dish made with Sevaiiya, a type of noodle, in a flavorful curry sauce.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sevaiiya",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ghee or Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Cook the Sevaiiya according to the package instructions.",
+    "Heat oil in a pan over medium heat.",
+    "Add the chopped onion, minced garlic, and grated ginger.",
+    "Cook until the onion is translucent.",
+    "Add the curry powder, turmeric powder, and red chili powder.",
+    "Cook for 1 minute.",
+    "Add the cooked Sevaiiya, water, and salt.",
+    "Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "sevaiiya",
+    "curry",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-steamed-saudi-sevaiiya-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:59:04.859Z"
+}
