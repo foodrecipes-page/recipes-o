@@ -1,0 +1,89 @@
+{
+  "slug": "old-style-kenyan-meat-stew",
+  "title": "Classic Kenyan Meat Stew",
+  "description": "A hearty, traditional Kenyan meat stew made with tender beef, potatoes, and spices. This recipe serves 4-6 people and is best served with ugali or chapati.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound), cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes (2 medium)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh tomatoes (2 medium)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Old style Kenyan stew spice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water (2 cups)",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add potatoes, tomatoes, stew spice, salt, and black pepper. Stir well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour, or until beef is tender.",
+    "Serve hot with ugali or chapati."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stew",
+    "beef",
+    "potatoes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-kenyan-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:49:44.081Z"
+}
