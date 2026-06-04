@@ -1,0 +1,98 @@
+{
+  "slug": "oven-roasted-slovakian-beef-dumplings",
+  "title": "Slovakian Beef and Dumplings",
+  "description": "A hearty Slovakian dish featuring tender beef and fluffy dumplings, all baked in the oven to perfection.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling spice",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the flour, salt, black pepper, and caraway seeds.",
+    "In a separate bowl, whisk together the eggs, warm milk, and butter.",
+    "Add the wet ingredients to the dry ingredients and stir until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "On a floured surface, use a rolling pin to flatten each ball into a thin circle.",
+    "Place a tablespoon of the beef mixture onto the center of each dumpling circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Place the dumplings in a single layer on a baking sheet lined with parchment paper.",
+    "Drizzle the tops of the dumplings with a little bit of oil and sprinkle with salt.",
+    "Bake the dumplings in the preheated oven for 25-30 minutes until they are golden brown.",
+    "Serve the dumplings hot with the beef gravy spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "slovakian",
+    "dumplings",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:42:14.868Z"
+}
