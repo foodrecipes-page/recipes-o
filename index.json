@@ -2081,13 +2081,12 @@
   },
   {
     "slug": "oily-saudi-arabian-toor-dal-dal",
-    "title": "Oily Saudi Arabian Toor Dal",
+    "title": "Saudi Arabian Toor Dal",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "saudi-arabian",
+      "toor-dal",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 60,
@@ -2534,15 +2533,14 @@
   },
   {
     "slug": "old-fashioned-crunchy-russian-white-bread-casserole",
-    "title": "Old Fashioned Crunchy Russian White Bread Casserole",
+    "title": "Russian Bread Casserole",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "plant-based",
-      "russian-cuisine",
-      "weeknight"
+      "russian",
+      "bread",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
+    "cuisine": "European",
     "totalTimeMin": 55,
     "shard": "o"
   },
@@ -14601,6 +14599,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 32,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-german-squash-casserole--thai",
+    "title": "Thai Squash Casserole",
+    "tags": [
+      "thai",
+      "squash",
+      "casserole",
+      "oven-roasted"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 60,
     "shard": "o"
   }
 ]
