@@ -13995,17 +13995,16 @@
   },
   {
     "slug": "oven-steamed-saudi-sevaiiya-curry",
-    "title": "Oven Steamed Saudi Sevaiiya Curry",
+    "title": "Saudi Sevaiiya Curry",
     "tags": [
-      "bamboo-steamer",
-      "cozy",
-      "curry",
-      "keto-friendly",
       "saudi",
+      "sevaiiya",
+      "curry",
+      "lunch",
       "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "saudi",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
