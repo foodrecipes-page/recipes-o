@@ -1,0 +1,68 @@
+{
+  "slug": "oozy-peppery-argentinian-chestnut-casserole--german",
+  "title": "Argentinian Casserole with Chestnut and Oozy Sauce",
+  "description": "A hearty German-inspired casserole featuring the flavors of Argentina, with a rich and creamy sauce.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian sausage",
+      "amount": "500g",
+      "notes": "such as chorizo"
+    },
+    {
+      "name": "Chestnut mushrooms",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Oozy cheese sauce",
+      "amount": "200ml",
+      "notes": "see instructions"
+    },
+    {
+      "name": "Peppery bread",
+      "amount": "200g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1x 23cm",
+      "notes": "oven-safe dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook the Argentinian sausage in a pan over medium heat, breaking it up with a spoon as it cooks.",
+    "Add the sliced chestnut mushrooms to the pan and cook until they release their moisture and start to brown.",
+    "In a separate saucepan, heat the oozy cheese sauce over low heat, stirring occasionally.",
+    "In the casserole dish, combine the cooked sausage and mushroom mixture. Top with the heated cheese sauce.",
+    "Sprinkle the crushed peppery bread over the top of the casserole.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the bread is golden brown and the sauce is bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "argentinian",
+    "casserole",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-peppery-argentinian-chestnut-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:23:18.062Z"
+}
