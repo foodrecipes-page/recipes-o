@@ -1,0 +1,71 @@
+{
+  "slug": "oven-roasted-turkish-masarepa-flatbread",
+  "title": "Turkish-Style Masarepa Flatbread",
+  "description": "A traditional Turkish flatbread made with masarepa, roasted to perfection in the oven. Perfect as a side dish or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Gluten-free",
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 piece (for serving)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the masarepa, water, olive oil, salt, and yeast. Mix well to form a dough.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough on a floured surface and shape it into a ball.",
+    "Roll out the dough into a thin circle, about 1/4 inch thick.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Roast the flatbread in the oven for 10-12 minutes, or until it's golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool for a few minutes.",
+    "Serve the flatbread warm, garnished with your choice of toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "flatbread",
+    "masarepa",
+    "roasted",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-masarepa-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:49:56.435Z"
+}
