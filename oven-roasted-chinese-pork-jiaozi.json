@@ -1,0 +1,88 @@
+{
+  "slug": "oven-roasted-chinese-pork-jiaozi",
+  "title": "Chinese Pork Jiaozi",
+  "description": "Steamed Chinese dumplings filled with ground pork and vegetables, served with a dipping sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "250g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "200g",
+      "notes": "for wrapping jiaozi"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml",
+      "notes": "for wrapping jiaozi"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "20ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2cm",
+      "notes": "grated for filling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced for filling"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "10ml",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "5ml",
+      "notes": "for dipping sauce"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, grated ginger, minced garlic, and soy sauce. Mix well.",
+    "Lay a piece of dough flat and place a tablespoon of the pork mixture in the center.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the jiaozi.",
+    "Repeat with the remaining dough and filling.",
+    "Bring a large pot of water to a boil and add the jiaozi. Cook for 10-15 minutes, or until they float to the surface.",
+    "Serve the jiaozi hot with a dipping sauce made from equal parts soy sauce and sesame oil.",
+    "Heat 1 tablespoon of vegetable oil in a small pan over medium heat. Add 2 cloves of minced garlic and cook until fragrant.",
+    "Add 2 tablespoons of soy sauce and 1 tablespoon of sesame oil to the pan. Stir to combine.",
+    "Serve the jiaozi with the dipping sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-chinese-pork-jiaozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:30:54.808Z"
+}
