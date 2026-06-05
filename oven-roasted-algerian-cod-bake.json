@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-algerian-cod-bake",
+  "title": "Algerian Baked Cod",
+  "description": "A flavorful and moist cod dish inspired by Algerian cuisine, where the cod is baked to perfection with aromatic spices and herbs.",
+  "cuisine": "Algerian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "2",
+      "notes": "Fresh cod fillets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the fish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the cod fillets on the prepared baking sheet.",
+    "Brush the tops of the cod with olive oil.",
+    "Season the cod with salt, pepper, cumin, paprika, and a pinch of garlic.",
+    "Drizzle the lemon juice over the cod.",
+    "Bake for 8-12 minutes or until the cod is cooked through and flakes easily with a fork.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with a side of roasted vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "baked-cod",
+    "cod",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-algerian-cod-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:10:49.829Z"
+}
