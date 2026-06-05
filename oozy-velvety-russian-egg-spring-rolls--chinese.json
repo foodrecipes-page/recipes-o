@@ -1,0 +1,93 @@
+{
+  "slug": "oozy-velvety-russian-egg-spring-rolls--chinese",
+  "title": "Spring Egg Rolls",
+  "description": "Delicate spring egg rolls filled with a flavorful mixture of vegetables, served with a sweet and sour dipping sauce.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring egg rolls",
+      "amount": "12-15",
+      "notes": null
+    },
+    {
+      "name": "cabbage",
+      "amount": "1/2 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "2. Add the chopped onion and minced garlic and stir-fry until the onion is translucent.",
+    "3. Add the shredded cabbage and grated carrots and stir-fry for 2-3 minutes.",
+    "4. In a small bowl, mix together the soy sauce and oyster sauce.",
+    "5. Pour the soy sauce mixture over the vegetables and stir-fry for an additional 1-2 minutes.",
+    "6. Season with salt and pepper to taste.",
+    "7. Lay a spring egg roll wrapper on a flat surface with one corner pointing towards you.",
+    "8. Place 1-2 tablespoons of the vegetable mixture in the center of the wrapper.",
+    "9. Brush the edges of the wrapper with a small amount of water.",
+    "10. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "11. Repeat with the remaining wrappers and filling.",
+    "12. Heat about 1-2 inches of oil in a large skillet or wok over medium-high heat.",
+    "13. When the oil is hot, add a few of the egg rolls to the oil and fry until they are golden brown and crispy.",
+    "14. Remove the egg rolls from the oil with a slotted spoon and drain on paper towels.",
+    "15. Serve the spring egg rolls hot with a sweet and sour dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spring-rolls",
+    "egg-rolls",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-velvety-russian-egg-spring-rolls--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:56:22.537Z"
+}
