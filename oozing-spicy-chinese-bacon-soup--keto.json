@@ -1,0 +1,67 @@
+{
+  "slug": "oozing-spicy-chinese-bacon-soup--keto",
+  "title": "Keto Crispy Bacon Oozing Bites",
+  "description": "A keto twist on classic oozing bites, crispy bacon adds a smoky flavor to these bite-sized treats.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Oozing cheese (like mozzarella or cheddar)",
+      "amount": "1 cup, shredded",
+      "notes": "low-moisture"
+    },
+    {
+      "name": "Chopped chives or scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Soup (like chicken or beef broth)",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "Spicy sauce (like sriracha or hot sauce)",
+      "amount": "1-2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "2. Cut the bacon in half and wrap each piece around a small ball of oozing cheese.",
+    "3. Place the bacon-wrapped cheese on the prepared baking sheet.",
+    "4. Bake for 12-15 minutes, or until the bacon is crispy and golden brown.",
+    "5. Remove from the oven and sprinkle with chopped chives or scallions if desired.",
+    "6. Drizzle with spicy sauce if desired.",
+    "7. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bacon",
+    "keto",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-spicy-chinese-bacon-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:08:50.989Z"
+}
