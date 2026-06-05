@@ -321,17 +321,16 @@
   },
   {
     "slug": "oceanic-brazilian-shrimp-ceviche",
-    "title": "Oceanic Brazilian Shrimp Ceviche",
+    "title": "Ceviche Carioca",
     "tags": [
+      "seafood",
+      "ceviche",
       "brazilian",
       "gluten-free",
-      "low-carb",
-      "quick",
-      "refreshing",
-      "seafood"
+      "snack"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
@@ -14624,6 +14623,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-spicy-chinese-bacon-soup--keto",
+    "title": "Keto Crispy Bacon Oozing Bites",
+    "tags": [
+      "bacon",
+      "keto",
+      "snack",
+      "cheese"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "o"
   }
 ]
