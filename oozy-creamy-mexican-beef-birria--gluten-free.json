@@ -1,0 +1,96 @@
+{
+  "slug": "oozy-creamy-mexican-beef-birria--gluten-free",
+  "title": "Beef Birria Tacos",
+  "description": "A flavorful and comforting Mexican dish, Beef Birria Tacos are tender, juicy, and rich in flavor. Served with a side of fresh cilantro, onion, and lime.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (2 pounds)",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried ancho chilies",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, brown the beef over medium-high heat.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the Mexican oregano, cumin, and dried ancho chilies to the pot and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the beef for 2 hours, or until it is tender and falls apart easily.",
+    "Shred the beef with two forks and add the lime juice and salt to the pot.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the shredded beef onto a tortilla and topping with your desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos",
+    "birria"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-mexican-beef-birria--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:51:24.588Z"
+}
