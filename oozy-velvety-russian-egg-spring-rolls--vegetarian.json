@@ -1,0 +1,75 @@
+{
+  "slug": "oozy-velvety-russian-egg-spring-rolls--vegetarian",
+  "title": "Russian Spring Rolls",
+  "description": "Delicious vegetarian spring rolls filled with a creamy, oozy egg filling. Perfect as a snack or light lunch.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring rolls",
+      "amount": "12 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "egg",
+      "amount": "4 large",
+      "notes": "beaten with a fork"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup",
+      "notes": "cream cheese, softened"
+    },
+    {
+      "name": "oozy",
+      "amount": "1/2 cup",
+      "notes": "ricotta cheese"
+    },
+    {
+      "name": "russian",
+      "amount": "2 tbsp",
+      "notes": "dill pickle relish"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan or a deep fryer to 375°F (190°C).",
+    "Prepare the egg mixture by mixing the beaten eggs, cream cheese, ricotta cheese, and dill pickle relish in a bowl.",
+    "Place a spring roll wrapper on a clean surface. Place about 1 tablespoon of the egg mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water. Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the oil is hot, carefully place a few of the spring rolls into the oil.",
+    "Fry for 2-3 minutes on each side, or until golden brown.",
+    "Remove the spring rolls from the oil with a slotted spoon and drain on paper towels.",
+    "Serve hot with chopped fresh dill if desired.",
+    "Note: You can also bake the spring rolls in a preheated oven at 400°F (200°C) for 12-15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "spring-rolls",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-velvety-russian-egg-spring-rolls--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:14:03.452Z"
+}
