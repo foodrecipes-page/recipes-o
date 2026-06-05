@@ -1,0 +1,67 @@
+{
+  "slug": "oven-roasted-british-sweet-potato-scotch-egg",
+  "title": "Scotch Egg and Roasted Sweet Potato",
+  "description": "A classic British snack featuring a roasted sweet potato and a scotch egg. Perfect for a quick bite.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "scotch egg",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "oven",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "for roasting sweet potato"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Place the chopped sweet potatoes on a baking sheet, drizzle with oil, and season with salt and pepper.",
+    "Roast the sweet potatoes in the oven for 20-25 minutes, or until tender.",
+    "Cook the scotch eggs according to the package instructions.",
+    "Serve the roasted sweet potatoes with the scotch eggs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "snack",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-british-sweet-potato-scotch-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:31:06.844Z"
+}
