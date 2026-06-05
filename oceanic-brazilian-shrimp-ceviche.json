@@ -1,0 +1,83 @@
+{
+  "slug": "oceanic-brazilian-shrimp-ceviche",
+  "title": "Ceviche Carioca",
+  "description": "A refreshing Brazilian-inspired ceviche dish made with succulent shrimp and oceanic flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "oceanic sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat dry with paper towels.",
+    "In a large bowl, combine the shrimp, oceanic sea salt, and lime juice.",
+    "Add the cherry tomatoes, red onion, cilantro, and garlic to the bowl.",
+    "Stir gently to combine and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the diced avocado.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "ceviche",
+    "brazilian",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-brazilian-shrimp-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:59:31.805Z"
+}
