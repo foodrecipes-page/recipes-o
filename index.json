@@ -9115,15 +9115,14 @@
   },
   {
     "slug": "oven-grilled-korean-duck-bowl",
-    "title": "Oven-Grilled Korean Duck Bowl",
+    "title": "Spicy Korean-Style Grilled Duck",
     "tags": [
-      "anti-inflammatory",
-      "duck",
-      "gluten-free",
-      "korean"
+      "korean",
+      "grilled",
+      "duck"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -14706,6 +14705,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 170,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-creamy-mexican-beef-birria--gluten-free",
+    "title": "Beef Birria Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "tacos",
+      "birria"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 140,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-peppery-argentinian-chestnut-casserole--japanese",
+    "title": "Argentinian Wagyu Beef and Chestnut Casserole",
+    "tags": [
+      "japanese",
+      "wagyu-beef",
+      "casserole",
+      "chestnuts"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
     "shard": "o"
   }
 ]
