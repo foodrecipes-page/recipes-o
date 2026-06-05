@@ -9672,17 +9672,14 @@
   },
   {
     "slug": "oven-roasted-british-sweet-potato-scotch-egg",
-    "title": "Oven Roasted British Sweet Potato Scotch Egg",
+    "title": "Scotch Egg and Roasted Sweet Potato",
     "tags": [
-      "british-food",
-      "brunch-ideas",
-      "gluten-free",
-      "scotch-eggs",
-      "sweet-potatoes",
-      "whole30"
+      "british",
+      "snack",
+      "oven-roasted"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -14695,6 +14692,20 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 10,
+    "shard": "o"
+  },
+  {
+    "slug": "old-style-kenyan-meat-stew--thai",
+    "title": "Kenyan-Style Beef Stew with Thai Twist",
+    "tags": [
+      "beef",
+      "stew",
+      "kenyan",
+      "thai",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 170,
     "shard": "o"
   }
 ]
