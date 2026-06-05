@@ -6838,16 +6838,14 @@
   },
   {
     "slug": "outdoor-oven-german-sausage-skewers",
-    "title": "Outdoor Oven German Sausage Skewers",
+    "title": "German Sausage Skewers",
     "tags": [
-      "easy-meals",
-      "german-cuisine",
-      "outdoor-cooking",
-      "sausage-recipes",
-      "spring-recipes"
+      "german",
+      "grilled",
+      "sausages"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 36,
     "shard": "o"
   },
   {
