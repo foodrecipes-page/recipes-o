@@ -1,0 +1,82 @@
+{
+  "slug": "oven-roasted-slovakian-lemon-skewers",
+  "title": "Slovakian Oven Roasted Skewers with Lemon",
+  "description": "A flavorful and aromatic dish inspired by the traditional Slovakian cuisine. Perfect for a quick weeknight dinner or a weekend meal with the family.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "any color, cut into 1-inch slices"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Thread lamb, zucchini, bell peppers, onions, and garlic onto skewers.",
+    "In a small bowl, whisk together lemon juice and olive oil. Brush the mixture onto the skewers.",
+    "Season with salt and pepper to taste.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until the lamb is cooked through.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "slovakian",
+    "lemon",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-lemon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:35:52.566Z"
+}
