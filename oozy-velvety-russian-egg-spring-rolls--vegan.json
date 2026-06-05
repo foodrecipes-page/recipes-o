@@ -1,0 +1,71 @@
+{
+  "slug": "oozy-velvety-russian-egg-spring-rolls--vegan",
+  "title": "Spring Rolls",
+  "description": "Crispy spring rolls filled with a delicious and refreshing vegan eggplant and cucumber filling. Perfect as a snack or appetizer.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring rolls",
+      "amount": "1 package",
+      "notes": "usually found in the frozen food section"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "choose a firm and fresh eggplant"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "seedless and fresh"
+    },
+    {
+      "name": "russian",
+      "amount": "1/4 cup",
+      "notes": "choose a vegan russian dressing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's vegan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Unwrap the spring rolls and cut them in half lengthwise.",
+    "In a small bowl, mix together the eggplant, cucumber, russian dressing, garlic, and soy sauce.",
+    "Stuff each spring roll with the eggplant mixture.",
+    "Fry the spring rolls in batches until they're golden brown and crispy.",
+    "Drain the spring rolls on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spring-rolls",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-velvety-russian-egg-spring-rolls--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:14:11.737Z"
+}
