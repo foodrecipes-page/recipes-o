@@ -1,0 +1,100 @@
+{
+  "slug": "oven-grilled-korean-duck-bowl",
+  "title": "Spicy Korean-Style Grilled Duck",
+  "description": "A flavorful and spicy Korean-inspired dish featuring grilled duck in a sweet and spicy sauce, served in a bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 (1 pound) piece",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "as needed",
+      "notes": null
+    },
+    {
+      "name": "steamed rice",
+      "amount": "as needed",
+      "notes": null
+    },
+    {
+      "name": "bowl",
+      "amount": "1 (as needed)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the duck breast and pat it dry with paper towels.",
+    "In a small bowl, whisk together the gochujang, soy sauce, brown sugar, garlic, and sesame oil.",
+    "Place the duck breast in the bowl and brush the marinade all over it.",
+    "Let the duck marinate for 15 minutes.",
+    "Remove the duck from the marinade and place it on the oven rack.",
+    "Grill the duck in the oven for 20-25 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the duck is cooking, prepare the sauce by whisking together the rice vinegar and 2 tablespoons of water.",
+    "Once the duck is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "Serve the sliced duck in a bowl over steamed rice, garnished with sliced scallions and a drizzle of the sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "grilled",
+    "duck"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-grilled-korean-duck-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:13:22.816Z"
+}
