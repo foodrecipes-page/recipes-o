@@ -1,0 +1,65 @@
+{
+  "slug": "ocean-fresh-portuguese-fish-wrap--vegan",
+  "title": "Portuguese Port Wrap",
+  "description": "A vegan twist on a Portuguese classic, using fresh portuguese wrap and ocean-inspired filling.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portuguese wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2"
+    },
+    {
+      "name": "Fresh lettuce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh portuguese olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan mayo",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the filling by chopping the cucumber, lettuce, and parsley.",
+    "In a bowl, mix the vegan mayo with the chopped olives.",
+    "Assemble the wrap by spreading the mayo-olive mixture on the wrap.",
+    "Add the chopped cucumber, lettuce, and parsley on top.",
+    "Season with salt and pepper to taste.",
+    "Fold the wrap in half to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "portuguese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-portuguese-fish-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:36:46.346Z"
+}
