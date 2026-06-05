@@ -1,0 +1,81 @@
+{
+  "slug": "oily-rich-portuguese-parmesan-cheese-pasta--mexican",
+  "title": "Mexican Parmesan Pasta Bake",
+  "description": "A rich and cheesy Mexican pasta bake, perfect for a cozy night in. This recipe combines the flavors of Mexico with the comfort of a pasta bake.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chili powder and cumin to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the parmesan and portuguese cheese until melted and smooth.",
+    "Add the cooked pasta to the skillet and stir until well coated with the cheese sauce.",
+    "Transfer the pasta mixture to a baking dish and top with additional parmesan cheese.",
+    "Bake for 15-20 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pastabake",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-rich-portuguese-parmesan-cheese-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:11:46.000Z"
+}
