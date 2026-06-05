@@ -1,0 +1,90 @@
+{
+  "slug": "oozy-peppery-argentinian-chestnut-casserole--japanese",
+  "title": "Argentinian Wagyu Beef and Chestnut Casserole",
+  "description": "A hearty Japanese-inspired casserole filled with tender Wagyu beef, sweet chestnuts, and a rich argentinian sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Oozy sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Peppery argentinian seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Marinate Wagyu beef in soy sauce, sugar, and sesame oil for at least 30 minutes.",
+    "Sear Wagyu beef in a pan until browned, then set aside.",
+    "In the same pan, add argentinian seasoning and cook for 1 minute.",
+    "Add chestnuts and cook until heated through.",
+    "In a separate pan, heat oozy sauce over low heat.",
+    "Assemble casserole by layering cooked rice, Wagyu beef, and chestnut mixture.",
+    "Drizzle with heated oozy sauce and sprinkle with green onions.",
+    "Bake in preheated oven for 20-25 minutes or until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "wagyu-beef",
+    "casserole",
+    "chestnuts"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-peppery-argentinian-chestnut-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:29:50.830Z"
+}
