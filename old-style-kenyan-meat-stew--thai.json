@@ -1,0 +1,107 @@
+{
+  "slug": "old-style-kenyan-meat-stew--thai",
+  "title": "Kenyan-Style Beef Stew with Thai Twist",
+  "description": "A hearty and flavorful beef stew fusion of Kenyan and Thai cuisines, perfect for a cold winter night.",
+  "cuisine": "thai",
+  "diet": [
+    "beef",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stewing beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2-3",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides, about 5 minutes per batch. Remove the browned beef from the pot and set aside.",
+    "Add more oil if necessary and sauté the onion until softened, about 5 minutes.",
+    "Add the garlic, ginger, and green chilies and sauté for another minute, until fragrant.",
+    "Add the curry paste and stir for 1-2 minutes, until fragrant.",
+    "Add the tomatoes, coconut milk, fish sauce (if using), salt, and black pepper. Stir to combine.",
+    "Return the browned beef to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Season the stew with lemon juice and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro or scallions (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "kenyan",
+    "thai",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-kenyan-meat-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:56:37.888Z"
+}
