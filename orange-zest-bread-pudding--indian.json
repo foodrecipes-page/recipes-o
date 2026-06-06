@@ -1,0 +1,73 @@
+{
+  "slug": "orange-zest-bread-pudding--indian",
+  "title": "Masala Pudding French Toast",
+  "description": "A creative twist on traditional French toast, infused with the warm spices of India.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup pudding",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "2 slices bread",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 orange, zested",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp garam masala",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together pudding, garam masala, cinnamon, and vanilla extract.",
+    "2. Heat a non-stick pan or griddle over medium heat.",
+    "3. Dip each bread slice into the pudding mixture, coating both sides evenly.",
+    "4. Place the coated bread slices on the pan and cook for 2-3 minutes or until golden brown.",
+    "5. Flip the French toast and cook for an additional 1-2 minutes.",
+    "6. Serve warm with a sprinkle of orange zest and a drizzle of honey, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "indian",
+    "pudding",
+    "french-toast",
+    "masala"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:09:07.148Z"
+}
