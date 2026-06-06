@@ -1,0 +1,58 @@
+{
+  "slug": "orange-zest-bread-pudding--italian",
+  "title": "Italian Orange Pudding Toast",
+  "description": "A sweet and tangy Italian-inspired breakfast dish featuring orange-infused pudding on toasted bread.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "orange",
+      "amount": "1 large"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a toaster or toaster oven to 350°F (175°C).",
+    "2. Toast the bread until lightly browned.",
+    "3. In a bowl, whisk together pudding and orange zest until well combined.",
+    "4. Spread the pudding mixture onto the toasted bread slices.",
+    "5. Slice the orange and arrange on top of the pudding.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "dessert",
+    "orange",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:09:54.712Z"
+}
