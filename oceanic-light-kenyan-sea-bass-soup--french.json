@@ -1,0 +1,89 @@
+{
+  "slug": "oceanic-light-kenyan-sea-bass-soup--french",
+  "title": "Pan-Seared Bass with Light Oceanic Soup",
+  "description": "A light and flavorful dish featuring pan-seared bass served with a refreshing oceanic soup.",
+  "cuisine": "french",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass fillets",
+      "amount": "4",
+      "notes": "Fresh bass fillets for 4 servings"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Kenyan sea salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Light oceanic soup broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Kenyan tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced for soup"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 sprig",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Season bass fillets with sea salt and Kenyan sea salt.",
+    "2. Heat olive oil in a skillet over medium-high heat.",
+    "3. Add bass fillets to the skillet and sear for 3-4 minutes per side.",
+    "4. Remove bass from the skillet and set aside.",
+    "5. In the same skillet, add diced Kenyan tomatoes and cook for 2-3 minutes.",
+    "6. Add light oceanic soup broth to the skillet and bring to a simmer.",
+    "7. Reduce heat to low and let soup simmer for 5-7 minutes.",
+    "8. Serve pan-seared bass with light oceanic soup.",
+    "9. Garnish with chopped parsley and a sprig of fresh basil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oceanic",
+    "light",
+    "kenyan",
+    "sea",
+    "bass",
+    "soup",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-light-kenyan-sea-bass-soup--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:35:20.794Z"
+}
