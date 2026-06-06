@@ -1,0 +1,74 @@
+{
+  "slug": "oozy-malaysian-durian-satay--indian",
+  "title": "Durian Satay",
+  "description": "A unique take on traditional satay, featuring the creamy and sweet durian fruit. Inspired by Indian cuisine and malaysian flavors.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Durian fruit",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Malaysian satay sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oozy honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp, ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp, ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/4 tsp, ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Toasted coconut flakes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, combine the diced durian, satay sauce, honey, coconut milk, cardamom, cinnamon, ginger, and salt. Mix well.",
+    "3. Thread the durian mixture onto skewers.",
+    "4. Grill the skewers for 2-3 minutes per side, or until lightly charred.",
+    "5. Garnish with toasted coconut flakes and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "grilled",
+    "durian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-malaysian-durian-satay--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:57:30.429Z"
+}
