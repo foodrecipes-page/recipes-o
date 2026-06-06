@@ -1,0 +1,62 @@
+{
+  "slug": "orange-zest-bread-pudding--french",
+  "title": "French Orange Bread Pudding",
+  "description": "A traditional French dessert made with bread, orange zest, and a hint of sweetness.",
+  "cuisine": "french",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "2 cups, stale",
+      "notes": null
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "orange",
+      "amount": "1, juiced",
+      "notes": null
+    },
+    {
+      "name": "pudding",
+      "amount": "1 package, instant",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cube the bread and place in a bowl.",
+    "Add orange zest, orange juice, and pudding mix to the bowl.",
+    "Mix well until the bread is evenly coated.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the top is golden brown.",
+    "Serve warm, garnished with additional orange zest if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dessert",
+    "bread-pudding",
+    "orange"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:07:53.899Z"
+}
