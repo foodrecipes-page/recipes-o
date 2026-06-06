@@ -1,0 +1,60 @@
+{
+  "slug": "orange-zest-bread-pudding--chinese",
+  "title": "Chinese Orange Pudding Toast",
+  "description": "A sweet and refreshing dessert inspired by Chinese flavors, made with orange, bread, and a hint of zesty orange.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Orange",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the bread into 1-inch cubes and toast until lightly browned.",
+    "Peel the orange and separate the segments.",
+    "In a blender or food processor, puree the orange segments until smooth.",
+    "Add the orange zest and blend until well combined.",
+    "In a separate bowl, mix the pudding with the orange puree until well combined.",
+    "Dip each toasted bread cube into the pudding mixture, coating completely.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "orange",
+    "dessert",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:09:42.304Z"
+}
