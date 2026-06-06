@@ -14811,5 +14811,21 @@
     "cuisine": "italian",
     "totalTimeMin": 33,
     "shard": "o"
+  },
+  {
+    "slug": "oceanic-light-kenyan-sea-bass-soup--french",
+    "title": "Pan-Seared Bass with Light Oceanic Soup",
+    "tags": [
+      "oceanic",
+      "light",
+      "kenyan",
+      "sea",
+      "bass",
+      "soup",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "o"
   }
 ]
