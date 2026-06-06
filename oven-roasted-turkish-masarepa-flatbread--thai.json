@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-turkish-masarepa-flatbread--thai",
+  "title": "Thai-Style Masarepa Flatbread",
+  "description": "A unique twist on traditional flatbread, inspired by Thai flavors and using masarepa. Perfect as a side or snack.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup",
+      "notes": "preferably pre-cooked"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "as needed for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the masarepa and water. Mix well and adjust the water as needed to achieve a dough consistency.",
+    "2. Knead the dough for 2-3 minutes, until smooth and pliable.",
+    "3. Heat the oven to 400°F (200°C).",
+    "4. On a lightly floured surface, roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "5. Brush the dough with the melted coconut oil and sprinkle with chopped scallions, if using.",
+    "6. Transfer the dough to a baking sheet lined with parchment paper.",
+    "7. Bake the flatbread in the preheated oven for 15-20 minutes, until lightly browned and crispy.",
+    "8. Remove the flatbread from the oven and let it cool for 2-3 minutes.",
+    "9. Cut the flatbread into smaller pieces or use as is.",
+    "10. Serve the Thai-Style Masarepa Flatbread warm, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "flatbread",
+    "masarepa",
+    "snack",
+    "side"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-masarepa-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:56:29.949Z"
+}
