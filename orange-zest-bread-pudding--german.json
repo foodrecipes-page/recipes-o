@@ -1,0 +1,91 @@
+{
+  "slug": "orange-zest-bread-pudding--german",
+  "title": "Orange Zest Bread Pudding",
+  "description": "A traditional German bread pudding infused with the brightness of orange zest, perfect as a dessert.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bread, stale",
+      "amount": "2 cups, cut into 1-inch cubes",
+      "notes": "any type of bread works, but a dense bread like challah or brioche is best"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": "from about 1 large orange"
+    },
+    {
+      "name": "orange, juice",
+      "amount": "1/2 cup",
+      "notes": "from about 1 large orange"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk or a non-dairy milk alternative"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, whisk together the orange juice, sugar, eggs, and melted butter.",
+    "Add the milk, vanilla extract, and whisk until well combined.",
+    "Add the bread cubes and toss until the bread is evenly coated with the wet ingredients.",
+    "Cover the bowl with plastic wrap and let the bread mixture sit for 10-15 minutes.",
+    "After the bread has sat for 10-15 minutes, add the orange zest and pudding.",
+    "Mix until the bread and pudding are evenly distributed.",
+    "Pour the mixture into a 9x13-inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the pudding is set.",
+    "Remove the bread pudding from the oven and let it cool for 10 minutes.",
+    "Serve warm, topped with additional orange zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "bread-pudding",
+    "orange-zest"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:07:19.736Z"
+}
