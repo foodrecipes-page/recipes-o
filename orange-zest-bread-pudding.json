@@ -1,0 +1,58 @@
+{
+  "slug": "orange-zest-bread-pudding",
+  "title": "Orange Pudding French Toast",
+  "description": "A twist on classic French toast, featuring a creamy orange pudding filling.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "orange pudding",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs and a pinch of salt.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "Cook the bread slices for 2-3 minutes on each side, or until golden brown.",
+    "While the bread is cooking, mix the orange pudding and zest in a separate bowl.",
+    "Once the bread is cooked, spread a spoonful of the orange pudding mixture onto each slice.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "orange",
+    "french-toast",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:38:43.369Z"
+}
