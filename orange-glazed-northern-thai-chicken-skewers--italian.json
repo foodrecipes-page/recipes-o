@@ -1,0 +1,69 @@
+{
+  "slug": "orange-glazed-northern-thai-chicken-skewers--italian",
+  "title": "Thai-Italian Chicken Skewers with Glazed Oranges",
+  "description": "A fusion of Italian and Thai flavors with juicy chicken skewers served with a sweet and sticky glazed orange sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "500g",
+      "notes": "boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "orange",
+      "amount": "2",
+      "notes": "for glaze and garnish"
+    },
+    {
+      "name": "glazed",
+      "amount": "1/4 cup",
+      "notes": "honey or maple syrup for glaze"
+    },
+    {
+      "name": "northern thai chili",
+      "amount": "1-2",
+      "notes": "or substitute with red pepper flakes"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for at least 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together glaze ingredients. Set aside.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush chicken with oil and season with salt, pepper, and Thai chili.",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "While skewers are cooking, reduce glaze over low heat until thickened.",
+    "Serve skewers hot with a drizzle of glaze and a slice of orange on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "thai",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-glazed-northern-thai-chicken-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:23:38.159Z"
+}
