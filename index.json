@@ -6252,14 +6252,15 @@
   },
   {
     "slug": "orange-zest-bread-pudding",
-    "title": "Orange Zest Bread Pudding",
+    "title": "Orange Pudding French Toast",
     "tags": [
-      "bread pudding",
-      "orange zest",
-      "bready base"
+      "breakfast",
+      "orange",
+      "french-toast",
+      "pudding"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 60,
+    "cuisine": "american",
+    "totalTimeMin": 13,
     "shard": "o"
   },
   {
@@ -14826,6 +14827,74 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--german",
+    "title": "Orange Zest Bread Pudding",
+    "tags": [
+      "german",
+      "dessert",
+      "bread-pudding",
+      "orange-zest"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--thai",
+    "title": "Thai Orange Pudding Bread",
+    "tags": [
+      "thai",
+      "dessert",
+      "bread",
+      "pudding",
+      "orange"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--french",
+    "title": "French Orange Bread Pudding",
+    "tags": [
+      "french",
+      "dessert",
+      "bread-pudding",
+      "orange"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--mexican",
+    "title": "Mexican Orange Pudding Bread",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "bread",
+      "pudding",
+      "orange"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--indian",
+    "title": "Masala Pudding French Toast",
+    "tags": [
+      "breakfast",
+      "indian",
+      "pudding",
+      "french-toast",
+      "masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 16,
     "shard": "o"
   }
 ]
