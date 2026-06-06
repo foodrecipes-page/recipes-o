@@ -1,0 +1,81 @@
+{
+  "slug": "oven-grilled-korean-duck-bowl--thai",
+  "title": "Korean-Style Grilled Duck with Thai Basil",
+  "description": "A fusion dish that combines the flavors of Korea and Thailand. Grilled duck is served with a spicy Korean chili flake-infused sauce, Thai basil, and a side of steamed jasmine rice.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Steamed jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Rinse the duck breast and pat it dry with paper towels.",
+    "3. In a small bowl, mix together the Korean chili flakes, Thai red curry paste, fish sauce, and brown sugar.",
+    "4. Rub the spice mixture all over the duck breast, making sure to coat it evenly.",
+    "5. Heat 1 tablespoon of vegetable oil in an oven-safe skillet over medium-high heat.",
+    "6. Sear the duck breast for 2-3 minutes on each side, or until it's nicely browned.",
+    "7. Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the duck reaches an internal temperature of 165°F (74°C).",
+    "8. While the duck is cooking, heat the remaining 1 tablespoon of vegetable oil in a small saucepan over medium heat.",
+    "9. Add the Thai basil leaves to the saucepan and cook for 1-2 minutes, or until they're fragrant.",
+    "10. Remove the duck from the oven and let it rest for 5 minutes before slicing it thinly.",
+    "11. Serve the sliced duck with the spicy Korean chili flake-infused sauce spooned over the top, and a side of steamed jasmine rice.",
+    "12. Garnish with additional Thai basil leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "thaibasil",
+    "grilled",
+    "duck"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-grilled-korean-duck-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:43:45.455Z"
+}
