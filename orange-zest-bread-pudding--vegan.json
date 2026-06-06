@@ -1,0 +1,84 @@
+{
+  "slug": "orange-zest-bread-pudding--vegan",
+  "title": "Vegan Orange Pudding Bread Pudding",
+  "description": "A moist and flavorful bread pudding infused with orange zest and orange juice, perfect for a dessert or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "orange",
+      "amount": "3",
+      "notes": "juiced and zested"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "non-dairy butter",
+      "amount": "1/4 cup",
+      "notes": "such as Earth Balance"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "non-dairy pudding mix",
+      "amount": "1 package",
+      "notes": "such as soy or coconut-based"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut the bread into 1-inch cubes and place in a large mixing bowl.",
+    "In a separate bowl, whisk together non-dairy milk, non-dairy butter, sugar, and vanilla extract.",
+    "Add the non-dairy pudding mix to the wet ingredients and whisk until smooth.",
+    "Pour the wet ingredients over the bread and mix until the bread is evenly coated.",
+    "Fold in the orange zest and juice.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the pudding is set and the top is golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "orange",
+    "bread",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:09:46.868Z"
+}
