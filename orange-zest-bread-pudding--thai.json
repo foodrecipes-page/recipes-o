@@ -1,0 +1,66 @@
+{
+  "slug": "orange-zest-bread-pudding--thai",
+  "title": "Thai Orange Pudding Bread",
+  "description": "A unique dessert that combines the flavors of Thailand with the comfort of warm bread and creamy pudding.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 cup",
+      "notes": "Thai-style coconut or mango pudding"
+    },
+    {
+      "name": "Orange",
+      "amount": "1 medium",
+      "notes": "juiced and zested"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut bread into 1-inch cubes and toast until lightly browned.",
+    "In a separate bowl, mix together pudding and orange juice.",
+    "Stir in orange zest and sugar (if using).",
+    "Combine toasted bread and pudding mixture in a serving dish.",
+    "Top with additional orange zest and sugar (if desired).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "dessert",
+    "bread",
+    "pudding",
+    "orange"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:07:23.233Z"
+}
