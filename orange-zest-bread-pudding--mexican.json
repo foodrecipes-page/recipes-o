@@ -1,0 +1,58 @@
+{
+  "slug": "orange-zest-bread-pudding--mexican",
+  "title": "Mexican Orange Pudding Bread",
+  "description": "A sweet Mexican-inspired bread filled with orange zest and topped with a creamy pudding. Perfect for a breakfast or snack.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "orange",
+      "amount": "2"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the bread into 1-inch thick slices.",
+    "In a small bowl, mix together the orange zest and pudding.",
+    "Spread the pudding mixture onto each bread slice.",
+    "Bake for 10-12 minutes or until the bread is toasted and the pudding is set.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "bread",
+    "pudding",
+    "orange"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:08:57.484Z"
+}
