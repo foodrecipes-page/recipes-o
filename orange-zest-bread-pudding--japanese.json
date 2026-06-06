@@ -1,0 +1,58 @@
+{
+  "slug": "orange-zest-bread-pudding--japanese",
+  "title": "Japanese Orange Bread Pudding",
+  "description": "A sweet Japanese-inspired twist on traditional bread pudding, featuring orange zest for added citrus flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 cups stale bread, cut into 1-inch cubes"
+    },
+    {
+      "name": "Orange",
+      "amount": "2 medium oranges, peeled and segmented"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "2 tablespoons orange zest"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large bowl, whisk together eggs, sugar, and orange zest.",
+    "Add bread cubes to the bowl and toss until bread is evenly coated.",
+    "Add orange segments to the bowl and toss until well combined.",
+    "Pour mixture into a 9x13-inch baking dish and let it sit for 10 minutes.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from oven and let it cool for 10 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bread-pudding",
+    "orange",
+    "japanese-dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-bread-pudding--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:11:06.085Z"
+}
