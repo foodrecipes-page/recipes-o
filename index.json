@@ -14732,5 +14732,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 55,
     "shard": "o"
+  },
+  {
+    "slug": "oven-grilled-korean-duck-bowl--thai",
+    "title": "Korean-Style Grilled Duck with Thai Basil",
+    "tags": [
+      "korean",
+      "thaibasil",
+      "grilled",
+      "duck"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-turkish-masarepa-flatbread--mexican",
+    "title": "Turkish-Style Masarepa Flatbread",
+    "tags": [
+      "mexican",
+      "flatbread",
+      "masarepa"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
