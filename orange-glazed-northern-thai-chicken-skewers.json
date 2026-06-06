@@ -1,0 +1,89 @@
+{
+  "slug": "orange-glazed-northern-thai-chicken-skewers",
+  "title": "Thai Chicken Skewers with Orange Glaze",
+  "description": "Grilled chicken skewers smothered in a sweet and sticky orange glaze, inspired by the bold flavors of Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Northern Thai skewers",
+      "amount": "10 skewers",
+      "notes": ""
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Glazed orange marmalade",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine orange juice, honey, marmalade, chili peppers, cilantro, salt, and black pepper. Blend until smooth.",
+    "Thread chicken pieces onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with the orange glaze, making sure they're fully coated.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "grilled",
+    "chicken",
+    "skewers",
+    "orange",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-glazed-northern-thai-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:59:23.551Z"
+}
