@@ -1,0 +1,67 @@
+{
+  "slug": "oven-roasted-turkish-masarepa-flatbread--mexican",
+  "title": "Turkish-Style Masarepa Flatbread",
+  "description": "A traditional Mexican-inspired flatbread made with masarepa, perfect as a side dish or snack.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "notes": "optional",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine masarepa and water.",
+    "2. Add olive oil, salt, and yeast to the mixture. Mix until a dough forms.",
+    "3. Knead the dough for 5-7 minutes until smooth.",
+    "4. Divide the dough into 2-3 equal portions, depending on desired flatbread size.",
+    "5. Roll out each portion into a thin circle, about 1/8 inch thick.",
+    "6. Preheat oven to 400°F (200°C).",
+    "7. Place the flatbreads on a baking sheet lined with parchment paper.",
+    "8. Bake for 15-20 minutes, or until the flatbreads are lightly browned and crispy.",
+    "9. Remove from oven and sprinkle with chopped cilantro, if desired.",
+    "10. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "flatbread",
+    "masarepa"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-masarepa-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:09:06.809Z"
+}
