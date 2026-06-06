@@ -14896,5 +14896,96 @@
     "cuisine": "indian",
     "totalTimeMin": 16,
     "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--keto",
+    "title": "Keto Orange Pudding Bread Pudding",
+    "tags": [
+      "keto",
+      "dessert",
+      "orange"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--chinese",
+    "title": "Chinese Orange Pudding Toast",
+    "tags": [
+      "chinese",
+      "orange",
+      "dessert",
+      "pudding"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--vegan",
+    "title": "Vegan Orange Pudding Bread Pudding",
+    "tags": [
+      "vegan",
+      "orange",
+      "bread",
+      "pudding"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--italian",
+    "title": "Italian Orange Pudding Toast",
+    "tags": [
+      "italian",
+      "breakfast",
+      "dessert",
+      "orange",
+      "pudding"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 7,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--gluten-free",
+    "title": "Gluten-Free Orange Pudding Bread Pudding",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "orange",
+      "bread-pudding"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--japanese",
+    "title": "Japanese Orange Bread Pudding",
+    "tags": [
+      "bread-pudding",
+      "orange",
+      "japanese-dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-zest-bread-pudding--vegetarian",
+    "title": "Cinnamon Orange Bread Pudding",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "dessert",
+      "orange",
+      "cinnamon"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "o"
   }
 ]
