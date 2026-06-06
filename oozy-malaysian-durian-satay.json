@@ -1,0 +1,74 @@
+{
+  "slug": "oozy-malaysian-durian-satay",
+  "title": "Durian Satay with Oozy Peanut Sauce",
+  "description": "A Southeast Asian-inspired satay dish featuring durian, served with a creamy and slightly sweet peanut sauce. This recipe is perfect for adventurous foodies looking to try something new.",
+  "cuisine": "Southeast Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Durian",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Malaysian satay skewers",
+      "amount": "10-12 skewers"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Oozy peanut sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, combine durian, coconut milk, honey, lime juice, and fish sauce. Mix well to coat the durian.",
+    "3. Thread the satay skewers onto metal or bamboo skewers, leaving a small space between each piece.",
+    "4. Grill the satay skewers for 5-7 minutes per side, or until slightly charred.",
+    "5. Meanwhile, warm the oozy peanut sauce in a small saucepan over low heat.",
+    "6. Serve the grilled satay skewers with the warm peanut sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "durian",
+    "satay",
+    "peanut-sauce",
+    "southeast-asian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-malaysian-durian-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:28.044Z"
+}
