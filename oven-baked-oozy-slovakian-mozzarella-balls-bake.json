@@ -1,0 +1,85 @@
+{
+  "slug": "oven-baked-oozy-slovakian-mozzarella-balls-bake",
+  "title": "Slovakian Mozzarella Balls",
+  "description": "A delicious Slovakian-inspired dish of crispy mozzarella balls with a gooey centre. Perfect as a snack or appetizer.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "Fresh or buffalo mozzarella work well"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko breadcrumbs for extra crispiness"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "To aid in coating"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 tsp",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1. In a bowl, mix together flour, breadcrumbs, and Slovakian paprika."
+    },
+    {
+      "step": "2. Dip each mozzarella ball into the flour mixture, then into the beaten egg, and finally back into the flour mixture to coat."
+    },
+    {
+      "step": "3. Heat the oven to 375°F (190°C). Line a baking sheet with parchment paper."
+    },
+    {
+      "step": "4. Place the coated mozzarella balls on the prepared baking sheet and bake for 12-15 minutes, or until golden brown."
+    },
+    {
+      "step": "5. Increase the oven temperature to broil. Broil for 2-3 minutes, or until the cheese is oozy and the breadcrumbs are golden brown."
+    },
+    {
+      "step": "6. Remove from the oven and let cool for a few minutes before serving."
+    }
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "mozzarella",
+    "balls",
+    "oven",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 16,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-oozy-slovakian-mozzarella-balls-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:56:23.644Z"
+}
