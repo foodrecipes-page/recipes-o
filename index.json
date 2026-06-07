@@ -10561,16 +10561,13 @@
   },
   {
     "slug": "oven-roasted-german-chicken-stew",
-    "title": "Oven Roasted German Chicken Stew",
+    "title": "German Chicken Stew",
     "tags": [
-      "copper-pot",
-      "german-cuisine",
-      "high-protein",
-      "one-pot",
-      "post-workout",
-      "weeknight"
+      "german",
+      "chicken",
+      "stew"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "o"
   },
