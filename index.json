@@ -2431,16 +2431,14 @@
   },
   {
     "slug": "old-fashioned-australian-vegetable-casserole",
-    "title": "Old Fashioned Australian Vegetable Casserole",
+    "title": "Australian Vegetable Casserole",
     "tags": [
       "australian",
-      "casserole",
-      "comfort-food",
       "vegetarian",
-      "weeknight"
+      "casserole"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 80,
+    "cuisine": "australian",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
@@ -11203,17 +11201,16 @@
   },
   {
     "slug": "oven-roasted-japanese-citrus-kaiseki-course",
-    "title": "Oven Roasted Japanese Citrus Kaiseki Course",
+    "title": "Japanese-Style Roasted Salmon with Citrus Glaze",
     "tags": [
-      "comfort-food",
-      "japanese-cuisine",
-      "low-carb",
-      "one-pan",
-      "seafood",
-      "special-occasion"
+      "roasted",
+      "japanese",
+      "citrus",
+      "kaiseki",
+      "course"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
