@@ -1,0 +1,79 @@
+{
+  "slug": "oil-rich-saudi-arabian-chicken-pilaf",
+  "title": "Savory Chicken Pilaf",
+  "description": "A flavorful and hearty Middle Eastern-inspired dish made with chicken and pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "arabian pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "saudi spices",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade blend"
+    },
+    {
+      "name": "rich chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add pilaf to skillet and cook, stirring frequently, until lightly toasted, about 3-4 minutes.",
+    "Add broth, spices, salt, and pepper to skillet. Stir to combine.",
+    "Return chicken to skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer until chicken is cooked through and pilaf is tender, about 20-25 minutes.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "middle-eastern",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-saudi-arabian-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:43:09.570Z"
+}
