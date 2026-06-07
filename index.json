@@ -27,13 +27,12 @@
   },
   {
     "slug": "oaky-shattering-midnight-craving-french-chive-quiche",
-    "title": "Oaky Shattering Midnight Craving French Chive Quiche",
+    "title": "Midnight Quiche Delight",
     "tags": [
-      "low-fat",
-      "midnight-craving",
-      "oaky",
-      "peppery",
-      "shattering"
+      "quiche",
+      "french",
+      "cheese",
+      "dinner"
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
@@ -6615,17 +6614,17 @@
   },
   {
     "slug": "outdoor-cured-jamaican-pork-custard",
-    "title": "Outdoor Cured Jamaican Pork Custard",
+    "title": "Grilled Jamaican Pork Chops with Island Glaze and Coconut Custard",
     "tags": [
-      "custard-dish",
-      "fermented-food",
-      "jamaican-cuisine",
-      "low-sodium",
-      "outdoor-recipe",
-      "pork-recipe"
+      "grilled",
+      "jamaican",
+      "pork",
+      "caribbean",
+      "custard",
+      "dessert"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 390,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -11398,17 +11397,15 @@
   },
   {
     "slug": "oven-roasted-korean-fromage-fres-anju",
-    "title": "Oven Roasted Korean Fromage Fres Anju",
+    "title": "Korean Roasted Fromage Anju",
     "tags": [
-      "bamboo-steamer",
-      "korean-cuisine",
-      "lazy-sunday",
-      "nut-free",
-      "snack-time",
-      "vegetarian-friendly"
+      "korean",
+      "roasted",
+      "anju",
+      "comfort-food"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
