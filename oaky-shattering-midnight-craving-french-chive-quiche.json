@@ -1,0 +1,73 @@
+{
+  "slug": "oaky-shattering-midnight-craving-french-chive-quiche",
+  "title": "Midnight Quiche Delight",
+  "description": "A rich and savory quiche filled with caramelized chives and a hint of midnight cheese, perfect for a satisfying dinner.",
+  "cuisine": "French",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French pie crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Midnight cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chives, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Oaky butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Craving cream, heavy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shattering salt, to taste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Eggs, large",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the French pie crust and place in a 9-inch tart pan.",
+    "In a skillet, caramelize the chopped chives over medium heat until golden brown.",
+    "In a separate bowl, whisk together the oaky butter, craving cream, and eggs.",
+    "Sprinkle the midnight cheese over the pie crust, followed by the caramelized chives.",
+    "Pour the egg mixture over the cheese and chives.",
+    "Season with shattering salt to taste.",
+    "Bake for 35-40 minutes or until the quiche is set and golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "quiche",
+    "french",
+    "cheese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oaky-shattering-midnight-craving-french-chive-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:10:38.588Z"
+}
