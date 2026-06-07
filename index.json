@@ -3249,15 +3249,15 @@
   },
   {
     "slug": "onion-bliss-miso-soup",
-    "title": "Onion Bliss Miso Soup",
+    "title": "Miso Soup with Onion",
     "tags": [
-      "onion-bliss",
-      "miso-soup",
-      "australian-dish",
-      "sweet-juicy"
+      "soup",
+      "miso",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -3536,13 +3536,14 @@
   },
   {
     "slug": "oozing-chinese-pork-twice-cooked-pork",
-    "title": "Oozing Chinese Pork Twice Cooked Pork",
+    "title": "Twice-Cooked Pork with Oozing Sauce",
     "tags": [
       "chinese",
-      "dinner"
+      "twice-cooked-pork",
+      "oozing-sauce"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
