@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-korean-fromage-fres-anju",
+  "title": "Korean Roasted Fromage Anju",
+  "description": "A simple, comforting Korean-inspired anju recipe that combines roasted fromage with spices, perfect for a cozy evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fromage",
+      "amount": "250g",
+      "notes": "soft, creamy cheese"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the fromage into 1-inch cubes.",
+    "In a small bowl, mix together the Korean chili flakes, brown sugar, and garlic powder.",
+    "Toss the fromage cubes with the spice mixture until evenly coated.",
+    "Transfer the fromage to a baking sheet lined with parchment paper.",
+    "Brush the top of the fromage with sesame oil.",
+    "Roast in the preheated oven for 15-20 minutes, or until the fromage is golden brown and caramelized.",
+    "Remove from the oven and sprinkle with chopped cilantro (if using).",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "roasted",
+    "anju",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-korean-fromage-fres-anju",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:14:52.741Z"
+}
