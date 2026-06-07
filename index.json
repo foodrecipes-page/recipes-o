@@ -1158,16 +1158,15 @@
   },
   {
     "slug": "oil-rich-saudi-arabian-chicken-pilaf",
-    "title": "Oil Rich Saudi Arabian Chicken Pilaf",
+    "title": "Savory Chicken Pilaf",
     "tags": [
-      "chicken-dishes",
-      "diabetic-friendly",
+      "chicken",
+      "pilaf",
       "middle-eastern",
-      "one-pot",
-      "rice-bowls"
+      "dinner"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -7288,17 +7287,15 @@
   },
   {
     "slug": "outstanding-oven-roasted-mexican-beef-kidney-tacos",
-    "title": "Oven Roasted Mexican Beef Kidney Tacos",
+    "title": "Mexican Beef Tacos",
     "tags": [
-      "beef-recipes",
-      "date-night",
-      "kidney-recipes",
-      "mexican-food",
-      "oven-roasted",
-      "tacos"
+      "mexican",
+      "beef",
+      "tacos",
+      "quick-dinner"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
