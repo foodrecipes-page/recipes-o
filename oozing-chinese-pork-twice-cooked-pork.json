@@ -1,0 +1,92 @@
+{
+  "slug": "oozing-chinese-pork-twice-cooked-pork",
+  "title": "Twice-Cooked Pork with Oozing Sauce",
+  "description": "A twist on traditional Chinese pork dishes with a rich oozing sauce to add extra flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grate and add to marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Mince and add to marinade"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "To thicken oozing sauce"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For oozing sauce"
+    },
+    {
+      "name": "Oozing sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, brown sugar, rice vinegar, grated ginger, and minced garlic.",
+    "2. Add the pork pieces to the marinade and refrigerate for at least 2 hours, or overnight.",
+    "3. Preheat a wok or large skillet over medium-high heat.",
+    "4. Remove the pork from the marinade, letting any excess liquid drip off.",
+    "5. Add 1 tablespoon of oil to the wok and swirl to coat.",
+    "6. Add the pork to the wok and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "7. Remove the pork from the wok and set aside.",
+    "8. In the same wok, add the remaining 1 tablespoon of oil.",
+    "9. Add the oozing sauce and water to the wok, and whisk until smooth.",
+    "10. Bring the oozing sauce to a simmer and cook until thickened, about 2-3 minutes.",
+    "11. Return the pork to the wok and toss to coat with the oozing sauce.",
+    "12. Serve hot and garnish with green onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "twice-cooked-pork",
+    "oozing-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-chinese-pork-twice-cooked-pork",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:27:24.763Z"
+}
