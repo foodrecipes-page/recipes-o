@@ -1,0 +1,82 @@
+{
+  "slug": "oven-smoked-malaysian-lamb-kidney-satay",
+  "title": "Lamb Satay",
+  "description": "A traditional Malaysian dish of marinated meat skewers, typically served with spicy peanut sauce. This recipe is perfect for a dinner party or special occasion.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together soy sauce, coconut milk, brown sugar, garlic, ginger, and coriander.",
+    "3. Add the lamb cubes to the marinade and mix well to coat.",
+    "4. Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Place the skewers on a baking sheet lined with parchment paper.",
+    "6. Bake the satay in the preheated oven for 12-15 minutes, or until cooked through.",
+    "7. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "malaysian",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoked-malaysian-lamb-kidney-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:55:51.120Z"
+}
