@@ -7534,17 +7534,16 @@
   },
   {
     "slug": "outstandingly-fluffy-egyptian-duck-pilaf",
-    "title": "Outstandingly Fluffy Egyptian Duck Pilaf",
+    "title": "Egyptian Duck Pilaf",
     "tags": [
-      "cauliflower-rice-dishes",
-      "duck-fat-recipes",
-      "egyptian-cuisine",
-      "fluffy-pilaf",
-      "midnight-cravings",
-      "paleo-friendly"
+      "european",
+      "egyptian",
+      "pilaf",
+      "duck",
+      "rice"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -8423,17 +8422,16 @@
   },
   {
     "slug": "oven-baked-oozy-slovakian-mozzarella-balls-bake",
-    "title": "Oven-Baked Oozy Slovakian Mozzarella Balls Bake",
+    "title": "Slovakian Mozzarella Balls",
     "tags": [
-      "crowd-pleaser",
-      "lazy-susan-spinner",
-      "mozzarella-balls",
-      "oven-baked",
       "slovakian",
-      "vegetarian"
+      "mozzarella",
+      "balls",
+      "oven",
+      "baked"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -9084,19 +9082,15 @@
   },
   {
     "slug": "oven-grilled-chinese-tofu-bao",
-    "title": "oven-grilled chinese tofu bao",
+    "title": "Grilled Bao Tofu",
     "tags": [
-      "bao",
       "chinese",
-      "date-night",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "grilled",
+      "tofu",
+      "bao"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -13747,17 +13741,14 @@
   },
   {
     "slug": "oven-smoked-malaysian-lamb-kidney-satay",
-    "title": "Oven-Smoked Malaysian Lamb Kidney Satay",
+    "title": "Lamb Satay",
     "tags": [
-      "fatty",
-      "hangover-cure",
       "lamb",
       "malaysian",
-      "nut-free",
-      "oven-smoked"
+      "grilling"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
