@@ -1,0 +1,83 @@
+{
+  "slug": "outdoor-cured-jamaican-pork-custard",
+  "title": "Grilled Jamaican Pork Chops with Island Glaze and Coconut Custard",
+  "description": "A Caribbean-inspired pork chop dish featuring a sweet and tangy island glaze served with a side of creamy coconut custard. Perfect for a summer evening.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork chops with Jamaican jerk seasoning.",
+    "Grill pork chops for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, mix honey and coconut milk in a small saucepan.",
+    "Bring mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Stir in shredded coconut and cook for an additional 1-2 minutes.",
+    "To make coconut custard, combine coconut milk, egg, and vanilla extract in a blender.",
+    "Blend until smooth and pour into individual serving cups.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve grilled pork chops with island glaze and coconut custard on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "jamaican",
+    "pork",
+    "caribbean",
+    "custard",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-cured-jamaican-pork-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:09:22.915Z"
+}
