@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-japanese-citrus-kaiseki-course",
+  "title": "Japanese-Style Roasted Salmon with Citrus Glaze",
+  "description": "A delicate and flavorful kaiseki-inspired dish featuring roasted salmon glazed with a sweet and tangy citrus sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet (6 oz)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "freshly squeezed orange juice",
+      "amount": "2 tbsp",
+      "notes": "about 30 ml"
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "amount": "2 tbsp",
+      "notes": "about 30 ml"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "about 5 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "about 5 ml"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "about 5 ml"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "about 30 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "Place the salmon fillet on the prepared baking sheet.",
+    "Drizzle the olive oil over the salmon, then sprinkle with thyme leaves.",
+    "Season the salmon with salt and pepper to taste.",
+    "Roast the salmon in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the salmon is cooking, prepare the citrus glaze by whisking together the orange juice, lemon juice, honey, soy sauce, and brown sugar in a small bowl.",
+    "Remove the salmon from the oven and brush the citrus glaze over the top of the fish.",
+    "Return the salmon to the oven and continue roasting for an additional 2-3 minutes, or until the glaze is caramelized and sticky.",
+    "Remove the salmon from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "roasted",
+    "japanese",
+    "citrus",
+    "kaiseki",
+    "course"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-japanese-citrus-kaiseki-course",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:44:48.589Z"
+}
