@@ -9684,17 +9684,15 @@
   },
   {
     "slug": "oven-roasted-canadian-baby-aubergine-gratin",
-    "title": "Oven Roasted Canadian Baby Aubergine Gratin",
+    "title": "Canadian Aubergine Gratin",
     "tags": [
-      "canadian-cuisine",
-      "low-glycemic",
-      "one-pan",
-      "romantic-dinner",
-      "slow-cooked",
+      "aubergine",
+      "canadian",
+      "gratin",
       "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
