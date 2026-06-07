@@ -1,0 +1,85 @@
+{
+  "slug": "oven-grilled-chinese-tofu-bao",
+  "title": "Grilled Bao Tofu",
+  "description": "A simple and delicious Chinese-inspired dish made with crispy grilled tofu and soft bao buns. Perfect for a quick and easy meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "bao buns",
+      "amount": "4-6",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the tofu into small cubes and place on a baking sheet lined with parchment paper.",
+    "Drizzle the tofu with sesame oil and sprinkle with garlic powder. Toss to coat.",
+    "Bake the tofu in the oven for 20-25 minutes, or until crispy on the outside and golden brown.",
+    "While the tofu is baking, mix together the soy sauce, honey, and rice vinegar in a small bowl.",
+    "Once the tofu is done, remove it from the oven and brush with the soy sauce mixture.",
+    "Split the bao buns in half and toast until lightly browned.",
+    "Assemble the bao buns by placing a few pieces of the grilled tofu inside each bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "grilled",
+    "tofu",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-grilled-chinese-tofu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:52:27.365Z"
+}
