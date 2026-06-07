@@ -1,0 +1,78 @@
+{
+  "slug": "oven-roasted-canadian-baby-aubergine-gratin",
+  "title": "Canadian Aubergine Gratin",
+  "description": "A roasted vegetable gratin dish featuring Canadian aubergine.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby aubergine",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Oven",
+      "amount": "",
+      "notes": "for baking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the baby aubergine in half lengthwise and place on a baking sheet.",
+    "Brush the aubergine with olive oil and season with salt and black pepper.",
+    "Roast the aubergine in the oven for 20-25 minutes, or until tender.",
+    "While the aubergine is roasting, mix the grated cheese with minced garlic.",
+    "Once the aubergine is done, remove it from the oven and top each half with the cheese mixture.",
+    "Return the aubergine to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove the aubergine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine",
+    "canadian",
+    "gratin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-canadian-baby-aubergine-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:34:11.472Z"
+}
