@@ -1,0 +1,89 @@
+{
+  "slug": "outstanding-oven-roasted-mexican-beef-kidney-tacos",
+  "title": "Mexican Beef Tacos",
+  "description": "A flavorful and spicy dish, perfect for a quick dinner. This recipe serves 4-6 people and can be customized to your taste.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "seasoned with taco seasoning"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the taco seasoning, chili powder, and cumin to the skillet and cook for 1 minute.",
+    "Add the beef kidney to the skillet and cook until browned, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla and topping with shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-mexican-beef-kidney-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:46:42.042Z"
+}
