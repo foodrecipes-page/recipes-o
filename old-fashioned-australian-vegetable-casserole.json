@@ -1,0 +1,89 @@
+{
+  "slug": "old-fashioned-australian-vegetable-casserole",
+  "title": "Australian Vegetable Casserole",
+  "description": "A hearty and comforting casserole filled with the flavors of Australia, perfect for a weeknight dinner. This recipe combines the richness of old-fashioned vegetables with the fresh taste of Australian produce.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "old-fashioned carrots",
+      "amount": "2 cups",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "australian zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "australian eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pot, heat the oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots, sliced zucchini, sliced eggplant, and chopped potatoes to the pot. Cook for an additional 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with the cheddar cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-australian-vegetable-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:51:03.531Z"
+}
