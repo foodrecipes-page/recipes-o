@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-german-chicken-stew",
+  "title": "German Chicken Stew",
+  "description": "A hearty and flavorful stew made with tender chicken, potatoes, and vegetables, inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dredging chicken"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chicken with salt and pepper.",
+    "Dredge the chicken in flour, shaking off excess.",
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and carrots until tender, about 8 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the potatoes, beef broth, thyme, and browned chicken back into the pot.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and the potatoes are tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-german-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:13:04.105Z"
+}
