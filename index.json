@@ -8747,16 +8747,17 @@
   },
   {
     "slug": "oven-charred-norwegian-udon-noodles",
-    "title": "Oven Charred Norwegian Udon Noodles",
+    "title": "Charred Norwegian Udon Noodles",
     "tags": [
-      "low-carb",
-      "norwegian-cuisine",
-      "one-pan",
-      "oven-baked",
-      "seafood"
+      "asian",
+      "salmon",
+      "udon",
+      "noodles",
+      "soy sauce",
+      "ginger"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -9323,17 +9324,15 @@
   },
   {
     "slug": "oven-roasted-american-vegetable-stew",
-    "title": "Oven Roasted American Vegetable Stew",
+    "title": "Roasted Vegetable Stew",
     "tags": [
-      "american-cuisine",
-      "flexitarian",
-      "one-pot",
-      "oven-roasted",
+      "stew",
+      "roasted",
       "vegetarian",
-      "wine-based"
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
