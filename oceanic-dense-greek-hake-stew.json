@@ -1,0 +1,85 @@
+{
+  "slug": "oceanic-dense-greek-hake-stew",
+  "title": "Hake Stew",
+  "description": "A hearty, comforting stew made with tender hake, fresh vegetables, and a hint of Greek flair.",
+  "cuisine": "Greek",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "400g",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Greek olives",
+      "amount": "100g",
+      "notes": "Pitted, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dense red wine",
+      "amount": "1/4 cup",
+      "notes": "Red wine, full-bodied"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil over medium heat.",
+    "Add chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add chopped carrots and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add tomato paste and stir for 1 minute, until absorbed.",
+    "Add Greek olives, salt, and pepper, and stir to combine.",
+    "Add hake fillets and pour in the dense red wine.",
+    "Bring the stew to a simmer, then cover and cook for 15-20 minutes, or until the fish is cooked through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "fish",
+    "stew",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-dense-greek-hake-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:19:42.905Z"
+}
