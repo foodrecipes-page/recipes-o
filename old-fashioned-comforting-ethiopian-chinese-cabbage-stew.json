@@ -1,0 +1,66 @@
+{
+  "slug": "old-fashioned-comforting-ethiopian-chinese-cabbage-stew",
+  "title": "Hearty Stew",
+  "description": "A comforting stew with a mix of tender cabbage and rich beef, perfect for a chilly evening.",
+  "cuisine": "comforting",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Old Fashioned Stew Beef",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage, chopped",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Chinese Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Berbere Spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the stew beef, then set aside.",
+    "Add more oil if needed, then cook the chopped cabbage until tender.",
+    "Return the browned beef to the pot, stirring to combine.",
+    "Add soy sauce, berbere spice, salt, and pepper; stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1.5 hours.",
+    "Check the beef for tenderness, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting-stew",
+    "beef-stew",
+    "cabbage-stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-comforting-ethiopian-chinese-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:06:24.751Z"
+}
