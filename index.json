@@ -11722,17 +11722,16 @@
   },
   {
     "slug": "oven-roasted-mexican-kabocha-tacos-al-pastor",
-    "title": "Oven Roasted Mexican Kabocha Tacos Al Pastor",
+    "title": "Roasted Kabocha Tacos",
     "tags": [
-      "mexican-cuisine",
-      "midnight-cravings",
-      "pandan-leaves",
-      "roasted-vegetables",
-      "tacos-al-pastor",
-      "vegan-friendly"
+      "oven",
+      "roasted",
+      "mexican",
+      "kabocha",
+      "tacos"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
