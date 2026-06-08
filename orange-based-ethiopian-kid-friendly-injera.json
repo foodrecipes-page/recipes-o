@@ -1,0 +1,72 @@
+{
+  "slug": "orange-based-ethiopian-kid-friendly-injera",
+  "title": "Ethiopian Injera Pancakes",
+  "description": "A traditional Ethiopian flatbread, adapted into a delicious and easy-to-make pancake recipe. Perfect for kids and adults alike.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow cornmeal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, cornmeal, sugar, baking powder, and salt.",
+    "Gradually add water and orange juice, stirring with a wooden spoon until smooth.",
+    "The batter should be slightly thick and have a consistency similar to pancake batter.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the injera pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings, such as fruit or honey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "injera",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-based-ethiopian-kid-friendly-injera",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:14:45.566Z"
+}
