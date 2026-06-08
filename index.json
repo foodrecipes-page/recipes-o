@@ -10798,16 +10798,15 @@
   },
   {
     "slug": "oven-roasted-indulgent-mexican-guanciale-tacos",
-    "title": "Oven-Roasted Indulgent Mexican Guanciale Tacos",
+    "title": "Mexican Guanciale Tacos",
     "tags": [
-      "guanciale",
-      "indulgent",
       "mexican",
-      "sonoran",
+      "oven-roasted",
+      "indulgent",
       "tacos"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
