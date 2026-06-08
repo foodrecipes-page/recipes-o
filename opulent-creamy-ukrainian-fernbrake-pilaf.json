@@ -1,0 +1,78 @@
+{
+  "slug": "opulent-creamy-ukrainian-fernbrake-pilaf",
+  "title": "Ukrainian Fernbrake Pilaf Casserole",
+  "description": "A hearty casserole combining creamy pilaf with fernbrake and ukrainian flavors. A satisfying, comforting meal for any time of the year.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fernbrake",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Creamy Pilaf",
+      "amount": "2 cups, cooked"
+    },
+    {
+      "name": "Ukrainian Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the Ukrainian sausage in a large skillet over medium-high heat until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same skillet, add butter and sauté the sliced fernbrake until tender, about 5 minutes.",
+    "Add chopped onion and minced garlic to the skillet and continue to cook until the onion is translucent, about 3-4 minutes.",
+    "Stir in cooked pilaf, cooked Ukrainian sausage, salt, and black pepper. Cook for an additional 2-3 minutes.",
+    "Transfer the pilaf mixture to a 9x13 inch baking dish and top with chopped fresh dill.",
+    "Bake in preheated oven for 20-25 minutes, or until the top is lightly browned and the casserole is heated through.",
+    "Serve hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "comfort-food",
+    "casserole",
+    "pilaf",
+    "fernbrake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/opulent-creamy-ukrainian-fernbrake-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:38:57.825Z"
+}
