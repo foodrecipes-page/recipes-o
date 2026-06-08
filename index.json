@@ -390,17 +390,15 @@
   },
   {
     "slug": "oceanic-dense-greek-hake-stew",
-    "title": "Oceanic Dense Greek Hake Stew",
+    "title": "Hake Stew",
     "tags": [
-      "coconut-cream",
-      "fish-stew",
-      "greek-cuisine",
-      "mediterranean-diet",
-      "one-pot",
-      "pescatarian"
+      "greek",
+      "fish",
+      "stew",
+      "comforting"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -2339,17 +2337,15 @@
   },
   {
     "slug": "oily-velvety-spanish-seafood-fideua",
-    "title": "Oily Velvety Spanish Seafood Fideua",
+    "title": "Spanish Seafood Paella",
     "tags": [
-      "emulsified-sauce",
-      "galician",
-      "one-pan",
-      "seafood",
       "spanish",
-      "special-occasion"
+      "seafood",
+      "paella",
+      "lunch"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -6033,18 +6029,15 @@
   },
   {
     "slug": "orange-based-ethiopian-kid-friendly-injera",
-    "title": "Orange-Based Ethiopian Kid-Friendly Injera",
+    "title": "Ethiopian Injera Pancakes",
     "tags": [
+      "breakfast",
       "ethiopian",
-      "flambe",
       "injera",
-      "kid-friendly",
-      "lacto-vegetarian",
-      "one-pan",
-      "orange"
+      "kid-friendly"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 36,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -6644,17 +6637,16 @@
   },
   {
     "slug": "outdoor-grilled-australian-blackberry-skewers",
-    "title": "Outdoor Grilled Australian Blackberry Skewers",
+    "title": "Grilled Australian Blackberry Skewers",
     "tags": [
-      "australian-cuisine",
-      "gluten-free",
-      "grilled-fruit",
-      "high-protein",
-      "outdoor-cooking",
-      "vegetarian-friendly"
+      "grilled",
+      "outdoor",
+      "australian",
+      "skewers",
+      "blackberry"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
@@ -13298,18 +13290,16 @@
   },
   {
     "slug": "oven-roasted-ukrainian-barley-pilaf",
-    "title": "Oven Roasted Ukrainian Barley Pilaf",
+    "title": "Ukrainian Barley Pilaf",
     "tags": [
-      "dairy-free",
-      "easy",
-      "malty",
-      "one-pan",
-      "snappy",
       "ukrainian",
-      "weeknight"
+      "barley",
+      "pilaf",
+      "roasted",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
