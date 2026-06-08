@@ -1,0 +1,82 @@
+{
+  "slug": "outdoor-grilled-australian-blackberry-skewers",
+  "title": "Grilled Australian Blackberry Skewers",
+  "description": "A sweet and savory outdoor recipe featuring grilled Australian blackberry skewers. Perfect for a quick and easy dinner.",
+  "cuisine": "Australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian blackberries",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Vegetables (bell peppers, onions, mushrooms)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Australian bush tomato sauce (or your favorite BBQ sauce)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the pork tenderloin into 1-inch pieces and thread onto skewers with vegetables, leaving a little space between each piece.",
+    "In a small bowl, mix together olive oil, salt, pepper, honey, and garlic powder.",
+    "Brush the mixture onto the pork and vegetables.",
+    "Grill for 8-10 minutes, turning occasionally, until the pork is cooked through.",
+    "Brush with Australian bush tomato sauce (or your favorite BBQ sauce) during the last 2 minutes of grilling.",
+    "Serve hot with grilled blackberries on the side.",
+    "Note: If using blackberries, brush with honey and grill for 2-3 minutes, until caramelized."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "outdoor",
+    "australian",
+    "skewers",
+    "blackberry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-grilled-australian-blackberry-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:38:12.852Z"
+}
