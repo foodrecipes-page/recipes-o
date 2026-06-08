@@ -1,0 +1,82 @@
+{
+  "slug": "oven-roasted-american-vegetable-stew",
+  "title": "Roasted Vegetable Stew",
+  "description": "A hearty, flavorful stew made with roasted vegetables and a hint of American spices.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the carrots, potatoes, onions, garlic, zucchini, and red bell pepper with olive oil, salt, black pepper, and dried thyme.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 25-30 minutes, or until tender.",
+    "In a large pot, combine the roasted vegetables, 4 cups of vegetable broth, and 1 cup of water.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the flavors have melded together.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "roasted",
+    "vegetarian",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-american-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:29:14.138Z"
+}
