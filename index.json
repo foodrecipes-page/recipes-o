@@ -2452,16 +2452,14 @@
   },
   {
     "slug": "old-fashioned-comforting-ethiopian-chinese-cabbage-stew",
-    "title": "Ethiopian Chinese Cabbage Stew",
+    "title": "Hearty Stew",
     "tags": [
-      "comfort-food",
-      "ethnic-fusion",
-      "healthy-dinner",
-      "low-fat",
-      "one-pot"
+      "comforting-stew",
+      "beef-stew",
+      "cabbage-stew"
     ],
-    "cuisine": "Ethiopian Chinese",
-    "totalTimeMin": 50,
+    "cuisine": "comforting",
+    "totalTimeMin": 105,
     "shard": "o"
   },
   {
