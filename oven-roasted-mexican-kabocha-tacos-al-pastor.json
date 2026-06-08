@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-mexican-kabocha-tacos-al-pastor",
+  "title": "Roasted Kabocha Tacos",
+  "description": "A delicious and unique twist on traditional tacos, featuring roasted kabocha squash.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": null
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the kabocha squash in half and scoop out the seeds. Place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with chili powder, cumin, salt, and pepper.",
+    "Roast in the preheated oven for 45-50 minutes, or until the squash is tender.",
+    "While the squash is roasting, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the squash is done, let it cool slightly before scooping the flesh into a bowl.",
+    "Add a spoonful of the roasted squash to each tortilla, followed by your desired toppings (such as chopped cilantro, a squeeze of lime juice, etc.).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oven",
+    "roasted",
+    "mexican",
+    "kabocha",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-kabocha-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:40:07.083Z"
+}
