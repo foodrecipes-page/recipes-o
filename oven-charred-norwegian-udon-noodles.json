@@ -1,0 +1,82 @@
+{
+  "slug": "oven-charred-norwegian-udon-noodles",
+  "title": "Charred Norwegian Udon Noodles",
+  "description": "A simple Asian-inspired dish featuring udon noodles, charred Norwegian salmon, and a hint of soy sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Udon noodles",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and place the salmon fillets on it.",
+    "Drizzle the vegetable oil over the salmon and season with salt and pepper.",
+    "Bake the salmon in the oven for 12-15 minutes or until cooked through.",
+    "While the salmon is baking, cook the udon noodles according to package instructions.",
+    "In a small saucepan, combine soy sauce, brown sugar, and grated ginger.",
+    "Bring the mixture to a simmer over medium heat and cook for 2-3 minutes or until slightly thickened.",
+    "To assemble the dish, place the cooked noodles on a plate, top with a charred salmon fillet, and drizzle with the soy sauce glaze.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "salmon",
+    "udon",
+    "noodles",
+    "soy sauce",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-charred-norwegian-udon-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:15:49.088Z"
+}
