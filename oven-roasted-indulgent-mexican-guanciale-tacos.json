@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-indulgent-mexican-guanciale-tacos",
+  "title": "Mexican Guanciale Tacos",
+  "description": "Indulge in the rich flavors of Mexico with these oven-baked tacos featuring crispy guanciale and fresh cilantro.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Guanciale",
+      "amount": "1/4 cup, diced"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "8 ounces (optional)"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "8 ounces (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Wrap corn tortillas in a damp paper towel and microwave for 20-30 seconds.",
+    "In a large pan, cook the diced guanciale over medium heat until crispy.",
+    "Add diced roasted sweet potatoes to the pan and cook until heated through.",
+    "Season with cumin and black pepper.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning the guanciale and sweet potato mixture onto a tortilla, followed by a sprinkle of cilantro and a squeeze of lime juice.",
+    "Serve with sour cream and shredded cheese on the side (if using).",
+    "Garnish with additional cilantro and a sprinkle of queso fresco (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "oven-roasted",
+    "indulgent",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indulgent-mexican-guanciale-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:23:29.659Z"
+}
