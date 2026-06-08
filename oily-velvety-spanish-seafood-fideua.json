@@ -1,0 +1,72 @@
+{
+  "slug": "oily-velvety-spanish-seafood-fideua",
+  "title": "Spanish Seafood Paella",
+  "description": "A classic Spanish dish from the Valencia region, made with seafood, rice, and a flavorful oil.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish-friendly",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oily vegetables (e.g. artichokes)",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Seafood mix (shrimp, mussels, clams)",
+      "amount": "1 pound",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Fideua",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Velvety sauce (e.g. romesco)",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add vegetables and cook until tender.",
+    "Add seafood and cook until it starts to brown.",
+    "Add rice, fideua, and vegetable oil. Cook for 1-2 minutes.",
+    "Add water or broth to the paella pan and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes.",
+    "Stir in velvety sauce and cook for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "paella",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-velvety-spanish-seafood-fideua",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:11:43.509Z"
+}
