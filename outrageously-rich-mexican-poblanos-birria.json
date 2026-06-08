@@ -1,0 +1,104 @@
+{
+  "slug": "outrageously-rich-mexican-poblanos-birria",
+  "title": "Poblanos Birria Tacos",
+  "description": "A Mexican dish featuring slow-cooked birria-style short ribs in a rich, spicy sauce, served with tender poblanos and warm tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork short ribs",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "ancho chilies",
+      "amount": "2 dried",
+      "notes": null
+    },
+    {
+      "name": "poblanos",
+      "amount": "2 large",
+      "notes": "roasted, peeled, and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 in adobo sauce",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the short ribs with salt, cumin, and oregano.",
+    "Heat 2 tablespoons of oil in a Dutch oven over medium-high heat. Sear the short ribs until browned, about 2-3 minutes per side. Transfer the ribs to a plate and set aside.",
+    "Add the diced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ancho chilies, chipotle peppers, and tomato paste to the pot. Cook for 1 minute, stirring constantly.",
+    "Add 2 cups of beef broth to the pot and stir to combine.",
+    "Return the short ribs to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the preheated oven and braise the short ribs for 2 1/2 hours, or until tender.",
+    "While the short ribs are braising, roast the poblanos in the oven until charred and blistered, about 20-25 minutes.",
+    "Peel the poblanos and chop them into large pieces.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Shred the short ribs with two forks and serve with the roasted poblanos, warm tortillas, and your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "tacos",
+    "mexican",
+    "pork",
+    "birria",
+    "poblanos"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 30,
+    "fat": 55
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-rich-mexican-poblanos-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:22:20.250Z"
+}
