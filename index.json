@@ -4703,16 +4703,15 @@
   },
   {
     "slug": "oozy-glassy-ukrainian-beef-bisque",
-    "title": "Ukrainian Beef Bisque",
+    "title": "Beef and Bisque Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pot",
-      "ukrainian-cuisine"
+      "beef",
+      "stew",
+      "bisque",
+      "comfort-food"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "cuisine": "European",
+    "totalTimeMin": 135,
     "shard": "o"
   },
   {
