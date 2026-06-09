@@ -4244,16 +4244,14 @@
   },
   {
     "slug": "oozy-chinese-garlic-congee",
-    "title": "Oozy Chinese Garlic Congee",
+    "title": "Garlic Congee",
     "tags": [
-      "flakycongee",
-      "garlicpowder",
-      "quickmeal",
-      "vegetarian",
-      "weeknightdish"
+      "chinese-food",
+      "comfort-food",
+      "breakfast-ideas"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -10666,17 +10664,16 @@
   },
   {
     "slug": "oven-roasted-greek-lamb-kleftiko",
-    "title": "Oven Roasted Greek Lamb Kleftiko",
+    "title": "Traditional Greek Kleftiko",
     "tags": [
-      "greek-cuisine",
-      "high-protein",
-      "lamb-recipes",
-      "one-pan",
-      "weeknight",
-      "whole30-recipes"
+      "lamb",
+      "kleftiko",
+      "greece",
+      "slow-cooked",
+      "roasted"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 200,
+    "totalTimeMin": 270,
     "shard": "o"
   },
   {
