@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-dutch-chicken-stew",
+  "title": "Dutch Oven Chicken Stew",
+  "description": "A hearty and comforting stew cooked to perfection in a Dutch oven. This recipe is perfect for a cold winter's night.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "dutch oven",
+      "amount": "",
+      "notes": "large, heavy pot with a tight-fitting lid"
+    },
+    {
+      "name": "oven",
+      "amount": "",
+      "notes": "preheated to 300°F (150°C)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the chicken breasts with salt, pepper, and stew seasoning.",
+    "In the Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon from the pot and set aside.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Add the chicken breasts to the pot and cook until browned on all sides.",
+    "Add the carrots, potatoes, and chicken broth to the pot. Stir to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 45 minutes or until the chicken is cooked through and the vegetables are tender.",
+    "Remove the pot from the oven and stir in the cooked bacon.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "oven",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 44,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-dutch-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:20:16.894Z"
+}
