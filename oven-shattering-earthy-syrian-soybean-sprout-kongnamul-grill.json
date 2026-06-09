@@ -1,0 +1,81 @@
+{
+  "slug": "oven-shattering-earthy-syrian-soybean-sprout-kongnamul-grill",
+  "title": "Grilled Korean-Style Soybean Sprouts with Earthy Notes",
+  "description": "A flavorful and nutritious side dish featuring soybean sprouts, earthy undertones, and a hint of Syrian spice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Soybean sprouts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Oven-roasted soybeans",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Kongnamul (Korean soybean paste)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Syrian za'atar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Earthy sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality sesame oil for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Grilled portobello mushrooms",
+      "amount": "2",
+      "notes": "Optional, for added earthy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C) for the soybeans.",
+    "Roast the soybeans in the oven for 10-12 minutes, or until fragrant and lightly browned.",
+    "In a separate pan, heat the sesame oil over medium heat.",
+    "Add the soybean paste, za'atar, and a pinch of salt to the pan. Stir to combine.",
+    "Add the soybean sprouts to the pan and stir to coat with the sauce.",
+    "If using mushrooms, slice them and add to the pan for the last 2 minutes of cooking.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "gluten-free",
+    "vegetarian",
+    "soybean",
+    "sprouts"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-shattering-earthy-syrian-soybean-sprout-kongnamul-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:40:58.937Z"
+}
