@@ -1,0 +1,67 @@
+{
+  "slug": "oozy-argentinian-egg-frittata",
+  "title": "Argentinian Frittata with Oozy Egg",
+  "description": "A twist on the classic Italian dish, this Argentinian-inspired frittata features oozy eggs and a flavorful blend of ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oozy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian",
+      "amount": "1/2 cup",
+      "notes": "Diced ham or chorizo"
+    },
+    {
+      "name": "Egg",
+      "amount": "6",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Frittata",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a bowl and set aside.",
+    "Heat a skillet over medium heat and add Argentinian diced ham or chorizo.",
+    "Cook until browned, breaking up with a spoon as needed.",
+    "Add Oozy to the skillet and stir to combine.",
+    "Pour whisked eggs over the skillet mixture and cook until almost set.",
+    "Transfer the skillet to the oven and bake for 10-12 minutes, or until the eggs are fully set.",
+    "Remove from oven and let cool for a minute or two.",
+    "Slice and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "easy",
+    "egg",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-argentinian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:26:21.672Z"
+}
