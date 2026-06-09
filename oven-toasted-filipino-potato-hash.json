@@ -1,0 +1,75 @@
+{
+  "slug": "oven-toasted-filipino-potato-hash",
+  "title": "Filipino-Style Hash Browns",
+  "description": "A crispy and flavorful side dish inspired by Filipino cuisine, made with shredded potatoes and onions.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the grated potatoes, onion, and garlic.",
+    "Season the mixture with salt and pepper to taste.",
+    "Heat the olive oil in a large oven-safe skillet over medium heat.",
+    "Add the potato mixture to the skillet and flatten it with a spatula.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until golden brown and crispy.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to break up the hash browns into smaller pieces.",
+    "Serve the hash browns hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "potato",
+    "side-dish",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-toasted-filipino-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:46:16.874Z"
+}
