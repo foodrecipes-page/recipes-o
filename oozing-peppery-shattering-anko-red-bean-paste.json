@@ -1,0 +1,83 @@
+{
+  "slug": "oozing-peppery-shattering-anko-red-bean-paste",
+  "title": "Shattering Oozing Mochi",
+  "description": "A unique dessert featuring a shattering exterior and an oozing anko center. This Japanese-inspired treat combines the textures of crunchy and gooey for a fascinating culinary experience.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Glutinous Rice Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red Bean Paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Peppery Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shattering Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Anko Paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Oozing Mochi Coating",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine glutinous rice flour, granulated sugar, and shattering sugar.",
+    "2. Gradually add water to the bowl and mix until a dough forms.",
+    "3. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "4. Divide the dough into small balls and flatten each ball into a disk shape.",
+    "5. Place a spoonful of red bean paste in the center of each disk.",
+    "6. Fold the dough over the filling and press the edges to seal the mochi.",
+    "7. Heat the soy milk in a saucepan over medium heat until it starts to simmer.",
+    "8. Add the peppery sesame oil to the soy milk and stir to combine.",
+    "9. Dip each mochi into the soy milk mixture and coat evenly.",
+    "10. Place the coated mochi on a baking sheet lined with parchment paper.",
+    "11. Chill the mochi in the refrigerator for at least 30 minutes.",
+    "12. Serve the shattering oozing mochi chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "mochi",
+    "dessert",
+    "japanese",
+    "red-bean-paste"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-peppery-shattering-anko-red-bean-paste",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:29:00.885Z"
+}
