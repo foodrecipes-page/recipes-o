@@ -8207,15 +8207,15 @@
   },
   {
     "slug": "oven-baked-egyptian-cheese-tagine",
-    "title": "Oven-Baked Egyptian Cheese Tagine",
+    "title": "Baked Egyptian Tagine",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "baked",
+      "egyptian",
+      "cheese",
+      "tagine"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
@@ -12608,21 +12608,16 @@
   },
   {
     "slug": "oven-roasted-smoky-argentinian-meal-prep-bowl",
-    "title": "Oven-roasted Smoky Argentinian Meal-prep Bowl",
+    "title": "Argentinian Smoked Roasted Meal Bowl",
     "tags": [
       "argentinian",
-      "chickpea",
-      "chorizo",
-      "gluten-free",
-      "high-protein",
-      "ovroasted",
-      "quinoa",
-      "smoked-paprika",
-      "vegetarian",
-      "weeknight"
+      "smoked",
+      "roasted",
+      "meal",
+      "bowl"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
