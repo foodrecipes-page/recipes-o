@@ -1,0 +1,69 @@
+{
+  "slug": "oil-fried-crisp-malaysian-tofu-noodles",
+  "title": "Malaysian Fried Noodle Stir Fry",
+  "description": "A simple and flavorful stir-fry dish made with fried noodles, tofu, and malaysian spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fried noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "150g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "crisp",
+      "amount": "2 cups",
+      "notes": "fry until golden brown for garnish"
+    },
+    {
+      "name": "Malaysian spice blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add tofu and stir-fry until golden brown, about 3-4 minutes.",
+    "Add fried noodles and stir-fry for 2 minutes.",
+    "Add Malaysian spice blend and stir-fry for 1 minute.",
+    "Add crisp and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Transfer to a serving platter and garnish with additional crisp if desired.",
+    "Serve immediately.",
+    "Garnish with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "stir-fry",
+    "noodles",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-fried-crisp-malaysian-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:59:12.993Z"
+}
