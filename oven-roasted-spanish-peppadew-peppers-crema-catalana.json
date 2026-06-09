@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-spanish-peppadew-peppers-crema-catalana",
+  "title": "Peppadew and Pepper Catalana Tart",
+  "description": "A flavorful and spicy tart originating from the Spanish cuisine, perfect for a dinner or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Peppadew peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Catalana crema",
+      "amount": "1 cup",
+      "notes": "or substitute with heavy cream"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1/2 cup",
+      "notes": "Manchego or Parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough and place it in a tart pan.",
+    "In a pan, sauté the chopped onion and minced garlic until softened.",
+    "Add the roasted Peppadew peppers and bell peppers to the pan and cook for 5 minutes.",
+    "Stir in the tomato paste and cook for 1-2 minutes.",
+    "Spread the cooked vegetable mixture evenly over the pastry dough.",
+    "Drizzle the Catalana crema over the vegetables.",
+    "Top with grated cheese.",
+    "Bake the tart in the preheated oven for 25-30 minutes, or until the crust is golden brown.",
+    "Let the tart cool before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "oven-roasted",
+    "vegetarian",
+    "tart",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spanish-peppadew-peppers-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:13:19.813Z"
+}
