@@ -1,0 +1,54 @@
+{
+  "slug": "oozy-chinese-garlic-congee",
+  "title": "Garlic Congee",
+  "description": "A comforting Chinese rice porridge made with garlic. A simple and soothing dish to warm your belly.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the congee and soak it in water for 4 hours or overnight.",
+    "Drain and rinse the congee again.",
+    "In a medium saucepan, combine the congee, garlic, and 2 cups of water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir occasionally to prevent the congee from sticking to the bottom of the pan.",
+    "Season with salt to taste.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "comfort-food",
+    "breakfast-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-chinese-garlic-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:16:21.595Z"
+}
