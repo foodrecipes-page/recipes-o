@@ -1,0 +1,94 @@
+{
+  "slug": "oven-baked-egyptian-cheese-tagine",
+  "title": "Baked Egyptian Tagine",
+  "description": "A unique twist on traditional tagine recipes, this Egyptian-inspired dish features a rich and flavorful cheese sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "Cheddar or Mozzarella work well"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": "Day-old bread is best"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the eggplant into 1-inch pieces and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with salt. Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large skillet, sauté the chopped onion and minced garlic until softened.",
+    "Add the diced tomato, ground cumin, smoked paprika, salt, and pepper. Cook for 5-7 minutes.",
+    "In a large bowl, combine the roasted eggplant, cooked onion mixture, and shredded cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "egyptian",
+    "cheese",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-egyptian-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:40:18.272Z"
+}
