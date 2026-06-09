@@ -4049,17 +4049,16 @@
   },
   {
     "slug": "oozy-argentinian-egg-frittata",
-    "title": "Oozy Argentinian Egg Frittata",
+    "title": "Argentinian Frittata with Oozy Egg",
     "tags": [
-      "argentinian-cuisine",
-      "brunch-recipe",
-      "cheese-lovers",
-      "easy-meal",
-      "one-pan-dish",
-      "weekend-meal"
+      "argentinian",
+      "breakfast",
+      "easy",
+      "egg",
+      "frittata"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -9997,17 +9996,15 @@
   },
   {
     "slug": "oven-roasted-dutch-chicken-stew",
-    "title": "Oven Roasted Dutch Chicken Stew",
+    "title": "Dutch Oven Chicken Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "dutch-cuisine",
-      "low-carb",
-      "one-pot",
-      "oven-roasted"
+      "chicken",
+      "stew",
+      "oven",
+      "comfort food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "cuisine": "American",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
@@ -13636,19 +13633,17 @@
   },
   {
     "slug": "oven-shattering-earthy-syrian-soybean-sprout-kongnamul-grill",
-    "title": "Oven-Shattering Earthy Syrian Soybean-Sprout-Kongnamul Grill",
+    "title": "Grilled Korean-Style Soybean Sprouts with Earthy Notes",
     "tags": [
-      "buddhist",
-      "comforting",
-      "earthly",
-      "kongnamul",
-      "raclette-grill",
+      "korean",
+      "vegan",
+      "gluten-free",
+      "vegetarian",
       "soybean",
-      "syrian",
-      "temple-friendly"
+      "sprouts"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
