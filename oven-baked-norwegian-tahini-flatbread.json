@@ -1,0 +1,68 @@
+{
+  "slug": "oven-baked-norwegian-tahini-flatbread",
+  "title": "Norwegian Oven Baked Flatbread with Tahini",
+  "description": "A traditional Norwegian recipe featuring a crispy flatbread topped with a creamy tahini sauce.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 loaf",
+      "notes": "preferably Norwegian flatbread"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": "creamy sesame paste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "for adjusting tahini consistency"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with olive oil and sprinkle with salt.",
+    "Bake flatbread in the oven for 10-12 minutes, or until crispy.",
+    "In a bowl, mix together tahini and water until you reach the desired consistency.",
+    "Remove flatbread from the oven and let it cool for a few minutes.",
+    "Spread the tahini sauce on top of the flatbread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "baked",
+    "vegan",
+    "flatbread",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-norwegian-tahini-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:36:28.830Z"
+}
