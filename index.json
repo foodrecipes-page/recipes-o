@@ -787,16 +787,15 @@
   },
   {
     "slug": "oil-fried-crisp-malaysian-tofu-noodles",
-    "title": "Oil Fried Crisp Malaysian Tofu Noodles",
+    "title": "Malaysian Fried Noodle Stir Fry",
     "tags": [
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "plant-based",
-      "post-workout"
+      "malaysian",
+      "stir-fry",
+      "noodles",
+      "tofu"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -6746,17 +6745,16 @@
   },
   {
     "slug": "outdoor-grilled-ukrainian-vegetable-skewers",
-    "title": "Outdoor Grilled Ukrainian Vegetable Skewers",
+    "title": "Ukrainian Vegetable Skewers",
     "tags": [
-      "briny-flavors",
-      "grilled-vegetables",
-      "lacto-vegetarian",
-      "meal-prep",
-      "outdoor-cooking",
-      "ukrainian-cuisine"
+      "outdoor",
+      "grilled",
+      "ukrainian",
+      "vegetable",
+      "skewers"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
