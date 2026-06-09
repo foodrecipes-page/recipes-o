@@ -8385,17 +8385,16 @@
   },
   {
     "slug": "oven-baked-norwegian-tahini-flatbread",
-    "title": "Oven Baked Norwegian Tahini Flatbread",
+    "title": "Norwegian Oven Baked Flatbread with Tahini",
     "tags": [
-      "easy-snack",
-      "floral",
-      "low-fat",
       "norwegian",
-      "oven-baked",
-      "quick-bread"
+      "baked",
+      "vegan",
+      "flatbread",
+      "tahini"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "norwegian",
+    "totalTimeMin": 17,
     "shard": "o"
   },
   {
@@ -12728,17 +12727,15 @@
   },
   {
     "slug": "oven-roasted-spanish-asparagus-tortilla-espanola",
-    "title": "Oven Roasted Spanish Asparagus Tortilla Espanola",
+    "title": "Spanish Tortilla de Espinacas con Asparagus",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "oven-roasted",
-      "pescatarian",
-      "spanish-cuisine",
-      "valencian"
+      "breakfast",
+      "spanish",
+      "asparagus",
+      "oven-roasted"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -12799,17 +12796,16 @@
   },
   {
     "slug": "oven-roasted-spanish-peppadew-peppers-crema-catalana",
-    "title": "Oven Roasted Spanish Peppadew Peppers Crema Catalana",
+    "title": "Peppadew and Pepper Catalana Tart",
     "tags": [
-      "ayurvedic-friendly",
-      "crema-catalana",
-      "gluten-free",
-      "spanish-dessert",
-      "umami",
-      "vegetarian"
+      "spanish",
+      "oven-roasted",
+      "vegetarian",
+      "tart",
+      "pastry"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
