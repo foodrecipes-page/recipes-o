@@ -4459,14 +4459,15 @@
   },
   {
     "slug": "oozy-crumbly-ethiopian-sausage-stew",
-    "title": "Oozy Crumbly Ethiopian Sausage Stew",
+    "title": "Ethiopian Sausage Stew",
     "tags": [
-      "egg-free",
-      "kid-friendly",
-      "one-pot"
+      "ethiopian",
+      "stew",
+      "sausage",
+      "spicy"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -4960,17 +4961,15 @@
   },
   {
     "slug": "oozy-lazy-portuguese-peppers-stew",
-    "title": "Oozy Lazy Portuguese Peppers Stew",
+    "title": "Portuguese Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "lazy-sunday",
-      "low-calorie",
-      "one-pot",
-      "portuguese-cuisine"
+      "beef",
+      "stew",
+      "portuguese",
+      "comfort-food"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "o"
   },
   {
