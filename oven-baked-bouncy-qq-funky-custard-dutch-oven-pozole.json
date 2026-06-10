@@ -1,0 +1,71 @@
+{
+  "slug": "oven-baked-bouncy-qq-funky-custard-dutch-oven-pozole",
+  "title": "Funky Pozole Custard Baked",
+  "description": "A unique dessert that combines the flavors of baked custard with the spiciness of pozole, finished with a bouncy qq topping.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch oven",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Baked custard",
+      "amount": "1 1/2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pozole",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "QQ topping",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Funky spices",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 375°F (190°C).",
+    "Prepare the baked custard according to package instructions.",
+    "In a separate bowl, mix together the pozole and funky spices (if using).",
+    "Pour the custard into the preheated Dutch oven.",
+    "Top the custard with the pozole mixture.",
+    "Bake for 20-25 minutes or until the custard is set.",
+    "Prepare the qq topping by mixing together the ingredients (see notes).",
+    "Remove the Dutch oven from the oven and top the baked custard with the qq topping.",
+    "Return the Dutch oven to the oven and bake for an additional 5-10 minutes or until the topping is golden brown.",
+    "Remove the Dutch oven from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "dessert",
+    "funky",
+    "qq",
+    "pozole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-bouncy-qq-funky-custard-dutch-oven-pozole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:04:27.062Z"
+}
