@@ -8115,18 +8115,16 @@
   },
   {
     "slug": "oven-baked-bouncy-qq-funky-custard-dutch-oven-pozole",
-    "title": "Bouncy-QQ Funky Oven-Baked Custard Dutch Oven Pozole",
+    "title": "Funky Pozole Custard Baked",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-glycemic",
-      "mexican",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "baked",
+      "dessert",
+      "funky",
+      "qq",
+      "pozole"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
