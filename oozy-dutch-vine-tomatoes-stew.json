@@ -1,0 +1,78 @@
+{
+  "slug": "oozy-dutch-vine-tomatoes-stew",
+  "title": "Hearty Vine Tomato Stew",
+  "description": "A comforting stew made with tender vine tomatoes and flavorful dutch spices, perfect for a cold evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "2 lbs",
+      "notes": "chopped"
+    },
+    {
+      "name": "dutch stew seasoning",
+      "amount": "2 tsp",
+      "notes": "available at local Dutch market"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oozy mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded (optional)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the chopped tomatoes, dutch stew seasoning, salt, and pepper. Stir well.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "If using mozzarella cheese, sprinkle on top and cover pot for 2-3 minutes until melted.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "stew",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-dutch-vine-tomatoes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:23:05.254Z"
+}
