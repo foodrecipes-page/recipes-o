@@ -3552,15 +3552,16 @@
   },
   {
     "slug": "oozing-creamy-mexican-mole-poblano",
-    "title": "Oozing Creamy Mexican Mole-Poblano",
+    "title": "Poblano Mole Chicken Tacos",
     "tags": [
-      "aerateddishes",
-      "molesauce",
-      "poblanopeppers",
-      "vanilla"
+      "mexican",
+      "chicken",
+      "tacos",
+      "poblano",
+      "mole"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
