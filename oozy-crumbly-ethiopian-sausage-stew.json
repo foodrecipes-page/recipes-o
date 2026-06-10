@@ -1,0 +1,90 @@
+{
+  "slug": "oozy-crumbly-ethiopian-sausage-stew",
+  "title": "Ethiopian Sausage Stew",
+  "description": "A hearty and flavorful stew made with Ethiopian spices, sausage, and a hint of tanginess.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Spices",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "water-based stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add spices, cumin, and coriander, and cook for 1 minute.",
+    "Add tomato, red pepper, and stew, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Serve with injera or crusty bread for a authentic Ethiopian experience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "sausage",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-crumbly-ethiopian-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:57:22.593Z"
+}
