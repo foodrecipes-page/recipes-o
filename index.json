@@ -4529,17 +4529,15 @@
   },
   {
     "slug": "oozy-dutch-vine-tomatoes-stew",
-    "title": "Oozy Dutch Vine Tomatoes Stew",
+    "title": "Hearty Vine Tomato Stew",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "dutch-cuisine",
-      "halal-friendly",
-      "one-pot",
-      "weeknight"
+      "dutch",
+      "stew",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
