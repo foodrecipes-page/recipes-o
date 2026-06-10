@@ -1,0 +1,93 @@
+{
+  "slug": "oven-roasted-tunisian-tofu-bake",
+  "title": "Tunisian Roasted Tofu",
+  "description": "A flavorful and healthy Tunisian-inspired dish featuring roasted tofu, perfect for a weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "1 tsp",
+      "notes": "or make your own with cumin, coriander, and paprika"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the tofu into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with Tunisian spice blend. Toss to coat.",
+    "Roast in the oven for 20-25 minutes, or until golden brown.",
+    "While the tofu is roasting, heat a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the chopped red onion and bell pepper, and cook for 3-4 minutes, until tender.",
+    "Add the halved cherry tomatoes and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Once the tofu is done roasting, add it to the skillet and toss with the vegetables.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "roasted",
+    "tofu",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-tunisian-tofu-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:47:22.674Z"
+}
