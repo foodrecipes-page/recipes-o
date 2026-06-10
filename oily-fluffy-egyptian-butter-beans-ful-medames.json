@@ -1,0 +1,61 @@
+{
+  "slug": "oily-fluffy-egyptian-butter-beans-ful-medames",
+  "title": "Egyptian Ful Medames",
+  "description": "A traditional Egyptian dish made from fava beans, often served for breakfast.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ful",
+      "amount": "1 cup, dried, soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tablespoons, chopped fresh parsley"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add soaked and drained ful, cook for 10-15 minutes, stirring frequently.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley.",
+    "Traditionally served with pita bread or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egyptian",
+    "lentil-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-fluffy-egyptian-butter-beans-ful-medames",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:41:59.478Z"
+}
