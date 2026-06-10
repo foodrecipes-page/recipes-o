@@ -1,0 +1,82 @@
+{
+  "slug": "ovenless-thai-rice-flatbread",
+  "title": "Thai Rice and Flatbread",
+  "description": "A simple and flavorful flatbread served with a side of steamed Thai-inspired rice. Perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cooked Thai Jasmine Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Sliced Mango",
+      "amount": "1 ripe mango"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1 small onion"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sliced Fresh Chilies",
+      "amount": "1-2 chilies"
+    }
+  ],
+  "instructions": [
+    "Cook the Thai jasmine rice according to the package instructions.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the flatbread with sesame oil and grill for 1-2 minutes on each side, or until crispy.",
+    "In a small bowl, whisk together soy sauce and honey.",
+    "In a separate bowl, mix together sliced mango, red onion, and chopped cilantro.",
+    "Assemble the flatbread by spreading a spoonful of the mango mixture on each piece, followed by a drizzle of the soy sauce mixture.",
+    "Top with sliced fresh chilies and serve with a side of steamed Thai jasmine rice.",
+    "Enjoy your delicious Thai-inspired flatbread!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "rice",
+    "flatbread",
+    "quick",
+    "easy",
+    "meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ovenless-thai-rice-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:00:00.147Z"
+}
