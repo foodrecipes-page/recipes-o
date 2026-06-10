@@ -1,0 +1,80 @@
+{
+  "slug": "oozy-lazy-portuguese-peppers-stew",
+  "title": "Portuguese Stew",
+  "description": "A hearty stew originating from Portugal, made with tender beef, vegetables, and a rich broth. Serve with crusty bread for a comforting meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "oozy tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "lazy potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "2. Add the beef and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the beef from the pot and set aside.",
+    "4. Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "5. Add the red bell pepper and cook for an additional 2 minutes.",
+    "6. Add the crushed tomatoes, beef broth, and browned beef to the pot.",
+    "7. Stir in the chopped potatoes and bring the stew to a boil.",
+    "8. Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "portuguese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-lazy-portuguese-peppers-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:28:38.708Z"
+}
