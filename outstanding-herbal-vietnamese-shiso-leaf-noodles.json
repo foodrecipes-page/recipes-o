@@ -1,0 +1,87 @@
+{
+  "slug": "outstanding-herbal-vietnamese-shiso-leaf-noodles",
+  "title": "Vietnamese Shiso Noodle Salad",
+  "description": "A refreshing salad made with springy noodles, crunchy herbs, and fragrant shiso leaves, perfect for a light dinner or lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "outstanding noodles",
+      "amount": "8 oz",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "fresh shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red leaf lettuce",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vietnamese chili sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions. Drain and set aside.",
+    "In a large bowl, combine the chopped shiso leaves, cilantro, red leaf lettuce, carrots, and peanuts.",
+    "In a small bowl, whisk together the chili sauce and lime juice.",
+    "Add the cooked noodles to the bowl with the vegetables and toss to combine.",
+    "Pour the dressing over the noodles and vegetables, and toss to coat.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional shiso leaves if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "salad",
+    "noodles",
+    "herbs",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-herbal-vietnamese-shiso-leaf-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:01:37.323Z"
+}
