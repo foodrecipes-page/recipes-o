@@ -1567,17 +1567,15 @@
   },
   {
     "slug": "oily-fluffy-egyptian-butter-beans-ful-medames",
-    "title": "Egyptian Butter Beans Ful Medames",
+    "title": "Egyptian Ful Medames",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "high-fiber",
-      "middle-eastern",
-      "one-pot",
-      "vegan-option"
+      "breakfast",
+      "egyptian",
+      "lentil-free",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -14131,17 +14129,17 @@
   },
   {
     "slug": "ovenless-thai-rice-flatbread",
-    "title": "Ovenless Thai Rice Flatbread",
+    "title": "Thai Rice and Flatbread",
     "tags": [
-      "flatbread",
-      "no-oven",
-      "post-workout",
-      "quick",
       "thai",
-      "vegan"
+      "rice",
+      "flatbread",
+      "quick",
+      "easy",
+      "meal"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 70,
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
