@@ -1,0 +1,59 @@
+{
+  "slug": "oozey-zanzibari-macaroni-pasta",
+  "title": "Macaroni Pasta Bake",
+  "description": "A classic comfort food dish made with macaroni pasta, a blend of cheeses, and a hint of spice.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Oozey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Zanzibari spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pasta",
+      "amount": "1 cup "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large saucepan, combine the oozey cheese, zanzibari spice blend, and a pinch of salt and pepper. Heat over medium heat, stirring constantly, until the cheese is melted and smooth.",
+    "In a large mixing bowl, combine the cooked macaroni, cheese mixture, and a splash of milk (optional). Mix well to combine.",
+    "Transfer the macaroni mixture to a baking dish and top with additional oozey cheese (if using).",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the macaroni is heated through.",
+    "Serve hot and enjoy!",
+    "Optional: Add some pasta to the top of the macaroni bake for a fun twist."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "macaroni-pasta-bake",
+    "comfort-food",
+    "cheesy",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozey-zanzibari-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:49:06.762Z"
+}
