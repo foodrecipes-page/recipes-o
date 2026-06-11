@@ -3339,15 +3339,15 @@
   },
   {
     "slug": "oozey-zanzibari-macaroni-pasta",
-    "title": "Oozey Zanzibari Macaroni Pasta",
+    "title": "Macaroni Pasta Bake",
     "tags": [
-      "citrusy",
-      "kenyan",
-      "post-workout",
-      "raw-friendly"
+      "macaroni-pasta-bake",
+      "comfort-food",
+      "cheesy",
+      "easy-meal"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 80,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -4134,17 +4134,15 @@
   },
   {
     "slug": "oozy-buttery-mexican-rainbow-trout-chiles-rellenos",
-    "title": "Oozy Buttery Mexican Rainbow Trout Chiles Rellenos",
+    "title": "Pan-Seared Trout Relleno",
     "tags": [
-      "baked",
-      "cheesy",
-      "macrobiotic",
       "mexican",
-      "pescatarian",
-      "seafood"
+      "fish",
+      "relleno",
+      "cheese"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 32,
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
