@@ -1,0 +1,70 @@
+{
+  "slug": "oozy-rich-middle-eastern-shredded-cheese-shredded-cheese-pastry",
+  "title": "Middle Eastern Spinach Cheese Pastry",
+  "description": "A delicious pastry filled with rich spinach and cheese, inspired by the flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pastry and cut into desired shapes.",
+    "In a pan, sauté the garlic and spinach until softened.",
+    "Add the shredded cheese and mix until combined.",
+    "Place the spinach mixture onto the pastry shapes and fold over.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle eastern",
+    "spinach",
+    "cheese",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-rich-middle-eastern-shredded-cheese-shredded-cheese-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:36:52.439Z"
+}
