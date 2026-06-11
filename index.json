@@ -2608,13 +2608,11 @@
   },
   {
     "slug": "old-fashioned-irish-potato-hash",
-    "title": "Old Fashioned Irish Potato Hash",
+    "title": "Irish Potato Hash",
     "tags": [
-      "breakfast-ideas",
-      "hangover-cure",
-      "irish-food",
-      "one-pan",
-      "ovo-vegetarian"
+      "breakfast",
+      "irish",
+      "potatoes"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 35,
@@ -7860,16 +7858,15 @@
   },
   {
     "slug": "outstandingly-rich-filipino-chicken-tinola",
-    "title": "Outstandingly Rich Filipino Chicken Tinola",
+    "title": "Filipino Chicken Tinola",
     "tags": [
-      "ayurvedic-friendly",
-      "date-night",
-      "filipino-cuisine",
-      "gluten-free",
-      "rich-and-fluffy"
+      "filipino",
+      "chicken",
+      "soup",
+      "ginger"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
