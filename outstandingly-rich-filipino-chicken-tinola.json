@@ -1,0 +1,96 @@
+{
+  "slug": "outstandingly-rich-filipino-chicken-tinola",
+  "title": "Filipino Chicken Tinola",
+  "description": "A classic Filipino comfort dish made with ginger chicken soup, served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the sliced ginger and sauté until fragrant.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the fish sauce, black pepper, galangal, and turmeric. Stir well.",
+    "Pour in 4 cups of chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "soup",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-rich-filipino-chicken-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:29:32.418Z"
+}
