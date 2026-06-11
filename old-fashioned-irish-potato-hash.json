@@ -1,0 +1,63 @@
+{
+  "slug": "old-fashioned-irish-potato-hash",
+  "title": "Irish Potato Hash",
+  "description": "A simple, comforting potato dish from Ireland made with old, fashioned Irish potatoes, pan-fried to perfection.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Old Fashioned Irish Hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and let them cool slightly.",
+    "Cut the potatoes into 1-inch cubes.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the diced potatoes and cook until they are golden brown and crispy.",
+    "Stir in the Irish hash, breaking it up with a spoon as it cooks.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "irish",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-irish-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:40:40.612Z"
+}
