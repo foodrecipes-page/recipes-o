@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-vietnamese-tofu-che-ba-mau",
+  "title": "Vietnamese Tofu Che",
+  "description": "A delicious and easy-to-make dessert inspired by Vietnamese cuisine, featuring a silky tofu che topped with fresh fruit.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "agar agar",
+      "amount": "2g"
+    },
+    {
+      "name": "mau",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "che",
+      "amount": "50g"
+    },
+    {
+      "name": "ba",
+      "amount": "20g"
+    },
+    {
+      "name": "fresh fruit (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Soak agar agar in water for at least 10 minutes.",
+    "Combine sugar, coconut milk, and salt in a saucepan.",
+    "Cook over medium heat, stirring constantly, until sugar dissolves.",
+    "Add tofu and cook for 5 minutes.",
+    "Stir in agar agar mixture and cook for another 5 minutes.",
+    "Remove from heat and let cool slightly.",
+    "Add mau, che, and ba. Stir until well combined.",
+    "Pour mixture into individual serving cups.",
+    "Chill in the oven (set to 150°F) for at least 4 hours.",
+    "Serve chilled, garnished with fresh fruit if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "dessert",
+    "silky tofu",
+    "coconut milk",
+    "agar agar"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-tofu-che-ba-mau",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:56:08.876Z"
+}
