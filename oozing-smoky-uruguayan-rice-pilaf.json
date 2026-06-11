@@ -1,0 +1,83 @@
+{
+  "slug": "oozing-smoky-uruguayan-rice-pilaf",
+  "title": "Smoky Uruguayan Pilaf",
+  "description": "A hearty, smoky pilaf dish inspired by Uruguay. Oozing cheese adds a rich, creamy texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Oozing cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "Choose a mild cheese like mozzarella or Monterey Jack"
+    },
+    {
+      "name": "Smoky",
+      "amount": "2 tablespoons, smoked paprika",
+      "notes": "Adds a deep, smoky flavor to the dish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic, cook until the onion is translucent.",
+    "Add rice, smoked paprika, salt, and pepper. Stir to coat the rice in oil and spices.",
+    "Cook for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes, or until the rice is tender.",
+    "Fluff the rice with a fork and stir in shredded cheese.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "pilaf",
+    "smoky",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-smoky-uruguayan-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:51:55.864Z"
+}
