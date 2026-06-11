@@ -1,0 +1,70 @@
+{
+  "slug": "oozy-buttery-mexican-rainbow-trout-chiles-rellenos",
+  "title": "Pan-Seared Trout Relleno",
+  "description": "A flavorful dish that combines the delicate taste of trout with the richness of a Mexican relleno.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "oozy, buttery relleno filling",
+      "amount": "1 cup",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "chiles",
+      "amount": "2",
+      "notes": "such as poblano or jalapeno"
+    },
+    {
+      "name": "rainbow cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "mexican spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin and chili powder"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a skillet over medium heat.",
+    "2. Season the trout fillets with salt and pepper.",
+    "3. Add a tablespoon of oil to the skillet and sear the trout for 2-3 minutes on each side.",
+    "4. Meanwhile, stuff each trout fillet with a spoonful of relleno filling.",
+    "5. Add the stuffed trout to the skillet and cook for an additional 3-4 minutes.",
+    "6. Top each trout fillet with a slice of chile and a sprinkle of cheese.",
+    "7. Transfer the trout to a plate and serve immediately.",
+    "8. Garnish with fresh cilantro and a dollop of sour cream, if desired.",
+    "9. Serve with a side of Mexican rice and beans."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "relleno",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-buttery-mexican-rainbow-trout-chiles-rellenos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:23:29.329Z"
+}
