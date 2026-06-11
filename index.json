@@ -5296,18 +5296,15 @@
   },
   {
     "slug": "oozy-rich-middle-eastern-shredded-cheese-shredded-cheese-pastry",
-    "title": "oozy, rich middle-eastern shredded cheese pastry",
+    "title": "Middle Eastern Spinach Cheese Pastry",
     "tags": [
-      "cheesy-goodness",
-      "date-night",
-      "dessert",
-      "middle-eastern",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "middle eastern",
+      "spinach",
+      "cheese",
+      "pastry"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 75,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -13522,14 +13519,13 @@
   },
   {
     "slug": "oven-roasted-vietnamese-tofu-che-ba-mau",
-    "title": "Oven Roasted Vietnamese Tofu Che Ba Mau",
+    "title": "Vietnamese Tofu Che",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "oven-roasted",
-      "tofu",
       "vietnamese",
-      "weeknight"
+      "dessert",
+      "silky tofu",
+      "coconut milk",
+      "agar agar"
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 35,
