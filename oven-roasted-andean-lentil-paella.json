@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-andean-lentil-paella",
+  "title": "Roasted Andean Paella",
+  "description": "A hearty, flavorful paella dish from the Andean region, featuring roasted vegetables and lentils.",
+  "cuisine": "Andean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paella rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the lentils, paella rice, chopped onion, red bell pepper, zucchini, and tomato.",
+    "Drizzle with olive oil and sprinkle with smoked paprika, salt, and black pepper. Mix well.",
+    "Transfer the mixture to a large oven-safe skillet or paella pan.",
+    "Roast in the preheated oven for 25-30 minutes, or until the vegetables are tender and lightly caramelized.",
+    "Stir the mixture halfway through the cooking time to ensure even cooking.",
+    "Remove the skillet from the oven and let it cool slightly.",
+    "Serve the roasted paella hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andean",
+    "lentil",
+    "paella",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-andean-lentil-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:57:04.313Z"
+}
