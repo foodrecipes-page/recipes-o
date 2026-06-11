@@ -1,0 +1,69 @@
+{
+  "slug": "oily-turkish-rice-kazandibi",
+  "title": "Turkish Kazandibi with Rice",
+  "description": "A traditional Turkish dessert made with a creamy rice pudding and topped with a caramelized sugar crust.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Oily",
+      "amount": "2 cups",
+      "notes": "milk"
+    },
+    {
+      "name": "Sugars",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Kazandibi",
+      "amount": "2 tablespoons",
+      "notes": "flavoring"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed juice"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice, oily, and salt in a saucepan. Cook over medium heat, stirring constantly.",
+    "Bring to a boil, then reduce heat and simmer for 18 minutes.",
+    "Stir in sugars and Turkish Kazandibi. Cook for 2 minutes.",
+    "Remove from heat and stir in lemon juice. Let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours.",
+    "Just before serving, sprinkle with additional sugars if desired.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "rice-pudding"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-turkish-rice-kazandibi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:54:37.711Z"
+}
