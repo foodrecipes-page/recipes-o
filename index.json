@@ -2291,17 +2291,14 @@
   },
   {
     "slug": "oily-turkish-rice-kazandibi",
-    "title": "Oily Turkish Rice Kazandibi",
+    "title": "Turkish Kazandibi with Rice",
     "tags": [
-      "crisp",
-      "festive",
-      "floral",
-      "high-carb",
-      "one-pan",
-      "turkish-cuisine"
+      "turkish",
+      "dessert",
+      "rice-pudding"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 40,
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
