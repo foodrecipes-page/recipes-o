@@ -1,0 +1,83 @@
+{
+  "slug": "oceanic-brazilian-fish-skewers",
+  "title": "Grilled Pescador Skewers",
+  "description": "A flavorful and easy-to-make Brazilian-inspired dish featuring grilled fish and seafood skewers.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 pound white fish (such as tilapia)",
+      "amount": "4-6 pieces",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "1/2 pound large shrimp, peeled and deveined",
+      "amount": "12-15 pieces",
+      "notes": " threaded onto skewers"
+    },
+    {
+      "name": "1/2 pound squid rings",
+      "amount": "12-15 pieces",
+      "notes": " threaded onto skewers"
+    },
+    {
+      "name": "1/4 cup oceanic sauce (such as malagueta sauce)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread fish, shrimp, and squid onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together oceanic sauce, lime juice, garlic, and cilantro.",
+    "Brush the skewers with the marinade, making sure to coat all surfaces.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, or until the fish is cooked through and the shrimp and squid are opaque and slightly charred.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "seafood",
+    "skewers",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-brazilian-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:54:10.333Z"
+}
