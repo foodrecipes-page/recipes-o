@@ -1,0 +1,65 @@
+{
+  "slug": "oily-steamy-norwegian-kasha-pilaf",
+  "title": "Norwegian Kasha Pilaf",
+  "description": "A hearty, comforting kasha pilaf dish with a touch of Norwegian inspiration.",
+  "cuisine": "Nordic",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kasha",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "oily",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "steamy",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Heat the oily in a large saucepan over medium heat.",
+    "Add the norwegian and cook for 1 minute.",
+    "Add the kasha and cook, stirring constantly, for 5 minutes.",
+    "Add the pilaf and steamy, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff with a fork and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norway",
+    "kasha"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-steamy-norwegian-kasha-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:22:41.692Z"
+}
