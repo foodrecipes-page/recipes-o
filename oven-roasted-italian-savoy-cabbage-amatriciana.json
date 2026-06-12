@@ -1,0 +1,72 @@
+{
+  "slug": "oven-roasted-italian-savoy-cabbage-amatriciana",
+  "title": "Savoy Cabbage Amatriciana",
+  "description": "A creative Italian-inspired oven-baked dish featuring roasted savoy cabbage and amatriciana sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy Cabbage",
+      "amount": "1 medium head, cored and shredded"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Amatriciana Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss cabbage with olive oil, garlic, and Italian seasoning until evenly coated.",
+    "Transfer the cabbage mixture to a baking sheet and roast for 20-25 minutes, or until tender and slightly caramelized.",
+    "While the cabbage is roasting, heat the amatriciana sauce in a saucepan over medium heat.",
+    "Once the cabbage is done, remove from the oven and toss with the heated amatriciana sauce.",
+    "Transfer the cabbage mixture to a serving dish and sprinkle with grated Parmesan cheese.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "oven-roasted",
+    "cabbage",
+    "amatriciana"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-italian-savoy-cabbage-amatriciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:33:34.570Z"
+}
