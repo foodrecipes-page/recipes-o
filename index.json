@@ -1927,16 +1927,14 @@
   },
   {
     "slug": "oily-outrageous-sardinian-fish-sauce-orecchiette",
-    "title": "Oily Outrageous Sardinian Fish Sauce Orecchiette",
+    "title": "Sardinian Orecchiette with Fish",
     "tags": [
-      "fish-sauce-recipes",
-      "italian-food",
-      "one-pot-meal",
-      "sardinian-cuisine",
-      "seafood-pasta"
+      "sardinian",
+      "pasta",
+      "fish"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "Sardinian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -6283,17 +6281,15 @@
   },
   {
     "slug": "organic-oven-roasted-german-sausage-skewers",
-    "title": "Organic Oven Roasted German Sausage Skewers",
+    "title": "German Sausage Skewers",
     "tags": [
-      "bento-box",
-      "german-food",
-      "organic",
-      "oven-roasted",
-      "quick-fix",
-      "whole30"
+      "german",
+      "sausage",
+      "skewers",
+      "oven-roasted"
     ],
     "cuisine": "German",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
