@@ -5379,18 +5379,15 @@
   },
   {
     "slug": "oozy-silky-malaysian-rice-bowl",
-    "title": "Oozy Silky Malaysian Rice Bowl",
+    "title": "Oozy Silky Rice Bowl",
     "tags": [
-      "bamboo-tray",
-      "gluten-free",
-      "kid-friendly",
       "malaysian",
-      "quick",
-      "silky",
-      "sour"
+      "rice-bowl",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 18,
     "shard": "o"
   },
   {
@@ -7229,17 +7226,16 @@
   },
   {
     "slug": "outstanding-oven-roasted-kenyan-comte-pasta",
-    "title": "Outstanding Oven Roasted Kenyan Comte Pasta",
+    "title": "Comte and Kenyan Roasted Pasta",
     "tags": [
-      "comte-cheese",
-      "kenyan-cuisine",
-      "low-glycemic",
-      "oven-roasted",
-      "pasta-dish",
-      "spring-recipe"
+      "pasta",
+      "cheese",
+      "kenyan",
+      "roasted",
+      "comfort-food"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "French-African",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
