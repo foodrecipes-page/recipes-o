@@ -10915,17 +10915,15 @@
   },
   {
     "slug": "oven-roasted-italian-savoy-cabbage-amatriciana",
-    "title": "Oven Roasted Italian Savoy Cabbage Amatriciana",
+    "title": "Savoy Cabbage Amatriciana",
     "tags": [
-      "cheesy",
-      "italian-food",
-      "one-pan",
-      "plant-based",
-      "roasted-vegetables",
-      "weeknight-dinner"
+      "italian",
+      "oven-roasted",
+      "cabbage",
+      "amatriciana"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
