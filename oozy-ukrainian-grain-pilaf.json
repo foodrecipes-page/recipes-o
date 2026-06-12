@@ -1,0 +1,77 @@
+{
+  "slug": "oozy-ukrainian-grain-pilaf",
+  "title": "Ukrainian Style Oozy Pilaf",
+  "description": "A hearty and flavorful side dish made with Ukrainian-style pilaf and oozy goodness. Perfect for a comforting meal.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "oozy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ukrainian pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add Ukrainian pilaf and cook for 2-3 minutes, stirring constantly.",
+    "Add oozy and stir to combine.",
+    "Season with salt, black pepper, and dried parsley.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "pilaf",
+    "side dish",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-ukrainian-grain-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:18:35.735Z"
+}
