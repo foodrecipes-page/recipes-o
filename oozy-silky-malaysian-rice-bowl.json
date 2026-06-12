@@ -1,0 +1,83 @@
+{
+  "slug": "oozy-silky-malaysian-rice-bowl",
+  "title": "Oozy Silky Rice Bowl",
+  "description": "A simple and comforting bowl dish made with oozy and silky sauce, served over flavorful rice.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oozy sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "silky sauce",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cooked rice to the pan and stir-fry for about 2-3 minutes.",
+    "Add the oozy and silky sauce to the rice and stir-fry until well combined.",
+    "Transfer the rice mixture to a serving bowl.",
+    "Garnish with toasted sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "rice-bowl",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-silky-malaysian-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:19:12.314Z"
+}
