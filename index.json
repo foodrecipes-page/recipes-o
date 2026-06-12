@@ -3029,16 +3029,14 @@
   },
   {
     "slug": "old-style-filipino-pork-menudo",
-    "title": "Filipino Pork Menudo",
+    "title": "Classic Filipino Menudo",
     "tags": [
-      "bento-box-ideas",
-      "filipino-food",
-      "one-pot-meals",
-      "pork-recipes",
-      "weeknight-dinners"
+      "filipino",
+      "menudo",
+      "breakfast"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "cuisine": "filipino",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -4845,17 +4843,14 @@
   },
   {
     "slug": "oozy-italian-toor-dal-risotto",
-    "title": "Oozy Italian Toor Dal Risotto",
+    "title": "Creamy Toor Dal Risotto",
     "tags": [
       "comfort-food",
-      "gluten-free",
-      "indulgent",
-      "italian-food",
-      "one-pot",
-      "vegetarian-option"
+      "dairy-free",
+      "italian-fusion"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "cuisine": "Indian-Italian Fusion",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -5685,17 +5680,15 @@
   },
   {
     "slug": "oozy-ukrainian-grain-pilaf",
-    "title": "Oozy Ukrainian Grain Pilaf",
+    "title": "Ukrainian Style Oozy Pilaf",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "grain-bowl",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "ukrainian",
+      "pilaf",
+      "side dish",
+      "comfort food"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -13776,17 +13769,14 @@
   },
   {
     "slug": "oven-smoky-peruvian-cabbage-arroz-con-pato",
-    "title": "Oven Smoky Peruvian Cabbage Arroz Con Pato",
+    "title": "Crispy Roasted Pato with Cabbage and Arroz",
     "tags": [
-      "dairy-free-friendly",
-      "gluten-free",
-      "one-pan-meal",
-      "peruvian-cuisine",
-      "smoky-flavors",
-      "weeknight-dinner"
+      "peruvian",
+      "oven-roasted",
+      "smoky"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
