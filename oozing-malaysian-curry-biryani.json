@@ -1,0 +1,76 @@
+{
+  "slug": "oozing-malaysian-curry-biryani",
+  "title": "Malaysian Chicken Biryani",
+  "description": "A flavorful chicken dish made with aromatic spices and served with fragrant basmati rice",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Oozing curry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the Malaysian curry paste and cook for 1 minute.",
+    "Add the coconut milk and oozing curry sauce. Bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 10 minutes.",
+    "Stir in the cooked basmati rice and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "curry",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-malaysian-curry-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:59:14.893Z"
+}
