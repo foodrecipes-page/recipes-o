@@ -6159,17 +6159,15 @@
   },
   {
     "slug": "orange-olive-spanish-epoisses-tapas-platter",
-    "title": "Orange Olive Spanish Epoisses Tapas Platter",
+    "title": "Spanish Tapas Board",
     "tags": [
-      "cheese-platter",
-      "easy-appetizer",
-      "orange-marmalade",
-      "spanish-food",
+      "spanish",
       "tapas",
-      "vegetarian"
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 10,
     "shard": "o"
   },
   {
