@@ -1,0 +1,73 @@
+{
+  "slug": "oily-outrageous-sardinian-fish-sauce-orecchiette",
+  "title": "Sardinian Orecchiette with Fish",
+  "description": "A traditional Sardinian pasta dish featuring pan-seared fish and a tangy oily sauce.",
+  "cuisine": "Sardinian",
+  "diet": [
+    "fish",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "orecchiette",
+      "amount": "12 oz"
+    },
+    {
+      "name": "fish (such as sea bass or snapper)",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "sardinian sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sardinian sausage",
+      "amount": "1/4 lb",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the orecchiette according to package instructions.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the fish to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and cook for 1 minute.",
+    "Add the sardinian sausage (if using) to the skillet and cook for 2-3 minutes, or until browned.",
+    "Add the sardinian sauce to the skillet and stir to combine.",
+    "Add the cooked orecchiette to the skillet and toss to combine with the sauce.",
+    "Return the fish to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sardinian",
+    "pasta",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-outrageous-sardinian-fish-sauce-orecchiette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:17:43.124Z"
+}
