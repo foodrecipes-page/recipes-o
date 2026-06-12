@@ -1,0 +1,84 @@
+{
+  "slug": "oven-smoky-peruvian-cabbage-arroz-con-pato",
+  "title": "Crispy Roasted Pato with Cabbage and Arroz",
+  "description": "A traditional Peruvian dish featuring tender roasted pato and a side of crispy cabbage and arroz. This smoky and savory recipe is sure to impress.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pato (duck), cut into 8 pieces",
+      "amount": "1.5 pounds",
+      "notes": "ask for a whole duck at the market and have it cut for you"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head, cut into wedges",
+      "notes": "any variety of cabbage works"
+    },
+    {
+      "name": "arroz (Peruvian rice)",
+      "amount": "2 cups",
+      "notes": "arroz amarillo or arroz blanco work well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the pato pieces and pat dry with paper towels.",
+    "In a large bowl, mix together olive oil, smoked paprika, salt, black pepper, and garlic powder.",
+    "Add the pato pieces to the bowl and toss to coat with the marinade.",
+    "Spread the pato pieces out in a single layer on a baking sheet.",
+    "Roast the pato in the oven for 20-25 minutes, or until crispy and golden brown.",
+    "While the pato is roasting, heat a large skillet over medium-high heat.",
+    "Add a tablespoon of oil to the skillet and fry the cabbage wedges until crispy and golden brown.",
+    "Serve the crispy roasted pato with a side of fried cabbage and arroz.",
+    "Optional: serve with a side of aji amarillo sauce for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "oven-roasted",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "34g",
+    "carbs": "20g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoky-peruvian-cabbage-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:44:27.320Z"
+}
