@@ -1,0 +1,68 @@
+{
+  "slug": "orange-olive-spanish-epoisses-tapas-platter",
+  "title": "Spanish Tapas Board",
+  "description": "A colorful platter of cured meats, cheeses, and garnishes that's perfect for a quick snack or light meal. This recipe is inspired by the flavors of Spain.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spanish olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cured Spanish chorizo",
+      "amount": "8 slices",
+      "notes": ""
+    },
+    {
+      "name": "Epoisses cheese",
+      "amount": "8 oz",
+      "notes": "soft, creamy cheese"
+    },
+    {
+      "name": "Oranges",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh tapas crackers",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the olives in half and place them on a platter.",
+    "Arrange the chorizo slices on the platter.",
+    "Slice the Epoisses cheese and place it on the platter.",
+    "Cut the oranges into wedges and arrange them on the platter.",
+    "Place the tapas crackers on the platter.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve immediately and enjoy!",
+    "Note: This recipe is meant to be assembled just before serving, as the ingredients should be fresh and at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "tapas",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-olive-spanish-epoisses-tapas-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:25:22.947Z"
+}
