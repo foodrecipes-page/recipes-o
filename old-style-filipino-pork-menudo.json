@@ -1,0 +1,92 @@
+{
+  "slug": "old-style-filipino-pork-menudo",
+  "title": "Classic Filipino Menudo",
+  "description": "A hearty breakfast dish made with pork and liver, cooked in a flavorful tomato-based sauce.",
+  "cuisine": "filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork, cut into small cubes",
+      "amount": "1 pound",
+      "notes": "You can use pork shoulder or pork belly"
+    },
+    {
+      "name": "Pork liver, cut into small pieces",
+      "amount": "1/2 pound",
+      "notes": "You can use fresh or frozen pork liver"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "You can use yellow or white onion"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "You can use fresh or frozen garlic"
+    },
+    {
+      "name": "Tomato, crushed",
+      "amount": "2 medium",
+      "notes": "You can use fresh or canned tomatoes"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "You can use patis or fish sauce"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "You can use fresh or ground black pepper"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "You can use kosher or sea salt"
+    },
+    {
+      "name": "Chili peppers, sliced",
+      "amount": "2-3",
+      "notes": "You can use fresh or dried chili peppers"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "You can use fresh or dried bay leaves"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the pork liver and cook until browned, about 3-4 minutes.",
+    "Add the crushed tomato, fish sauce, black pepper, and salt. Stir well.",
+    "Add the chili peppers and bay leaves. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Serve hot, garnished with chopped green onions and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "menudo",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-filipino-pork-menudo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:21:57.037Z"
+}
