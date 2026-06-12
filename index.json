@@ -305,17 +305,16 @@
   },
   {
     "slug": "oceanic-brazilian-fish-skewers",
-    "title": "Oceanic Brazilian Fish Skewers",
+    "title": "Grilled Pescador Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "fish-recipes",
-      "grilled-food",
-      "healthy-eating",
+      "grilled",
+      "fish",
       "seafood",
-      "summer-recipes"
+      "skewers",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 18,
     "shard": "o"
   },
   {
@@ -3676,17 +3675,15 @@
   },
   {
     "slug": "oozing-malaysian-curry-biryani",
-    "title": "Oozing Malaysian Curry Biryani",
+    "title": "Malaysian Chicken Biryani",
     "tags": [
-      "biryani",
-      "curry",
-      "high-protein",
       "malaysian",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "curry",
+      "biryani"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -9773,19 +9770,15 @@
   },
   {
     "slug": "oven-roasted-citrusy-russian-haddock-borscht",
-    "title": "Oven-Roasted Citrusy Russian Haddock Borscht",
+    "title": "Haddock Borscht",
     "tags": [
-      "borscht",
-      "citrussy",
-      "creamy",
-      "fish",
-      "one-pan",
       "russian",
-      "show-off",
-      "weeknight"
+      "fish",
+      "beets",
+      "soup"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
