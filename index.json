@@ -2844,17 +2844,14 @@
   },
   {
     "slug": "old-fashioned-slovakian-potatoes-bake",
-    "title": "Slovakian Potatoes Bake",
+    "title": "Slovakian Potatoes With Old Fashioned Bake",
     "tags": [
-      "comfort-food",
-      "crowd-pleaser",
-      "hearty",
-      "lacto-vegetarian",
-      "one-pan",
-      "slovakian"
+      "slovakian",
+      "potatoes",
+      "breakfast"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
