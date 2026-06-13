@@ -1,0 +1,77 @@
+{
+  "slug": "oozy-mexican-corn-sopes",
+  "title": "Mexican Corn Sopes",
+  "description": "A traditional Mexican dish featuring crispy sopes topped with a flavorful mixture of grilled corn, onions, and oozy cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn Tortillas",
+      "amount": "4-6",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Grilled Corn",
+      "amount": "4 ears",
+      "notes": "grilled over medium heat"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Oozy Cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Asadero work well"
+    },
+    {
+      "name": "Refried Beans",
+      "amount": "1 can",
+      "notes": "optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Grill the corn over medium heat until slightly charred.",
+    "Cut the corn off the cob and set aside.",
+    "In a large skillet, heat a tablespoon of oil over medium heat.",
+    "Add the diced onions and cook until translucent.",
+    "Stir in the refried beans (if using) and cook for an additional minute.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the sopes by spreading a spoonful of the bean mixture onto each tortilla, followed by a spoonful of the grilled corn.",
+    "Top each sope with a spoonful of oozy cheese and a sprinkle of chopped cilantro.",
+    "Bake the sopes in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "corn",
+    "sopes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-mexican-corn-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:17:29.712Z"
+}
