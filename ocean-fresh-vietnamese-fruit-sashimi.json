@@ -1,0 +1,96 @@
+{
+  "slug": "ocean-fresh-vietnamese-fruit-sashimi",
+  "title": "Grilled Sashimi Tacos with Vietnamese Fruit Slaw",
+  "description": "A fusion of Japanese and Mexican flavors, this dish features fresh sashimi-grade fish, marinated in a sweet and spicy Vietnamese-inspired mixture, served in tacos with a refreshing fruit slaw.",
+  "cuisine": "Japanese-Mexican Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sashimi-grade fish (such as tuna or salmon)",
+      "amount": "1 lb",
+      "notes": "Fresh and of the highest quality"
+    },
+    {
+      "name": "Vietnamese fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Sweet and savory"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "Citrusy and tangy"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp",
+      "notes": "Spicy and aromatic"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Sweet and floral"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh and herbaceous"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "Mild and slightly sweet"
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "1 cup",
+      "notes": "Crunchy and sweet"
+    },
+    {
+      "name": "Shredded red cabbage",
+      "amount": "1 cup",
+      "notes": "Crunchy and slightly bitter"
+    },
+    {
+      "name": "Diced pineapple",
+      "amount": "1 cup",
+      "notes": "Sweet and tropical"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together fish sauce, lime juice, ginger, and honey to make the marinade.",
+    "Place the sashimi-grade fish in a shallow dish and pour the marinade over it. Cover and refrigerate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the fish from the marinade and cook for 2-3 minutes per side, or until cooked through.",
+    "Meanwhile, combine cilantro, rice vinegar, carrot, and red cabbage in a bowl and toss to combine.",
+    "Cut the cooked fish into small pieces and serve in tacos with the slaw and any desired additional toppings.",
+    "Garnish with additional cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "tacos",
+    "slaw",
+    "vietnamese",
+    "sashimi",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-vietnamese-fruit-sashimi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:18:26.638Z"
+}
