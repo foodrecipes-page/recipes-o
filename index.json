@@ -8560,17 +8560,14 @@
   },
   {
     "slug": "oven-braised-mexican-chicken-dumplings",
-    "title": "oven-braised mexican chicken dumplings",
+    "title": "Braised Chicken Mexican Dumplings",
     "tags": [
-      "dumplings",
-      "flexitarian",
       "mexican",
-      "sherry-vinegar",
-      "weeknight",
-      "yeast"
+      "chicken",
+      "dinner"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 75,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
