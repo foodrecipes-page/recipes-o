@@ -1,0 +1,86 @@
+{
+  "slug": "oversized-oven-roasted-australian-rhubarb-tart",
+  "title": "Australian Rhubarb Tart",
+  "description": "A sweet and tangy tart featuring fresh rhubarb and a crumbly pastry crust.",
+  "cuisine": "australian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 sheet frozen puff pastry, thawed",
+      "amount": "",
+      "notes": "found in most supermarkets"
+    },
+    {
+      "name": "1 cup granulated sugar",
+      "amount": "",
+      "notes": "for the rhubarb topping"
+    },
+    {
+      "name": "1 cup fresh rhubarb, cut into 1-inch pieces",
+      "amount": "",
+      "notes": "Australian rhubarb is naturally sweeter"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "",
+      "notes": "for thickening the rhubarb topping"
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 teaspoon vanilla extract",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "",
+      "notes": "for brushing the pastry"
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "",
+      "notes": "for brushing the pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges of the pastry and press it into the corners of the tart pan.",
+    "In a large bowl, combine the granulated sugar, flour, and cinnamon (if using).",
+    "Add the fresh rhubarb and toss to coat with the sugar mixture.",
+    "Arrange the rhubarb mixture in a concentric circle pattern, leaving a 1-inch border around the edges.",
+    "Brush the melted butter over the edges of the pastry, then brush the beaten egg over the rhubarb.",
+    "Bake the tart for 40-50 minutes, or until the pastry is golden brown and the rhubarb is tender.",
+    "Remove the tart from the oven and let it cool on a wire rack for at least 30 minutes.",
+    "Serve warm or at room temperature, garnished with fresh rhubarb or whipped cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "tart",
+    "rhubarb",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oversized-oven-roasted-australian-rhubarb-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:27:22.848Z"
+}
