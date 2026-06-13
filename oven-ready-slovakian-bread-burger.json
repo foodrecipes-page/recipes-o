@@ -1,0 +1,66 @@
+{
+  "slug": "oven-ready-slovakian-bread-burger",
+  "title": "Slovakian Burger",
+  "description": "A traditional Slovakian-inspired burger made with a beef patty, topped with cheese and served on a toasted bun.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Burger patty",
+      "amount": "1",
+      "notes": "100% beef patty"
+    },
+    {
+      "name": "Bread",
+      "amount": "1",
+      "notes": "Slovakian-style bun"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 slice",
+      "notes": "Slovakian cheddar"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Form the burger patty and season with salt and pepper.",
+    "Place the burger patty on a baking sheet and bake in the oven for 12-15 minutes, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the bread by placing it in the oven for 2-3 minutes, or until lightly browned.",
+    "Assemble the burger by spreading mayonnaise on the bottom bun, followed by the cooked burger patty, cheese, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "burger",
+    "slovakian",
+    "oven",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-ready-slovakian-bread-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:26:30.923Z"
+}
