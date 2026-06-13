@@ -1,0 +1,94 @@
+{
+  "slug": "oozy-garlicky-syrian-tofu-tacos",
+  "title": "Tofu Tacos with Syrian Flavor",
+  "description": "A flavorful and spicy taco recipe that combines the goodness of Syrian food with the simplicity of tofu.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm tofu"
+    },
+    {
+      "name": "Garlicky Syrup",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Oozy Tahini Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Syrian Zaatar",
+      "amount": "1 tsp",
+      "notes": "Middle Eastern spice mix"
+    },
+    {
+      "name": "Tacos",
+      "amount": "4-6 corn or flour tortillas",
+      "notes": "Your choice of taco shells"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "Halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Press the tofu block between two plates for 10 minutes to remove excess moisture.",
+    "2. Cut the tofu into small cubes and season with Syrian Zaatar.",
+    "3. Heat a non-stick skillet over medium-high heat. Add the tofu and cook for 3-4 minutes on each side until golden brown.",
+    "4. Warm the tacos shells according to package instructions.",
+    "5. Assemble the tacos by placing a few pieces of tofu onto each shell, followed by a spoonful of garlicky syrup, oozy tahini sauce, and chopped cilantro.",
+    "6. Top with lettuce, tomatoes, cucumber, and onion.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "syrian",
+    "middle-eastern",
+    "tacos",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-garlicky-syrian-tofu-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:00:38.441Z"
+}
