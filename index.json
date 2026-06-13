@@ -14142,18 +14142,15 @@
   },
   {
     "slug": "oversized-oven-roasted-australian-rhubarb-tart",
-    "title": "Oversized Oven Roasted Australian Rhubarb Tart",
+    "title": "Australian Rhubarb Tart",
     "tags": [
       "australian",
-      "dessert",
-      "kosher-friendly",
-      "oven-roasted",
+      "tart",
       "rhubarb",
-      "special-occasion",
-      "tart"
+      "dessert"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 75,
+    "cuisine": "australian",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
