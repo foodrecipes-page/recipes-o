@@ -1,0 +1,55 @@
+{
+  "slug": "oven-crispy-polish-bacon-skillet",
+  "title": "Polish Bacon Crispy Skillet",
+  "description": "A simple, savory dish made with crispy bacon, perfect for a quick dinner or lunch.",
+  "cuisine": "European",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish bacon",
+      "amount": "6 slices",
+      "notes": "Look for Polish bacon at your local deli or use thick-cut American bacon as a substitute"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the Polish bacon in a skillet over medium heat until crispy, flipping halfway through.",
+    "Remove the bacon from the skillet and place it on a paper towel-lined plate.",
+    "Crack the eggs into the same skillet and scramble them. Season with salt and black pepper to taste.",
+    "Transfer the skillet to the preheated oven and cook for 5 minutes.",
+    "Remove the skillet from the oven and top the eggs with the crispy Polish bacon.",
+    "Serve hot and garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bacon",
+    "scrambled-eggs",
+    "breakfast"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-crispy-polish-bacon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T06:26:19.643Z"
+}
