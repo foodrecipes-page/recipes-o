@@ -1,0 +1,77 @@
+{
+  "slug": "old-fashioned-slovakian-potatoes-bake",
+  "title": "Slovakian Potatoes With Old Fashioned Bake",
+  "description": "A hearty and flavorful dish combining the traditional Slovakian flavors with the comfort of an old fashioned bake.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Old fashioned bake",
+      "amount": "1 package",
+      "notes": "crumbly, unsweetened"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and dice the Slovakian potatoes.",
+    "In a large bowl, combine the diced potatoes, vegetable oil, onion, caraway seeds, salt, and black pepper. Toss until the potatoes are evenly coated.",
+    "Transfer the potato mixture to a greased 9x13-inch baking dish.",
+    "Crumble the old fashioned bake over the potato mixture.",
+    "Bake in the preheated oven for 45-50 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Garnish with chopped fresh parsley before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "potatoes",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-slovakian-potatoes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:15:15.018Z"
+}
