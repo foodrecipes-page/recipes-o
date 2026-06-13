@@ -1,0 +1,86 @@
+{
+  "slug": "oil-infused-german-pork-bowl",
+  "title": "Pan-Seared Pork Chops with German Infused Oil",
+  "description": "A hearty pork chop recipe infused with the rich flavors of German spice, served with a side of savory goodness.",
+  "cuisine": "German",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 (1-inch thick)",
+      "notes": "Fresh pork chops"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "German infused oil (garlic, thyme)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Fine salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Black pepper"
+    },
+    {
+      "name": "german spice blend",
+      "amount": "2 tsp",
+      "notes": "Blend of German spices (marjoram, rosemary)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince garlic"
+    },
+    {
+      "name": "bowl",
+      "amount": "for serving",
+      "notes": "Large serving bowl"
+    }
+  ],
+  "instructions": [
+    "1. Heat infused oil in a large skillet over medium-high heat.",
+    "2. Season pork chops with salt, pepper, and German spice blend.",
+    "3. Sear pork chops for 2-3 minutes per side, or until browned.",
+    "4. Reduce heat to medium-low and cook for an additional 5-7 minutes, or until cooked through.",
+    "5. Meanwhile, sauté sliced onion and minced garlic in the skillet until softened.",
+    "6. Serve pork chops with the onion and garlic mixture, garnished with fresh herbs (optional).",
+    "7. Serve immediately and enjoy!",
+    "8. Garnish with chopped fresh parsley or thyme, if desired.",
+    "9. Serve with additional German infused oil, if desired.",
+    "10. Clean and store leftover pork chops in an airtight container."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork-chops",
+    "infused-oil",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-german-pork-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:04:34.364Z"
+}
