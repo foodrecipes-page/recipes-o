@@ -271,19 +271,18 @@
   },
   {
     "slug": "ocean-fresh-vietnamese-fruit-sashimi",
-    "title": "Ocean-Fresh Vietnamese Fruit Sashimi",
+    "title": "Grilled Sashimi Tacos with Vietnamese Fruit Slaw",
     "tags": [
-      "breakfast",
-      "dinner",
-      "fresh",
-      "gluten-free",
-      "healthy",
-      "snack",
-      "spring",
-      "vegan"
+      "grilled",
+      "fish",
+      "tacos",
+      "slaw",
+      "vietnamese",
+      "sashimi",
+      "fusion"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 15,
+    "cuisine": "Japanese-Mexican Fusion",
+    "totalTimeMin": 23,
     "shard": "o"
   },
   {
@@ -589,17 +588,15 @@
   },
   {
     "slug": "oceanic-spanish-seafood-pasta-bake",
-    "title": "Oceanic Spanish Seafood Pasta Bake",
+    "title": "Spanish Seafood Paella",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "pappardelle",
       "seafood",
-      "spanish-cuisine",
-      "wood-fired"
+      "spanish",
+      "pasta",
+      "bake"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -1500,18 +1497,14 @@
   },
   {
     "slug": "oily-dutch-poffertjes-pancake",
-    "title": "Oily Dutch Poffertjes Pancake",
+    "title": "Dutch Poffertjes Pancake",
     "tags": [
-      "ayurvedic-tamasic-friendly",
-      "bread",
-      "breakfast",
-      "comfort-food",
       "dutch",
-      "sweet",
-      "weeknight"
+      "pancakes",
+      "breakfast"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 12,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -2448,16 +2441,15 @@
   },
   {
     "slug": "old-fashioned-comforting-norwegian-monkfish-casserole",
-    "title": "Norwegian Monkfish Casserole",
+    "title": "Laks Gratin (Norwegian Monkfish Casserole)",
     "tags": [
+      "monkfish",
+      "bechamel-sauce",
       "casserole",
-      "comfort-food",
-      "fish-dish",
-      "norwegian-cuisine",
-      "seafood"
+      "chicken-and-vegetables"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
