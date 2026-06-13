@@ -1,0 +1,75 @@
+{
+  "slug": "oily-dutch-poffertjes-pancake",
+  "title": "Dutch Poffertjes Pancake",
+  "description": "A traditional Dutch pancake with a twist, using poffertjes batter and topped with a delicious oily syrup.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Poffertjes batter",
+      "amount": "250g",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Pancake mix",
+      "amount": "100g",
+      "notes": "Optional"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "200ml",
+      "notes": "Buttermilk or regular milk"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": "Melted"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "20g",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your poffertjes pan or a non-stick skillet over medium heat.",
+    "In a large bowl, whisk together the poffertjes batter, pancake mix (if using), eggs, milk, and melted butter until smooth.",
+    "If the batter is too thick, add a little more milk. If it's too thin, add a little more batter.",
+    "Pour a small amount of batter into the preheated pan and cook for 2-3 minutes, until the bottom is golden brown.",
+    "Loosen the pancake with a spatula and flip it over. Cook for another 1-2 minutes, until the other side is also golden brown.",
+    "Repeat with the remaining batter, until all the pancakes are cooked.",
+    "Serve the pancakes warm, topped with a drizzle of oily syrup (see below).",
+    "To make the syrup, combine 100g of granulated sugar and 50g of oily in a saucepan.",
+    "Heat the mixture over low heat, stirring until the sugar has dissolved.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until the syrup has thickened slightly.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "pancakes",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-dutch-poffertjes-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:13:12.841Z"
+}
