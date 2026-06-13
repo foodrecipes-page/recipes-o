@@ -1,0 +1,89 @@
+{
+  "slug": "outstandingly-fluffy-american-chicken-tagine",
+  "title": "American Chicken Tagine",
+  "description": "A twist on traditional Moroccan cuisine, this American Chicken Tagine combines the flavors of the old world with the comfort of the new.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "4-6 lbs",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Fluffy Rice",
+      "amount": "2 cups",
+      "notes": "For serving"
+    },
+    {
+      "name": "American Butter",
+      "amount": "2 tbsp",
+      "notes": "For browning chicken"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season chicken thighs with tagine spice mix and salt.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Brown chicken thighs on both sides, then set aside.",
+    "Reduce heat to medium and cook onions, garlic, carrots, and potatoes until tender.",
+    "Add chicken back to the pot and pour in enough chicken broth to cover the bottom.",
+    "Bring to a simmer, then cover with a lid and transfer to the preheated oven.",
+    "Bake for 30-40 minutes, or until chicken is cooked through and the vegetables are tender.",
+    "Serve with fluffy rice and additional tagine spice mix, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "tagine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-fluffy-american-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T05:27:50.719Z"
+}
