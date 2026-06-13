@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-greek-lamb-roast",
+  "title": "Classic Greek-Style Roasted Lamb",
+  "description": "A traditional Greek recipe featuring a slow-roasted lamb shoulder, perfect for special occasions. This dish is full of flavor and aroma, making it a must-try for lamb lovers.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5-2 kg",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary sprigs",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red wine (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 160°C (325°F).",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "In a small bowl, mix together olive oil, garlic, rosemary, salt, and black pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in a large roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per kilogram, or until it reaches your desired level of doneness.",
+    "If using red wine and beef broth, pour them into the roasting pan after the first 30 minutes of roasting.",
+    "Continue roasting the lamb for another 30-40 minutes, or until it's tender and falls apart easily.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Serve with your favorite side dishes, such as roasted potatoes, steamed vegetables, or a salad.",
+    "Strain the juices from the roasting pan and serve them with the lamb, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": "6-8",
+  "difficulty": "hard",
+  "tags": [
+    "greek",
+    "lamb",
+    "roast",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": "60g",
+    "carbs": "10g",
+    "fat": "50g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-greek-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:44:36.520Z"
+}
