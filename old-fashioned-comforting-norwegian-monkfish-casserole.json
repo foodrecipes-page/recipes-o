@@ -1,0 +1,81 @@
+{
+  "slug": "old-fashioned-comforting-norwegian-monkfish-casserole",
+  "title": "Laks Gratin (Norwegian Monkfish Casserole)",
+  "description": "A comforting, layered casserole dish filled with the rich flavors of Norway, featuring monkfish in a creamy bechamel sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "norwegian monkfish fillets",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "old-fashioned breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "comforting bechamel sauce",
+      "amount": "2 cups",
+      "notes": "see below for bechamel sauce recipe"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening bechamel sauce"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "for sautéing and greasing casserole dish"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "preferably sharp cheddar"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the bechamel sauce (see below for recipe).",
+    "Butter the bottom and sides of a 9x13-inch casserole dish.",
+    "Sauté the monkfish fillets in a pan until browned on both sides, about 3-4 minutes per side.",
+    "Transfer the cooked monkfish to the prepared casserole dish.",
+    "Spread half of the bechamel sauce over the monkfish, followed by half of the grated cheddar cheese.",
+    "Repeat the layers, starting with the remaining bechamel sauce and then the remaining cheddar cheese.",
+    "Top with breadcrumbs and a sprinkle of grated cheese.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monkfish",
+    "bechamel-sauce",
+    "casserole",
+    "chicken-and-vegetables"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-comforting-norwegian-monkfish-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:12:37.446Z"
+}
