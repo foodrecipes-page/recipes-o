@@ -4008,16 +4008,15 @@
   },
   {
     "slug": "oozy-algerian-chicken-tagine",
-    "title": "Oozy Algerian Chicken Tagine",
+    "title": "Classic Algerian Chicken Tagine",
     "tags": [
-      "algerian",
+      "north african",
       "chicken",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "algerian",
+      "couscous"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -7445,16 +7444,15 @@
   },
   {
     "slug": "outstandingly-fluffy-american-chicken-tagine",
-    "title": "Outstandingly Fluffy American Chicken Tagine",
+    "title": "American Chicken Tagine",
     "tags": [
-      "american-cuisine",
-      "chicken-recipes",
-      "dairy-free",
-      "date-night",
-      "tagine-cook"
+      "american",
+      "chicken",
+      "tagine",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
@@ -8784,16 +8782,14 @@
   },
   {
     "slug": "oven-crispy-polish-bacon-skillet",
-    "title": "Oven Crispy Polish Bacon Skillet",
+    "title": "Polish Bacon Crispy Skillet",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "oven-baked",
-      "polish-cuisine",
-      "weeknight"
+      "bacon",
+      "scrambled-eggs",
+      "breakfast"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "cuisine": "European",
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
