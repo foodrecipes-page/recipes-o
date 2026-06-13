@@ -189,17 +189,15 @@
   },
   {
     "slug": "ocean-fresh-canadian-fish-stew",
-    "title": "Ocean Fresh Canadian Fish Stew",
+    "title": "Pan-Seared Canadian Fish",
     "tags": [
-      "canadian-cuisine",
-      "fish-stew",
-      "galangal-recipe",
-      "keto-friendly",
-      "low-carb",
-      "one-pot"
+      "canadian-fish",
+      "fish-recipe",
+      "lemon-herb",
+      "easy-dinner"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -901,17 +899,15 @@
   },
   {
     "slug": "oil-infused-german-pork-bowl",
-    "title": "Oil Infused German Pork Bowl",
+    "title": "Pan-Seared Pork Chops with German Infused Oil",
     "tags": [
-      "bain-marie",
-      "comfort-food",
-      "german-cuisine",
-      "hangover-cure",
-      "keto-friendly",
-      "low-carb"
+      "german",
+      "pork-chops",
+      "infused-oil",
+      "dinner-ideas"
     ],
     "cuisine": "German",
-    "totalTimeMin": 140,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -10615,17 +10611,15 @@
   },
   {
     "slug": "oven-roasted-greek-lamb-roast",
-    "title": "Oven Roasted Greek Lamb Roast",
+    "title": "Classic Greek-Style Roasted Lamb",
     "tags": [
-      "comfort-food",
-      "flexitarian-friendly",
-      "greek-cuisine",
-      "lamb-recipes",
-      "roasted-meats",
-      "special-occasion"
+      "greek",
+      "lamb",
+      "roast",
+      "oven-roasted"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 100,
+    "totalTimeMin": 270,
     "shard": "o"
   },
   {
