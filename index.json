@@ -4633,17 +4633,16 @@
   },
   {
     "slug": "oozy-garlicky-syrian-tofu-tacos",
-    "title": "Oozy Garlicky Syrian Tofu Tacos",
+    "title": "Tofu Tacos with Syrian Flavor",
     "tags": [
-      "garlicky",
-      "jain-friendly",
+      "vegan",
+      "syrian",
       "middle-eastern",
-      "syrian-inspired",
-      "taco-night",
-      "vegetarian-delight"
+      "tacos",
+      "tofu"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -5073,16 +5072,15 @@
   },
   {
     "slug": "oozy-mexican-corn-sopes",
-    "title": "Oozy Mexican Corn Sopes",
+    "title": "Mexican Corn Sopes",
     "tags": [
-      "clay-pot",
-      "dairy-free",
       "mexican",
-      "vegetarian",
-      "weeknight"
+      "corn",
+      "sopes",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -9101,18 +9099,15 @@
   },
   {
     "slug": "oven-ready-slovakian-bread-burger",
-    "title": "Oven-Ready Slovakian Bread Burger",
+    "title": "Slovakian Burger",
     "tags": [
-      "binchotan-grill",
-      "bread-burger",
-      "oven-ready",
-      "quick",
+      "burger",
       "slovakian",
-      "vegan-friendly",
-      "vegetarian"
+      "oven",
+      "beef"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
