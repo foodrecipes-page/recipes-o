@@ -1,0 +1,98 @@
+{
+  "slug": "oceanic-spanish-seafood-pasta-bake",
+  "title": "Spanish Seafood Paella",
+  "description": "A classic Spanish dish made with succulent seafood and flavored with saffron. This paella is perfect for a dinner party.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Clams",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Uncooked Arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chorizo and cook until browned, about 2-3 minutes.",
+    "Add the shrimp, mussels, and clams, and cook until the seafood is opaque and slightly browned, about 5 minutes.",
+    "Add the Arborio rice and stir to coat the rice with the oil and mix with the seafood.",
+    "Add the chicken broth, tomato paste, smoked paprika, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the cover and continue to cook for an additional 5-10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Serve the paella hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-spanish-seafood-pasta-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:13:22.359Z"
+}
