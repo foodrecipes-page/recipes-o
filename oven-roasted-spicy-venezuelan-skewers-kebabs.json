@@ -1,0 +1,82 @@
+{
+  "slug": "oven-roasted-spicy-venezuelan-skewers-kebabs",
+  "title": "Venezuelan Oven Roasted Chicken Kebabs",
+  "description": "A delicious and spicy Venezuelan-inspired dish that combines the flavors of roasted chicken with the convenience of oven-baked chicken kebabs.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy Venezuelan hot sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as ají amarillo"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together hot sauce, garlic, salt, and pepper.",
+    "Add the chicken, onion, bell pepper, and cherry tomatoes to the bowl and toss to coat with the hot sauce mixture.",
+    "Thread the chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the preheated oven for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the skewers from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "spicy",
+    "venezuelan",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spicy-venezuelan-skewers-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:16:25.527Z"
+}
