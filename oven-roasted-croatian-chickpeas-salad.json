@@ -1,0 +1,98 @@
+{
+  "slug": "oven-roasted-croatian-chickpeas-salad",
+  "title": "Oven Roasted Croatian Chickpea Salad",
+  "description": "A delicious and healthy salad with roasted chickpeas and a hint of Croatian flavor. This salad is perfect for a light lunch or dinner.",
+  "cuisine": "International",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Rinse the chickpeas and pat them dry with a paper towel.",
+    "3. In a bowl, mix together the cumin, paprika, salt, and pepper.",
+    "4. Add the chickpeas to the bowl and toss to coat with the spice mixture.",
+    "5. Drizzle the olive oil over the chickpeas and toss to coat.",
+    "6. Spread the chickpeas on a baking sheet and roast in the oven for 30-40 minutes, or until crispy.",
+    "7. While the chickpeas are roasting, prepare the salad ingredients.",
+    "8. In a large bowl, combine the cucumber, tomato, red onion, and parsley.",
+    "9. Once the chickpeas are done roasting, add them to the bowl and toss to combine.",
+    "10. Serve the salad immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oven-roasted",
+    "chickpea",
+    "salad",
+    "croatian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-croatian-chickpeas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T03:07:41.729Z"
+}
