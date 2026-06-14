@@ -5850,17 +5850,15 @@
   },
   {
     "slug": "open-flame-grilled-slovakian-veal-skewers",
-    "title": "Slovakian Veal Skewers",
+    "title": "Slovakian Grilled Veal Skewers",
     "tags": [
-      "european-cuisine",
-      "flexitarian-friendly",
-      "grilled-meat",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "skewers",
+      "slovakian",
+      "veal"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 36,
     "shard": "o"
   },
   {
