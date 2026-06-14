@@ -1,0 +1,75 @@
+{
+  "slug": "oven-roasted-vietnamese-cabbage-bowl",
+  "title": "Roasted Cabbage Bowl",
+  "description": "A simple and flavorful roasted cabbage dish served in a bowl, great as a side or light meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "green or red cabbage works well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the cabbage into wedges and place in a bowl.",
+    "Drizzle the olive oil, salt, black pepper, and garlic powder over the cabbage.",
+    "Toss the cabbage to coat evenly.",
+    "Spread the cabbage out in a single layer on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "Remove from the oven and drizzle with sesame oil (if using).",
+    "Serve hot in bowls, garnished with additional sesame oil (if desired).",
+    "Optional: top with your choice of protein (chicken, tofu, etc.) or other toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "roasted",
+    "vietnamese",
+    "cabbage",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-cabbage-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:30:27.858Z"
+}
