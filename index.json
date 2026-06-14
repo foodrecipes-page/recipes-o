@@ -11811,16 +11811,15 @@
   },
   {
     "slug": "oven-roasted-moroccan-sterbottensost-cheese-pastilla",
-    "title": "Oven Roasted Moroccan Sterbottensost Cheese Pastilla",
+    "title": "Moroccan Sterbottensost Pastilla",
     "tags": [
-      "cheesy-goodness",
-      "moroccan-cuisine",
-      "shojin-friendly",
-      "smoky-flavors",
-      "vegetarian-friendly"
+      "moroccan",
+      "oven-roasted",
+      "cheese",
+      "pastilla"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
