@@ -1,0 +1,78 @@
+{
+  "slug": "outstanding-croatian-chicken-skewers",
+  "title": "Croatian Chicken Skewers",
+  "description": "A flavorful and spicy take on traditional chicken skewers, inspired by the rich culinary heritage of Croatia.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breasts, cut into 1-inch pieces",
+      "amount": "500g",
+      "notes": "Boneless and skinless, for best results"
+    },
+    {
+      "name": "Outstanding olive oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality, for the best flavor"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked or sweet, your choice"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Fresh, for maximum flavor"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "to taste",
+      "notes": "Adjust to your liking"
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "to taste",
+      "notes": "For garnish, if desired"
+    },
+    {
+      "name": "Lemon wedges (optional)",
+      "amount": "2",
+      "notes": "For serving, if desired"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, paprika, garlic, salt, and pepper.",
+    "Add chicken pieces to the bowl and toss to coat evenly.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "Transfer skewers to a plate and garnish with parsley, if desired.",
+    "Serve hot with lemon wedges on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skewers",
+    "croatian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-croatian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:43:24.725Z"
+}
