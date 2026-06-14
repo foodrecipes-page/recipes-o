@@ -4836,16 +4836,15 @@
   },
   {
     "slug": "oozy-jamaican-rice-stew",
-    "title": "Oozy Jamaican Rice Stew",
+    "title": "Jamaican-Style Stew with Oozy Rice",
     "tags": [
-      "bamboo-tray",
-      "hangover-cure",
-      "high-fiber",
-      "soupy",
+      "caribbean",
+      "stew",
+      "rice",
       "vegan",
-      "weeknight"
+      "easy"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 35,
     "shard": "o"
   },
@@ -7016,17 +7015,15 @@
   },
   {
     "slug": "outstanding-croatian-chicken-skewers",
-    "title": "Outstanding Croatian Chicken Skewers",
+    "title": "Croatian Chicken Skewers",
     "tags": [
-      "croatian-cuisine",
-      "dinner-party",
-      "gluten-free",
-      "grilled-chicken",
-      "high-protein",
-      "weeknight"
+      "chicken",
+      "skewers",
+      "croatian",
+      "grilled"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 42,
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -11341,17 +11338,14 @@
   },
   {
     "slug": "oven-roasted-korean-tofu-fried-chicken",
-    "title": "Oven Roasted Korean Tofu Fried Chicken",
+    "title": "Spicy Korean Fried Chicken",
     "tags": [
-      "flaky",
-      "korean",
-      "oven-baked",
-      "spicy",
-      "tofu",
-      "vegan"
+      "korean-fried-chicken",
+      "spicy-chicken",
+      "crispy-chicken"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 40,
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
