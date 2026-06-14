@@ -1,0 +1,90 @@
+{
+  "slug": "oven-roasted-korean-tofu-fried-chicken",
+  "title": "Spicy Korean Fried Chicken",
+  "description": "A crispy fried Korean-style chicken dish with a spicy kick. Perfect as a main course or appetizer.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger.",
+    "3. Add the chicken to the bowl and toss to coat with the marinade.",
+    "4. In a separate bowl, mix together cornstarch and a pinch of salt.",
+    "5. Add the cornstarch mixture to the chicken and toss to coat.",
+    "6. Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "7. Add the chicken to the skillet and cook until golden brown, about 5-7 minutes.",
+    "8. Transfer the chicken to a baking sheet lined with parchment paper.",
+    "9. Bake in the preheated oven for 15-20 minutes, or until cooked through.",
+    "10. Remove from the oven and let cool for a few minutes.",
+    "11. Toss the chicken with green onions (if using) and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-fried-chicken",
+    "spicy-chicken",
+    "crispy-chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-korean-tofu-fried-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:46:08.527Z"
+}
