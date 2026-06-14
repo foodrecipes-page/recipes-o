@@ -9797,17 +9797,17 @@
   },
   {
     "slug": "oven-roasted-croatian-chickpeas-salad",
-    "title": "Oven Roasted Croatian Chickpeas Salad",
+    "title": "Oven Roasted Croatian Chickpea Salad",
     "tags": [
+      "oven-roasted",
+      "chickpea",
+      "salad",
       "croatian",
-      "healthy-snack",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "International",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
