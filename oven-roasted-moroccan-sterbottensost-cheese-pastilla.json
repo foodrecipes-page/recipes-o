@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-moroccan-sterbottensost-cheese-pastilla",
+  "title": "Moroccan Sterbottensost Pastilla",
+  "description": "A Moroccan-inspired dish using the unique flavor of Sterbottensost cheese, perfect for a delicious dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lactose-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sterbottensost Cheese",
+      "amount": "1 block (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Phyllo Dough",
+      "amount": "1 package (typically 20-24 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to the package instructions.",
+    "Cut the Sterbottensost cheese into small pieces.",
+    "In a bowl, mix together the paprika, cumin, and salt.",
+    "Layer the phyllo dough in a baking dish, brushing each layer with butter.",
+    "Sprinkle the cheese mixture and the paprika mixture over the phyllo dough.",
+    "Roll the pastilla tightly and place it seam-side down in the baking dish.",
+    "Brush the top of the pastilla with butter.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Sprinkle with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "oven-roasted",
+    "cheese",
+    "pastilla"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-moroccan-sterbottensost-cheese-pastilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:59:07.065Z"
+}
