@@ -1,0 +1,81 @@
+{
+  "slug": "open-flame-grilled-slovakian-veal-skewers",
+  "title": "Slovakian Grilled Veal Skewers",
+  "description": "A traditional Slovakian recipe featuring marinated veal skewers grilled to perfection. Serve with a side of sauerkraut or braised red cabbage.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb veal tenderloin",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon white wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "1 tablespoon chopped fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1 tsp",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "10-12 wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, vinegar, paprika, salt, and pepper.",
+    "Add the veal pieces to the marinade and mix well to coat.",
+    "Thread the marinated veal onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the veal is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "slovakian",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/open-flame-grilled-slovakian-veal-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:48:12.574Z"
+}
