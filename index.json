@@ -3553,18 +3553,16 @@
   },
   {
     "slug": "oozing-french-tofu-galette",
-    "title": "Oozing French Tofu Galette",
+    "title": "French Tofu Galette",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
+      "vegan",
       "gluten-free",
-      "midnight-craving",
-      "one-pan",
-      "soupy",
-      "vegan"
+      "french",
+      "dinner",
+      "tofu"
     ],
     "cuisine": "French",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
