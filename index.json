@@ -14812,5 +14812,19 @@
     "cuisine": null,
     "totalTimeMin": 50,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-creamy-mexican-beef-birria--chinese",
+    "title": "Beef Birria Chinese Tacos",
+    "tags": [
+      "chinese",
+      "mexican",
+      "beef",
+      "tacos",
+      "fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
