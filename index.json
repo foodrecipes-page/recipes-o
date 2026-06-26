@@ -14839,5 +14839,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 170,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-creamy-mexican-beef-birria--thai",
+    "title": "Beef Birria Quesadillas",
+    "tags": [
+      "thaifood",
+      "mexicanfood",
+      "beefbirria",
+      "quesadillas"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 240,
+    "shard": "o"
   }
 ]
