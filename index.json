@@ -14826,5 +14826,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-creamy-mexican-beef-birria--mexican",
+    "title": "Delicious Beef Birria",
+    "tags": [
+      "mexican",
+      "beef",
+      "birria",
+      "stew"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "o"
   }
 ]
