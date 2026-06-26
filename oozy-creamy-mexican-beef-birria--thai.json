@@ -1,0 +1,99 @@
+{
+  "slug": "oozy-creamy-mexican-beef-birria--thai",
+  "title": "Beef Birria Quesadillas",
+  "description": "A fusion of Thai and Mexican cuisine, these Beef Birria Quesadillas are a unique twist on traditional quesadillas. The slow-cooked beef birria filling is wrapped inside a crispy Thai-style omelette.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oozy cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "beef birria",
+      "amount": "1 cup, cooked",
+      "notes": null
+    },
+    {
+      "name": "mexican tortillas",
+      "amount": "4-6",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "mexican crema",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "sliced lime",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": "for beef birria"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "for beef birria"
+    },
+    {
+      "name": "beef short ribs",
+      "amount": "2 lbs",
+      "notes": "for beef birria"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven or pot, heat 2 tbsp of oil over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the beef from the pot and set aside.",
+    "Add another 2 tbsp of oil to the pot and swirl to coat.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the beef broth and bring the mixture to a boil.",
+    "Return the beef to the pot and simmer for 2-3 hours, or until tender.",
+    "Shred the beef with two forks and strain the broth to remove excess fat.",
+    "In a large skillet, melt 1 tbsp of butter over medium heat.",
+    "Add 1 tortilla to the skillet and sprinkle with shredded cheese.",
+    "Add a spoonful of beef birria to one half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining tortillas and filling.",
+    "Cut the quesadillas into wedges and serve with mexican crema, chopped cilantro, sliced radishes, and a lime wedge."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "mexicanfood",
+    "beefbirria",
+    "quesadillas"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 53,
+    "carbs": 40,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-mexican-beef-birria--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T13:35:02.260Z"
+}
