@@ -1,0 +1,87 @@
+{
+  "slug": "oozy-creamy-mexican-beef-birria--chinese",
+  "title": "Beef Birria Chinese Tacos",
+  "description": "A fusion twist on traditional Chinese and Mexican dishes. This recipe combines the tender beef of birria with the flavors and textures of Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger (grated)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oozy",
+      "amount": "1/4 cup",
+      "notes": "Mexican oaxaca cheese"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan or wok, heat the sesame oil over medium-high heat.",
+    "Add the ginger and garlic and stir-fry until fragrant.",
+    "Add the beef and cook until browned, then add the soy sauce, brown sugar, and beef broth.",
+    "Simmer the mixture for 10-15 minutes, or until the beef is tender.",
+    "Shred the beef with two forks and stir in the oozey cheese.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto the tortillas and serving immediately.",
+    "Garnish with additional oozey cheese and serve with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "mexican",
+    "beef",
+    "tacos",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-mexican-beef-birria--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T09:34:28.380Z"
+}
