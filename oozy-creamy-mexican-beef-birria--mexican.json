@@ -1,0 +1,96 @@
+{
+  "slug": "oozy-creamy-mexican-beef-birria--mexican",
+  "title": "Delicious Beef Birria",
+  "description": "A hearty and flavorful Mexican dish made with tender beef and a rich, spicy broth. Serve with fresh tortillas, lime wedges, and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket or beef shank",
+      "amount": "2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "limes",
+      "amount": "4",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the oregano, cumin, chili powder, and chipotle peppers to the pot and cook for 1 minute.",
+    "Add the beef broth, tomatoes, and browned beef to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the birria for 2 1/2 hours, or until the beef is tender.",
+    "Shred the beef with two forks and return it to the pot.",
+    "Season the birria with salt and lime juice.",
+    "Serve the birria hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "birria",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-mexican-beef-birria--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:33:46.246Z"
+}
