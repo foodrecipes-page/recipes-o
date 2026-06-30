@@ -1,0 +1,66 @@
+{
+  "slug": "outstanding-pungent-filipino-runner-beans-ginataang-bilo-bilo",
+  "title": "Filipino-Style Ginataang Bilo-Bilo",
+  "description": "A traditional Filipino dessert made with sweetened tapioca pearls, coconut milk, and glutinous rice balls. This version is a refreshing take on the classic, perfect for warm weather.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tapioca Pearls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Glutinous Rice Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Pandan Extract",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine glutinous rice flour and water in a bowl. Knead until a dough forms.",
+    "Divide dough into small balls and cook in boiling water until they float.",
+    "Combine coconut milk, sugar, and pandan extract in a saucepan. Heat over medium heat until sugar dissolves.",
+    "Add tapioca pearls to the coconut milk mixture and cook for 5 minutes.",
+    "Add cooked glutinous rice balls to the coconut milk mixture and cook for an additional 2 minutes.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "dessert",
+    "coconut",
+    "tapioca"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-pungent-filipino-runner-beans-ginataang-bilo-bilo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:41:14.527Z"
+}
