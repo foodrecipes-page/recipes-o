@@ -1,0 +1,99 @@
+{
+  "slug": "oozing-charred-chinese-katsuobushi-wonton-soup",
+  "title": "Wonton Soup with Chinese Flair",
+  "description": "A light and savory soup featuring wontons filled with a delicious katsuobushi and oozing cheese mixture, served in a richly flavored broth.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers (chinese)",
+      "amount": "12-15 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Katsuobushi (Japanese dried and fermented bonito flakes)",
+      "amount": "2 tablespoons",
+      "notes": "Soak in water for 10 minutes to rehydrate before using"
+    },
+    {
+      "name": "Oozing cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Charred scallions (for garnish)",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Bring the vegetable broth to a boil.",
+    "2. Reduce heat and add soy sauce, sesame oil, ginger, and garlic.",
+    "3. Simmer for 10 minutes to allow flavors to meld.",
+    "4. Soak katsuobushi in water for 10 minutes to rehydrate.",
+    "5. Drain and chop katsuobushi.",
+    "6. In a bowl, mix together katsuobushi, oozing cheese, and a pinch of salt and pepper.",
+    "7. Lay a wonton wrapper on a clean surface.",
+    "8. Place a tablespoon of the katsuobushi mixture in the center of the wrapper.",
+    "9. Dip your finger in water and run it along the edges of the wrapper.",
+    "10. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "11. Press the edges together to seal the wonton.",
+    "12. Repeat with the remaining wrappers and filling.",
+    "13. When the broth is ready, add the wontons and cook for 2-3 minutes or until they float to the surface.",
+    "14. Serve hot, garnished with charred scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "wonton",
+    "chinese",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-charred-chinese-katsuobushi-wonton-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:23:36.189Z"
+}
