@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-tender-slovakian-cucumber-stir-fry",
+  "title": "Slovakian Roasted Cucumber Fritters",
+  "description": "Crispy fritters filled with roasted cucumber and perfect for a light summer meal. This dish is a unique Slovakian twist on traditional fritters.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the sliced cucumber on a baking sheet lined with parchment paper, drizzle with olive oil, and roast for 20-25 minutes or until tender.",
+    "In a shallow dish, mix together flour, breadcrumbs, egg, garlic powder, and salt.",
+    "Once the cucumber is done, let it cool slightly, then chop it into small pieces.",
+    "Add the chopped cucumber to the flour mixture and stir to combine.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat about 1/2 inch (1 cm) of oil in a non-stick pan over medium-high heat.",
+    "When the oil is hot, add a few patties to the pan (do not overcrowd).",
+    "Fry for 2-3 minutes on each side or until golden brown.",
+    "Using a slotted spoon, transfer the fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "oven-roasted",
+    "cucumber",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-tender-slovakian-cucumber-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:43:06.889Z"
+}
