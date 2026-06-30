@@ -1,0 +1,84 @@
+{
+  "slug": "outstandingly-sweet-norwegian-cod-skewers",
+  "title": "Sweet Norwegian Cod Skewers",
+  "description": "A delicious and easy-to-make dish featuring sweet Norwegian cod, perfect for a summer evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cod",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Sweet skewers",
+      "amount": "10-12 skewers",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the cod under cold water and pat dry with paper towels.",
+    "Thread the cod onto the skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Brush the mixture onto both sides of the cod.",
+    "Place the skewers on the grill and cook for 8-10 minutes per side, or until cooked through.",
+    "Remove from heat and garnish with parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "seafood",
+    "grill",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-sweet-norwegian-cod-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:19:50.562Z"
+}
