@@ -1,0 +1,87 @@
+{
+  "slug": "oozy-smoky-roasted-ceviche-avocado-skewers",
+  "title": "Grilled Shrimp Skewers with Avocado Salsa",
+  "description": "A refreshing and flavorful dish featuring succulent shrimp, smoky grilled skewers, and a zesty avocado salsa.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "juice of lime",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread shrimp onto skewers, leaving a small space between each shrimp.",
+    "3. Brush skewers with olive oil and season with salt, black pepper, cumin, and coriander.",
+    "4. Grill skewers for 2-3 minutes per side, or until pink and cooked through.",
+    "5. Meanwhile, combine diced avocado, red onion, and lime juice in a bowl.",
+    "6. Serve grilled shrimp skewers with avocado salsa.",
+    "7. Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "30g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-smoky-roasted-ceviche-avocado-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:36:43.787Z"
+}
