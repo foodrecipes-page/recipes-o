@@ -1,0 +1,80 @@
+{
+  "slug": "opulent-smoky-malaysian-olives-wrap",
+  "title": "Malaysian Smoked Chicken Wrap",
+  "description": "A flavorful and spicy wrap filled with smoked chicken, crunchy olives, and a tangy sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Chicken Breast",
+      "amount": "1",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Malaysian Peanut Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Crunchy Olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted and sliced"
+    },
+    {
+      "name": "Opulent Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla or flatbread"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Slice the smoked chicken breast into thin strips.",
+    "2. In a small bowl, mix together the Malaysian peanut sauce and smoked paprika (if using).",
+    "3. Lay the opulent wrap flat on a clean surface.",
+    "4. Spread a quarter of the peanut sauce mixture onto the center of the wrap.",
+    "5. Arrange the sliced red onion and chopped cilantro on top of the sauce.",
+    "6. Add the sliced smoked chicken breast on top of the onion and cilantro.",
+    "7. Sprinkle the crunchy olives over the chicken.",
+    "8. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a neat cylinder.",
+    "9. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "peanut-sauce",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/opulent-smoky-malaysian-olives-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:40:42.309Z"
+}
