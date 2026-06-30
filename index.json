@@ -809,13 +809,13 @@
   },
   {
     "slug": "oil-fried-slovakian-dough-dumplings",
-    "title": "Oil Fried Slovakian Dough Dumplings",
+    "title": "Slovakian Fried Dumplings",
     "tags": [
-      "deep-fried",
-      "gluten-free-friendly",
-      "post-workout",
-      "slovakian-cuisine",
-      "sweet-treats"
+      "slovakian",
+      "fried",
+      "dumplings",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
@@ -2044,17 +2044,15 @@
   },
   {
     "slug": "oily-roasted-argentinian-sardine-bowl",
-    "title": "Oily Roasted Argentinian Sardine Bowl",
+    "title": "Argentinian-Style Grilled Sardine Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "fish",
+      "seafood",
+      "grilled",
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 27,
+    "cuisine": "argentinian",
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
@@ -7952,17 +7950,15 @@
   },
   {
     "slug": "outstandingly-sweet-norwegian-cod-skewers",
-    "title": "Outstandingly Sweet Norwegian Cod Skewers",
+    "title": "Sweet Norwegian Cod Skewers",
     "tags": [
-      "date-night",
-      "high-protein",
-      "norwegian-cuisine",
-      "one-pan",
+      "norwegian",
       "seafood",
-      "weeknight"
+      "grill",
+      "easy"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 26,
     "shard": "o"
   },
   {
@@ -12868,18 +12864,15 @@
   },
   {
     "slug": "oven-roasted-tender-slovakian-cucumber-stir-fry",
-    "title": "Oven-Roasted Slovakian Cucumber Stir-fry",
+    "title": "Slovakian Roasted Cucumber Fritters",
     "tags": [
-      "easy-to-make",
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "quick-meal",
-      "spring",
-      "summer"
+      "slovakian",
+      "oven-roasted",
+      "cucumber",
+      "fritters"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -13252,17 +13245,16 @@
   },
   {
     "slug": "oven-roasted-uruguayan-cheddar-bake",
-    "title": "Oven Roasted Uruguayan Cheddar Bake",
+    "title": "Uruguayan Cheddar Frittata",
     "tags": [
-      "cheesy",
-      "gluten-free",
-      "one-pan",
-      "romantic-dinner",
-      "sugar-free",
-      "uruguayan-cuisine"
+      "breakfast",
+      "egg",
+      "cheese",
+      "uruguayan",
+      "frittata"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
