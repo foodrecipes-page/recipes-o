@@ -5610,16 +5610,14 @@
   },
   {
     "slug": "oozy-tangy-filipino-linguine-pasta-pinakbet",
-    "title": "Oozy Tangy Filipino Linguine Pasta Pinakbet",
+    "title": "Filipino-Style Vegetable Pinakbet Pasta",
     "tags": [
-      "filipino-food",
-      "hangover-cure",
-      "one-pot",
-      "pasta-dish",
-      "tangy"
+      "pasta",
+      "filipino",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -13735,17 +13733,16 @@
   },
   {
     "slug": "oven-smoky-turkish-tomato-wrap",
-    "title": "Oven Smoky Turkish Tomato Wrap",
+    "title": "Smoky Turkish Wraps",
     "tags": [
-      "gluten-free",
-      "lunch",
-      "one-pan",
-      "smoky",
       "turkish",
-      "vegetarian"
+      "lamb",
+      "pita",
+      "wrap",
+      "smoky"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
