@@ -1,0 +1,81 @@
+{
+  "slug": "oven-kissed-russian-kid-friendly-baked",
+  "title": "Baked Kid-Friendly Russian Kicked Oven Meal",
+  "description": "A delicious and easy-to-make meal that's perfect for a family dinner. This recipe combines the flavors of Russia with the comfort of baked goodness.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kid-Friendly Meatballs",
+      "amount": "1 package (made from beef and pork)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Russian-Style Mashed Potatoes",
+      "amount": "2 large potatoes",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Baked Carrots",
+      "amount": "4 large carrots",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Friendly Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free breadcrumbs"
+    },
+    {
+      "name": "Kissed Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "olive oil for brushing"
+    },
+    {
+      "name": "Russian Seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Baked Cheese",
+      "amount": "1 cup shredded cheese",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the meatballs, mashed potatoes, carrots, breadcrumbs, olive oil, Russian seasoning, salt, and pepper. Mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheese.",
+    "Bake for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "russian",
+    "baked",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-kissed-russian-kid-friendly-baked",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:35:18.713Z"
+}
