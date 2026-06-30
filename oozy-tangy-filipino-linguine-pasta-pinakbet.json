@@ -1,0 +1,82 @@
+{
+  "slug": "oozy-tangy-filipino-linguine-pasta-pinakbet",
+  "title": "Filipino-Style Vegetable Pinakbet Pasta",
+  "description": "A fusion dish that combines the Filipino flavors of pinakbet with the Italian classic linguine pasta.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "pinakbet",
+      "amount": "1 cup",
+      "notes": "Filipino vegetable stew"
+    },
+    {
+      "name": "oozy sauce",
+      "amount": "1/2 cup",
+      "notes": "such as a garlic butter sauce"
+    },
+    {
+      "name": "tangy tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the linguine pasta according to the package instructions.",
+    "In a large pan, heat the oozy sauce over medium heat.",
+    "Add the chopped onion and minced garlic to the pan and sauté until softened.",
+    "Add the diced tangy tomatoes and cook for an additional 2-3 minutes.",
+    "Stir in the pinakbet and cook for 1-2 minutes until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Combine the cooked linguine pasta with the vegetable mixture and toss to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "filipino",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-tangy-filipino-linguine-pasta-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:24:45.566Z"
+}
