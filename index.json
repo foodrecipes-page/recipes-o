@@ -2212,18 +2212,15 @@
   },
   {
     "slug": "oily-tender-australian-rice-bowl",
-    "title": "Oily tender Australian rice Bowl",
+    "title": "Australian Rice Bowl",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "gluten-free-friendly",
-      "high-protein",
-      "one-pan",
-      "plant-based-friendly",
-      "weeknight"
+      "australian",
+      "rice",
+      "bowl",
+      "beef"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 50,
+    "cuisine": "Australian",
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -12221,17 +12218,14 @@
   },
   {
     "slug": "oven-roasted-saudi-arabian-egg-noodles",
-    "title": "Oven Roasted Saudi Arabian Egg Noodles",
+    "title": "Saudi Arabian Egg Noodle Bake",
     "tags": [
-      "low-fat",
-      "noodle-dish",
-      "oven-roasted",
-      "romantic-dinner",
       "saudi-arabian",
-      "yeasty"
+      "egg-noodle",
+      "roasted-chicken"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
