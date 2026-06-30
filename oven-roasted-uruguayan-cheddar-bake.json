@@ -1,0 +1,71 @@
+{
+  "slug": "oven-roasted-uruguayan-cheddar-bake",
+  "title": "Uruguayan Cheddar Frittata",
+  "description": "A classic Uruguayan-inspired frittata, perfect for breakfast or brunch. This recipe combines the rich flavors of roasted cheddar and Uruguayan flair.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy",
+    "eggs"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": "roasted"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the chopped parsley until wilted.",
+    "In a large bowl, whisk together eggs, milk, salt, and pepper.",
+    "Add the roasted cheddar cheese to the bowl and stir to combine.",
+    "Pour the egg mixture over the cooked parsley in the skillet.",
+    "Transfer the skillet to the oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "cheese",
+    "uruguayan",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-uruguayan-cheddar-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:25:36.710Z"
+}
