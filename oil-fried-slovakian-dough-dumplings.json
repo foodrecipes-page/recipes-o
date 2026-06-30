@@ -1,0 +1,65 @@
+{
+  "slug": "oil-fried-slovakian-dough-dumplings",
+  "title": "Slovakian Fried Dumplings",
+  "description": "A traditional Slovakian dish made with fried dough balls served with a side of dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dough",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fried",
+      "amount": "",
+      "notes": "for dusting"
+    },
+    {
+      "name": "dumplings",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Heat the oil in a deep frying pan over medium heat.",
+    "Fry the dough disks until they are golden brown and puffed up.",
+    "Using a slotted spoon, remove the fried dough from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried dough with dumplings on the side.",
+    "Dust the fried dough with fried for extra crunch.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "fried",
+    "dumplings",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-fried-slovakian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:10:37.427Z"
+}
