@@ -1,0 +1,69 @@
+{
+  "slug": "oven-roasted-polish-almonds-flatbread",
+  "title": "Polish Almond Flatbread",
+  "description": "A crispy flatbread topped with roasted almonds and a touch of Polish flair.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Line a baking sheet with parchment paper.",
+    "3. Arrange the flatbread pieces on the prepared baking sheet.",
+    "4. Drizzle the olive oil over the flatbread.",
+    "5. Sprinkle the sliced almonds over the flatbread.",
+    "6. Sprinkle the sugar over the almonds.",
+    "7. Bake for 10-12 minutes or until the flatbread is crispy and golden brown.",
+    "8. Remove from oven and sprinkle with salt to taste.",
+    "9. Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "almonds",
+    "flatbread",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-polish-almonds-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:56:32.426Z"
+}
