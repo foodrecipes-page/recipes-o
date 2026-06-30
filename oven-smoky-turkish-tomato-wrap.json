@@ -1,0 +1,87 @@
+{
+  "slug": "oven-smoky-turkish-tomato-wrap",
+  "title": "Smoky Turkish Wraps",
+  "description": "A flavorful and aromatic wrap filled with smoky spices, topped with a fresh tomato salsa.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Warm pita wraps",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together smoked paprika, garlic, salt, and pepper.",
+    "Rub the spice mixture evenly over the lamb shoulder.",
+    "Place the lamb on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until browned and cooked through.",
+    "While the lamb is cooking, heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Add diced tomato and cook until softened, about 5 minutes.",
+    "Chop fresh parsley and stir in.",
+    "Once the lamb is done, let it rest for 5 minutes before slicing into thin strips.",
+    "Warm the pita wraps by wrapping them in foil and heating them in the oven for 2-3 minutes.",
+    "Assemble the wraps by placing sliced lamb, tomato salsa, and crumbled feta cheese (if using) on each wrap.",
+    "Brush the tops of the wraps with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "pita",
+    "wrap",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoky-turkish-tomato-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:26:25.430Z"
+}
