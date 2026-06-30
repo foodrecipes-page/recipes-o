@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-saudi-arabian-egg-noodles",
+  "title": "Saudi Arabian Egg Noodle Bake",
+  "description": "A simple and flavorful Saudi-inspired dish combining egg noodles with roasted chicken and spices, perfect for a weeknight dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1.5 lbs (675g)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook egg noodles according to package instructions. Drain and set aside.",
+    "Season chicken breast with salt, black pepper, cumin, and paprika. Roast in oven for 20-25 minutes, or until cooked through.",
+    "In a large skillet, heat olive oil over medium heat. Add roasted garlic and cook for 1-2 minutes, until fragrant.",
+    "Add cooked noodles to the skillet and toss to combine with garlic and oil.",
+    "Slice roasted chicken and add to the noodles. Toss to combine.",
+    "Transfer the noodle mixture to a baking dish and top with chopped parsley.",
+    "Bake in the oven for an additional 5-10 minutes, until heated through and parsley is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "egg-noodle",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-saudi-arabian-egg-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:37:35.392Z"
+}
