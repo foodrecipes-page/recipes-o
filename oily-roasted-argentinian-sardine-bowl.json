@@ -1,0 +1,75 @@
+{
+  "slug": "oily-roasted-argentinian-sardine-bowl",
+  "title": "Argentinian-Style Grilled Sardine Bowl",
+  "description": "A flavorful and nutritious bowl dish featuring grilled sardines, roasted vegetables, and a drizzle of oil.",
+  "cuisine": "argentinian",
+  "diet": [
+    "fish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "6",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season sardines with salt and pepper.",
+    "Brush sardines with olive oil and grill for 2-3 minutes per side.",
+    "Meanwhile, heat a skillet over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add roasted red peppers and cook for an additional 2 minutes.",
+    "Serve sardines on top of the pepper mixture.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "seafood",
+    "grilled",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-roasted-argentinian-sardine-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:25:40.284Z"
+}
