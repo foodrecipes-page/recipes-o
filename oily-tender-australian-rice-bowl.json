@@ -1,0 +1,72 @@
+{
+  "slug": "oily-tender-australian-rice-bowl",
+  "title": "Australian Rice Bowl",
+  "description": "A simple and flavorful Australian-inspired rice bowl dish featuring tender meat and a variety of spices.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian beef strips",
+      "amount": "500g",
+      "notes": "Choose thinly sliced beef for best results"
+    },
+    {
+      "name": "oily olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality olive oil for the best flavor"
+    },
+    {
+      "name": "tender brown rice",
+      "amount": "250g",
+      "notes": "Cook to the package instructions"
+    },
+    {
+      "name": "bowl of mixed greens",
+      "amount": "1",
+      "notes": "Choose your favorite mixed greens for the best flavor"
+    },
+    {
+      "name": "Australian bush herbs",
+      "amount": "2 tsp",
+      "notes": "Chopped fresh herbs can be used in place of dried herbs"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality sea salt for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the Australian beef strips to the skillet and cook for 3-4 minutes or until browned.",
+    "Add the bush herbs and sea salt to the skillet and stir to combine.",
+    "Add the cooked brown rice to the skillet and stir to combine with the beef and herbs.",
+    "Cook for an additional 2-3 minutes or until the rice is heated through.",
+    "Serve the rice mixture in a bowl topped with mixed greens.",
+    "Drizzle with additional olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "rice",
+    "bowl",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-tender-australian-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:19.059Z"
+}
