@@ -7295,16 +7295,15 @@
   },
   {
     "slug": "outstanding-pungent-filipino-runner-beans-ginataang-bilo-bilo",
-    "title": "Filipino Runner Beans Ginataang Bilo Bilo",
+    "title": "Filipino-Style Ginataang Bilo-Bilo",
     "tags": [
-      "coconut-cream-based",
-      "filipino-food",
-      "one-pot",
-      "vegetarian-friendly",
-      "weeknight-dinner"
+      "filipino",
+      "dessert",
+      "coconut",
+      "tapioca"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -11971,18 +11970,15 @@
   },
   {
     "slug": "oven-roasted-polish-almonds-flatbread",
-    "title": "Oven-Roasted Polish Almonds Flatbread",
+    "title": "Polish Almond Flatbread",
     "tags": [
-      "almonds",
-      "easy-to-make",
-      "flatbread",
-      "gluten-free",
-      "halal",
       "polish",
-      "snack"
+      "almonds",
+      "flatbread",
+      "oven-roasted"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 17,
     "shard": "o"
   },
   {
