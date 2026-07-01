@@ -1,0 +1,100 @@
+{
+  "slug": "oil-infused-saudi-arabian-lamb-tagine",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A traditional and aromatic stew originating from Saudi Arabia, made with tender lamb, fragrant spices, and a rich sauce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "Halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Arabian tagine spice mix",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, salt, and black pepper, and stir to combine.",
+    "Add the Arabian tagine spice mix and stir to combine.",
+    "Add enough water to cover the lamb, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Skim off any excess fat before serving.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "saudi-arabian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:27:10.829Z"
+}
