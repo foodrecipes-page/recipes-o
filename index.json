@@ -12918,17 +12918,16 @@
   },
   {
     "slug": "oven-roasted-tunisian-lamb-tagine",
-    "title": "Oven Roasted Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "oven-roasted",
-      "tunisian-cuisine",
-      "winter-meals"
+      "lamb",
+      "tagine",
+      "north-african",
+      "slow-cooked",
+      "oven"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
