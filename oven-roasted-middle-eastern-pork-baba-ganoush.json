@@ -1,0 +1,80 @@
+{
+  "slug": "oven-roasted-middle-eastern-pork-baba-ganoush",
+  "title": "Middle Eastern Baba Ganoush Stuffed Pork Tenderloin",
+  "description": "A unique fusion of Middle Eastern flavors with a tender and juicy pork tenderloin, stuffed with a creamy baba ganoush.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 (1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "baba ganoush",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork tenderloin with salt and black pepper.",
+    "Spoon the baba ganoush into the center of the pork tenderloin, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pork tenderloin over the baba ganoush, then roll the tenderloin into a tight cylinder.",
+    "Place the pork tenderloin on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the pork tenderloin, then sprinkle with minced garlic.",
+    "Bake the pork tenderloin for 20-25 minutes, or until it reaches an internal temperature of 145°F (63°C).",
+    "Transfer the pork tenderloin to a cutting board and let it rest for 5 minutes before slicing.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "oven-roasted",
+    "pork",
+    "baba-ganouche"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-middle-eastern-pork-baba-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:40:12.145Z"
+}
