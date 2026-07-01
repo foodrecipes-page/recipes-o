@@ -1,0 +1,70 @@
+{
+  "slug": "oily-tender-portuguese-cod-stew",
+  "title": "Bacalhau à Brás",
+  "description": "A traditional Portuguese cod dish made with shredded cod, onions, potatoes, and scrambled eggs. This recipe is a staple in Portuguese cuisine.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Shred the cod into small pieces and rinse with cold water.",
+    "Heat 1 tablespoon of olive oil in a large pan over medium heat.",
+    "Add the onion and sauté until softened, about 5 minutes.",
+    "Add the potatoes and cook for 10-12 minutes, or until they start to brown.",
+    "Add the shredded cod and cook for 5-7 minutes, or until heated through.",
+    "Crack the eggs into the pan and scramble them with the cod mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "cod",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-tender-portuguese-cod-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:04:40.039Z"
+}
