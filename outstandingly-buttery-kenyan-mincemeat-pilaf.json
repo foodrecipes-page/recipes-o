@@ -1,0 +1,78 @@
+{
+  "slug": "outstandingly-buttery-kenyan-mincemeat-pilaf",
+  "title": "Kenyan-Style Pilaf with Mincemeat",
+  "description": "A flavorful and aromatic Kenyan-inspired dish combining pilaf with sweet and tangy mincemeat.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mincemeat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a large saucepan over medium heat.",
+    "Add diced onion and cook until softened, about 3-4 minutes.",
+    "Add cumin, coriander, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add pilaf and cook for 2-3 minutes, stirring constantly.",
+    "Add mincemeat and cook for an additional 2-3 minutes, stirring frequently.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and cover. Simmer for 10-12 minutes or until liquid has been absorbed.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "pilaf",
+    "mincemeat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-buttery-kenyan-mincemeat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:12.819Z"
+}
