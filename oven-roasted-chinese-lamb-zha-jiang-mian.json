@@ -1,0 +1,78 @@
+{
+  "slug": "oven-roasted-chinese-lamb-zha-jiang-mian",
+  "title": "Chinese Lamb Zha Jiang Mian",
+  "description": "A classic Chinese stir-fry dish made with lamb and noodles, served in a savory and slightly sweet sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "250g"
+    },
+    {
+      "name": "mian",
+      "amount": "200g"
+    },
+    {
+      "name": "zha",
+      "amount": "2"
+    },
+    {
+      "name": "jiang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Season the lamb with salt and pepper.",
+    "Cook the mian according to package instructions.",
+    "Heat 1 tbsp of vegetable oil in a wok over medium heat.",
+    "Add the garlic and ginger and stir-fry until fragrant.",
+    "Add the lamb and cook until browned.",
+    "Add the zha, jiang, and soy sauce, and stir-fry until the sauce has thickened.",
+    "Combine the cooked mian and lamb mixture, and stir-fry for 1 minute.",
+    "Transfer the wok to the oven and roast for 5 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "noodles",
+    "stir-fry",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-chinese-lamb-zha-jiang-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:15:19.992Z"
+}
