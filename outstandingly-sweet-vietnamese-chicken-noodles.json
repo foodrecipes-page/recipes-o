@@ -1,0 +1,76 @@
+{
+  "slug": "outstandingly-sweet-vietnamese-chicken-noodles",
+  "title": "Vietnamese Chicken Noodle Soup",
+  "description": "A comforting and flavorful soup originating from Vietnam, made with chicken and noodles.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 package",
+      "notes": "Rice stick noodles or egg noodles"
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and ginger, and cook for an additional 2 minutes.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Add the noodles and cook according to the package instructions.",
+    "Stir in the fish sauce and soy sauce, and season with salt and pepper to taste.",
+    "Simmer the soup for 5-7 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped herbs or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "noodle soup",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-sweet-vietnamese-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:49:43.607Z"
+}
