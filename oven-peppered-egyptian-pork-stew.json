@@ -1,0 +1,87 @@
+{
+  "slug": "oven-peppered-egyptian-pork-stew",
+  "title": "Pork and Peppered Stew",
+  "description": "A hearty stew made with tender pork and a variety of spices, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Peppered stew seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, brown the pork on all sides over medium-high heat.",
+    "Add the onion, carrots, and potatoes to the pot and cook until the vegetables are slightly tender.",
+    "Add the peppered stew seasoning, Egyptian paprika, salt, and black pepper to the pot and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 hours, or until the pork is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "pork",
+    "oven-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-peppered-egyptian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:23:57.540Z"
+}
