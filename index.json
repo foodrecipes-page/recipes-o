@@ -6531,17 +6531,16 @@
   },
   {
     "slug": "outdoor-grilled-argentinian-beef-skewers",
-    "title": "Outdoor Grilled Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
-      "argentinian-cuisine",
-      "flexitarian",
-      "grilled-meat",
-      "kid-friendly",
-      "outdoor-cooking",
-      "quick-dinner"
+      "grilled",
+      "skewers",
+      "argentinian",
+      "beef",
+      "outdoor"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -7941,16 +7940,14 @@
   },
   {
     "slug": "outstandingly-sweet-vietnamese-chicken-noodles",
-    "title": "Sweet Vietnamese Chicken Noodles",
+    "title": "Vietnamese Chicken Noodle Soup",
     "tags": [
-      "high-protein",
-      "noodle-dish",
-      "one-pan",
-      "post-workout",
       "vietnamese",
-      "weeknight"
+      "chicken",
+      "noodle soup",
+      "comfort food"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 35,
     "shard": "o"
   },
@@ -10947,17 +10944,14 @@
   },
   {
     "slug": "oven-roasted-jamaican-porcini-stew",
-    "title": "Oven Roasted Jamaican Porcini Stew",
+    "title": "Jamaican Porcini Stew",
     "tags": [
-      "anti-inflammatory",
-      "cozy-stew",
-      "gluten-free",
-      "jamaican-inspired",
-      "mushroom-based",
-      "oven-roasted"
+      "porcini",
+      "jamaican",
+      "stew"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 65,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
