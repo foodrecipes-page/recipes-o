@@ -1,0 +1,70 @@
+{
+  "slug": "oceanic-golden-british-seafood-fritters",
+  "title": "Pan-Fried British Fritters with Golden Oceanic Sauce",
+  "description": "Crispy British fritters served with a golden oceanic sauce, perfect for a quick dinner.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British Fritters Mix",
+      "amount": "200g",
+      "notes": "Available at local British market"
+    },
+    {
+      "name": "Golden Oceanic Sauce",
+      "amount": "100ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "20g",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "20g",
+      "notes": "For coating"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix fritters mix, eggs, and a pinch of salt.",
+    "2. Heat oil in a deep frying pan over medium heat.",
+    "3. Form fritters into small patties and coat with bread crumbs.",
+    "4. Fry fritters until golden brown, about 3-4 minutes per side.",
+    "5. Drain fritters on paper towels.",
+    "6. In a separate pan, heat golden oceanic sauce over low heat.",
+    "7. Serve fritters with golden oceanic sauce.",
+    "8. Garnish with chopped fresh herbs, if desired.",
+    "9. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "fritters",
+    "oceanic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-golden-british-seafood-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:47:37.272Z"
+}
