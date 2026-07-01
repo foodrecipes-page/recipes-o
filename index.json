@@ -443,17 +443,15 @@
   },
   {
     "slug": "oceanic-golden-british-seafood-fritters",
-    "title": "Oceanic Golden British Seafood Fritters",
+    "title": "Pan-Fried British Fritters with Golden Oceanic Sauce",
     "tags": [
       "british",
-      "comfort-food",
-      "deep-fried",
-      "easy-snack",
-      "flexitarian",
+      "fritters",
+      "oceanic",
       "seafood"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 35,
+    "cuisine": "british",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -4936,16 +4934,14 @@
   },
   {
     "slug": "oozy-mediterranean-cheese-lasagna",
-    "title": "Oozy Mediterranean Cheese Lasagna",
+    "title": "Mediterranean Lasagna",
     "tags": [
-      "cheese-pull",
-      "lazy-sunday",
+      "italian",
+      "lasagna",
       "mediterranean",
-      "one-pan",
-      "shojin-friendly",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "Italian",
     "totalTimeMin": 60,
     "shard": "o"
   },
@@ -9269,16 +9265,15 @@
   },
   {
     "slug": "oven-roasted-argentinian-lamb-shank-stew",
-    "title": "Oven Roasted Argentinian Lamb Shank Stew",
+    "title": "Argentinian Roasted Lamb Shank Stew",
     "tags": [
-      "argentinian-inspired",
-      "comfort-food",
-      "lamb-based",
-      "one-pot",
-      "rich-and-hearty"
+      "lamb",
+      "stew",
+      "argentinian",
+      "roasted"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
