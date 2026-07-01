@@ -1,0 +1,109 @@
+{
+  "slug": "oven-roasted-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional North African dish made with lamb, spices, and dried fruits, slow-cooked in a clay pot or oven.",
+  "cuisine": "North African",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with salt, black pepper, cumin, cinnamon, and paprika.",
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the dried apricots and prunes to the pot and cook for 1 minute.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the lamb to the pot, cover, and transfer to the preheated oven.",
+    "Bake for 2 1/2 to 3 hours, or until the lamb is tender and the sauce has thickened.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooked",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:15:51.908Z"
+}
