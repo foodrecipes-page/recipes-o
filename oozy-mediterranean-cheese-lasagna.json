@@ -1,0 +1,72 @@
+{
+  "slug": "oozy-mediterranean-cheese-lasagna",
+  "title": "Mediterranean Lasagna",
+  "description": "A delicious twist on the classic lasagna, filled with the flavors of the Mediterranean. Perfect for a satisfying dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "Oozy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the lasagna sheets according to package instructions.",
+    "In a large skillet, sauté the garlic, Mediterranean, and oozy until combined.",
+    "In a separate saucepan, heat the tomato sauce over low heat.",
+    "Assemble the lasagna by spreading a layer of tomato sauce, followed by a layer of cooked lasagna sheets, and then a layer of the Mediterranean and oozy mixture.",
+    "Repeat the layers two more times, finishing with a layer of shredded cheese.",
+    "Cover the lasagna with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-mediterranean-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:02:01.948Z"
+}
