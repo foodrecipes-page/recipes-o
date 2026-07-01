@@ -1,0 +1,92 @@
+{
+  "slug": "oven-roasted-argentinian-lamb-shank-stew",
+  "title": "Argentinian Roasted Lamb Shank Stew",
+  "description": "A hearty and flavorful stew made with tender lamb shank in a rich and aromatic Argentinian-inspired sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shank",
+      "amount": "1-2",
+      "notes": "depending on size"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb shank until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add more oil to the pot if necessary, then sauté the chopped onion and minced garlic until softened, about 5 minutes.",
+    "Add the red wine, beef broth, tomato paste, chili flakes, and dried oregano to the pot. Stir to combine and bring to a boil.",
+    "Return the lamb shank to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Braise the lamb shank for 2-3 hours, or until the meat is tender and falls off the bone.",
+    "Season the stew with salt and pepper to taste, then serve hot garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "argentinian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-argentinian-lamb-shank-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:45:16.220Z"
+}
