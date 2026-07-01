@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-fresh-german-broad-beans-bake",
+  "title": "German-Style Roasted Broad Beans",
+  "description": "A simple side dish that brings out the natural sweetness in broad beans. This German-inspired recipe uses fresh broad beans and a hint of garlic.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "fresh broad beans",
+      "amount": "1 pound",
+      "notes": "podded"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, toss the broad beans with olive oil, garlic, salt, and black pepper until they are evenly coated.",
+    "Spread the broad beans on a baking sheet in a single layer.",
+    "Roast in the preheated oven for 15-20 minutes, or until tender and lightly browned.",
+    "Remove from oven and toss with butter until melted.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "roasted",
+    "vegetarian",
+    "gluten-free",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-fresh-german-broad-beans-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:06:17.111Z"
+}
