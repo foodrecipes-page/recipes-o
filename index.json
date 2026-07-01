@@ -981,14 +981,12 @@
   },
   {
     "slug": "oil-infused-saudi-arabian-lamb-tagine",
-    "title": "Oil Infused Saudi Arabian Lamb Tagine",
+    "title": "Saudi Arabian Lamb Tagine",
     "tags": [
-      "comfort-food",
       "lamb",
-      "middle-eastern",
-      "one-pot",
+      "tagine",
       "saudi-arabian",
-      "stir-fry"
+      "stew"
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 110,
@@ -5653,16 +5651,15 @@
   },
   {
     "slug": "oozy-ukrainian-koi-bowl",
-    "title": "Oozy Ukrainian Koi Bowl",
+    "title": "Traditional Ukrainian Koi Fish Borscht",
     "tags": [
-      "fondue-pot",
-      "jammy",
-      "light-dish",
-      "pescatarian-friendly",
-      "slight-sweet"
+      "ukrainian",
+      "fish",
+      "soup",
+      "beets"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -9634,17 +9631,16 @@
   },
   {
     "slug": "oven-roasted-chinese-lamb-zha-jiang-mian",
-    "title": "Oven Roasted Chinese Lamb Zha Jiang Mian",
+    "title": "Chinese Lamb Zha Jiang Mian",
     "tags": [
-      "asian-inspired",
-      "dutch-oven",
-      "flexitarian",
-      "lamb-based",
-      "noodle-dish",
-      "one-pan"
+      "chinese",
+      "lamb",
+      "noodles",
+      "stir-fry",
+      "oven-roasted"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
