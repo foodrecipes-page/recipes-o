@@ -2238,16 +2238,14 @@
   },
   {
     "slug": "oily-tender-portuguese-cod-stew",
-    "title": "Oily Tender Portuguese Cod Stew",
+    "title": "Bacalhau à Brás",
     "tags": [
-      "comfort-food",
-      "fish-stew",
-      "one-pot",
-      "portuguese-cuisine",
-      "seafood"
+      "portuguese",
+      "cod",
+      "breakfast"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 70,
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -8079,18 +8077,16 @@
   },
   {
     "slug": "oven-baked-croatian-cheese-casserole",
-    "title": "Oven Baked Croatian Cheese Casserole",
+    "title": "Croatian Cheese Baked Casserole",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "jain-friendly",
-      "lacquer-glaze",
-      "one-pan",
-      "spring-recipes",
-      "vegetarian"
+      "oven",
+      "baked",
+      "croatian",
+      "cheese",
+      "casserole"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -9038,18 +9034,14 @@
   },
   {
     "slug": "oven-peppered-egyptian-pork-stew",
-    "title": "Oven-Peppered Egyptian Pork Stew",
+    "title": "Pork and Peppered Stew",
     "tags": [
-      "bamboo-steamer",
-      "egyptian",
-      "family-friendly",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
+      "stew",
+      "pork",
       "oven-cooked"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "cuisine": "American",
+    "totalTimeMin": 135,
     "shard": "o"
   },
   {
