@@ -1,0 +1,63 @@
+{
+  "slug": "oozy-greek-chickpeas-revithia",
+  "title": "Revithia and Chickpea Salad",
+  "description": "A refreshing Mediterranean salad combining revithia, chickpeas, and oozy feta cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "revithia",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "oozy",
+      "amount": "1/2 cup (crumbled feta cheese)"
+    },
+    {
+      "name": "Greek olives",
+      "amount": "1/4 cup (pitted)"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup (thinly sliced)"
+    },
+    {
+      "name": "Greek vinaigrette",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the revithia, chickpeas, feta cheese, olives, and onion.",
+    "Drizzle with Greek vinaigrette and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "mediterranean",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-greek-chickpeas-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:21:13.867Z"
+}
