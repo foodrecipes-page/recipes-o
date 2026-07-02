@@ -659,16 +659,15 @@
   },
   {
     "slug": "oddly-oven-roasted-middle-eastern-kiwifruit-tagine",
-    "title": "Oddly Oven Roasted Middle Eastern Kiwifruit Tagine",
+    "title": "Middle Eastern Kiwifruit Tagine",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
+      "tagine",
+      "kiwifruit",
       "middle-eastern",
-      "one-pan",
-      "oven-roasted"
+      "dessert"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -2677,16 +2676,15 @@
   },
   {
     "slug": "old-fashioned-mexican-poblano-casserole",
-    "title": "Old Fashioned Mexican Poblano Casserole",
+    "title": "Mexican Poblano Casserole",
     "tags": [
+      "mexican",
       "casserole",
-      "comfort-food",
-      "lacto-vegetarian",
-      "mexican-inspired",
-      "weeknight"
+      "poblano",
+      "beef"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
@@ -6789,16 +6787,16 @@
   },
   {
     "slug": "outdoor-smoked-peruvian-beef-skewers",
-    "title": "Outdoor Smoked Peruvian Beef Skewers",
+    "title": "Smoked Beef Skewers",
     "tags": [
-      "grilled-food",
-      "high-protein",
-      "peruvian-cuisine",
-      "smoked-meat",
-      "weeknight-dinner"
+      "grilled",
+      "skewers",
+      "peruvian",
+      "beef",
+      "smoked"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 32,
     "shard": "o"
   },
   {
@@ -7580,15 +7578,12 @@
     "slug": "outstandingly-juicy-vietnamese-chicken-wings-wrap",
     "title": "Vietnamese Chicken Wings Wrap",
     "tags": [
-      "chicken-wings",
-      "quick-fix",
-      "shojin-friendly",
-      "ssam-wrap",
-      "talavera-plate",
-      "vietnamese"
+      "chicken",
+      "vietnamese",
+      "wrap"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
