@@ -1,0 +1,76 @@
+{
+  "slug": "oven-braised-spanish-pretzels-jamon-iberico",
+  "title": "Braised Iberico Jamon with Spanish Pretzels",
+  "description": "A rich, savory dish featuring Iberico jamon braised to perfection and served with crispy Spanish pretzels.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Iberico Jamon",
+      "amount": "4 slices",
+      "notes": "Cured jamon"
+    },
+    {
+      "name": "Spanish Pretzels",
+      "amount": "1 bag (6-8 pretzels)",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For browning jamon"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": "Dry, for braising"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium, for braising"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced, for flavor"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh, for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Brown the Iberico jamon slices in olive oil until crispy.",
+    "Transfer the browned jamon to a braising pan and add white wine, beef broth, garlic, and thyme.",
+    "Cover and transfer to the preheated oven.",
+    "Braise for 2-3 hours, or until the jamon is tender and the sauce has thickened.",
+    "Meanwhile, bake the Spanish pretzels in the oven for 5-7 minutes, or until crispy.",
+    "Serve the braised jamon with the crispy pretzels on the side.",
+    "Garnish with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 180,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "oven-roasted",
+    "jamón",
+    "pretzels"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-braised-spanish-pretzels-jamon-iberico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:04:18.536Z"
+}
