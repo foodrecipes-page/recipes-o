@@ -1,0 +1,82 @@
+{
+  "slug": "oddly-oven-roasted-middle-eastern-kiwifruit-tagine",
+  "title": "Middle Eastern Kiwifruit Tagine",
+  "description": "A sweet and savory Middle Eastern-inspired tagine dish featuring roasted kiwifruit and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "3",
+      "notes": "any variety"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and core the kiwifruit, and cut into 1-inch pieces.",
+    "In a large bowl, whisk together the honey, olive oil, cinnamon, ginger, cumin, and salt.",
+    "Add the kiwifruit pieces to the bowl and toss to coat with the spice mixture.",
+    "Transfer the kiwifruit mixture to a 9x13 inch baking dish.",
+    "Pour the water over the kiwifruit mixture.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the kiwifruit is tender.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tagine",
+    "kiwifruit",
+    "middle-eastern",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oddly-oven-roasted-middle-eastern-kiwifruit-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:28:29.463Z"
+}
