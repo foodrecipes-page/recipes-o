@@ -1,0 +1,64 @@
+{
+  "slug": "outdoor-australian-melon-skewers",
+  "title": "Grilled Aussie Melon Skewers",
+  "description": "A refreshing and easy-to-make dessert perfect for hot summer days, featuring fresh Australian melon and a hint of outdoor grilled flavor.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian melon",
+      "amount": "1 small",
+      "notes": "such as cantaloupe or honeydew"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the wooden skewers in water for 30 minutes.",
+    "Cut the Australian melon into 1-inch cubes.",
+    "Thread a melon cube, a piece of honey (if using), and a squeeze of lemon juice (if using) onto each skewer.",
+    "Brush the grill with oil to prevent sticking.",
+    "Preheat the grill to medium heat.",
+    "Grill the skewers for 2-3 minutes per side, or until the melon is slightly caramelized.",
+    "Serve immediately, garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dessert",
+    "grilled",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-australian-melon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:31:26.041Z"
+}
