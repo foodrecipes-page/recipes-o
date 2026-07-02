@@ -1,0 +1,78 @@
+{
+  "slug": "oozy-spicy-japanese-bryndza-cheese-miso-ramen",
+  "title": "Spicy Miso Ramen",
+  "description": "A spicy and savory twist on the classic Japanese ramen. A perfect comfort food for any occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "bryndza cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "spicy miso broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "oozy cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "optional"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced bean sprouts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the spicy miso broth to a boil in a large pot.",
+    "Add the ramen noodles and cook according to package instructions.",
+    "While the noodles are cooking, heat the miso paste in a small saucepan over low heat.",
+    "Add the bryndza cheese to the miso paste and stir until melted.",
+    "Season the miso-bryndza mixture with salt and pepper to taste.",
+    "To assemble the ramen, place a portion of noodles in a bowl and top with the miso-bryndza mixture.",
+    "Add sliced green onions, bean sprouts, and scallions on top of the miso-bryndza mixture.",
+    "If desired, sprinkle shredded oozy cheese on top for an extra burst of flavor.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "japanese",
+    "comfort-food",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-spicy-japanese-bryndza-cheese-miso-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:27:29.026Z"
+}
