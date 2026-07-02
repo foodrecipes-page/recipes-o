@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-energizing-kenyan-beef-kidney-quesadilla",
+  "title": "Kenyan Beef Quesadilla",
+  "description": "A flavorful and energizing quesadilla filled with juicy Kenyan beef, roasted to perfection.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef kidney",
+      "amount": "1 pound",
+      "notes": "Trimmed and sliced into thin strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Quesadilla",
+      "amount": "4 large",
+      "notes": "Tortillas"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef kidney with cumin, paprika, and salt. Set aside.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the sliced beef kidney and cook until browned, about 5 minutes. Set aside.",
+    "In the same skillet, add the chopped onion and minced garlic. Cook until softened, about 3 minutes.",
+    "In a separate pan or griddle, place a large tortilla over medium heat.",
+    "Sprinkle shredded cheese on half of the tortilla, then add the cooked beef kidney on top.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is also crispy.",
+    "Repeat with the remaining tortillas and filling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "quesadilla",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-energizing-kenyan-beef-kidney-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:22:21.625Z"
+}
