@@ -4716,17 +4716,16 @@
   },
   {
     "slug": "oozy-gooey-middle-eastern-lamb-maqluba",
-    "title": "Oozy Gooey Middle Eastern Lamb Maqluba",
+    "title": "Lamb Maqluba",
     "tags": [
-      "comfort-food",
       "lamb",
-      "low-sodium",
-      "meal-prep",
       "middle-eastern",
-      "one-pan"
+      "maqluba",
+      "casserole",
+      "rice"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 70,
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
@@ -9708,16 +9707,17 @@
   },
   {
     "slug": "oven-roasted-crispy-spicy-argentinian-chicken-kebabs",
-    "title": "Oven-Roasted Crispy Spicy Argentinian Chicken Kebabs",
+    "title": "Argentinian Chicken Kebabs",
     "tags": [
-      "halal-friendly",
-      "high-protein",
-      "one-pan",
-      "oven-roasted",
-      "weeknight-dinner"
+      "argentinian",
+      "oven",
+      "roasted",
+      "spicy",
+      "chicken",
+      "kebabs"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
