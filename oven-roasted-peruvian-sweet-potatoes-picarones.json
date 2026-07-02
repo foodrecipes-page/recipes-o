@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-peruvian-sweet-potatoes-picarones",
+  "title": "Traditional Peruvian Picarones with Sweet Roasted Potatoes",
+  "description": "A Peruvian dessert recipe featuring sweet roasted potatoes and picarones, a traditional sweet potato donut.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Peel and dice the sweet potatoes, then roast them in the oven for 20-25 minutes, or until tender.",
+    "3. In a large bowl, whisk together the flour, anise seeds, baking powder, and salt.",
+    "4. In another bowl, whisk together the vegetable oil, honey, and roasted sweet potatoes.",
+    "5. Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "6. Divide the dough into 8-10 portions and shape each portion into a ball.",
+    "7. Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat.",
+    "8. Fry the dough balls until they are golden brown, about 2-3 minutes per side.",
+    "9. Using a slotted spoon, remove the fried dough from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "10. In a small bowl, melt the chocolate chips in the microwave or over a double boiler.",
+    "11. Dip the fried dough into the melted chocolate and sprinkle with chopped nuts, if desired.",
+    "12. Serve the picarones warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "sweet",
+    "potatoes",
+    "picarones",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-peruvian-sweet-potatoes-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:58:34.847Z"
+}
