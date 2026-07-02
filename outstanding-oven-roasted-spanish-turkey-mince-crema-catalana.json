@@ -1,0 +1,90 @@
+{
+  "slug": "outstanding-oven-roasted-spanish-turkey-mince-crema-catalana",
+  "title": "Spanish Turkey Mince Catalana",
+  "description": "A hearty Spanish-inspired dish featuring ground turkey, roasted flavors, and a creamy twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Turkey Mince",
+      "amount": "1 pound",
+      "notes": "preferably 80/20 lean to fat ratio"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Catalana Sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large oven-safe skillet, heat the olive oil over medium-high. Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground turkey mince and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced roasted red pepper and cook for an additional minute.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the turkey is cooked through.",
+    "While the turkey cooks, prepare the Catalana sauce (see below for recipe).",
+    "Once the turkey is cooked, remove the skillet from the oven and stir in the Catalana sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "turkey",
+    "mince",
+    "catalana"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-spanish-turkey-mince-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:19:09.378Z"
+}
