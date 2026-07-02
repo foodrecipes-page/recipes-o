@@ -6811,16 +6811,16 @@
   },
   {
     "slug": "outdoor-smoky-filipino-chicken-adobo",
-    "title": "Outdoor Smoky Filipino Chicken Adobo",
+    "title": "Smoky Chicken Adobo",
     "tags": [
-      "filipino-food",
-      "high-protein",
-      "one-pot",
-      "outdoor-cooking",
-      "smoky-flavors"
+      "adobo",
+      "chicken",
+      "filipino",
+      "outdoor cooking",
+      "smoky"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
