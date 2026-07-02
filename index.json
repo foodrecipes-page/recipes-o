@@ -1881,16 +1881,14 @@
   },
   {
     "slug": "oily-outer-syrian-chicken-kebabs",
-    "title": "Oily Outer Syrian Chicken Kebabs",
+    "title": "Grilled Chicken Kebabs",
     "tags": [
-      "citrusy",
-      "grilled-chicken",
-      "high-protein",
-      "keto-friendly",
-      "syrian-cuisine"
+      "chicken",
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "o"
   },
   {
@@ -6641,17 +6639,15 @@
   },
   {
     "slug": "outdoor-grilled-thai-chicken-skewers",
-    "title": "Outdoor Grilled Thai Chicken Skewers",
+    "title": "Thai Chicken Skewers",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "grilled-chicken",
-      "outdoor-cooking",
-      "spicy-food",
-      "thai-cuisine"
+      "thai",
+      "chicken",
+      "skewers",
+      "outdoor"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
