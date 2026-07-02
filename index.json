@@ -2399,17 +2399,15 @@
   },
   {
     "slug": "old-fashioned-charred-portuguese-chinese-cabbage-stew",
-    "title": "Old Fashioned Charred Portuguese Chinese Cabbage Stew",
+    "title": "Portuguese-Style Braised Cabbage Stew",
     "tags": [
-      "comfort-food",
-      "cozy-dinner",
-      "healthy-stew",
-      "one-pot",
-      "paleo-friendly",
-      "portuguese-chinese-fusion"
+      "portuguese",
+      "cabbage",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
@@ -5469,17 +5467,15 @@
   },
   {
     "slug": "oozy-spicy-japanese-bryndza-cheese-miso-ramen",
-    "title": "Oozy Spicy Japanese Bryndza Cheese Miso Ramen",
+    "title": "Spicy Miso Ramen",
     "tags": [
-      "japanese-cuisine",
-      "lacto-vegetarian",
-      "one-pot-meal",
-      "ramen-recipes",
-      "spicy-food",
-      "weeknight-dinner"
+      "spicy",
+      "japanese",
+      "comfort-food",
+      "pasta"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -9968,16 +9964,14 @@
   },
   {
     "slug": "oven-roasted-energizing-kenyan-beef-kidney-quesadilla",
-    "title": "Oven-Roasted Energizing Kenyan Beef Kidney Quesadilla",
+    "title": "Kenyan Beef Quesadilla",
     "tags": [
-      "energizing",
-      "high-protein",
-      "kenyan",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "quesadilla",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -10245,16 +10239,15 @@
   },
   {
     "slug": "oven-roasted-french-chicken-skewers",
-    "title": "Oven Roasted French Chicken Skewers",
+    "title": "French Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "chicken",
+      "grilled",
+      "french",
+      "skewers"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -11393,17 +11386,15 @@
   },
   {
     "slug": "oven-roasted-mediterranean-beetroot-salad",
-    "title": "Oven Roasted Mediterranean Beetroot Salad",
+    "title": "Roasted Beetroot Salad",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy",
+      "beetroot",
       "mediterranean",
-      "vegetarian",
-      "weeknight"
+      "salad",
+      "roasted"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 65,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
