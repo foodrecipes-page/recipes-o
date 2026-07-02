@@ -1,0 +1,95 @@
+{
+  "slug": "outdoor-smoked-peruvian-beef-skewers",
+  "title": "Smoked Beef Skewers",
+  "description": "A flavorful and smoky take on traditional beef skewers, inspired by Peruvian cuisine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "250g",
+      "notes": "Thread onto skewers"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "Thread onto skewers"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together smoked paprika, garlic powder, salt, and black pepper.",
+    "3. Add beef strips to the bowl and toss to coat with spice mixture.",
+    "4. Thread beef, cherry tomatoes, and red onion onto skewers.",
+    "5. Brush olive oil onto the skewers and season with salt and pepper.",
+    "6. Grill skewers for 10-12 minutes, turning occasionally, until beef is cooked to desired level of doneness.",
+    "7. Brush skewers with lime juice during the last minute of cooking.",
+    "8. Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "peruvian",
+    "beef",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-smoked-peruvian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:49:08.305Z"
+}
