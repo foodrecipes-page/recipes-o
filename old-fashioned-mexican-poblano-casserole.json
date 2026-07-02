@@ -1,0 +1,90 @@
+{
+  "slug": "old-fashioned-mexican-poblano-casserole",
+  "title": "Mexican Poblano Casserole",
+  "description": "A flavorful and spicy Mexican-inspired casserole made with roasted poblanos, ground beef, and a blend of cheeses.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Old fashioned ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Mexican cheese blend",
+      "amount": "1 cup, shredded",
+      "notes": "A mix of cheddar, pepper jack, and Monterey Jack"
+    },
+    {
+      "name": "Roasted poblano peppers",
+      "amount": "4",
+      "notes": "Diced and peeled"
+    },
+    {
+      "name": "Casserole rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Canned diced tomatoes, with green chilies",
+      "amount": "1 can, 14.5 oz",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade blend"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5-7 minutes.",
+    "Add the diced onion and taco seasoning to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the roasted poblano peppers, diced tomatoes, and cooked rice to the skillet and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the shredded Mexican cheese blend.",
+    "Cover the dish with aluminum foil and bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the foil and top with additional shredded cheese if desired.",
+    "Return to the oven and bake for an additional 5-10 minutes, or until the cheese is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "poblano",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-mexican-poblano-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:54:06.814Z"
+}
