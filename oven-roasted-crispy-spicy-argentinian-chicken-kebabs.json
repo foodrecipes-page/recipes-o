@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-crispy-spicy-argentinian-chicken-kebabs",
+  "title": "Argentinian Chicken Kebabs",
+  "description": "Crispy on the outside, juicy on the inside, these kebabs are perfect for a delicious dinner. Inspired by the flavors of Argentinian cuisine.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread chicken, onion, bell pepper, and zucchini onto skewers, leaving a little space between each piece.",
+    "Brush kebabs with olive oil and season with salt and pepper.",
+    "Place kebabs on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until chicken is cooked through and vegetables are tender.",
+    "During the last 5 minutes of cooking, brush kebabs with spicy sauce.",
+    "Remove from oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "oven",
+    "roasted",
+    "spicy",
+    "chicken",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-crispy-spicy-argentinian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:18:10.797Z"
+}
