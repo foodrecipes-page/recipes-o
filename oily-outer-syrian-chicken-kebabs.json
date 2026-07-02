@@ -1,0 +1,65 @@
+{
+  "slug": "oily-outer-syrian-chicken-kebabs",
+  "title": "Grilled Chicken Kebabs",
+  "description": "A classic Middle Eastern dish featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1.5cm cubes"
+    },
+    {
+      "name": "syrian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, garlic, lemon juice, and a pinch of salt.",
+    "2. Add the chicken cubes to the marinade and mix well to coat.",
+    "3. Thread the chicken onto the skewers, leaving a small space between each piece.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Grill the kebabs for 8-10 minutes per side, or until the chicken is cooked through.",
+    "6. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-outer-syrian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:19:38.196Z"
+}
