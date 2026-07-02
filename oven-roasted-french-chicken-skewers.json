@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-french-chicken-skewers",
+  "title": "French Chicken Skewers",
+  "description": "Tender and juicy chicken cooked to perfection on a stick, inspired by French cuisine.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "french bread",
+      "amount": "2 slices (for serving)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, salt, black pepper, and garlic powder.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto the skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Drizzle the lemon juice over the chicken and sprinkle with chopped parsley (if using).",
+    "Bake the skewers in the preheated oven for 20-25 minutes, or until cooked through.",
+    "Serve hot with French bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "french",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-french-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:54:42.239Z"
+}
