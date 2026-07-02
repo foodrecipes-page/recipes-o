@@ -3151,17 +3151,15 @@
   },
   {
     "slug": "olive-oil-saudi-fennel-pilaf",
-    "title": "Olive Oil Saudi Fennel Pilaf",
+    "title": "Saudi-Style Fennel Pilaf",
     "tags": [
-      "easy-to-make",
-      "low-carb",
-      "one-pan",
-      "saudi-arabian",
-      "vegetarian",
-      "weeknight"
+      "pilaf",
+      "fennel",
+      "saudi-cuisine",
+      "vegetarian"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Saudi",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -11897,16 +11895,16 @@
   },
   {
     "slug": "oven-roasted-peruvian-sweet-potatoes-picarones",
-    "title": "Oven Roasted Peruvian Sweet Potatoes Picarones",
+    "title": "Traditional Peruvian Picarones with Sweet Roasted Potatoes",
     "tags": [
-      "jain-friendly",
-      "peruvian-cuisine",
-      "roasted-vegetables",
-      "sweet-potato-recipes",
-      "vegetarian-snacks"
+      "peruvian",
+      "sweet",
+      "potatoes",
+      "picarones",
+      "dessert"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
