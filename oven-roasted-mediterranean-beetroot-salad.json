@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-mediterranean-beetroot-salad",
+  "title": "Roasted Beetroot Salad",
+  "description": "A simple salad featuring roasted beetroot as the main ingredient, complemented by a variety of Mediterranean flavors. Prep time is minimal, but the salad is best served after a few hours of refrigeration to allow the flavors to meld.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": "Choose beets that are heavy for their size"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": "Look for a good-quality aged balsamic"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion before adding"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley adds a nice texture and flavor"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble the feta cheese over the salad just before serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Wrap the beetroot in foil and roast in the oven for 45-50 minutes, or until tender when pierced with a fork.",
+    "3. Allow the beetroot to cool, then peel and chop into bite-sized pieces.",
+    "4. In a large bowl, whisk together the olive oil and balsamic vinegar.",
+    "5. Add the chopped beetroot, red onion, and chopped parsley to the bowl and toss to combine.",
+    "6. Season the salad with salt and pepper to taste.",
+    "7. Just before serving, crumble the feta cheese over the salad and toss to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot",
+    "mediterranean",
+    "salad",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mediterranean-beetroot-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:22:23.244Z"
+}
