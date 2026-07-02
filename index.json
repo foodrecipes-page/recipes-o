@@ -1840,17 +1840,16 @@
   },
   {
     "slug": "oily-opulent-spanish-octopus-pulpo-a-la-gallega",
-    "title": "Oily Opulent Spanish Octopus Pulpo A La Gallega",
+    "title": "Gallega-Style Pulpo a la Gallega",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "spanish-cuisine",
-      "special-occasion",
-      "vegetarian-friendly"
+      "spanish",
+      " seafood",
+      "pulpo",
+      "gallega",
+      "octopus"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "cuisine": "spanish",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -6412,17 +6411,16 @@
   },
   {
     "slug": "outdoor-australian-melon-skewers",
-    "title": "Outdoor Australian Melon Skewers",
+    "title": "Grilled Aussie Melon Skewers",
     "tags": [
-      "australian-cuisine",
-      "easy-to-make",
-      "festive-food",
-      "grilled-fruit",
-      "outdoor-recipe",
-      "vegetarian-friendly"
+      "australian",
+      "dessert",
+      "grilled",
+      "summer",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 21,
     "shard": "o"
   },
   {
