@@ -1,0 +1,73 @@
+{
+  "slug": "oil-rich-ukrainian-pasta-bake",
+  "title": "Baked Ukranian Pasta",
+  "description": "A hearty, comforting dish featuring Ukrainian spices and baked pasta.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp",
+      "notes": "dried Ukrainian spice blend"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rich",
+      "amount": "1 cup",
+      "notes": "sour cream or Greek yogurt"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a pan, heat the oil over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the Ukrainian spice blend (bake).",
+    "Combine the cooked pasta, sour cream or yogurt (rich), and onion-garlic mixture.",
+    "Transfer the pasta mixture to a baking dish and bake for 15-20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "comfort-food",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-ukrainian-pasta-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:08:21.306Z"
+}
