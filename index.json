@@ -1153,16 +1153,14 @@
   },
   {
     "slug": "oil-rich-ukrainian-pasta-bake",
-    "title": "Oil Rich Ukrainian Pasta Bake",
+    "title": "Baked Ukranian Pasta",
     "tags": [
+      "ukrainian",
       "comfort-food",
-      "one-pot",
-      "pasta-bake",
-      "vegetarian",
-      "weeknight"
+      "pasta"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -8215,17 +8213,15 @@
   },
   {
     "slug": "oven-baked-norwegian-feta-pasta",
-    "title": "Oven Baked Norwegian Feta Pasta",
+    "title": "Baked Norwegian Feta Pasta",
     "tags": [
-      "feta-cheese",
-      "norwegian-cuisine",
-      "oven-baked",
-      "ovo-vegetarian",
-      "pasta-dish",
-      "slate-tile"
+      "baked",
+      "norwegian",
+      "feta",
+      "pasta"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
