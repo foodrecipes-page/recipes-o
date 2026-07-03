@@ -5647,17 +5647,16 @@
   },
   {
     "slug": "oozy-umami-ethiopian-lentils-shiro",
-    "title": "Oozy Umami Ethiopian Lentils Shiro",
+    "title": "Ethiopian Red Lentil Stew",
     "tags": [
-      "comfort-food",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "lentil-based",
-      "umami-rich",
-      "vegan-friendly"
+      "ethiopian",
+      "lentils",
+      "vegetarian",
+      "stew",
+      "comfort food"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -8381,17 +8380,15 @@
   },
   {
     "slug": "oven-baked-ukrainian-cheese-casserole",
-    "title": "Oven Baked Ukrainian Cheese Casserole",
+    "title": "Baked Ukrainian Cheese Casserole",
     "tags": [
+      "baked",
+      "cheese",
       "casserole",
-      "cheesy",
-      "gluten-free",
-      "low-glycemic",
-      "spicy",
       "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
