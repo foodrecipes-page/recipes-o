@@ -6314,16 +6314,15 @@
   },
   {
     "slug": "original-oven-roasted-dutch-toffee-popcorn-casserole",
-    "title": "Original Oven Roasted Dutch Toffee Popcorn Casserole",
+    "title": "Toffee Dutch Apple Casserole",
     "tags": [
-      "dutch-dishes",
-      "easy-baking",
-      "kid-friendly",
-      "snack-ideas",
-      "sweet-treats"
+      "apple",
+      "casserole",
+      "dessert",
+      "toffee"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
@@ -7475,17 +7474,15 @@
   },
   {
     "slug": "outstandingly-indulgent-malaysian-chestnut-curry",
-    "title": "Outstandingly Indulgent Malaysian Chestnut Curry",
+    "title": "Malaysian Chestnut Curry",
     "tags": [
-      "chestnut",
       "curry",
-      "gluten-free",
-      "indulgent",
-      "keto-friendly",
-      "malaysian-cuisine"
+      "chestnut",
+      "malaysian",
+      "dessert"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -10250,17 +10247,15 @@
   },
   {
     "slug": "oven-roasted-french-duck-terrine",
-    "title": "Oven Roasted French Duck Terrine",
+    "title": "French Roasted Duck Terrine",
     "tags": [
-      "duck-recipes",
-      "french-cuisine",
-      "low-fat",
-      "one-pan",
-      "oven-roasted",
-      "weeknight"
+      "french",
+      "roasted",
+      "duck",
+      "terrine"
     ],
     "cuisine": "French",
-    "totalTimeMin": 120,
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
