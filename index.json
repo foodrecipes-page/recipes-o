@@ -1519,17 +1519,14 @@
   },
   {
     "slug": "oily-filipino-chicken-stir-fry",
-    "title": "Oily Filipino Chicken Stir Fry",
+    "title": "Chicken Stir Fry",
     "tags": [
-      "filipino-cuisine",
-      "high-protein",
-      "kosher-friendly",
-      "one-pan",
-      "post-workout",
-      "stir-fry"
+      "chicken",
+      "stir-fry",
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -10533,17 +10530,16 @@
   },
   {
     "slug": "oven-roasted-indian-chicken-biryani",
-    "title": "Oven-Roasted Indian Chicken Biryani",
+    "title": "Indian-Style Oven Biryani",
     "tags": [
       "indian",
-      "one-pan",
-      "quick-fix",
-      "satvik",
-      "vegetarian",
-      "weeknight"
+      "biryani",
+      "oven-roasted",
+      "chicken",
+      "rice"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 40,
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
