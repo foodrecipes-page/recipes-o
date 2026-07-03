@@ -1,0 +1,77 @@
+{
+  "slug": "oven-baked-ukrainian-cheese-casserole",
+  "title": "Baked Ukrainian Cheese Casserole",
+  "description": "A traditional Ukrainian dish, this baked casserole is filled with melted cheese and perfect for a cold evening.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cottage cheese",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "1/2 cup milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "2 tablespoons unsalted butter, melted",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large mixing bowl, combine cottage cheese, ricotta cheese, and shredded cheddar cheese.",
+    "In a separate bowl, whisk together flour, eggs, milk, salt, and black pepper.",
+    "Add the dry ingredients to the cheese mixture and mix well.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Dot the top of the casserole with melted butter.",
+    "Bake for 35-40 minutes or until the casserole is set and the top is golden brown.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheese",
+    "casserole",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-ukrainian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:33:27.174Z"
+}
