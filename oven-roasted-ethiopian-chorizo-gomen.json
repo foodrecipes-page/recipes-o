@@ -1,0 +1,72 @@
+{
+  "slug": "oven-roasted-ethiopian-chorizo-gomen",
+  "title": "Ethiopian Chorizo Gomen",
+  "description": "A flavorful and spicy Ethiopian-inspired dish made with chorizo, gomen (collard greens), and spices. Roasted to perfection in the oven.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Gomen",
+      "amount": "2 bunches, chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spices (berbere, turmeric, cumin)",
+      "amount": "1 teaspoon each"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine chopped gomen, onion, and garlic.",
+    "In a separate pan, heat ghee or oil over medium heat. Add sliced chorizo and cook until browned.",
+    "Add berbere, turmeric, cumin, salt, and pepper to the pan with chorizo. Stir to combine.",
+    "Add the cooked chorizo mixture to the bowl with gomen mixture. Toss to combine.",
+    "Transfer the mixture to a baking dish and roast in the oven for 20-25 minutes, stirring occasionally.",
+    "Serve hot, garnished with additional ghee or spices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chorizo",
+    "gomen",
+    "roasted",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-ethiopian-chorizo-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:29:52.598Z"
+}
