@@ -1,0 +1,95 @@
+{
+  "slug": "oily-filipino-chicken-stir-fry",
+  "title": "Chicken Stir Fry",
+  "description": "A simple and flavorful chicken stir fry made with chicken, vegetables, and a hint of Filipino spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Filipino-style stir-fry seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute, until fragrant.",
+    "Add the onion and bell pepper to the skillet and cook until the vegetables are tender, about 3-4 minutes.",
+    "Add the snow peas to the skillet and cook until tender, about 1-2 minutes.",
+    "Return the chicken to the skillet and add the Filipino-style stir-fry seasoning, salt, and black pepper.",
+    "Stir everything together and cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-filipino-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:13:07.306Z"
+}
