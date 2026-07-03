@@ -1,0 +1,80 @@
+{
+  "slug": "oven-baked-norwegian-feta-pasta",
+  "title": "Baked Norwegian Feta Pasta",
+  "description": "A simple, baked pasta dish with Norwegian feta and a blend of herbs, perfect as a comforting dinner option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian feta cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "pasta (gluten-free)",
+      "amount": "8 oz",
+      "notes": "penne or fusilli"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Crumbled the Norwegian feta cheese and add it to the skillet with the garlic. Cook for an additional 2 minutes.",
+    "Drain the cooked pasta and add it to the skillet with the feta mixture. Toss well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with chopped parsley.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 15-20 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "norwegian",
+    "feta",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-norwegian-feta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:04:39.272Z"
+}
