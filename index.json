@@ -10013,16 +10013,16 @@
   },
   {
     "slug": "oven-roasted-ethiopian-chorizo-gomen",
-    "title": "Oven Roasted Ethiopian Chorizo Gomen",
+    "title": "Ethiopian Chorizo Gomen",
     "tags": [
-      "gluten-free",
-      "mediterranean-inspired",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "ethiopian",
+      "chorizo",
+      "gomen",
+      "roasted",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -12150,17 +12150,15 @@
   },
   {
     "slug": "oven-roasted-saudi-arabian-gouda-cheese-kebabs",
-    "title": "Oven Roasted Saudi Arabian Gouda Cheese Kebabs",
+    "title": "Saudi Arabian Gouda Kebabs",
     "tags": [
-      "gouda-cheese",
-      "light-snack",
-      "oven-roasted",
-      "quick-fix",
       "saudi-arabian",
-      "vegan-friendly"
+      "kebabs",
+      "gouda-cheese",
+      "oven-roasted"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 27,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
