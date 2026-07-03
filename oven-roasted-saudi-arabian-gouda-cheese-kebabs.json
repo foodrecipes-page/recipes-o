@@ -1,0 +1,94 @@
+{
+  "slug": "oven-roasted-saudi-arabian-gouda-cheese-kebabs",
+  "title": "Saudi Arabian Gouda Kebabs",
+  "description": "A delicious and flavorful kebab recipe featuring roasted Gouda cheese and a hint of Saudi Arabian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "preferably smoked Gouda"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked paprika for added depth"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin for a warm, earthy flavor"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground coriander for a citrusy note"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bread (optional)",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Gouda cheese into 1-inch cubes.",
+    "In a small bowl, mix together paprika, cumin, coriander, garlic powder, and salt.",
+    "Brush the bell peppers and onions with olive oil and sprinkle with the spice mixture.",
+    "Thread the coated vegetables, Gouda cheese, and any additional desired toppings onto skewers.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the cheese is melted and the vegetables are tender.",
+    "Serve warm with bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "kebabs",
+    "gouda-cheese",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-saudi-arabian-gouda-cheese-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:47:41.313Z"
+}
