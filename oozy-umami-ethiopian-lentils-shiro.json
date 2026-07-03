@@ -1,0 +1,92 @@
+{
+  "slug": "oozy-umami-ethiopian-lentils-shiro",
+  "title": "Ethiopian Red Lentil Stew",
+  "description": "A hearty and flavorful Ethiopian-inspired lentil stew made with the authentic flavor of shiro. This dish is perfect for a comforting meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Shiro",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Dissolved in 1 cup water"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion, garlic, and ginger. Cook, stirring occasionally, until the onion is translucent.",
+    "Add the shiro and cook for 1 minute, stirring constantly.",
+    "Add the red lentils, vegetable broth, tomato paste, salt, and black pepper. Stir well to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentils",
+    "vegetarian",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-umami-ethiopian-lentils-shiro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:47:02.647Z"
+}
