@@ -1,0 +1,77 @@
+{
+  "slug": "outstandingly-indulgent-malaysian-chestnut-curry",
+  "title": "Malaysian Chestnut Curry",
+  "description": "A rich and creamy curry featuring chestnuts, perfect for the fall season. This indulgent dish is a perfect blend of spices and sweetness.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry powder, cinnamon, and sugar, and stir for 1 minute.",
+    "Add chestnuts and stir to coat with spice mixture.",
+    "Pour in coconut milk and stir to combine.",
+    "Bring mixture to a simmer and cook for 10 minutes.",
+    "Stir in vanilla extract.",
+    "Serve warm or chilled, garnished with additional cinnamon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "chestnut",
+    "malaysian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-indulgent-malaysian-chestnut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:27:43.957Z"
+}
