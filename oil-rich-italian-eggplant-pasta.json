@@ -1,0 +1,57 @@
+{
+  "slug": "oil-rich-italian-eggplant-pasta",
+  "title": "Baked Eggplant Pasta",
+  "description": "A delicious and easy Italian dish made with eggplant and pasta, perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, combine sliced eggplant and 1 tbsp (15ml) of oil. Toss to coat.",
+    "3. Spread eggplant slices on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "4. Cook pasta according to package instructions until al dente.",
+    "5. In a large skillet, combine cooked pasta, roasted eggplant, and remaining 1 tbsp (15ml) of oil.",
+    "6. Season with italian seasonings to taste.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-italian-eggplant-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:52:29.318Z"
+}
