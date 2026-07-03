@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-indian-chicken-biryani",
+  "title": "Indian-Style Oven Biryani",
+  "description": "A flavorful and aromatic Indian-inspired rice dish cooked in the oven with marinated chicken. Perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "marinated in yogurt and spices"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Marinate the chicken in a mixture of yogurt, garam masala, cumin, turmeric, red chili powder, and salt for at least 30 minutes.",
+    "Heat oil in a large skillet over medium-high heat. Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the marinated chicken and cook until browned on both sides, about 5-7 minutes.",
+    "In a large bowl, combine the cooked rice, chopped cilantro, and salt. Mix well.",
+    "In a 9x13 inch baking dish, create a layer of rice mixture. Top with a layer of chicken, then another layer of rice mixture. Repeat this process until all ingredients are used, ending with a layer of rice on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the top layer is lightly browned.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "biryani",
+    "oven-roasted",
+    "chicken",
+    "rice"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indian-chicken-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:10:36.962Z"
+}
