@@ -1,0 +1,88 @@
+{
+  "slug": "oven-roasted-french-duck-terrine",
+  "title": "French Roasted Duck Terrine",
+  "description": "A classic French dish made with roasted duck, perfect for a special occasion. This terrine is a show-stopper, with its rich flavors and beautiful presentation.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cognac",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the duck breast with salt and black pepper.",
+    "Sear the duck breast in a hot skillet until browned on both sides.",
+    "Transfer the duck breast to a roasting pan and roast for 20-25 minutes, or until cooked through.",
+    "While the duck is cooking, sauté the sliced onion, carrot, and celery in a little bit of oil until tender.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cognac (if using) and cook until the liquid has almost completely evaporated.",
+    "Once the duck is cooked, let it cool slightly before slicing it thinly against the grain.",
+    "To assemble the terrine, layer the sliced duck, sautéed vegetables, and a sprinkle of salt and pepper in a dish.",
+    "Repeat the layers one more time, finishing with a layer of duck on top.",
+    "Cover the terrine with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Before serving, slice the terrine into thick slices and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "roasted",
+    "duck",
+    "terrine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-french-duck-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:28:56.164Z"
+}
