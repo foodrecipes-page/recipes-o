@@ -1,0 +1,90 @@
+{
+  "slug": "oven-baked-light-polish-turkey-paella",
+  "title": "Polish Turkey Paella Baked Delight",
+  "description": "A delicious and flavorful twist on traditional paella, featuring turkey and polish sausage, baked to perfection.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey sausage",
+      "amount": "1 pound",
+      "notes": "Polish-style sausage is recommended"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For greasing the baking dish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Concentrated"
+    },
+    {
+      "name": "Light sour cream",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the chopped onion and red bell pepper, cooking until tender.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large baking dish, combine the cooked onion and pepper mixture, paella rice, chicken broth, and tomato paste.",
+    "Stir in the sliced turkey sausage.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the rice is tender and lightly browned.",
+    "If using, stir in the light sour cream.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "polish",
+    "turkey",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-light-polish-turkey-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:18:27.873Z"
+}
