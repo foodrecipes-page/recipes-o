@@ -1,0 +1,57 @@
+{
+  "slug": "orange-dew-light-meal",
+  "title": "Orange Sunrise Smoothie",
+  "description": "A refreshing breakfast drink made with the sweetness of orange and a touch of dew.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "orange",
+      "amount": "2 medium",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "dew",
+      "amount": "1/4 cup",
+      "notes": "collected from a clean source"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Add orange segments and dew to a blender.",
+    "Blend until smooth.",
+    "Add chilled coconut milk and blend until combined.",
+    "Pour into glasses and serve immediately.",
+    "Garnish with additional orange segments, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "smoothie",
+    "orange",
+    "dew",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-dew-light-meal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:31:06.715Z"
+}
