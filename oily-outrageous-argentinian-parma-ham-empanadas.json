@@ -1,0 +1,81 @@
+{
+  "slug": "oily-outrageous-argentinian-parma-ham-empanadas",
+  "title": "Argentinian Empanada Bites",
+  "description": "A twist on traditional empanadas, these bite-sized treats are filled with savory ham and parma cheese, perfect for snacking or as a side dish.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian Empanada Dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Ham",
+      "amount": "1 cup, diced",
+      "notes": null
+    },
+    {
+      "name": "Parma Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Oily Olive Oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Optional: Chopped Fresh Cilantro",
+      "amount": "for garnish",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together diced ham, shredded parma cheese, a drizzle of olive oil, salt, and black pepper.",
+    "Place a small spoonful of the ham and cheese mixture in the center of each dough circle.",
+    "Fold the dough in half to form a half-circle shape, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water, and use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Bake for 15-20 minutes, or until the empanadas are golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Optional: Garnish with chopped fresh cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 24,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-outrageous-argentinian-parma-ham-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:29:15.363Z"
+}
