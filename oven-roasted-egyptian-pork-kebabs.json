@@ -1,0 +1,95 @@
+{
+  "slug": "oven-roasted-egyptian-pork-kebabs",
+  "title": "Egyptian Pork Kebabs",
+  "description": "Tender pork kebabs marinated in a blend of Middle Eastern spices, then roasted to perfection. Serve with a side of couscous or pita bread for a delicious and satisfying meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to cut the meat into uniform pieces for even cooking."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the olive oil, garlic powder, onion powder, cumin powder, coriander powder, paprika, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated pork cubes onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the kebabs in the preheated oven for 20-25 minutes, or until the pork is cooked through and slightly charred.",
+    "Remove the kebabs from the oven and brush with lemon juice.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "pork",
+    "kebabs",
+    "oven-roasted",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-egyptian-pork-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:20:13.399Z"
+}
