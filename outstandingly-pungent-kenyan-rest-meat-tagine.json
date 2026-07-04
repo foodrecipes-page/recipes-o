@@ -1,0 +1,84 @@
+{
+  "slug": "outstandingly-pungent-kenyan-rest-meat-tagine",
+  "title": "Kenyan Tagine",
+  "description": "A flavorful and aromatic dish from Kenya, typically made with meat and spices. Serve over couscous for a hearty meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "lacto-ovo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan meat (beef or goat)",
+      "amount": "1.5 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Pungent onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rest of spices",
+      "amount": "2 tablespoons",
+      "notes": "a mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 tablespoon",
+      "notes": "available at most Middle Eastern stores"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and cook until they start to brown, about 5 minutes.",
+    "Add meat and cook until browned on all sides, about 5 minutes.",
+    "Add spices and cooking water to the pot, stirring to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1.5 hours.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over couscous.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "kenyan",
+    "tagine",
+    "beef",
+    "goat",
+    "lacto-ovo"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-pungent-kenyan-rest-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:45:08.684Z"
+}
