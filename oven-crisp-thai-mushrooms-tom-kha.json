@@ -1,0 +1,77 @@
+{
+  "slug": "oven-crisp-thai-mushrooms-tom-kha",
+  "title": "Thai-Style Oven-Baked Tom Kha Soup",
+  "description": "A simple and flavorful Thai-inspired soup made with oven-roasted mushrooms, coconut milk, and spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tom kha paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the sliced mushrooms with olive oil, salt, and pepper on a baking sheet.",
+    "Roast the mushrooms in the oven for 15-20 minutes, or until tender and lightly browned.",
+    "In a large pot, combine the roasted mushrooms, coconut milk, tom kha paste, and 2 cups of water.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and let the soup simmer for 5-7 minutes.",
+    "Taste and adjust the seasoning with salt, pepper, and lime juice.",
+    "Serve the soup hot, garnished with fresh herbs or chilies if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-crisp-thai-mushrooms-tom-kha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:13:21.440Z"
+}
