@@ -1,0 +1,83 @@
+{
+  "slug": "oozy-brazilian-skirt-steak-skewers",
+  "title": "Brazilian-Style Skewered Steak",
+  "description": "A flavorful and tender steak dish from Brazil, marinated in a mix of spices and grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Skirt Steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Vegetable Skewers",
+      "amount": "1 bunch",
+      "notes": "such as cherry tomatoes, onions, bell peppers"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Brazilian Seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinating steak"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, Brazilian seasoning, salt, and black pepper. Add the skirt steak and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "2. Preheat grill to medium-high heat. Thread the marinated steak, vegetables, and garlic onto skewers.",
+    "3. Brush the skewers with olive oil and season with salt and pepper to taste.",
+    "4. Grill the skewers for 8-10 minutes per side, or until the steak reaches an internal temperature of 135°F for medium-rare.",
+    "5. Let the skewers rest for 5 minutes before serving.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "skewers",
+    "steak",
+    "grilled",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-brazilian-skirt-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:23:21.082Z"
+}
