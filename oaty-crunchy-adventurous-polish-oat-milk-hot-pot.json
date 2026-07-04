@@ -1,0 +1,59 @@
+{
+  "slug": "oaty-crunchy-adventurous-polish-oat-milk-hot-pot",
+  "title": "Crunchy Oat Bites",
+  "description": "A delicious snack made with crunchy oats and a touch of adventure.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oaty",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "hot",
+      "amount": "1/4 cup (melted)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Combine oaty, crunchy, and oat in a bowl.",
+    "Add milk and mix until a dough forms.",
+    "Roll into balls and place on a baking sheet.",
+    "Bake for 15 minutes or until lightly browned.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "oat-based",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oaty-crunchy-adventurous-polish-oat-milk-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:17:59.419Z"
+}
