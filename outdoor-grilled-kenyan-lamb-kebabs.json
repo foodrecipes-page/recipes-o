@@ -1,0 +1,95 @@
+{
+  "slug": "outdoor-grilled-kenyan-lamb-kebabs",
+  "title": "Kenyan-Style Lamb Kebabs",
+  "description": "A classic Kenyan-inspired dish featuring marinated lamb kebabs grilled to perfection. Serve with your favorite sides for a flavorful meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1 1/2-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to cut the lamb into even-sized pieces for even grilling"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality olive oil for a rich flavor"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, unflavored yogurt works best for this recipe"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Fresh garlic is essential for a strong flavor"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": "Fresh ginger adds a nice warmth to the dish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice is best for this recipe"
+    },
+    {
+      "name": "Chili peppers, minced",
+      "amount": "1-2",
+      "notes": "Adjust the level of heat to your liking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground black pepper is essential for a strong flavor"
+    },
+    {
+      "name": "Onions, sliced",
+      "amount": "1 large",
+      "notes": "Red or yellow onions work well for this recipe"
+    },
+    {
+      "name": "Bell peppers, sliced",
+      "amount": "2 large",
+      "notes": "Any color bell pepper works well for this recipe"
+    },
+    {
+      "name": "Tomatoes, halved",
+      "amount": "2 large",
+      "notes": "Fresh or cherry tomatoes work well for this recipe"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, yogurt, garlic, ginger, lemon juice, chili peppers, salt, and black pepper. Add the lamb cubes and mix until they are well coated with the marinade. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat. Thread the marinated lamb cubes, onions, bell peppers, and tomatoes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes per side, or until the lamb is cooked to your desired level of doneness. Make sure the internal temperature reaches 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for well-done.",
+    "Once the kebabs are cooked, remove them from the grill and let them rest for 5 minutes before serving. Serve the kebabs hot with your favorite sides, such as grilled vegetables, rice, or naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "kenyan",
+    "grilled",
+    "outdoor"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-grilled-kenyan-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:02:39.771Z"
+}
