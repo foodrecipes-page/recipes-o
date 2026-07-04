@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-mexican-rhubarb-tacos",
+  "title": "Mexican Roasted Rhubarb Tacos",
+  "description": "A sweet and savory twist on traditional tacos, featuring roasted rhubarb and a hint of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour, for serving"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "or Mexican crema, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the rhubarb, pineapple, lime juice, brown sugar, cinnamon, and cumin.",
+    "Transfer the mixture to a baking sheet lined with parchment paper and roast for 20-25 minutes, or until the rhubarb is tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the roasted rhubarb mixture onto a warmed tortilla and topping with a dollop of sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-rhubarb-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:50:09.170Z"
+}
