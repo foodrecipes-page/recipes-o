@@ -4491,16 +4491,14 @@
   },
   {
     "slug": "oozy-fluffy-russian-semolina-fritters",
-    "title": "Oozy Fluffy Russian Semolina Fritters",
+    "title": "Russian Semolina Fritters",
     "tags": [
-      "deep-fried",
-      "plant-based",
-      "russian-cuisine",
-      "snack-time",
-      "vegan-friendly"
+      "russian-semolina-fritters",
+      "dessert",
+      "snack"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -5412,17 +5410,14 @@
   },
   {
     "slug": "oozy-spanish-gouda-cheese-tarta-de-santiago",
-    "title": "Oozy Spanish Gouda Cheese Tarta De Santiago",
+    "title": "Santiago Cheese Tart",
     "tags": [
-      "basque-region",
-      "cheese-tart",
-      "low-calorie",
-      "meal-prep",
-      "one-pan",
-      "spanish-cuisine"
+      "spanish-tart",
+      "santiago-cheese",
+      "dessert"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
