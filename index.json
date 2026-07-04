@@ -104,17 +104,13 @@
   },
   {
     "slug": "oaty-crunchy-adventurous-polish-oat-milk-hot-pot",
-    "title": "oaty, crunchy, adventurous polish oat milk hot-pot",
+    "title": "Crunchy Oat Bites",
     "tags": [
-      "ayurvedic-sattvic",
-      "gluten-free",
-      "high-protein",
-      "hot-pot",
-      "one-pan",
-      "vegan"
+      "oat-based",
+      "crunchy"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -9902,16 +9898,16 @@
   },
   {
     "slug": "oven-roasted-egyptian-pork-kebabs",
-    "title": "Oven Roasted Egyptian Pork Kebabs",
+    "title": "Egyptian Pork Kebabs",
     "tags": [
-      "high-protein",
-      "low-calorie",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "egyptian",
+      "pork",
+      "kebabs",
+      "oven-roasted",
+      "middle-eastern"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
