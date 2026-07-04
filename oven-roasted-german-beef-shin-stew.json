@@ -1,0 +1,93 @@
+{
+  "slug": "oven-roasted-german-beef-shin-stew",
+  "title": "German Beef Stew",
+  "description": "A hearty German-inspired beef stew made with tender beef shin, vegetables, and aromatic spices. Perfect for a cold winter night.",
+  "cuisine": "German",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for an additional 5 minutes.",
+    "Add the tomato paste to the pot and cook for 1 minute.",
+    "Add the beef broth, red wine (if using), thyme, and bay leaves to the pot.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "stew",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-german-beef-shin-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:57:48.058Z"
+}
