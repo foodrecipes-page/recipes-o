@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-herbal-slovakian-crowd-pleaser-pastry",
+  "title": "Slovakian Roasted Pastry",
+  "description": "A traditional Slovakian dessert that combines flaky pastry with roasted fruits and a hint of herbal spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Apples",
+      "amount": "2",
+      "notes": "any variety"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tbsp",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "In a separate bowl, mix together the sugar, cinnamon, and nutmeg.",
+    "Arrange the sliced apples on one half of the pastry dough, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Sprinkle the sugar mixture evenly over the apples.",
+    "Fold the other half of the pastry dough over the apples, pressing the edges to seal.",
+    "Dust the top of the pastry with flour.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Allow the pastry to cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "roasted",
+    "herbal",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-herbal-slovakian-crowd-pleaser-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:00:04.149Z"
+}
