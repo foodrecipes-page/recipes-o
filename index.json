@@ -11514,17 +11514,15 @@
   },
   {
     "slug": "oven-roasted-mexican-rhubarb-tacos",
-    "title": "Oven Roasted Mexican Rhubarb Tacos",
+    "title": "Mexican Roasted Rhubarb Tacos",
     "tags": [
-      "fermented-foods",
-      "gluten-free",
-      "lazy-sunday",
-      "mexican-inspired",
-      "rhubarb-recipes",
-      "vegetarian-options"
+      "mexican",
+      "tacos",
+      "dessert",
+      "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -12141,14 +12139,12 @@
   },
   {
     "slug": "oven-roasted-saudi-arabian-lamb-kebabs",
-    "title": "Oven Roasted Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Oven Roasted Lamb Kebabs",
     "tags": [
-      "keto-friendly",
-      "lamb-kebabs",
-      "low-carb",
-      "middle-eastern",
-      "oven-roasted",
-      "solo-dinner"
+      "lamb",
+      "kebabs",
+      "saudi-arabian",
+      "oven-roasted"
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
