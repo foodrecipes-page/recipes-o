@@ -1,0 +1,76 @@
+{
+  "slug": "oozy-fluffy-russian-semolina-fritters",
+  "title": "Russian Semolina Fritters",
+  "description": "A sweet and crispy dessert inspired by Russian cuisine. These fritters are perfect for a snack or dessert.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "1 cup (all-purpose flour)",
+      "notes": "You can use any type of flour you have"
+    },
+    {
+      "name": "Oozy",
+      "amount": "1/2 cup (sugar)",
+      "notes": "You can adjust the amount to your taste"
+    },
+    {
+      "name": "Russian",
+      "amount": "1/2 teaspoon (vanilla extract)"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "You can use 1 egg if you want a less eggy taste"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "You can use any type of oil you have"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine semolina, fluffy, and a pinch of salt.",
+    "In a separate bowl, mix together oozy, russian, and eggs.",
+    "Gradually add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Heat about 2-3 inches of milk in a deep frying pan over medium heat.",
+    "Using a spoon, drop small balls of dough into the hot milk.",
+    "Fry the fritters for about 2-3 minutes on each side, or until they are golden brown.",
+    "Using a slotted spoon, remove the fritters from the milk and place them on a paper towel-lined plate.",
+    "Serve the fritters warm with a drizzle of butter on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "russian-semolina-fritters",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-fluffy-russian-semolina-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:56:31.884Z"
+}
