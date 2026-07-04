@@ -1,0 +1,54 @@
+{
+  "slug": "oatzimami-fluffy-dish",
+  "title": "Fluffy's Oatzimami Delight",
+  "description": "A simple and delicious dish made with oatzimami, fluffy goodness, and a hint of dishy flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oatzimami",
+      "amount": "2 cups",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "soft and fluffy"
+    },
+    {
+      "name": "dish",
+      "amount": "2 tablespoons",
+      "notes": "for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, mix together the oatzimami and fluffy.",
+    "Add the dish and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 22,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oatzimami",
+    "fluffy",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oatzimami-fluffy-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:39:24.916Z"
+}
