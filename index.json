@@ -6581,17 +6581,16 @@
   },
   {
     "slug": "outdoor-grilled-kenyan-lamb-kebabs",
-    "title": "Outdoor Grilled Kenyan Lamb Kebabs",
+    "title": "Kenyan-Style Lamb Kebabs",
     "tags": [
-      "african",
-      "grilled",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "kenyan",
+      "grilled",
+      "outdoor"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "cuisine": "kenyan",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
