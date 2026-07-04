@@ -1,0 +1,70 @@
+{
+  "slug": "oozy-uruguayan-kimchi-salad",
+  "title": "Kimchi Oozy Salad",
+  "description": "A spicy and savory salad made with kimchi and oozy Uruguayan mozzarella cheese.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "oozy and fresh"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "spicy and fermented"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "fresh and crunchy"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh and fragrant"
+    },
+    {
+      "name": "Salad Dressing",
+      "amount": "2 tbsp",
+      "notes": "Asian-inspired"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mixed greens, red onion, and chopped fresh cilantro.",
+    "Cut the oozy Uruguayan mozzarella cheese into small pieces and add to the bowl.",
+    "Add the spicy kimchi to the bowl and gently toss to combine.",
+    "Drizzle Asian-inspired salad dressing over the top and serve immediately.",
+    "Garnish with additional chopped cilantro if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "kimchi",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-uruguayan-kimchi-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:13:27.573Z"
+}
