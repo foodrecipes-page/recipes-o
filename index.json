@@ -5684,17 +5684,14 @@
   },
   {
     "slug": "oozy-uruguayan-kimchi-salad",
-    "title": "Oozy Uruguayan Kimchi Salad",
+    "title": "Kimchi Oozy Salad",
     "tags": [
-      "brunch-ideas",
-      "kimchi-lovers",
-      "mushroom-dishes",
-      "plant-based",
-      "salad-recipes",
-      "uruguayan-cuisine"
+      "salad",
+      "kimchi",
+      "veggie"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 10,
     "shard": "o"
   },
   {
@@ -10313,14 +10310,12 @@
   },
   {
     "slug": "oven-roasted-german-beef-shin-stew",
-    "title": "Oven Roasted German Beef Shin Stew",
+    "title": "German Beef Stew",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "hearty-stew",
-      "low-calorie",
-      "one-pot",
-      "winter-dish"
+      "beef",
+      "german",
+      "stew",
+      "oven-roasted"
     ],
     "cuisine": "German",
     "totalTimeMin": 170,
