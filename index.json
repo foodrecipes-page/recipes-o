@@ -3988,17 +3988,16 @@
   },
   {
     "slug": "oozy-brazilian-skirt-steak-skewers",
-    "title": "Oozy Brazilian Skirt Steak Skewers",
+    "title": "Brazilian-Style Skewered Steak",
     "tags": [
-      "brazilian-food",
+      "bbq",
+      "skewers",
+      "steak",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 36,
     "shard": "o"
   },
   {
@@ -7703,17 +7702,16 @@
   },
   {
     "slug": "outstandingly-pungent-kenyan-rest-meat-tagine",
-    "title": "Outstandingly Pungent Kenyan Rest Meat Tagine",
+    "title": "Kenyan Tagine",
     "tags": [
-      "dinner-recipe",
-      "gluten-free",
-      "kenyan-cuisine",
-      "meat-based",
-      "one-pot",
-      "spicy-food"
+      "kenyan",
+      "tagine",
+      "beef",
+      "goat",
+      "lacto-ovo"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 110,
     "shard": "o"
   },
   {
@@ -10478,16 +10476,15 @@
   },
   {
     "slug": "oven-roasted-herbal-slovakian-crowd-pleaser-pastry",
-    "title": "oven-roasted herbal slovakian crowd-pleaser pastry",
+    "title": "Slovakian Roasted Pastry",
     "tags": [
-      "easy-dessert",
-      "herbal",
-      "one-pan",
       "slovakian",
-      "weeknight"
+      "roasted",
+      "herbal",
+      "pastry"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
