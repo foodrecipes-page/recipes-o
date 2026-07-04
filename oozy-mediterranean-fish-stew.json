@@ -1,0 +1,87 @@
+{
+  "slug": "oozy-mediterranean-fish-stew",
+  "title": "Mediterranean Fish Stew",
+  "description": "A hearty and flavorful stew made with fish, Mediterranean spices, and a hint of ooziness. Perfect for a chilly evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (cod or tilapia)",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until softened, about 5 minutes.",
+    "Add the fish, Mediterranean seasoning, tomato paste, and chicken broth.",
+    "Bring to a simmer and cook for 10-12 minutes or until the fish is cooked through.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "fish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-mediterranean-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:03:12.858Z"
+}
