@@ -1770,17 +1770,15 @@
   },
   {
     "slug": "oily-molten-venezuelan-cheese-empanadas",
-    "title": "Venezuelan Cheese Empanadas",
+    "title": "Venezuelan Empanada Cheese Fondue",
     "tags": [
-      "baked",
-      "cheesy",
-      "crowd-pleaser",
-      "latin-american",
-      "snack",
-      "vegetarian"
+      "fondue",
+      "empanada",
+      "cheese",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 17,
     "shard": "o"
   },
   {
@@ -8641,16 +8639,15 @@
   },
   {
     "slug": "oven-crisped-smoky-uruguayan-serrano-ham-wrap",
-    "title": "Oven-Crisped Smoky Uruguayan Serrano Ham Wrap",
+    "title": "Uruguayan Ham and Serrano Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "latin-american",
+      "ham",
+      "peppers",
+      "wrap"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
