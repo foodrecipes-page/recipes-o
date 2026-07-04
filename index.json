@@ -9378,13 +9378,13 @@
   },
   {
     "slug": "oven-roasted-brazilian-shrimp-wrap",
-    "title": "Oven-Roasted Brazilian Shrimp Wrap",
+    "title": "Brazilian Shrimp Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "shrimp",
+      "wrap",
+      "brazilian",
+      "seafood",
+      "lunch"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
@@ -9793,17 +9793,15 @@
   },
   {
     "slug": "oven-roasted-dutch-cheese-casserole",
-    "title": "Oven Roasted Dutch Cheese Casserole",
+    "title": "Cheesy Dutch Oven Casserole",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "dutch-cuisine",
-      "one-pan",
-      "romantic-dinner",
-      "weeknight"
+      "beef",
+      "cheese",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -11435,17 +11433,14 @@
   },
   {
     "slug": "oven-roasted-melting-argentinian-bean-flatbread",
-    "title": "Oven-Roasted Melting Argentinian Bean Flatbread",
+    "title": "Argentinian Bean Flatbread",
     "tags": [
-      "argentinian",
-      "date-night",
-      "double-rise",
-      "low-calorie",
       "oven-roasted",
-      "sweet"
+      "vegetarian",
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
