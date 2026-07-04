@@ -1,0 +1,91 @@
+{
+  "slug": "oven-roasted-brazilian-shrimp-wrap",
+  "title": "Brazilian Shrimp Wrap",
+  "description": "A flavorful and spicy shrimp wrap with Brazilian inspiration, featuring roasted shrimp in a wrap with crispy onions and cilantro.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": " freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": " flour or corn tortilla"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the shrimp and pat them dry with paper towels.",
+    "In a small bowl, whisk together the lime juice, olive oil, garlic, salt, and black pepper.",
+    "Add the shrimp to the marinade and toss to coat. Let it sit for 10 minutes.",
+    "Line a baking sheet with parchment paper and arrange the shrimp in a single layer.",
+    "Roast the shrimp in the preheated oven for 8-10 minutes, or until they're pink and cooked through.",
+    "Meanwhile, heat a large skillet over medium-high heat. Add the sliced onion and cook for 2-3 minutes, or until crispy.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing the roasted shrimp, crispy onion, and chopped cilantro on one half of the wrap.",
+    "Drizzle with the remaining marinade and fold the wrap in half to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "wrap",
+    "brazilian",
+    "seafood",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-brazilian-shrimp-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:02:39.334Z"
+}
