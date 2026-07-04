@@ -162,15 +162,14 @@
   },
   {
     "slug": "oatzimami-fluffy-dish",
-    "title": "Oatzimami Fluffy Dish",
+    "title": "Fluffy's Oatzimami Delight",
     "tags": [
-      "oat-milk",
-      "air-fry",
-      "umami-flavor",
-      "low-carb"
+      "oatzimami",
+      "fluffy",
+      "dish"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 32,
     "shard": "o"
   },
   {
@@ -3206,18 +3205,14 @@
   },
   {
     "slug": "ooey-rosewater-saudi-arabian-kombu-bowl",
-    "title": "Ooey Rosewater Saudi- Arabian Kombu Bowl",
+    "title": "Saudi Arabian Kombu Stew",
     "tags": [
-      "arabic",
-      "gluten-free",
-      "middle-eastern",
-      "one-pan",
-      "rosewater",
-      "vegan",
-      "weeknight"
+      "stew",
+      "comfort-food",
+      "arabian-cuisine"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -8831,16 +8826,16 @@
   },
   {
     "slug": "oven-glazed-indian-lentils-curry",
-    "title": "Oven-Glazed Indian Lentil Curry",
+    "title": "Indian-Style Lentil Curry",
     "tags": [
+      "lentil",
+      "curry",
       "indian",
-      "jammy",
-      "low-fat",
-      "one-pot",
-      "spicy"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
