@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-dutch-cheese-casserole",
+  "title": "Cheesy Dutch Oven Casserole",
+  "description": "A hearty, comforting casserole made with tender Dutch oven-roasted beef, gooey cheese, and a crispy crust.",
+  "cuisine": "american",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch oven-roasted beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Divided"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Divided"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large Dutch oven, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the Dutch oven-roasted beef and cook until browned, about 5 minutes.",
+    "In a separate bowl, mix together 3/4 cup of shredded cheddar cheese and 1/4 cup of mozzarella cheese.",
+    "Add the cheese mixture to the Dutch oven and stir until melted.",
+    "Transfer the Dutch oven to the preheated oven and bake for 20-25 minutes, or until the cheese is golden brown and bubbly.",
+    "Remove the Dutch oven from the oven and sprinkle with chopped parsley, if using.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-dutch-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:05:21.745Z"
+}
