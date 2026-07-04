@@ -8615,16 +8615,14 @@
   },
   {
     "slug": "oven-crisp-thai-mushrooms-tom-kha",
-    "title": "Oven Crisp Thai Mushrooms Tom Kha",
+    "title": "Thai-Style Oven-Baked Tom Kha Soup",
     "tags": [
-      "coconut-milk",
-      "crispy-snacks",
-      "mushroom-recipes",
-      "ovo-vegetarian",
-      "thai-cuisine"
+      "thai",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
