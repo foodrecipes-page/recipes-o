@@ -12339,17 +12339,15 @@
   },
   {
     "slug": "oven-roasted-slovakian-popcorn-pudding",
-    "title": "Oven-Roasted Slovakian Popcorn Pudding",
+    "title": "Traditional Slovakian Popcorn Pudding",
     "tags": [
-      "bain-marie",
-      "lazy-sunday",
-      "oven-roasted",
-      "slovakian-dessert",
-      "toffee-popcorn",
-      "vegetarian"
+      "dessert",
+      "slovakian",
+      "popcorn",
+      "pudding"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
