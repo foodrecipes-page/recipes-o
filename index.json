@@ -4934,17 +4934,14 @@
   },
   {
     "slug": "oozy-mediterranean-fish-stew",
-    "title": "Oozy Mediterranean Fish Stew",
+    "title": "Mediterranean Fish Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "fish-based",
-      "gluten-free",
-      "mediterranean-inspired",
-      "one-pot"
+      "mediterranean",
+      "fish",
+      "stew"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -5923,15 +5920,16 @@
   },
   {
     "slug": "orange-dew-light-meal",
-    "title": "Orange Dew Light Meal",
+    "title": "Orange Sunrise Smoothie",
     "tags": [
+      "breakfast",
+      "smoothie",
       "orange",
       "dew",
-      "light",
-      "portuguese"
+      "coconut-milk"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 5,
     "shard": "o"
   },
   {
