@@ -1,0 +1,81 @@
+{
+  "slug": "oven-glazed-indian-lentils-curry",
+  "title": "Indian-Style Lentil Curry",
+  "description": "A flavorful and nutritious curry made with red lentils, Indian spices, and a hint of glaze. Perfect for a comforting meal on a chilly evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "glaze (honey and lemon juice)",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, sauté the chopped onion and grated ginger in a little water until softened.",
+    "Add the red lentils, curry powder, and salt. Stir well to combine.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "Transfer the saucepan to the preheated oven and bake for an additional 10-15 minutes.",
+    "Remove the saucepan from the oven and stir in the glaze (if using).",
+    "Serve hot, garnished with fresh cilantro (if desired).",
+    "Note: If using a glaze, reduce the amount of salt used in the recipe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "curry",
+    "indian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-glazed-indian-lentils-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:52:09.838Z"
+}
