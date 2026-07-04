@@ -1,0 +1,59 @@
+{
+  "slug": "oily-molten-venezuelan-cheese-empanadas",
+  "title": "Venezuelan Empanada Cheese Fondue",
+  "description": "A twist on the classic fondue, incorporating Venezuelan empanadas for an added crunch. Serve with a side of crusty bread.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan Empanadas (6-8)",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Grated Cheese",
+      "amount": "1 cup",
+      "notes": "sharp cheddar or mozzarella"
+    },
+    {
+      "name": "Molten",
+      "amount": "1/4 cup",
+      "notes": "for added creaminess"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut empanadas in half and place on a baking sheet.",
+    "Bake for 5-7 minutes or until crispy.",
+    "In a large pot, combine grated cheese and molten.",
+    "Place the pot over low heat and stir until the cheese is melted and smooth.",
+    "Add the baked empanada halves to the cheese mixture and toss until well coated.",
+    "Serve immediately with crusty bread for dipping.",
+    "Enjoy your delicious Venezuelan Empanada Cheese Fondue!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fondue",
+    "empanada",
+    "cheese",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-molten-venezuelan-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:42:05.734Z"
+}
