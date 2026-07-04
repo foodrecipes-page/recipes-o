@@ -1,0 +1,70 @@
+{
+  "slug": "oven-roasted-melting-argentinian-bean-flatbread",
+  "title": "Argentinian Bean Flatbread",
+  "description": "A hearty and flavorful flatbread dish topped with roasted beans and melted cheese, inspired by the cuisine of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cannellini beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "shredded cheese (queso fresco or mozzarella)",
+      "amount": "1 cup",
+      "notes": "for melting"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Brush the flatbread with olive oil and bake for 5-7 minutes, or until crispy.",
+    "In a bowl, mix together the roasted red peppers, cannellini beans, and shredded cheese.",
+    "Once the flatbread is ready, top it with the bean and cheese mixture.",
+    "Sprinkle with chopped cilantro, if using.",
+    "Return the flatbread to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oven-roasted",
+    "vegetarian",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-melting-argentinian-bean-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:12:53.938Z"
+}
