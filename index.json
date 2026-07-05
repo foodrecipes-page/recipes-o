@@ -8283,17 +8283,16 @@
   },
   {
     "slug": "oven-baked-syrian-beans-casserole",
-    "title": "Oven Baked Syrian Beans Casserole",
+    "title": "Syrian Bean Casserole",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "healthy-eating",
-      "one-pan",
-      "syrian-cuisine",
-      "vegetarian-friendly"
+      "syrian",
+      "beans",
+      "casserole",
+      "oven",
+      "baked"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": "syrian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -11081,18 +11080,16 @@
   },
   {
     "slug": "oven-roasted-kenyan-wagyu-skewers",
-    "title": "Oven Roasted Kenyan Wagyu Skewers",
+    "title": "Kenyan Wagyu Skewers",
     "tags": [
-      "kenyan-cuisine",
-      "oven-roasted",
-      "quick-fix",
-      "shojin-friendly",
+      "kenyan",
+      "wagyu",
       "skewers",
-      "smoky",
-      "wagyu-beef"
+      "oven-roasted",
+      "beef"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -13988,19 +13985,16 @@
   },
   {
     "slug": "ozone-filled-aerated-mediterranean-eggs-frittata",
-    "title": "Ozone-Filled Aerated Mediterranean Eggs Frittata",
+    "title": "Mediterranean Frittata",
     "tags": [
+      "mediterranean",
       "breakfast",
       "brunch",
-      "easy",
-      "gluten-free",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "eggs",
+      "frittata"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
