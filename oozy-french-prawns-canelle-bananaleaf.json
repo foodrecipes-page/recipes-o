@@ -1,0 +1,89 @@
+{
+  "slug": "oozy-french-prawns-canelle-bananaleaf",
+  "title": "Pan-Seared Prawns with Cannelé Crust",
+  "description": "A French-inspired dish featuring succulent prawns coated in a crispy cannelé crust, served with a side of sautéed banana leaves.",
+  "cuisine": "French",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": "fresh, peeled and deveined"
+    },
+    {
+      "name": "cannelé",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "oozy cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded, melted for serving"
+    },
+    {
+      "name": "french bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "for coating prawns"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Season prawns with salt and pepper.",
+    "3. Dip each prawn in crushed cannelé, then coat in french bread crumbs.",
+    "4. Heat olive oil in a skillet over medium-high heat. Sear prawns until golden brown.",
+    "5. Transfer prawns to a baking sheet and bake for 5-7 minutes, or until cooked through.",
+    "6. Meanwhile, sauté minced garlic in a skillet until fragrant.",
+    "7. Add banana leaves to the skillet and cook for 2-3 minutes, or until slightly wilted.",
+    "8. Serve prawns on top of banana leaves, drizzled with oozy cheese.",
+    "9. Garnish with additional garlic and cannelé crumbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "cannelé",
+    "banana-leaves"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-french-prawns-canelle-bananaleaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:15:08.660Z"
+}
