@@ -1,0 +1,96 @@
+{
+  "slug": "oven-baked-syrian-beans-casserole",
+  "title": "Syrian Bean Casserole",
+  "description": "A hearty, flavorful casserole inspired by Syrian cuisine, made with beans, spices, and a crispy baked top.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canellini beans, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crusty bread, torn into pieces",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Stir in the cooked beans and cook for 2-3 minutes.",
+    "Transfer the bean mixture to a 9x13 inch baking dish.",
+    "Top the bean mixture with the torn crusty bread and sprinkle with shredded mozzarella cheese.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "beans",
+    "casserole",
+    "oven",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-syrian-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:27:10.823Z"
+}
