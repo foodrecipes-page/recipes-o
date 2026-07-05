@@ -4261,16 +4261,14 @@
   },
   {
     "slug": "oozy-creamy-uruguayan-stilton-cheese-casserole",
-    "title": "Oozy Creamy Uruguayan Stilton Cheese Casserole",
+    "title": "Creamy Stilton Casserole",
     "tags": [
+      "cheesy",
       "comfort-food",
-      "earthenware-cooking",
-      "gluten-free",
-      "one-pot",
-      "vegetarian-friendly"
+      "british-cuisine"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -4528,15 +4526,14 @@
   },
   {
     "slug": "oozy-french-prawns-canelle-bananaleaf",
-    "title": "Oozy French Prawns Canelle Bananaleaf",
+    "title": "Pan-Seared Prawns with Cannelé Crust",
     "tags": [
-      "gluten-free",
-      "gooey",
-      "quick-fix",
-      "sweet"
+      "prawns",
+      "cannelé",
+      "banana-leaves"
     ],
-    "cuisine": "Lyon, French Cuisine",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -6692,16 +6689,16 @@
   },
   {
     "slug": "outdoor-roasted-australian-carrot-skewers",
-    "title": "Outdoor Roasted Australian Carrot Skewers",
+    "title": "Australian-Style Outdoor Roasted Carrot Skewers",
     "tags": [
-      "australian-recipes",
-      "easy-recipes",
-      "healthy-snacks",
-      "outdoor-cooking",
-      "vegetarian-snacks"
+      "australian",
+      "vegetarian",
+      "gluten-free",
+      "skewers",
+      "roasted"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -8498,16 +8495,17 @@
   },
   {
     "slug": "oven-broiled-ukrainian-tomato-skillet",
-    "title": "Oven Broiled Ukrainian Tomato Skillet",
+    "title": "Ukrainian-Style Oven Broiled Tomatoes",
     "tags": [
-      "comfort-food",
+      "vegetarian",
       "gluten-free",
-      "one-pan",
-      "ukrainian-cuisine",
-      "weeknight"
+      "oven",
+      "broiled",
+      "ukrainian",
+      "tomato"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
