@@ -1,0 +1,66 @@
+{
+  "slug": "oozy-butter-italian-rice-panettone",
+  "title": "Panettone French Toast",
+  "description": "A sweet breakfast or brunch dish made by soaking panettone in a mixture of eggs and milk, then cooking it in a pan with butter.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "panettone",
+      "amount": "1 loaf (about 1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "italian",
+      "amount": "1 teaspoon (optional)",
+      "notes": "Vanilla extract or other flavorings of your choice"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together eggs, milk, and italian (if using).",
+    "2. Cut the panettone into 1-inch thick slices and place in the egg mixture, coating both sides evenly.",
+    "3. Heat a non-stick skillet or griddle over medium heat.",
+    "4. Add butter to the skillet and let it melt.",
+    "5. Place the panettone slices in the skillet and cook for 3-4 minutes on each side, or until golden brown.",
+    "6. Serve warm, topped with your favorite syrup or fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "panettone",
+    "french-toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-butter-italian-rice-panettone",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:42:15.384Z"
+}
