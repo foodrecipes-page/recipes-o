@@ -1,0 +1,63 @@
+{
+  "slug": "ozone-filled-aerated-mediterranean-eggs-frittata",
+  "title": "Mediterranean Frittata",
+  "description": "A flavorful and healthy Mediterranean-inspired frittata, perfect for a quick breakfast or brunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup",
+      "notes": "Chopped Kalamata olives and artichoke hearts"
+    },
+    {
+      "name": "filled",
+      "amount": "1/2 cup",
+      "notes": "Mediterranean cheese blend, crumbled"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 tablespoon",
+      "notes": "Bubbly feta cheese, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Add the chopped Kalamata olives, artichoke hearts, Mediterranean cheese, and crumbled feta to the bowl. Mix well.",
+    "Pour the egg mixture into a greased 9-inch (23cm) pie plate or skillet.",
+    "Bake for 25-30 minutes or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "breakfast",
+    "brunch",
+    "eggs",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ozone-filled-aerated-mediterranean-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:55:33.088Z"
+}
