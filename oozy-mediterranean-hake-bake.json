@@ -1,0 +1,75 @@
+{
+  "slug": "oozy-mediterranean-hake-bake",
+  "title": "Baked Hake with Mediterranean Flair",
+  "description": "A simple yet flavorful fish dish with the perfect balance of Mediterranean flavors. This recipe is perfect for a quick and healthy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Oozy olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mediterranean oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Breadcrumbs (gluten-free)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the hake fillets on the baking sheet.",
+    "Drizzle with olive oil, sprinkle with oregano, garlic powder, and salt.",
+    "Bake for 8-10 minutes or until cooked through.",
+    "While the fish is baking, mix the breadcrumbs with lemon juice in a small bowl.",
+    "Remove the fish from the oven and top each fillet with the breadcrumb mixture.",
+    "Return to the oven and bake for an additional 2-3 minutes or until the topping is golden brown.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked-fish",
+    "mediterranean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-mediterranean-hake-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:09:27.710Z"
+}
