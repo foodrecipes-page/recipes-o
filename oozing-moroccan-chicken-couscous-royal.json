@@ -1,0 +1,75 @@
+{
+  "slug": "oozing-moroccan-chicken-couscous-royal",
+  "title": "Moroccan Chicken and Couscous",
+  "description": "A flavorful and aromatic North African-inspired dish featuring chicken, couscous, and spices. Serve hot and enjoy.",
+  "cuisine": "north-african",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "royal chicken broth",
+      "amount": "2 cups",
+      "notes": "chicken broth can be substituted if needed"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes per side.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet, then add the Moroccan spice blend and cook for 1 minute.",
+    "Add the couscous to the skillet and cook, stirring constantly, for 2-3 minutes.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 5-7 minutes, or until the couscous is cooked and fluffy.",
+    "Stir in the cooked chicken and season with salt and pepper to taste.",
+    "Serve the chicken and couscous hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "couscous",
+    "moroccan",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-moroccan-chicken-couscous-royal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:56:26.235Z"
+}
