@@ -1,0 +1,83 @@
+{
+  "slug": "oven-roasted-thai-berry-crumble",
+  "title": "Thai Berry Crumble",
+  "description": "A delicious dessert that combines the flavors of Thailand with the sweetness of berries topped with a crunchy crumble.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": " Mixed Berries (strawberries, blueberries, raspberries)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Oat Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Almonds",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the berries and Thai Red Curry Paste.",
+    "In a separate bowl, whisk together the granulated sugar and flour.",
+    "Add the dry mixture to the berry mixture and stir until combined.",
+    "Transfer the mixture to a 9-inch baking dish.",
+    "In another bowl, mix together the unsalted butter, oat flour, brown sugar, and chopped almonds until crumbly.",
+    "Spread the crumble mixture evenly over the berry mixture.",
+    "Bake for 40-45 minutes or until the topping is golden brown and the fruit is bubbly.",
+    "Serve warm with vanilla ice cream or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "thai",
+    "berry",
+    "crumble",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-thai-berry-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:26:59.685Z"
+}
