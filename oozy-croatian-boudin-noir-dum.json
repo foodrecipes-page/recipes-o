@@ -1,0 +1,76 @@
+{
+  "slug": "oozy-croatian-boudin-noir-dum",
+  "title": "Croatian Noir Noir Dumplings",
+  "description": "A hearty and savory dish that combines the best of Croatian and noir cuisine. These dumplings are a perfect comfort food.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian black bread",
+      "amount": "1 loaf, cubed",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Noir cheese",
+      "amount": "1 cup, crumbled",
+      "notes": "strong and pungent"
+    },
+    {
+      "name": "Dum pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine cubed bread, crumbled noir cheese, chopped parsley, salt, and black pepper.",
+    "Roll out dum pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough, about 3 inches in diameter.",
+    "Place a tablespoon or two of the bread mixture onto the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Dot the top of each dumpling with a little butter.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-croatian-boudin-noir-dum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:28:42.699Z"
+}
