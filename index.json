@@ -3251,16 +3251,15 @@
   },
   {
     "slug": "oozey-kissed-pomegranate-oozy-paella",
-    "title": "Oozey Kissed Pomegranate Oozy Paella",
+    "title": "Paella Pastry with Pomegranate Glaze",
     "tags": [
-      "jasmine-infused",
-      "low-sugar",
-      "pork-heavy",
-      "romantic-dinner",
-      "vegan-friendly"
+      "paella",
+      "pomegranate",
+      "pastry",
+      "dessert"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -3762,19 +3761,14 @@
   },
   {
     "slug": "oozing-resinous-filipino-pork-blood-dinuguan",
-    "title": "Oozing Resinous Filipino Pork Blood Dinuguan",
+    "title": "Filipino-Style Savory Blood Stew (Dinuguan)",
     "tags": [
-      "blood",
       "filipino",
-      "healthy",
-      "one-pan",
-      "pork",
-      "savory",
-      "smoked",
-      "stew"
+      "blood-curdling",
+      "savory"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 90,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -6082,17 +6076,14 @@
   },
   {
     "slug": "orange-tender-korean-yukon-gold-potatoes-gimbap",
-    "title": "Orange Tender Korean Yukon Gold Potatoes Gimbap",
+    "title": "Korean-Style Yukon Gold Potato Pancakes",
     "tags": [
-      "easy-recipes",
-      "kid-friendly",
-      "korean-food",
-      "lunch-ideas",
-      "macrobiotic",
-      "vegetarian"
+      "korean",
+      "potatoes",
+      "pancakes"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 16,
     "shard": "o"
   },
   {
