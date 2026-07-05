@@ -1,0 +1,96 @@
+{
+  "slug": "olive-oil-infused-polish-olive-tagine",
+  "title": "Tagine Chicken with Olives",
+  "description": "A traditional Moroccan dish made with chicken, olives, and spices, slow-cooked in a clay pot called a tagine. This recipe is a hearty and flavorful representation of North African cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "infused olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "polish olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay tagine or a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, infused olive oil, olives, cumin, coriander, and cinnamon.",
+    "Bring the mixture to a boil, then cover the tagine or Dutch oven.",
+    "Transfer the tagine to the oven and cook at 300°F for 30 minutes.",
+    "Remove the tagine from the oven and let it rest for 10 minutes before serving.",
+    "Serve the chicken and sauce over couscous or rice.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "olives",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/olive-oil-infused-polish-olive-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:20:02.027Z"
+}
