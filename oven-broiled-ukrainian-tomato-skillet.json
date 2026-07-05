@@ -1,0 +1,72 @@
+{
+  "slug": "oven-broiled-ukrainian-tomato-skillet",
+  "title": "Ukrainian-Style Oven Broiled Tomatoes",
+  "description": "A simple and flavorful side dish that combines the sweetness of tomatoes with the richness of Ukrainian spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "ripe tomatoes",
+      "amount": "4-6"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the tomatoes in half and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the tomatoes and sprinkle with parsley, dill, garlic powder, salt, pepper, and sugar.",
+    "Broil the tomatoes in the oven for 2-3 minutes on each side, or until they are tender and lightly charred.",
+    "Remove the tomatoes from the oven and let them cool slightly.",
+    "Serve the tomatoes warm, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "oven",
+    "broiled",
+    "ukrainian",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-broiled-ukrainian-tomato-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:15.208Z"
+}
