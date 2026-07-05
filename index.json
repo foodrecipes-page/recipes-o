@@ -8133,17 +8133,16 @@
   },
   {
     "slug": "oven-baked-middle-eastern-cookies-harees",
-    "title": "Oven Baked Middle Eastern Cookies Harees",
+    "title": "Middle Eastern Harees",
     "tags": [
-      "crunchy",
-      "festive",
-      "floral",
-      "gluten-free",
       "middle-eastern",
-      "whole30"
+      "harees",
+      "slow-cooked",
+      "lamb",
+      "beef"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 150,
     "shard": "o"
   },
   {
@@ -9277,17 +9276,16 @@
   },
   {
     "slug": "oven-roasted-australian-tofu-casserole",
-    "title": "Oven Roasted Australian Tofu Casserole",
+    "title": "Australian-Style Tofu Casserole",
     "tags": [
-      "jain-friendly",
-      "nutty",
-      "one-pan",
+      "australian",
       "vegetarian",
-      "velvety",
-      "weeknight"
+      "casserole",
+      "oven-roasted",
+      "tofu"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
