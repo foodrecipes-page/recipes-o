@@ -1,0 +1,85 @@
+{
+  "slug": "old-style-korean-rice-onigiri",
+  "title": "Classic Korean Bibimbap with Fried Rice and Onigiri",
+  "description": "A simple and flavorful Korean rice bowl dish with crispy fried rice, onigiri, and a variety of vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Old Bay Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onigiri",
+      "amount": "4"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add the mushrooms, carrots, and zucchini. Cook for 5 minutes, stirring occasionally.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Divide the rice mixture among four bowls.",
+    "Top each bowl with a fried egg and sprinkle with green onions.",
+    "Serve with onigiri on the side.",
+    "Sprinkle with Korean chili flakes and Old Bay seasoning to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bibimbap",
+    "rice-bowl",
+    "vegetarian",
+    "easy-lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-korean-rice-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:11:33.948Z"
+}
