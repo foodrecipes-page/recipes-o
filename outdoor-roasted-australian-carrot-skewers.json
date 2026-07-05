@@ -1,0 +1,83 @@
+{
+  "slug": "outdoor-roasted-australian-carrot-skewers",
+  "title": "Australian-Style Outdoor Roasted Carrot Skewers",
+  "description": "A flavorful and healthy side dish featuring roasted carrots, perfect for outdoor gatherings. These skewers are easy to make and packed with nutrients.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4-6",
+      "notes": "peeled and chopped into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Australian bush tomato skewers",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, honey, soy sauce, garlic powder, salt, and black pepper.",
+    "Add the chopped carrots to the bowl and toss to coat with the marinade.",
+    "Thread the carrot pieces onto the Australian bush tomato skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the carrots are tender and lightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "gluten-free",
+    "skewers",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-roasted-australian-carrot-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:00.843Z"
+}
