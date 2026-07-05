@@ -3990,17 +3990,15 @@
   },
   {
     "slug": "oozy-butter-italian-rice-panettone",
-    "title": "Oozy Butter Italian Rice Panettone",
+    "title": "Panettone French Toast",
     "tags": [
-      "baked-goods",
-      "dairy-free",
-      "italian-food",
-      "one-pan",
-      "romantic-dinner",
-      "vegetarian"
+      "breakfast",
+      "brunch",
+      "panettone",
+      "french-toast"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
@@ -4343,16 +4341,14 @@
   },
   {
     "slug": "oozy-croatian-boudin-noir-dum",
-    "title": "oozy croatian boudin-noir dum",
+    "title": "Croatian Noir Noir Dumplings",
     "tags": [
-      "croatian-food",
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
-      "solo-dinner"
+      "croatian",
+      "dumplings",
+      "comfort-food"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 65,
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
