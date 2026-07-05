@@ -11378,16 +11378,19 @@
   },
   {
     "slug": "oven-roasted-mediterranean-mixed-berries-tart",
-    "title": "Oven Roasted Mediterranean Mixed Berries Tart",
+    "title": "Mixed Berry Tart",
     "tags": [
-      "fruit-based",
-      "mediterranean-diet",
-      "roasted",
-      "shell-vessels",
-      "vegan-friendly"
+      "mixed berry tart",
+      "berry tart",
+      "tart",
+      "dessert",
+      "spring",
+      "summer",
+      "mediterranean",
+      "oven roasted"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
