@@ -1,0 +1,77 @@
+{
+  "slug": "oozing-resinous-filipino-pork-blood-dinuguan",
+  "title": "Filipino-Style Savory Blood Stew (Dinuguan)",
+  "description": "A traditional Filipino dish made with blood, pork, and spices, typically served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork blood",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "pork ears or snout",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar"
+    }
+  ],
+  "instructions": [
+    "Boil the pork until tender, then chop into small pieces.",
+    "Heat oil in a pan over medium heat.",
+    "Sauté the onion and garlic until softened.",
+    "Add the chopped pork, black pepper, and bay leaves.",
+    "Pour in the pork blood and vinegar, stirring constantly.",
+    "Bring to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "blood-curdling",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-resinous-filipino-pork-blood-dinuguan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:34:37.645Z"
+}
