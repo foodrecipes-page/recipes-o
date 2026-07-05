@@ -1,0 +1,75 @@
+{
+  "slug": "oozy-creamy-uruguayan-stilton-cheese-casserole",
+  "title": "Creamy Stilton Casserole",
+  "description": "A rich and comforting casserole filled with creamy sauce and melted stilton cheese, perfect for a cold evening.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stilton cheese",
+      "amount": "120g",
+      "notes": "crumbly blue cheese"
+    },
+    {
+      "name": "cream",
+      "amount": "150ml",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "small casserole dish"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "50g",
+      "notes": "soft, creamy cheese"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "unsalted butter"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Butter the casserole dish and set aside.",
+    "In a medium saucepan, melt the butter over low heat.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Slowly pour in the cream, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until thickened.",
+    "Remove from heat and stir in the Stilton cheese until melted.",
+    "Add the Uruguayan cheese and mix until well combined.",
+    "Transfer the sauce to the prepared casserole dish.",
+    "Top with additional Stilton cheese if desired.",
+    "Bake for 20-25 minutes, or until the cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "british-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-uruguayan-stilton-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:27:17.628Z"
+}
