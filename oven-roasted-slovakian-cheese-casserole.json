@@ -1,0 +1,66 @@
+{
+  "slug": "oven-roasted-slovakian-cheese-casserole",
+  "title": "Slovakian Oven-Fried Cheese Casserole",
+  "description": "A traditional Slovakian dish with a crunchy top and melted cheese center. Perfect for a comforting dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 loaf cubed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the diced onion in butter until softened.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add cubed bread and cheese to the egg mixture and stir until well combined.",
+    "Transfer the bread mixture to a greased 9x13 inch baking dish.",
+    "Top with the sautéed onion mixture and dot with butter.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "cheese-lovers",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:52:45.209Z"
+}
