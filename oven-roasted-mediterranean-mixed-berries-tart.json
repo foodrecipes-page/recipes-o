@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-mediterranean-mixed-berries-tart",
+  "title": "Mixed Berry Tart",
+  "description": "A delicious and sweet dessert featuring a mix of berries atop a flaky crust. Perfect for spring and summer gatherings.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed Berries (strawberries, blueberries, raspberries, blackberries)",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 1/4 cups",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1 cup",
+      "notes": "Cut into small pieces for the crust"
+    },
+    {
+      "name": "Ice Water",
+      "amount": "1/4 cup",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, combine flour and cold butter. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "3. Gradually add ice water, stirring with a fork until the dough comes together in a ball.",
+    "4. Turn the dough out onto a lightly floured surface and knead a few times until smooth.",
+    "5. Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "6. On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "7. Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "8. Trim the edges and press the dough into the corners of the pan.",
+    "9. In a separate bowl, whisk together the sugar, egg, and vanilla extract. Stir in the mixed berries.",
+    "10. Pour the berry mixture into the tart shell and spread evenly.",
+    "11. Bake for 40-45 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "12. Allow the tart to cool on a wire rack for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mixed berry tart",
+    "berry tart",
+    "tart",
+    "dessert",
+    "spring",
+    "summer",
+    "mediterranean",
+    "oven roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mediterranean-mixed-berries-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:24:43.347Z"
+}
