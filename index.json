@@ -12737,17 +12737,16 @@
   },
   {
     "slug": "oven-roasted-thai-berry-crumble",
-    "title": "Oven Roasted Thai Berry Crumble",
+    "title": "Thai Berry Crumble",
     "tags": [
-      "berry-crumble",
-      "crowd-pleaser",
-      "easy-dessert",
-      "oven-roasted",
-      "plant-based",
-      "thai-inspired"
+      "dessert",
+      "thai",
+      "berry",
+      "crumble",
+      "oven-roasted"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 60,
+    "cuisine": "thai",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
