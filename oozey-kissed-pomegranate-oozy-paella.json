@@ -1,0 +1,69 @@
+{
+  "slug": "oozey-kissed-pomegranate-oozy-paella",
+  "title": "Paella Pastry with Pomegranate Glaze",
+  "description": "A sweet and savory pastry filled with the flavors of paella, topped with a tangy pomegranate glaze. Perfect as a brunch or dessert.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "oozy pomegranate jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kissed almonds",
+      "amount": "1 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough and place on a baking sheet.",
+    "Mix the oozy pomegranate jam and pomegranate molasses (if using).",
+    "Spread the jam mixture over the pastry dough, leaving a 1-inch border.",
+    "Top with the kissed almonds and paella rice.",
+    "Fold the edges of the pastry dough up over the filling.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Glaze with additional pomegranate jam (if desired).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "pomegranate",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozey-kissed-pomegranate-oozy-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:12:22.774Z"
+}
