@@ -1,0 +1,97 @@
+{
+  "slug": "oven-roasted-australian-tofu-casserole",
+  "title": "Australian-Style Tofu Casserole",
+  "description": "A flavorful and healthy vegetarian dish inspired by Australian cuisine, featuring roasted tofu in a rich casserole.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Drained and pressed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "Australian bush tomato sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Press and drain the tofu, then cut it into 1-inch cubes.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the onion, garlic, and red bell pepper, and cook until the vegetables are tender.",
+    "Add the canned diced tomatoes, bush tomato sauce, salt, and pepper, and stir to combine.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Add the tofu cubes to the dish and stir to coat with the sauce.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the casserole is hot and the tofu is golden brown.",
+    "Garnish with chopped fresh parsley and serve hot, topped with grated cheddar cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "casserole",
+    "oven-roasted",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-australian-tofu-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:08:26.059Z"
+}
