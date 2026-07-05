@@ -1,0 +1,94 @@
+{
+  "slug": "oven-roasted-kenyan-wagyu-skewers",
+  "title": "Kenyan Wagyu Skewers",
+  "description": "A fusion of Kenyan and Japanese flavors, featuring tender Wagyu beef, roasted to perfection on skewers.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef strips",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "2 tbsp",
+      "notes": "A blend of turmeric, cumin, coriander, and chili powder"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread Wagyu beef, onions, bell peppers, tomatoes, and cilantro onto skewers, leaving space between each piece.",
+    "Brush skewers with olive oil and season with Kenyan spices, salt, and black pepper.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 15-20 minutes, or until Wagyu beef is cooked to desired level of doneness.",
+    "Remove skewers from oven and brush with lime juice.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "wagyu",
+    "skewers",
+    "oven-roasted",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-kenyan-wagyu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:25:12.084Z"
+}
