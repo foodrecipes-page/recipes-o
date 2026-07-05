@@ -1148,13 +1148,14 @@
   },
   {
     "slug": "oil-rich-ukrainian-pasta-bake",
-    "title": "Baked Ukranian Pasta",
+    "title": "Ukrainian Pasta Bake",
     "tags": [
       "ukrainian",
-      "comfort-food",
-      "pasta"
+      "pasta",
+      "bake",
+      "comfort food"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "Eastern European",
     "totalTimeMin": 35,
     "shard": "o"
   },
@@ -3668,17 +3669,15 @@
   },
   {
     "slug": "oozing-moroccan-chicken-couscous-royal",
-    "title": "Oozing Moroccan Chicken Couscous Royal",
+    "title": "Moroccan Chicken and Couscous",
     "tags": [
-      "braise",
+      "chicken",
       "couscous",
-      "low-fat",
       "moroccan",
-      "one-pot",
-      "winey"
+      "north-african"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "north-african",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
