@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-spanish-pork-jamon-iberico",
+  "title": "Crispy Iberico Pork with Roasted Spanish Flair",
+  "description": "A mouthwatering Spanish-inspired dish featuring tender, crispy Iberico pork and a side of roasted vegetables. Perfect for a dinner party or special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Iberico pork shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Jamon Serrano",
+      "amount": "4-6 slices",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4-5 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 medium",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the Iberico pork shoulder with salt and black pepper.",
+    "In a large baking dish, drizzle olive oil and place the pork shoulder.",
+    "Add the sliced Jamon Serrano on top of the pork.",
+    "Tie the pork with kitchen twine to ensure even cooking.",
+    "Roast the pork in the oven for 20 minutes.",
+    "While the pork is cooking, toss the carrots, potatoes, and red bell pepper in olive oil, salt, and black pepper.",
+    "Spread the vegetables in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "Add the rosemary sprig and garlic clove to the baking sheet with the vegetables.",
+    "Continue roasting for an additional 15-20 minutes, or until the pork reaches an internal temperature of 145°F (63°C).",
+    "Let the pork rest for 10-15 minutes before slicing and serving with the roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "oven-roasted",
+    "pork",
+    "iberico-jamon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "22g",
+    "fat": "37g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spanish-pork-jamon-iberico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:09:45.138Z"
+}
