@@ -1,0 +1,73 @@
+{
+  "slug": "oven-baked-middle-eastern-cookies-harees",
+  "title": "Middle Eastern Harees",
+  "description": "A traditional Middle Eastern dish made with wheat and meat, slow-cooked to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lamb or beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Rinse the barley and soak it in water for at least 8 hours.",
+    "In a large pot, brown the lamb or beef over medium heat.",
+    "Add the onion and garlic to the pot and cook until softened.",
+    "Add the soaked barley, salt, and black pepper to the pot.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Transfer the pot to the preheated oven and cook for 2-3 hours.",
+    "Serve the harees hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "harees",
+    "slow-cooked",
+    "lamb",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-middle-eastern-cookies-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:51:47.814Z"
+}
