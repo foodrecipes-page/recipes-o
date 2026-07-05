@@ -1,0 +1,91 @@
+{
+  "slug": "oil-rich-middle-eastern-vegetable-bisque",
+  "title": "Rich Eastern Vegetable Bisque",
+  "description": "A creamy and flavorful bisque that blends the spices of the Middle East with the richness of vegetables. Serve warm for a comforting meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "olive or canola oil work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "rich eastern vegetable bisque",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion, garlic, carrot, celery, and red bell pepper. Cook until the vegetables are tender, about 10 minutes.",
+    "Add the vegetable bisque, chicken broth, lemon juice, and cumin. Bring to a boil, then reduce the heat and simmer for 10-15 minutes.",
+    "Use an immersion blender to puree the soup until smooth. Alternatively, transfer the soup to a blender and blend until smooth, then return it to the pot.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetable-soup",
+    "bisque",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-middle-eastern-vegetable-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:26:30.584Z"
+}
