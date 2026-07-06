@@ -1,0 +1,91 @@
+{
+  "slug": "oven-roasted-silky-filipino-tofu-kare-kare",
+  "title": "Filipino-Style Kare Rendang Tofu",
+  "description": "A rich and creamy vegan kare rendang dish made with roasted tofu and a blend of spices, inspired by Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm, drained and cubed"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kare rendang paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the cubed tofu on a baking sheet and roast for 20-25 minutes, or until lightly browned.",
+    "In a large pan over medium heat, sauté the chopped onion until softened.",
+    "Add the grated ginger and minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Stir in the kare rendang paste and cook for 1-2 minutes, until the aroma is released.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the roasted tofu, chopped peanuts, salt, and black pepper. Stir well to combine.",
+    "Reduce the heat to low and let the sauce simmer for 10-15 minutes, or until thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over steamed rice or with some crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegan",
+    "tofu",
+    "kare-rendang"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-silky-filipino-tofu-kare-kare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:58:22.250Z"
+}
