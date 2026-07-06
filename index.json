@@ -6670,16 +6670,14 @@
   },
   {
     "slug": "outdoor-oven-roasted-german-pork-skewers",
-    "title": "Outdoor Oven-Roasted German Pork Skewers",
+    "title": "German Pork Skewers",
     "tags": [
-      "easy-dinner",
-      "german-cuisine",
-      "grilled-meats",
-      "kid-friendly",
-      "mediterranean-inspired",
-      "outdoor-cooking"
+      "german",
+      "pork",
+      "skewers",
+      "roasted"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "o"
   },
