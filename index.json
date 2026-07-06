@@ -7117,16 +7117,15 @@
   },
   {
     "slug": "outstanding-oven-roasted-mexican-tomato-tacos",
-    "title": "Oven Roasted Mexican Tomato Tacos",
+    "title": "Mexican Roasted Tacos",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "mexican-inspired",
-      "one-pan",
-      "weeknight"
+      "mexican",
+      "tacos",
+      "roasted",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -7830,17 +7829,15 @@
   },
   {
     "slug": "outstandingly-spicy-jamaican-herring-curry",
-    "title": "Outstandingly Spicy Jamaican Herring Curry",
+    "title": "Spicy Jamaican Herring Curry",
     "tags": [
-      "high-protein",
-      "jamaican-cuisine",
-      "one-pot",
-      "paleo-friendly",
       "spicy",
-      "weeknight"
+      "jamaican",
+      "curry",
+      "fish"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -12468,13 +12465,16 @@
   },
   {
     "slug": "oven-roasted-spanish-eggs-bake",
-    "title": "Oven-Roasted Spanish Eggs Bake",
+    "title": "Spanish Baked Eggs",
     "tags": [
-      "anti-inflammatory",
-      "comfort-food",
-      "easy-healthy"
+      "breakfast",
+      "spanish",
+      "oven",
+      "roasted",
+      "eggs",
+      "bake"
     ],
-    "cuisine": "spanish",
+    "cuisine": "Spanish",
     "totalTimeMin": 35,
     "shard": "o"
   },
