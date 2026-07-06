@@ -1,0 +1,81 @@
+{
+  "slug": "outstandingly-spicy-jamaican-herring-curry",
+  "title": "Spicy Jamaican Herring Curry",
+  "description": "A flavorful and spicy Jamaican-style curry made with herring, onions, garlic, ginger, and a blend of curry spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "herring",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, peeled and grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spicy curry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger; cook until softened, about 5 minutes.",
+    "Add curry powder and cook for 1 minute.",
+    "Add herring and cook for 2-3 minutes, until lightly browned.",
+    "Add spicy curry sauce and stir to coat.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until herring is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the curry rest for at least 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "jamaican",
+    "curry",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-spicy-jamaican-herring-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:42:47.739Z"
+}
