@@ -1,0 +1,94 @@
+{
+  "slug": "outrageously-spicy-thai-chicken-curry",
+  "title": "Thai Chicken Curry",
+  "description": "A spicy and flavorful Thai-inspired chicken curry made with a variety of spices and served over steamed rice.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and bell pepper and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add coconut milk, fish sauce, and brown sugar. Bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "spicy",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-spicy-thai-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:10:44.000Z"
+}
