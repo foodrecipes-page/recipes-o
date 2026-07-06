@@ -8434,18 +8434,15 @@
   },
   {
     "slug": "oven-braised-slovakian-mushroom-stew",
-    "title": "Oven Braised Slovakian Mushroom Stew",
+    "title": "Slovakian Braised Mushroom Stew",
     "tags": [
-      "hearty-stew",
-      "mushroom-based",
-      "one-pot",
-      "oven-braised",
-      "slovakian-cuisine",
-      "vegan-friendly",
-      "winter-dish"
+      "slovakian",
+      "braised",
+      "mushroom",
+      "stew"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
