@@ -6888,16 +6888,15 @@
   },
   {
     "slug": "outrageously-spicy-thai-chicken-curry",
-    "title": "Outrageously Spicy Thai Chicken Curry",
+    "title": "Thai Chicken Curry",
     "tags": [
-      "coconut-based",
-      "date-night",
-      "one-pan",
-      "spicy-food",
-      "thai-cuisine"
+      "thai",
+      "curry",
+      "spicy",
+      "chicken"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -8651,16 +8650,15 @@
   },
   {
     "slug": "oven-crusted-american-beef-burger",
-    "title": "Oven Crusted American Beef Burger",
+    "title": "American Style Oven-Baked Beef Burger",
     "tags": [
+      "beef",
+      "burger",
       "american",
-      "diabetic-friendly",
-      "high-protein",
-      "no-bun",
-      "oven-cooked"
+      "oven-baked"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -12169,18 +12167,15 @@
   },
   {
     "slug": "oven-roasted-silky-filipino-tofu-kare-kare",
-    "title": "Oven-Roasted Silky Filipino Tofu Kare-Kare",
+    "title": "Filipino-Style Kare Rendang Tofu",
     "tags": [
-      "comfort-food",
       "filipino",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "vegan",
-      "weeknight"
+      "tofu",
+      "kare-rendang"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -12488,17 +12483,16 @@
   },
   {
     "slug": "oven-roasted-spanish-nectarines-patatas-bravas",
-    "title": "oven-roasted spanish nectarines patatas bravas",
+    "title": "Spanish Roasted Nectarine and Patata Tart",
     "tags": [
-      "nectarines",
-      "oven-roasted",
-      "patatas-bravas",
       "spanish",
-      "spicy",
-      "tomato-sauce"
+      "oven-roasted",
+      "nectarines",
+      "patatas",
+      "bravas"
     ],
     "cuisine": "spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
