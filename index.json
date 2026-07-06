@@ -3869,17 +3869,16 @@
   },
   {
     "slug": "oozing-syrian-black-pudding-flatbread",
-    "title": "Oozing Syrian Black Pudding Flatbread",
+    "title": "Syrian Flatbread Stuffed with Oozing Pudding",
     "tags": [
-      "black-pudding",
+      "dessert",
+      "middle-eastern",
+      "pudding",
       "flatbread",
-      "high-protein",
-      "long-fermentation",
-      "syrian",
-      "winey"
+      "syrian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 21,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 12,
     "shard": "o"
   },
   {
@@ -10734,17 +10733,15 @@
   },
   {
     "slug": "oven-roasted-jamaican-bean-stew",
-    "title": "Oven Roasted Jamaican Bean Stew",
+    "title": "Jamaican Black Bean Stew",
     "tags": [
-      "comfort-food",
-      "jamaican-cuisine",
-      "one-pot",
-      "paleo-friendly",
-      "spicy",
-      "weeknight"
+      "jamaican",
+      "stew",
+      "black-beans",
+      "vegetarian"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 80,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
