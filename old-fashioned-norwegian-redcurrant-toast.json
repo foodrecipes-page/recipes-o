@@ -1,0 +1,64 @@
+{
+  "slug": "old-fashioned-norwegian-redcurrant-toast",
+  "title": "Norwegian Redcurrant Toast",
+  "description": "A simple Scandinavian-inspired dessert featuring fresh Norwegian redcurrants atop toasted bread.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Old-fashioned Norwegian bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old loaf"
+    },
+    {
+      "name": "Redcurrants",
+      "amount": "1 pint",
+      "notes": "fresh and preferably organic"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "old-fashioned Norwegian bread, toasted until lightly browned"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional, but recommended to balance tartness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toast the old-fashioned Norwegian bread until lightly browned.",
+    "Rinse the redcurrants and remove any stems or leaves.",
+    "Arrange the toasted bread slices on a baking sheet.",
+    "Top each bread slice with a layer of redcurrants.",
+    "Sprinkle granulated sugar over the redcurrants, if using.",
+    "Bake for 5-7 minutes until the redcurrants have softened slightly.",
+    "Serve warm, garnished with additional redcurrants if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "scandinavian",
+    "dessert",
+    "fruit",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-norwegian-redcurrant-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:03:11.663Z"
+}
