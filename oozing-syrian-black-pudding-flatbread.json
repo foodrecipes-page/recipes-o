@@ -1,0 +1,69 @@
+{
+  "slug": "oozing-syrian-black-pudding-flatbread",
+  "title": "Syrian Flatbread Stuffed with Oozing Pudding",
+  "description": "A rich, satisfying dessert featuring crispy flatbread filled with creamy pudding and topped with sweet black pudding.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Oozing Pudding",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Black Pudding",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Syrian Pudding",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut flatbread into squares, about 3 inches (7.5 cm) per side.",
+    "Place flatbread squares on a baking sheet.",
+    "Dollop a spoonful of oozing pudding onto the center of each flatbread square.",
+    "Top with a spoonful of crumbled Syrian pudding and black pudding.",
+    "Drizzle with melted butter.",
+    "Bake for 5-7 minutes, or until flatbread is crispy and pudding is golden.",
+    "Serve warm, with additional oozing pudding for drizzling (if desired)."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "middle-eastern",
+    "pudding",
+    "flatbread",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-syrian-black-pudding-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:03:24.203Z"
+}
