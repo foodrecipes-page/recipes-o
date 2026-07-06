@@ -1,0 +1,85 @@
+{
+  "slug": "oven-roasted-spanish-nectarines-patatas-bravas",
+  "title": "Spanish Roasted Nectarine and Patata Tart",
+  "description": "A sweet and savory tart featuring roasted nectarines and patatas, topped with a spicy bravas sauce, perfect for a warm summer evening.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "patatas",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "nectarines",
+      "amount": "3",
+      "notes": "sliced into wedges"
+    },
+    {
+      "name": "bravas sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "flour",
+      "amount": "1 pie crust",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for topping"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the pie crust and place it on a baking sheet.",
+    "Brush the crust with olive oil and sprinkle with sugar.",
+    "Arrange the sliced patatas on the crust, leaving a 1-inch border around the edges.",
+    "Top the patatas with sliced nectarines.",
+    "Drizzle the bravas sauce over the nectarines.",
+    "Fold the edges of the crust up over the filling, pressing gently to seal.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is tender.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "oven-roasted",
+    "nectarines",
+    "patatas",
+    "bravas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spanish-nectarines-patatas-bravas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:57:45.815Z"
+}
