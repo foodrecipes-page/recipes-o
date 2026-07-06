@@ -1,0 +1,77 @@
+{
+  "slug": "outstanding-oven-roasted-mexican-tomato-tacos",
+  "title": "Mexican Roasted Tacos",
+  "description": "A flavorful and spicy Mexican-inspired dish featuring roasted tomatoes and served in tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Outstanding Oven Roasted Tomatoes",
+      "amount": "2 large tomatoes",
+      "notes": "Cut into wedges"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tsp",
+      "notes": "Combine chili powder, cumin, and paprika"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For roasting tomatoes"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "4-6 shells",
+      "notes": "For serving"
+    },
+    {
+      "name": "Shredded Cheese (optional)",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sour Cream (optional)",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss tomatoes with olive oil, Mexican seasoning, and a pinch of salt.",
+    "Spread tomatoes on a baking sheet and roast for 20-25 minutes.",
+    "Warm taco shells according to package instructions.",
+    "Assemble tacos by placing roasted tomatoes in shells, topping with cheese and sour cream (if using).",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-mexican-tomato-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:35:46.512Z"
+}
