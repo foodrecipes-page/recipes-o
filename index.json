@@ -3747,15 +3747,14 @@
   },
   {
     "slug": "oozing-pungent-syrian-vegetable-gratin",
-    "title": "Oozing Pungent Syrian Vegetable Gratin",
+    "title": "Syrian Vegetable Gratin with Oozing Cheese",
     "tags": [
-      "comfort-food",
-      "middle-eastern",
       "syrian",
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gratin",
+      "comfort-food"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 55,
     "shard": "o"
   },
@@ -12368,17 +12367,15 @@
   },
   {
     "slug": "oven-roasted-smoky-mexican-ikura-birria",
-    "title": "Oven-Roasted Smoky Mexican Ikura Birria",
+    "title": "Smoky Birria Tacos",
     "tags": [
-      "high-protein",
       "mexican",
-      "oven",
-      "pastry",
-      "sugar-free",
-      "weekend-brunch"
+      "smoky",
+      "oven-roasted",
+      "tacos"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 130,
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -12876,15 +12873,14 @@
   },
   {
     "slug": "oven-roasted-turkish-lamb-adana-kebap",
-    "title": "Oven-Roasted Turkish Lamb Adana Kebap",
+    "title": "Adana Lamb Kebap",
     "tags": [
-      "kebap",
-      "lamb",
-      "turkish",
-      "whole30"
+      "adana-kebap",
+      "lamb-kebap",
+      "turkish-cuisine"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 55,
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
