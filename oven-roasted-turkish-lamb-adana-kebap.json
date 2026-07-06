@@ -1,0 +1,85 @@
+{
+  "slug": "oven-roasted-turkish-lamb-adana-kebap",
+  "title": "Adana Lamb Kebap",
+  "description": "A classic Turkish dish of lamb minced and mixed with spices, then grilled on skewers. Serve with roasted vegetables and pita bread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "500g",
+      "notes": "Use 80/20 or 70/30 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 small",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher or sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Sweet or hot, whichever suits your taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (400°F).",
+    "2. In a large bowl, combine lamb mince, chopped onion, minced garlic, red pepper, salt, black pepper, and paprika.",
+    "3. Mix everything together with your hands or a wooden spoon until just combined.",
+    "4. Soak 8-10 bamboo skewers in water for at least 30 minutes.",
+    "5. Thread the lamb mixture onto the skewers, leaving a small space between each piece.",
+    "6. Brush the skewers with olive oil and season with salt.",
+    "7. Grill the skewers over medium-high heat for 2-3 minutes per side, or until cooked to your liking.",
+    "8. Serve hot with roasted vegetables and pita bread.",
+    "9. Roast the vegetables in the oven for 15-20 minutes, or until tender.",
+    "10. Slice the pita bread in half and toast in the oven for a few minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adana-kebap",
+    "lamb-kebap",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 46,
+    "carbs": 20,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-lamb-adana-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:31:30.594Z"
+}
