@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-smoky-mexican-ikura-birria",
+  "title": "Smoky Birria Tacos",
+  "description": "A fusion of traditional Mexican flavors with smoky, rich birria and the added freshness of ikura. Serve in tacos with a side of roasted vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ikura",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoky chipotle peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas for tacos"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, sauté the roasted onion and garlic until softened.",
+    "Add the smoky chipotle peppers and cook for 1 minute.",
+    "Stir in the cumin and chili powder, cooking for 1 minute.",
+    "Add the tomato sauce and bring to a simmer.",
+    "Reduce heat to low and let cook for 10 minutes.",
+    "Meanwhile, prepare the roasted vegetables by tossing with olive oil, salt, and pepper, and roasting in the oven for 20 minutes.",
+    "Warm the corn tortillas by wrapping in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the birria mixture onto a tortilla and topping with ikura, cilantro, and roasted vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "smoky",
+    "oven-roasted",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-smoky-mexican-ikura-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:04:44.673Z"
+}
