@@ -1,0 +1,72 @@
+{
+  "slug": "oozy-silky-greek-rhubarb-saganaki",
+  "title": "Pan-Seared Saganaki with Rhubarb Compote",
+  "description": "A sweet and savory Greek-inspired dish featuring crispy saganaki topped with a tangy rhubarb compote.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saganaki (Greek cheese)",
+      "amount": "4 oz",
+      "notes": "Slice into 1-inch thick pieces"
+    },
+    {
+      "name": "Rhubarb",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "Chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "1. Heat butter in a skillet over medium-high heat.",
+    "2. Add saganaki slices and cook for 2-3 minutes on each side, or until crispy and golden brown.",
+    "3. Meanwhile, combine rhubarb, honey, and lemon juice in a saucepan.",
+    "4. Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes, or until the rhubarb is tender.",
+    "5. To serve, place a saganaki slice on each plate and top with a spoonful of the rhubarb compote.",
+    "6. Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "snack",
+    "rhubarb"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-silky-greek-rhubarb-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:30:12.547Z"
+}
