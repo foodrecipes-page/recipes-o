@@ -4789,15 +4789,14 @@
   },
   {
     "slug": "oozy-japanese-form-inari",
-    "title": "Oozy Japanese Form Inari",
+    "title": "Inari Sushi Rolls",
     "tags": [
-      "fodmap-friendly",
       "japanese",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "sushi",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "o"
   },
@@ -5253,18 +5252,15 @@
   },
   {
     "slug": "oozy-silky-greek-rhubarb-saganaki",
-    "title": "Oozy Silky Greek Rhubarb Saganaki",
+    "title": "Pan-Seared Saganaki with Rhubarb Compote",
     "tags": [
-      "dessert",
       "greek",
-      "low-glycemic",
-      "midnight-craving",
-      "oozy",
-      "silky",
-      "vegetarian"
+      "dessert",
+      "snack",
+      "rhubarb"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -9997,17 +9993,15 @@
   },
   {
     "slug": "oven-roasted-filipino-chicken-breast-tinola",
-    "title": "Oven Roasted Filipino Chicken Breast Tinola",
+    "title": "Filipino Chicken Tinola",
     "tags": [
-      "chicken-breast",
-      "filipino-cuisine",
-      "flexitarian",
-      "gluten-free",
-      "meal-prep",
-      "oven-roasted"
+      "filipino",
+      "chicken",
+      "soup",
+      "comfort-food"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -10043,17 +10037,16 @@
   },
   {
     "slug": "oven-roasted-filipino-quinoa-bowl",
-    "title": "Oven Roasted Filipino Quinoa Bowl",
+    "title": "Filipino Roasted Quinoa Bowl",
     "tags": [
-      "budget-friendly",
-      "grain-bowl",
-      "low-sodium",
-      "one-pan",
-      "savory",
-      "vegan"
+      "filipino",
+      "roasted",
+      "oven",
+      "quinoa",
+      "bowl"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
