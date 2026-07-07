@@ -1,0 +1,60 @@
+{
+  "slug": "old-fashioned-dutch-plum-tomato-skewers",
+  "title": "Dutch Plum Kebabs",
+  "description": "Sweet and savory kebabs made with Dutch cheese, plums, and a hint of tomato.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "plums",
+      "amount": "4",
+      "notes": "halved"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "old fashioned skewers",
+      "amount": "10-12",
+      "notes": "wooden"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread a cheese cube, a plum half, and a tomato piece onto each skewer.",
+    "Season with salt and pepper to taste.",
+    "Grill kebabs for 5-7 minutes, turning occasionally, until cheese is melted and plums are tender.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "grilled",
+    "kebabs",
+    "snack",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-dutch-plum-tomato-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:27:45.531Z"
+}
