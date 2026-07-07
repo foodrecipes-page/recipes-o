@@ -1,0 +1,64 @@
+{
+  "slug": "outstandingly-rich-italian-cream-pudding",
+  "title": "Creamy Italian Pudding",
+  "description": "A rich and creamy dessert inspired by Italian flavors, perfect for warm weather. This pudding is light and refreshing, with a hint of sweetness.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the milk, sugar, and cocoa powder.",
+    "Cook over medium heat, whisking constantly, until the mixture comes to a simmer.",
+    "In a small bowl, whisk together the egg yolks and vanilla extract.",
+    "Temper the egg yolks by slowly pouring the warm milk mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to medium heat and cook, stirring constantly, until the mixture thickens and coats the back of a spoon, about 5 minutes.",
+    "Remove from heat and stir in the outstandingly rich Italian cream.",
+    "Strain the pudding into individual serving cups and chill in the refrigerator for at least 2 hours.",
+    "Serve chilled, garnished with whipped cream and a sprinkle of cocoa powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pudding",
+    "dessert",
+    "rich",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-rich-italian-cream-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:46:39.356Z"
+}
