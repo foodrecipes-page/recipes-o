@@ -1,0 +1,81 @@
+{
+  "slug": "oozy-sweet-persian-pistachio-dumplings",
+  "title": "Pistachio Dumplings with Sweet Filling",
+  "description": "A traditional dessert from the Middle East, these sweet dumplings are wrapped in a crispy pistachio crust and served with a warm sweet syrup.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "usually 10-12 pieces"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup",
+      "notes": "you can make your own by grinding pistachios in a food processor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "you can adjust the amount according to your taste"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "sweet syrup",
+      "amount": "1 cup",
+      "notes": "you can make your own by boiling sugar and water"
+    },
+    {
+      "name": "oze oil",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan over medium heat.",
+    "Add the dumplings and fry until golden brown on both sides.",
+    "In a separate pan, heat the sweet syrup over low heat.",
+    "Add the sugar and stir until dissolved.",
+    "Add the pistachio meal and stir until combined.",
+    "Wrap each dumpling in a piece of dough, making sure to seal the edges.",
+    "Fry the dumplings in the oil until golden brown on both sides.",
+    "Drain the dumplings on paper towels.",
+    "Serve the dumplings warm with the sweet syrup.",
+    "Garnish with chopped pistachios and a sprinkle of sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middleeastern",
+    "dessert",
+    "sweet",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-sweet-persian-pistachio-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:50:11.276Z"
+}
