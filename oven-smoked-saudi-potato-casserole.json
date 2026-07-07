@@ -1,0 +1,77 @@
+{
+  "slug": "oven-smoked-saudi-potato-casserole",
+  "title": "Smoked Hamburger Casserole",
+  "description": "A hearty casserole filled with smoked ground beef, potatoes, and a blend of cheeses. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound smoked ground beef"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large potatoes, peeled and thinly sliced"
+    },
+    {
+      "name": "Oven-roasted onion",
+      "amount": "1 large onion, roasted in the oven until caramelized"
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1 (9x13 inch) casserole dish"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup shredded cheddar cheese"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/2 cup shredded mozzarella cheese"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large skillet, cook the smoked ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the roasted onion to the skillet and cook until combined with the ground beef.",
+    "In a separate bowl, combine the sliced potatoes, shredded cheddar cheese, and shredded mozzarella cheese.",
+    "Grease the casserole dish with cooking spray.",
+    "Add the potato and cheese mixture to the casserole dish, followed by the ground beef and onion mixture.",
+    "Season with salt and black pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the potatoes are tender and the cheese is melted and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "casserole",
+    "potato",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoked-saudi-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:57:53.988Z"
+}
