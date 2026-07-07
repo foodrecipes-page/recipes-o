@@ -1,0 +1,83 @@
+{
+  "slug": "oven-roasted-filipino-chicken-breast-tinola",
+  "title": "Filipino Chicken Tinola",
+  "description": "A classic Filipino chicken soup made with ginger, onions, and chicken breast, perfect for a cold day.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cut the onion and ginger into small pieces.",
+    "3. Heat the olive oil in a large pot over medium heat.",
+    "4. Add the garlic, onion, and ginger and sauté until the onion is translucent.",
+    "5. Add the chicken breast and cook until browned on all sides.",
+    "6. Add the fish sauce, paprika, salt, and pepper, and stir to combine.",
+    "7. Transfer the pot to the preheated oven and roast for 20-25 minutes, or until the chicken is cooked through.",
+    "8. Remove the pot from the oven and let it cool for a few minutes.",
+    "9. Serve the chicken hot, garnished with chopped green onions if desired.",
+    "10. Traditionally, tinola is served with a side of steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-filipino-chicken-breast-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:48:59.707Z"
+}
