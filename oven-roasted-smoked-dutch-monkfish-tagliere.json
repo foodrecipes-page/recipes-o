@@ -1,0 +1,75 @@
+{
+  "slug": "oven-roasted-smoked-dutch-monkfish-tagliere",
+  "title": "Smoked Monkfish Tagliere",
+  "description": "A flavorful dish that combines the delicate taste of monkfish with the rich flavors of smoked dutch cheese.",
+  "cuisine": "Seafood",
+  "diet": [
+    "Fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "4",
+      "notes": "Fresh and of good quality"
+    },
+    {
+      "name": "Smoked Dutch cheese",
+      "amount": "1 block",
+      "notes": "Crumbly and well-aged"
+    },
+    {
+      "name": "Tagliere bread",
+      "amount": "1 loaf",
+      "notes": "Crusty and suitable for grating"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": "Mince before using"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the monkfish fillets with salt and pepper. Place them on a baking sheet lined with parchment paper.",
+    "Roasted garlic: peel the garlic cloves and place them on a piece of aluminum foil, drizzle with olive oil and fold to create a packet. Roast in the oven for 20-25 minutes or until the garlic is soft and mashed.",
+    "Sprinkle the smoked Dutch cheese crumbles over the monkfish fillets.",
+    "Bake the monkfish in the preheated oven for 12-15 minutes or until cooked through.",
+    "While the monkfish is baking, toast the tagliere bread slices until crispy.",
+    "Remove the monkfish from the oven and top each fillet with a spoonful of roasted garlic.",
+    "Serve the monkfish on top of the toasted bread slices, garnished with chopped parsley and a squeeze of lemon juice.",
+    "Enjoy immediately, while the cheese is still melted and the fish is warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "cheese",
+    "monkfish",
+    "dutch",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-smoked-dutch-monkfish-tagliere",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:30:12.260Z"
+}
