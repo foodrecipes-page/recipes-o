@@ -1693,16 +1693,15 @@
   },
   {
     "slug": "oily-light-romantic-brazilian-gelatin-stir-fry",
-    "title": "Oily Light Romantic Brazilian Gelatin Stir-fry",
+    "title": "Brazilian Stir-Fry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "low-carb",
-      "romantic",
-      "vegan"
+      "chicken",
+      "stir-fry",
+      "brazilian",
+      "easy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -3042,16 +3041,16 @@
   },
   {
     "slug": "old-style-ukrainian-egg-frittata",
-    "title": "Ukrainian Egg Frittata",
+    "title": "Old-Style Ukrainian Frittata",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "ukrainian-cuisine",
-      "weeknight"
+      "ukrainian",
+      "frittata",
+      "breakfast",
+      "eggs",
+      "sausage"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -7647,16 +7646,15 @@
   },
   {
     "slug": "outstandingly-peppery-norwegian-bacon-skewers",
-    "title": "Outstandingly Peppery Norwegian Bacon Skewers",
+    "title": "Norwegian Bacon Skewers",
     "tags": [
-      "crispy-exterior",
-      "high-protein",
-      "norwegian-cuisine",
-      "paleo-friendly",
-      "special-occasion"
+      "bacon",
+      "skewers",
+      "norwegian",
+      "peppercorns"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "cuisine": "scandinavian",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -8693,15 +8691,15 @@
   },
   {
     "slug": "oven-fermented-slovakian-dish-wrap",
-    "title": "Fermented Slovakian Wrap",
+    "title": "Slovakian Oven-Baked Chicken Wrap",
     "tags": [
-      "flexitarian",
-      "one-pan",
       "slovakian",
-      "weeknight"
+      "oven-baked",
+      "chicken",
+      "wrap"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 65,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
