@@ -1,0 +1,82 @@
+{
+  "slug": "oven-roasted-filipino-quinoa-bowl",
+  "title": "Filipino Roasted Quinoa Bowl",
+  "description": "A flavorful and nutritious quinoa bowl made with roasted chicken and vegetables, inspired by Filipino cuisine.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the quinoa and cook according to package instructions.",
+    "Season the chicken breast with salt and pepper.",
+    "In a large bowl, toss the mixed vegetables with coconut oil, soy sauce, and lime juice.",
+    "Roast the chicken in the oven for 20-25 minutes, or until cooked through.",
+    "Roast the vegetables in the oven for 15-20 minutes, or until tender.",
+    "Fluff the cooked quinoa with a fork.",
+    "To assemble the dish, place the cooked quinoa in a bowl, top with roasted chicken and vegetables.",
+    "Serve hot.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "roasted",
+    "oven",
+    "quinoa",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-filipino-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:00:43.443Z"
+}
