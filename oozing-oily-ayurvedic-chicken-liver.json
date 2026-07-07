@@ -1,0 +1,71 @@
+{
+  "slug": "oozing-oily-ayurvedic-chicken-liver",
+  "title": "Pan-Seared Chicken Liver with Ayurvedic Spices",
+  "description": "A flavorful and aromatic chicken liver dish, marinated in a blend of traditional ayurvedic spices and pan-seared to perfection. This recipe is a great way to enjoy liver, rich in iron and nutrients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "ayurvedic spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together ayurvedic spice blend, salt, and black pepper.",
+    "Add chicken liver to the bowl and mix well to coat.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the marinated chicken liver to the skillet and sear for 2-3 minutes on each side, or until cooked through.",
+    "Remove the chicken liver from the skillet and let it rest for a few minutes.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-oily-ayurvedic-chicken-liver",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:14:48.911Z"
+}
