@@ -2474,17 +2474,16 @@
   },
   {
     "slug": "old-fashioned-dutch-plum-tomato-skewers",
-    "title": "Old Fashioned Dutch Plum Tomato Skewers",
+    "title": "Dutch Plum Kebabs",
     "tags": [
-      "dutch-cuisine",
-      "easy-dinner",
-      "gluten-free",
-      "grilled-vegetables",
-      "summer-recipe",
-      "vegetarian-option"
+      "dutch",
+      "grilled",
+      "kebabs",
+      "snack",
+      "summer"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 32,
+    "totalTimeMin": 17,
     "shard": "o"
   },
   {
@@ -5194,13 +5193,15 @@
   },
   {
     "slug": "oozy-russian-tofu-croquettes",
-    "title": "Oozy Russian Tofu Croquettes",
+    "title": "Russian Tofu Croquettes",
     "tags": [
+      "tofu",
       "russian",
-      "dinner"
+      "snack",
+      "fried"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
@@ -13429,17 +13430,15 @@
   },
   {
     "slug": "oven-smoked-saudi-potato-casserole",
-    "title": "Oven Smoked Saudi Potato Casserole",
+    "title": "Smoked Hamburger Casserole",
     "tags": [
-      "glassy",
-      "one-pan",
-      "saudi",
       "smoked",
-      "sugar-free-friendly",
-      "weeknight"
+      "casserole",
+      "potato",
+      "beef"
     ],
-    "cuisine": "saudi arabian",
-    "totalTimeMin": 60,
+    "cuisine": "American",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
