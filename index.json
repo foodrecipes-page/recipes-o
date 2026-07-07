@@ -79,15 +79,15 @@
   },
   {
     "slug": "oatprotein-bowl",
-    "title": "OatProtein Bowl",
+    "title": "Oatmeal Bowl",
     "tags": [
+      "breakfast",
       "oatmeal",
-      "protein",
       "vegan",
-      "paleo"
+      "gluten-free"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 5,
     "shard": "o"
   },
   {
@@ -11175,17 +11175,15 @@
   },
   {
     "slug": "oven-roasted-light-vietnamese-paprika-noodles",
-    "title": "oven-roasted light vietnamese paprika noodles",
+    "title": "Vietnamese Roasted Noodle Dish",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight"
+      "vietnamese",
+      "roasted",
+      "noodles",
+      "healthy"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
@@ -12282,17 +12280,16 @@
   },
   {
     "slug": "oven-roasted-smoked-dutch-monkfish-tagliere",
-    "title": "oven-roasted smoked dutch monkfish tagliere",
+    "title": "Smoked Monkfish Tagliere",
     "tags": [
-      "brunch",
+      "seafood",
+      "cheese",
+      "monkfish",
       "dutch",
-      "fish",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "smoked"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 34,
+    "cuisine": "Seafood",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
