@@ -1,0 +1,63 @@
+{
+  "slug": "oatprotein-bowl",
+  "title": "Oatmeal Bowl",
+  "description": "A simple and nutritious breakfast bowl made with oat protein and topped with fresh fruits.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oatprotein",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "Banana",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix oatprotein with almond milk until smooth.",
+    "Add sliced banana on top of the oatmeal.",
+    "Drizzle with honey if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oatprotein-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:27:49.722Z"
+}
