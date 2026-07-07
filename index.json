@@ -6819,16 +6819,15 @@
   },
   {
     "slug": "outrageously-garlicky-mexican-beef-tacos",
-    "title": "Outrageously Garlicky Mexican Beef Tacos",
+    "title": "Garlicky Beef Tacos",
     "tags": [
-      "beef-recipes",
-      "garlic-lovers",
-      "mexican-food",
-      "sesame-seed-buns",
-      "steamed-food"
+      "mexican",
+      "beef",
+      "tacos",
+      "garlic"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
