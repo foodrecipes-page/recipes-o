@@ -1,0 +1,79 @@
+{
+  "slug": "oily-charred-japanese-chicken-yakitori",
+  "title": "Japanese-Style Grilled Chicken Yakitori",
+  "description": "A classic Japanese dish featuring grilled chicken skewers, typically served as a snack or appetizer.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yakitori sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Cut the chicken breast into bite-sized pieces.",
+    "3. In a large bowl, whisk together soy sauce, mirin, sake, brown sugar, and yakitori sauce.",
+    "4. Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "5. Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "6. Grill the chicken skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "7. Serve the grilled chicken skewers with a side of Japanese rice.",
+    "8. Garnish with charred scallions and a drizzle of yakitori sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "japanese",
+    "chicken",
+    "yakitori",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-charred-japanese-chicken-yakitori",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:02:11.376Z"
+}
