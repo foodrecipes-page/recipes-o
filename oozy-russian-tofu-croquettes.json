@@ -1,0 +1,94 @@
+{
+  "slug": "oozy-russian-tofu-croquettes",
+  "title": "Russian Tofu Croquettes",
+  "description": "A delicious and crispy deep-fried snack made with tofu and Russian-inspired flavors.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (200g)",
+      "notes": "Extra-firm"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oozy cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "russian sausage",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil for frying to 180°C (350°F).",
+    "Crush the tofu into a crumbly texture and mix with Russian sausage, grated oozy cheese, and a pinch of salt and pepper.",
+    "In a separate bowl, whisk the eggs and mix with milk.",
+    "Combine the egg mixture with the tofu mixture and stir well.",
+    "Add the bread crumbs and mix until a dough forms.",
+    "Shape the dough into small cylinders and coat with all-purpose flour.",
+    "Heat the butter in a non-stick pan over medium heat.",
+    "Fry the croquettes until golden brown and crispy.",
+    "Drain excess oil on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "russian",
+    "snack",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-russian-tofu-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:57:33.139Z"
+}
