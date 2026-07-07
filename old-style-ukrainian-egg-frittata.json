@@ -1,0 +1,81 @@
+{
+  "slug": "old-style-ukrainian-egg-frittata",
+  "title": "Old-Style Ukrainian Frittata",
+  "description": "A hearty, Ukrainian-inspired frittata filled with sausage and onions, perfect for a weekend breakfast.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat",
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6 large",
+      "notes": "Fresh eggs are essential for a fluffy frittata."
+    },
+    {
+      "name": "Old-Style Ukrainian Sausage",
+      "amount": "1 pound, sliced",
+      "notes": "Use a Ukrainian-style sausage for the most authentic flavor."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped",
+      "notes": "Caramelized onions add a depth of flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Use fresh garlic for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use kosher salt for a more nuanced flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground black pepper is essential."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Garnish with fresh parsley for a pop of color."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the sliced sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Remove the cooked sausage from the skillet with a slotted spoon and set aside on a plate.",
+    "In the same skillet, cook the chopped onion and minced garlic over medium heat until the onion is caramelized, stirring occasionally.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the cooked sausage, onion mixture, and chopped parsley to the bowl with the eggs and stir to combine.",
+    "Pour the egg mixture into a greased 9-inch (23cm) pie plate or skillet.",
+    "Transfer the skillet to the preheated oven and bake for 25-30 minutes, or until the eggs are set and the frittata is golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "frittata",
+    "breakfast",
+    "eggs",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-ukrainian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:17:00.795Z"
+}
