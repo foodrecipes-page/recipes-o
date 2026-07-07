@@ -1,0 +1,84 @@
+{
+  "slug": "outrageously-garlicky-mexican-beef-tacos",
+  "title": "Garlicky Beef Tacos",
+  "description": "A flavorful and spicy Mexican dish that combines tender beef with the pungency of garlic.",
+  "cuisine": "Mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "Choose 80/20 for best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for best flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop for best texture"
+    },
+    {
+      "name": "Taco Seasoning",
+      "amount": "1 packet",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": "Corn or flour, your choice"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Cheddar or Monterey Jack"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add beef and cook until browned, breaking into small pieces.",
+    "Add onion and cook until softened.",
+    "Add taco seasoning and cook according to packet instructions.",
+    "Warm tortillas by wrapping in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning beef mixture onto tortillas.",
+    "Top with cheese, cilantro, and sour cream (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-garlicky-mexican-beef-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:28:01.068Z"
+}
