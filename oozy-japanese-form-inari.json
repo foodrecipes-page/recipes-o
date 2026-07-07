@@ -1,0 +1,84 @@
+{
+  "slug": "oozy-japanese-form-inari",
+  "title": "Inari Sushi Rolls",
+  "description": "Delicious Japanese sushi rolls filled with sweet tofu pockets, perfect for a quick and easy snack or meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Inari tofu pouches",
+      "amount": "12-15 pouches"
+    },
+    {
+      "name": "Sushi nori sheets",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sushi vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the Japanese short-grain rice according to the package instructions.",
+    "Cut the inari tofu pouches into smaller pieces and set aside.",
+    "Cut the sushi nori sheets into 8 equal pieces.",
+    "In a small saucepan, combine soy sauce, sugar, and rice vinegar. Bring to a boil, then reduce the heat and simmer for 2 minutes.",
+    "In a large bowl, combine the cooked Japanese short-grain rice and sushi vinegar. Mix well.",
+    "Add the soy sauce mixture to the rice and mix well.",
+    "Cut the inari tofu pieces in half and place them on the nori sheets, leaving a 1-inch border at the top.",
+    "Place a small amount of the Japanese short-grain rice mixture on top of the tofu.",
+    "Roll the sushi using a bamboo sushi mat or a clean tea towel.",
+    "Repeat the process to create 8 sushi rolls.",
+    "Cut the sushi rolls into 8 equal pieces using a sharp knife.",
+    "Serve immediately and garnish with sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "sushi",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-japanese-form-inari",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:09:32.260Z"
+}
