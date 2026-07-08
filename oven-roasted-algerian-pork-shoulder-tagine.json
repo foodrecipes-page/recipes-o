@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-algerian-pork-shoulder-tagine",
+  "title": "Algerian-Style Braised Pork Shoulder",
+  "description": "Slow-cooked pork shoulder in a rich and flavorful Algerian tagine-inspired sauce, perfect for a hearty dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork shoulder with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the pork shoulder until browned on all sides, about 5 minutes. Remove the pork from the pot and set aside.",
+    "Reduce the heat to medium and add the onion to the pot. Cook until the onion is softened and lightly browned, about 5 minutes.",
+    "Add the garlic, ginger, cumin, coriander, and paprika to the pot. Cook for 1 minute, stirring constantly.",
+    "Add 1 cup of water to the pot and bring to a simmer.",
+    "Return the pork shoulder to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise the pork for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the pork with two forks and stir to coat with the sauce.",
+    "Serve the pork hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "braised",
+    "pork",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-algerian-pork-shoulder-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:32:05.363Z"
+}
