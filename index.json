@@ -5344,14 +5344,11 @@
   },
   {
     "slug": "oozy-spanish-beef-shin-stew",
-    "title": "Oozy Spanish Beef Shin Stew",
+    "title": "Spanish Beef Stew",
     "tags": [
-      "banana-leaf",
-      "beef-stew",
-      "comfort-food",
-      "kosher-friendly",
-      "one-pot",
-      "spanish-cuisine"
+      "beef",
+      "stew",
+      "spanish"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 170,
@@ -13502,16 +13499,18 @@
   },
   {
     "slug": "oven-smoky-spanish-sea-bass-paella-valenciana",
-    "title": "Oven Smoky Spanish Sea Bass Paella Valenciana",
+    "title": "Spanish Sea Bass Paella",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pot",
-      "seafood",
-      "spanish-cuisine"
+      "spanish",
+      "paella",
+      "sea-bass",
+      "valenciana",
+      "fish",
+      "oven",
+      "dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
