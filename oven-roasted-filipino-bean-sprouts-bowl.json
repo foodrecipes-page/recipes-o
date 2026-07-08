@@ -1,0 +1,77 @@
+{
+  "slug": "oven-roasted-filipino-bean-sprouts-bowl",
+  "title": "Filipino Roasted Bean Bowl",
+  "description": "A delicious and healthy Filipino-inspired roasted bean bowl, perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 1/2 cups, cooked",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Sprouts",
+      "amount": "1 cup",
+      "notes": "Alfalfa or broccoli sprouts work well"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For roasting the beans"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, toss the cooked kidney beans with olive oil, garlic, and soy sauce (if using).",
+    "Spread the beans on a baking sheet and roast in the oven for 20-25 minutes, or until lightly browned.",
+    "In a separate bowl, toss the sprouts with a pinch of salt and pepper.",
+    "Combine the roasted beans and sprouts in a serving bowl.",
+    "Season with additional salt and pepper to taste.",
+    "Serve warm, garnished with additional sprouts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oven-roasted",
+    "filipino",
+    "bean-bowl",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-filipino-bean-sprouts-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:17:41.769Z"
+}
