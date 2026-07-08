@@ -8280,17 +8280,16 @@
   },
   {
     "slug": "oven-baked-tunisian-fish-bake",
-    "title": "Oven Baked Tunisian Fish Bake",
+    "title": "Tunisian Baked Fish",
     "tags": [
-      "easy-meals",
-      "fish-recipes",
-      "healthy-dinner",
-      "one-pan",
-      "pescatarian-friendly",
-      "tunisian-cuisine"
+      "baked",
+      "oven",
+      "healthy",
+      "fish",
+      "tunisian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -8953,16 +8952,14 @@
   },
   {
     "slug": "oven-roasted-algerian-pork-shoulder-tagine",
-    "title": "oven-roasted algerian pork shoulder tagine",
+    "title": "Algerian-Style Braised Pork Shoulder",
     "tags": [
       "algerian",
-      "braising",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "braised",
+      "pork",
+      "tagine"
     ],
-    "cuisine": "algerian",
+    "cuisine": "Algerian",
     "totalTimeMin": 170,
     "shard": "o"
   },
@@ -11737,15 +11734,14 @@
   },
   {
     "slug": "oven-roasted-peruvian-chicken-skewers",
-    "title": "Oven Roasted Peruvian Chicken Skewers",
+    "title": "Peruvian Roasted Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine",
-      "weeknight"
+      "peruvian",
+      "chicken",
+      "skewers",
+      "oven-roasted"
     ],
-    "cuisine": "Peruvian",
+    "cuisine": "peruvian",
     "totalTimeMin": 45,
     "shard": "o"
   },
