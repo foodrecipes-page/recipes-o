@@ -1,0 +1,83 @@
+{
+  "slug": "oven-baked-tunisian-fish-bake",
+  "title": "Tunisian Baked Fish",
+  "description": "A flavorful and healthy dish from Tunisia, featuring baked fish with a blend of spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (white fish)",
+      "amount": "4 pieces",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Coarse"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt and black pepper.",
+    "In a small bowl, mix together olive oil, paprika, garlic, and lemon juice.",
+    "Place the fish fillets in a baking dish and brush the spice mixture evenly over both sides of the fish.",
+    "Bake in the preheated oven for 12-15 minutes, or until the fish is cooked through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "oven",
+    "healthy",
+    "fish",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-tunisian-fish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:00:02.637Z"
+}
