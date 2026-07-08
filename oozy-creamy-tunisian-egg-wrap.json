@@ -1,0 +1,61 @@
+{
+  "slug": "oozy-creamy-tunisian-egg-wrap",
+  "title": "Tunisian Egg Wrap",
+  "description": "A flavorful and easy-to-make egg wrap inspired by Tunisian cuisine. This recipe combines the creaminess of oozy cheese with the savory taste of egg and wrap.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "oozy, creamy",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tsp",
+      "notes": "tunisian spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Crack in the eggs and scramble them until they are cooked through.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Add the cooked eggs to the center of the wrap.",
+    "Sprinkle the oozy, creamy cheese on top of the eggs.",
+    "Dust the tunisian spice blend over the cheese.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "wrap",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-tunisian-egg-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:35:38.084Z"
+}
