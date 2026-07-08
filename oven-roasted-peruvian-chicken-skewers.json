@@ -1,0 +1,91 @@
+{
+  "slug": "oven-roasted-peruvian-chicken-skewers",
+  "title": "Peruvian Roasted Chicken Skewers",
+  "description": "A flavorful and moist Peruvian-inspired roasted chicken dish, marinated in a zesty mixture of aji amarillo peppers, garlic, and cumin, served on skewers.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, combine aji amarillo pepper, garlic, cumin, coriander, lime juice, salt, and black pepper.",
+    "Add the chicken to the marinade and mix well to coat. Let it marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto the skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the preheated oven for 25-30 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "skewers",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-peruvian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:59:07.571Z"
+}
