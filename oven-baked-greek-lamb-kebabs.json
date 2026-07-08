@@ -1,0 +1,89 @@
+{
+  "slug": "oven-baked-greek-lamb-kebabs",
+  "title": "Greek Lamb Kebabs",
+  "description": "A delicious and flavorful dish from Greece, featuring lamb kebabs baked to perfection.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to trim excess fat"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together yogurt, lemon juice, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the lamb cubes to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "Thread the lamb, onion, bell pepper, and zucchini onto skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the lamb is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-greek-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:54:52.503Z"
+}
