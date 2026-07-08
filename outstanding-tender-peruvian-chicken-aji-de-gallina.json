@@ -1,0 +1,88 @@
+{
+  "slug": "outstanding-tender-peruvian-chicken-aji-de-gallina",
+  "title": "Peruvian Gallina Chicken",
+  "description": "A traditional Peruvian dish made with tender chicken, aji peppers, and outstanding flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "see notes for preparation"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, puree aji amarillo peppers with 1 tablespoon of olive oil, 1 clove of garlic, and 1 tablespoon of lime juice.",
+    "In a large bowl, whisk together the pepper puree, remaining 1 tablespoon of olive oil, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Serve the chicken with sliced onion, chopped cilantro, and a squeeze of lime juice.",
+    "Note: Aji amarillo peppers can be quite spicy, so adjust to taste.",
+    "Also, be sure to wear gloves when handling aji amarillo peppers as the oils in the peppers can cause skin irritation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-tender-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:33:54.588Z"
+}
