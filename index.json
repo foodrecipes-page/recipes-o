@@ -930,15 +930,15 @@
   },
   {
     "slug": "oil-infused-jamaican-sardine-pilaf",
-    "title": "Oil Infused Jamaican Sardine Pilaf",
+    "title": "Jamaican Sardine Pilaf",
     "tags": [
-      "caribbean-inspired",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "caribbean",
+      "easy",
+      "pilaf",
+      "sardine"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "caribbean",
+    "totalTimeMin": 13,
     "shard": "o"
   },
   {
@@ -1787,18 +1787,16 @@
   },
   {
     "slug": "oily-nutty-norwegian-lamb-stew",
-    "title": "Oily Nutty Norwegian Lamb Stew",
+    "title": "Lamb Stew with Nutty Oat Crust",
     "tags": [
-      "cold-weather",
-      "comfort-food",
-      "curry-based",
-      "gluten-free",
-      "lamb-recipes",
-      "meal-prep",
-      "norwegian-cuisine"
+      "lamb",
+      "stew",
+      "norwegian",
+      "oats",
+      "cozy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 110,
+    "cuisine": "norwegian",
+    "totalTimeMin": 165,
     "shard": "o"
   },
   {
@@ -7011,16 +7009,13 @@
   },
   {
     "slug": "outstanding-oven-australian-rice-vermicelli-noodles",
-    "title": "Outstanding Oven Australian Rice Vermicelli Noodles",
+    "title": "Australian-Style Vermicelli Bake",
     "tags": [
-      "australian-cuisine",
-      "chicken-recipe",
-      "gluten-free",
-      "low-glycemic",
-      "noodle-dish",
-      "oven-baked"
+      "australian",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 45,
     "shard": "o"
   },
@@ -7715,17 +7710,14 @@
   },
   {
     "slug": "outstandingly-savory-korean-chwinamul-stew",
-    "title": "Korean Chwinamul Stew",
+    "title": "Chwinamul Korean Stew",
     "tags": [
-      "gluten-free",
-      "korean-cuisine",
-      "mediterranean-inspired",
-      "one-pot",
-      "savory",
+      "korean",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -8015,16 +8007,15 @@
   },
   {
     "slug": "oven-baked-greek-lamb-kebabs",
-    "title": "Oven Baked Greek Lamb Kebabs",
+    "title": "Greek Lamb Kebabs",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "greek-food",
-      "low-carb",
-      "one-pan"
+      "greek",
+      "lamb",
+      "kebabs",
+      "oven-baked"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -10972,13 +10963,11 @@
   },
   {
     "slug": "oven-roasted-kenyan-lamb-stew",
-    "title": "Oven Roasted Kenyan Lamb Stew",
+    "title": "Kenyan-Style Roasted Lamb Stew",
     "tags": [
-      "african-cuisine",
-      "comfort-food",
-      "lamb-based",
-      "one-pot",
-      "weeknight"
+      "lamb",
+      "stew",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 180,
