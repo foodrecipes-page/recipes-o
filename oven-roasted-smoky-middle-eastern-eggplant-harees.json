@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-smoky-middle-eastern-eggplant-harees",
+  "title": "Smoky Harees Eggplant Delight",
+  "description": "A flavorful and aromatic dish blending the rich flavors of the Middle East with the smokiness of roasted eggplant. This recipe is a perfect representation of the cuisine's unique blend of spices and textures.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "harees",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "adds a smoky flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "adds depth to the dish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the eggplant cubes with olive oil, smoked paprika, garlic powder, salt, and black pepper in a bowl until they are evenly coated.",
+    "Spread the eggplant mixture on a baking sheet and roast in the oven for 20-25 minutes, or until the eggplant is tender and lightly browned.",
+    "While the eggplant is roasting, cook the harees according to the package instructions.",
+    "Once the eggplant is done, remove it from the oven and let it cool slightly.",
+    "Add the roasted eggplant to the harees and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "middle-eastern",
+    "vegetarian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-smoky-middle-eastern-eggplant-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:19:43.771Z"
+}
