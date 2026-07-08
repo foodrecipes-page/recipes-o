@@ -1,0 +1,94 @@
+{
+  "slug": "oozy-spanish-beef-shin-stew",
+  "title": "Spanish Beef Stew",
+  "description": "A hearty Spanish-inspired stew made with tender beef shin and a rich oozy sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, then set aside.",
+    "Add more oil if needed, then sauté the onion and garlic until softened.",
+    "Add the red wine and bring to a boil, scraping up browned bits.",
+    "Add the beef broth, tomato paste, and smoked paprika.",
+    "Return the beef to the pot, cover, and transfer to the oven.",
+    "Braise for 2 1/2 hours or until the beef is tender.",
+    "Stir in the diced tomatoes and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-spanish-beef-shin-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:28:52.765Z"
+}
