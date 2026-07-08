@@ -1,0 +1,64 @@
+{
+  "slug": "oil-infused-jamaican-sardine-pilaf",
+  "title": "Jamaican Sardine Pilaf",
+  "description": "A flavorful and spicy pilaf dish made with sardines, Jamaican seasonings, and pilaf.",
+  "cuisine": "caribbean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused",
+      "amount": "1 teaspoon",
+      "notes": "jamaican seasoning"
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 teaspoon",
+      "notes": "hot pepper flakes"
+    },
+    {
+      "name": "sardine",
+      "amount": "2 cans (drained and flaked)"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add infused and jamaican seasonings and cook for 1 minute, until fragrant.",
+    "Add pilaf and cook for 2 minutes, until lightly toasted.",
+    "Add sardine and stir to combine.",
+    "Cook for an additional 2 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "easy",
+    "pilaf",
+    "sardine"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-jamaican-sardine-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:24:54.635Z"
+}
