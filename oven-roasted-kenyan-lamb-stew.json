@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-kenyan-lamb-stew",
+  "title": "Kenyan-Style Roasted Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, made with tender lamb and roasted vegetables.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (2-pound) piece",
+      "notes": "bone-in"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or to taste"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, black pepper, and curry powder.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes per side.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato and cook for an additional 5 minutes.",
+    "Stir in the diced tomato, water, and roasted vegetables.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-kenyan-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:58:57.766Z"
+}
