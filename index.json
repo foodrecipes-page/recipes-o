@@ -830,18 +830,16 @@
   },
   {
     "slug": "oil-infused-argentinian-flour-tortilla-empanadas",
-    "title": "Oil Infused Argentinian Flour Tortilla Empanadas",
+    "title": "Empanada Crusted Tortilla Fritters",
     "tags": [
+      "latin",
       "argentinian",
-      "easy-dinner",
-      "empanadas",
-      "flour-tortilla",
-      "kitchen-essentials",
-      "one-pot",
-      "vegetarian"
+      "fried",
+      "fritters",
+      "snack"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
@@ -5849,16 +5847,15 @@
   },
   {
     "slug": "opulent-velvety-egyptian-lentil-tagine",
-    "title": "Opulent Velvety Egyptian Lentil Tagine",
+    "title": "Egyptian Lentil Stew",
     "tags": [
-      "lentil-dishes",
-      "middle-eastern",
-      "one-pot",
-      "plant-based",
-      "special-occasion"
+      "north-african",
+      "vegetarian",
+      "stew",
+      "lentils"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -7214,16 +7211,14 @@
   },
   {
     "slug": "outstanding-tender-peruvian-chicken-aji-de-gallina",
-    "title": "Peruvian Chicken Aji De Gallina",
+    "title": "Peruvian Gallina Chicken",
     "tags": [
-      "brunch-ideas",
-      "chicken-recipes",
-      "one-pot-meals",
-      "peruvian-cuisine",
-      "spicy-food"
+      "peruvian",
+      "chicken",
+      "grilled"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -9972,17 +9967,16 @@
   },
   {
     "slug": "oven-roasted-filipino-bean-sprouts-bowl",
-    "title": "Oven-Roasted Filipino Bean Sprouts Bowl",
+    "title": "Filipino Roasted Bean Bowl",
     "tags": [
+      "oven-roasted",
       "filipino",
-      "gluten-free",
-      "healthy",
-      "low-carb",
-      "one-pan",
-      "vegetarian"
+      "bean-bowl",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
