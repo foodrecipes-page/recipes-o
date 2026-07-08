@@ -1,0 +1,83 @@
+{
+  "slug": "outstandingly-savory-korean-chwinamul-stew",
+  "title": "Chwinamul Korean Stew",
+  "description": "A hearty and savory Korean stew made with chwinamul, a type of leafy green vegetable. This dish is perfect for a cold winter day.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chwinamul",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Savory soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the garlic and ginger and sauté until fragrant.",
+    "Add the chwinamul and sauté until wilted.",
+    "Add the soy sauce, chili flakes, salt, and pepper. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-savory-korean-chwinamul-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:41:47.185Z"
+}
