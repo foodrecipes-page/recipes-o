@@ -1,0 +1,102 @@
+{
+  "slug": "oven-roasted-syrian-meat-pilaf",
+  "title": "Syrian Roasted Meat Pilaf",
+  "description": "A hearty and flavorful pilaf dish made with roasted meat and spices",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds beef or lamb shoulder",
+      "amount": "cut into 1-inch cubes",
+      "notes": null
+    },
+    {
+      "name": "1 cup uncooked white rice",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cups chicken broth",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon ground cayenne pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large Dutch oven or oven-safe pot, heat the olive oil over medium-high heat.",
+    "Add the chopped onions and cook until they are browned and caramelized, about 8-10 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cubed meat and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, cinnamon, and cayenne pepper. Cook for 1 minute.",
+    "Add the rice and chicken broth. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot with a tight-fitting lid and transfer it to the preheated oven.",
+    "Bake for 30-40 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pot from the oven and let it cool for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "roasted",
+    "meat",
+    "pilaf",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-syrian-meat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:42:31.774Z"
+}
