@@ -1,0 +1,116 @@
+{
+  "slug": "outstandingly-oven-roasted-algerian-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Algerian dish, this lamb tagine is slow-cooked in a flavorful mixture of spices and herbs.",
+  "cuisine": "algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the ground cinnamon, ginger, cumin, coriander, and cayenne pepper to the pot and cook for 1 minute.",
+    "Return the lamb to the pot and add enough water to cover the meat.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Simmer the mixture over low heat for 10-15 minutes to allow the flavors to meld.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the lamb hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "moroccan",
+    "algerian",
+    "lamb",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-oven-roasted-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:48:18.224Z"
+}
