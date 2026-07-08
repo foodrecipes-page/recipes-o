@@ -1,0 +1,70 @@
+{
+  "slug": "outstanding-oven-australian-rice-vermicelli-noodles",
+  "title": "Australian-Style Vermicelli Bake",
+  "description": "A simple and flavorful bake filled with Australian-style vermicelli and a blend of spices, perfect for a weeknight dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli",
+      "amount": "500g"
+    },
+    {
+      "name": "Rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Oven-roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "Australian-style seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "Cook the vermicelli according to the package instructions.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add the Australian-style seasoning and stir for 1 minute.",
+    "Add the oven-roasted vegetables and stir to combine.",
+    "Combine the cooked vermicelli, rice, and vegetable mixture in a large bowl.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 20 minutes, then remove the foil and continue baking for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-australian-rice-vermicelli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:04:13.404Z"
+}
