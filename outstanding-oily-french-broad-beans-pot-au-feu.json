@@ -1,0 +1,64 @@
+{
+  "slug": "outstanding-oily-french-broad-beans-pot-au-feu",
+  "title": "French-Style Beans au Feu",
+  "description": "A hearty, comforting French-inspired dish featuring broad beans cooked in a flavorful broth.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pot au feu broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the broad beans, pot au feu broth, salt, and black pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the beans are tender.",
+    "Serve hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "beans",
+    "vegetarian",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oily-french-broad-beans-pot-au-feu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:39:40.388Z"
+}
