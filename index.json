@@ -12627,17 +12627,16 @@
   },
   {
     "slug": "oven-roasted-syrian-meat-pilaf",
-    "title": "Oven-Roasted Syrian Meat Pilaf",
+    "title": "Syrian Roasted Meat Pilaf",
     "tags": [
-      "crispy",
-      "high-protein",
-      "lamb",
-      "one-pan",
-      "spicy",
-      "syrian"
+      "syrian",
+      "roasted",
+      "meat",
+      "pilaf",
+      "oven"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
