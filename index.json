@@ -2583,17 +2583,16 @@
   },
   {
     "slug": "old-fashioned-japanese-corn-gyoza",
-    "title": "Japanese Corn Gyoza",
+    "title": "Pan-Seared Gyoza with Japanese Corn",
     "tags": [
-      "cornmeal-dish",
-      "japanese-cuisine",
-      "molcajete-recipe",
-      "satvik-friendly",
-      "tohoku-recipe",
-      "vegetarian-option"
+      "pan-seared-gyoza",
+      "japanese-corn",
+      "gyoza-recipe",
+      "japanese-food",
+      "easy-recipe"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -4603,17 +4602,16 @@
   },
   {
     "slug": "oozy-gooey-australian-prawns-skewers",
-    "title": "Oozy Gooey Australian Prawns Skewers",
+    "title": "Grilled Prawn Skewers with Australian BBQ Sauce",
     "tags": [
-      "australian-cuisine",
-      "gluten-free",
       "grilled",
-      "pescatarian",
-      "romantic-dinner",
-      "seafood"
+      "prawns",
+      "skewers",
+      "australian",
+      "bbq"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 18,
     "shard": "o"
   },
   {
