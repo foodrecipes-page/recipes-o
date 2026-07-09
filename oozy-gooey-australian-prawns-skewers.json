@@ -1,0 +1,63 @@
+{
+  "slug": "oozy-gooey-australian-prawns-skewers",
+  "title": "Grilled Prawn Skewers with Australian BBQ Sauce",
+  "description": "A simple and flavorful recipe for grilled prawn skewers, smothered in a sweet and tangy Australian BBQ sauce. Perfect for a summer evening.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large"
+    },
+    {
+      "name": "oozy honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gooey ketchup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "australian barbecue sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "skewers",
+      "amount": "12 wooden"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread 4-5 prawns onto each skewer.",
+    "In a small bowl, whisk together honey, ketchup, and Australian barbecue sauce.",
+    "Brush the skewers with the BBQ sauce mixture.",
+    "Grill the skewers for 2-3 minutes per side, or until the prawns are pink and cooked through.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "prawns",
+    "skewers",
+    "australian",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-gooey-australian-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:09:48.292Z"
+}
