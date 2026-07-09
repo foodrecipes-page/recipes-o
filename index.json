@@ -3690,17 +3690,15 @@
   },
   {
     "slug": "oozing-peruvian-beef-lomo-saltado",
-    "title": "Oozing Peruvian Beef Lomo Saltado",
+    "title": "Beef Lomo Saltado",
     "tags": [
       "beef",
-      "buddhist-friendly",
-      "comfort-food",
-      "copper-mug",
       "peruvian",
-      "pink-food-coloring"
+      "stir-fry",
+      "dinner"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 75,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -8124,18 +8122,15 @@
   },
   {
     "slug": "oven-baked-norwegian-salmon-gratin",
-    "title": "Oven-Baked Norwegian Salmon Gratin",
+    "title": "Norwegian Baked Salmon Gratin",
     "tags": [
-      "gratin",
-      "malty",
-      "mediterranean-friendly",
-      "one-pan",
-      "romantic",
       "salmon",
-      "slate-tile"
+      "gratin",
+      "norwegian",
+      "baked"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "norwegian",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
