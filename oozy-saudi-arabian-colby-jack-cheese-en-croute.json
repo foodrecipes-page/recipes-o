@@ -1,0 +1,70 @@
+{
+  "slug": "oozy-saudi-arabian-colby-jack-cheese-en-croute",
+  "title": "Saudi Arabian Cheese Croustade",
+  "description": "A crispy, cheesy pastry inspired by Saudi Arabian cuisine. Perfect as a side dish or snack.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "En croute pastry",
+      "amount": "1 package (thawed)"
+    },
+    {
+      "name": "Jack cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Oozy cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Arabian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the en croute pastry on a lightly floured surface.",
+    "Transfer the pastry to a baking sheet lined with parchment paper.",
+    "Sprinkle the colby and jack cheese evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Drizzle the oozy cheese over the cheese layer.",
+    "Sprinkle the arabian spice blend and salt over the top.",
+    "Fold the edges of the pastry up over the cheese, pressing gently to seal.",
+    "Brush the pastry with a little bit of water and sprinkle with additional cheese if desired.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "pastry",
+    "snack",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-saudi-arabian-colby-jack-cheese-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:32:15.717Z"
+}
