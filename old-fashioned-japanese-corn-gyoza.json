@@ -1,0 +1,87 @@
+{
+  "slug": "old-fashioned-japanese-corn-gyoza",
+  "title": "Pan-Seared Gyoza with Japanese Corn",
+  "description": "A twist on traditional pan-fried gyoza, served with a sweet and savory Japanese corn accompaniment. This recipe combines the best of Japanese and old-fashioned flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gyoza wrappers",
+      "amount": "12-15 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup, fresh corn kernels",
+      "notes": ""
+    },
+    {
+      "name": "Old-fashioned salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Old-fashioned black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat sesame oil in a large skillet over medium-high heat.",
+    "2. Add ground pork and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "3. Add grated ginger and cook for 1 minute.",
+    "4. Add soy sauce and cook for 1 minute.",
+    "5. Place gyoza wrappers on a flat surface and fill each with about 1 tablespoon of the pork mixture.",
+    "6. Fold the wrappers in half to form a triangle, pressing the edges to seal.",
+    "7. Add the gyoza to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "8. Meanwhile, heat a small amount of oil in a separate pan and sauté the corn until lightly browned.",
+    "9. Serve the gyoza with the Japanese corn accompaniment.",
+    "10. Season with old-fashioned salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pan-seared-gyoza",
+    "japanese-corn",
+    "gyoza-recipe",
+    "japanese-food",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-japanese-corn-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:13:05.344Z"
+}
