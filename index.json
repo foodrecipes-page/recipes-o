@@ -1403,17 +1403,15 @@
   },
   {
     "slug": "oily-creamy-uruguayan-corn-gratin",
-    "title": "Oily Creamy Uruguayan Corn Gratin",
+    "title": "Gratin Corn Casserole",
     "tags": [
-      "comfort-food",
-      "cozy",
-      "lacto-vegetarian",
-      "one-pan",
-      "south-american",
-      "winter-dish"
+      "corn",
+      "gratin",
+      "casserole",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -4144,17 +4142,14 @@
   },
   {
     "slug": "oozy-chocolate-polish-cucumber-tart",
-    "title": "Oozy Chocolate Polish Cucumber Tart",
+    "title": "Tart Polish Cucumber Cake",
     "tags": [
-      "chocolate-tart",
-      "cucumber-dessert",
-      "date-night",
-      "gluten-free",
-      "low-glycemic",
-      "polish-dessert"
+      "polish-cuisine",
+      "vegetarian-recipe",
+      "cake-recipe"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -5198,18 +5193,15 @@
   },
   {
     "slug": "oozy-saudi-arabian-colby-jack-cheese-en-croute",
-    "title": "Oozy Saudi Arabian Colby Jack Cheese En Croute",
+    "title": "Saudi Arabian Cheese Croustade",
     "tags": [
-      "cheesy",
-      "flaky-crust",
-      "kosher-friendly",
-      "middle-eastern",
-      "monsoon-inspired",
-      "oozy",
-      "savory"
+      "cheese",
+      "pastry",
+      "snack",
+      "saudi-arabian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -6263,16 +6255,16 @@
   },
   {
     "slug": "original-oven-roasted-kenyan-green-beans-stew",
-    "title": "Original Oven Roasted Kenyan Green Beans Stew",
+    "title": "Kenyan Green Stew",
     "tags": [
-      "energizing",
-      "high-fiber",
-      "one-pan",
-      "shojin-friendly",
-      "weeknight"
+      "african",
+      "stew",
+      "beef",
+      "green beans",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "African",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
