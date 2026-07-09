@@ -1,0 +1,63 @@
+{
+  "slug": "oozy-chocolate-polish-cucumber-tart",
+  "title": "Tart Polish Cucumber Cake",
+  "description": "Moist and refreshing Polish-style cake featuring cucumber, perfect for warm weather dinner parties. Easy to make and impressive to serve.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 large, grated"
+    },
+    {
+      "name": "polish",
+      "amount": "1 cup, all-purpose flour"
+    },
+    {
+      "name": "tart",
+      "amount": "1 1/2 teaspoons, lemon zest"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1/4 cup, unsweetened cocoa powder"
+    },
+    {
+      "name": "oozy",
+      "amount": "1/2 cup, unsalted butter, softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a medium bowl, whisk together flour, cocoa powder, lemon zest, and a pinch of salt.",
+    "In a large bowl, using an electric mixer, beat the butter until creamy.",
+    "Gradually add the dry ingredients to the butter mixture, beating until a smooth batter forms.",
+    "Fold in the grated cucumber.",
+    "Pour the batter into a greased 9-inch springform pan.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "polish-cuisine",
+    "vegetarian-recipe",
+    "cake-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-chocolate-polish-cucumber-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:57:28.318Z"
+}
