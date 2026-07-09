@@ -1,0 +1,84 @@
+{
+  "slug": "oozing-peruvian-beef-lomo-saltado",
+  "title": "Beef Lomo Saltado",
+  "description": "A classic Peruvian dish, Beef Lomo Saltado is a stir-fry of tender beef strips, onions, tomatoes, and French fries, all served over a bed of rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips (lomo)",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "French fries",
+      "amount": "1 cup",
+      "notes": "Cooked and cut into bite-sized pieces"
+    },
+    {
+      "name": "Oozing cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded (optional)"
+    },
+    {
+      "name": "Peruvian aji amarillo sauce",
+      "amount": "2 tablespoons",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes. Remove from skillet and set aside.",
+    "Add onion and cook until softened, about 2-3 minutes.",
+    "Add tomato and cook for an additional 2 minutes.",
+    "Add French fries and cook until crispy, about 2-3 minutes.",
+    "Return beef to skillet and stir in aji amarillo sauce and salt and pepper to taste.",
+    "Cook for an additional 1-2 minutes, until heated through.",
+    "Serve hot over rice, topped with oozing cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peruvian",
+    "stir-fry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-peruvian-beef-lomo-saltado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:22:07.609Z"
+}
