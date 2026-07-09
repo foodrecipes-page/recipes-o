@@ -1,0 +1,78 @@
+{
+  "slug": "original-oven-roasted-kenyan-green-beans-stew",
+  "title": "Kenyan Green Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, perfect for a cold winter evening. The combination of tender green beans and savory roasted beef makes for a satisfying meal.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oven-roasted beef",
+      "amount": "1 pound",
+      "notes": "Slice into 1-inch cubes"
+    },
+    {
+      "name": "Green beans",
+      "amount": "2 cups fresh",
+      "notes": "Trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Original",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "1 teaspoon",
+      "notes": "Ground coriander and cayenne pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef with salt, pepper, and Kenyan spices. Roast in the oven for 20-25 minutes, or until browned.",
+    "In a large pot, sauté the onion and garlic in a bit of oil until softened.",
+    "Add the stew and roasted beef to the pot, stirring to combine.",
+    "Add the green beans and cook until tender, about 10-15 minutes.",
+    "Season with cumin and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "stew",
+    "beef",
+    "green beans",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/original-oven-roasted-kenyan-green-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:21:48.812Z"
+}
