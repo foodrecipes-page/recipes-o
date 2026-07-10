@@ -13419,18 +13419,15 @@
   },
   {
     "slug": "oven-smoky-argentinian-beef-skewers",
-    "title": "Oven Smoky Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
-      "cheesy-dishes",
-      "low-calorie",
-      "oven-cooked",
+      "beef",
+      "argentinian",
       "skewers",
-      "smoky-flavors"
+      "oven-cooked"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
