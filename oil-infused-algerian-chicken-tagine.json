@@ -1,0 +1,94 @@
+{
+  "slug": "oil-infused-algerian-chicken-tagine",
+  "title": "Spicy Algerian Chicken Tagine",
+  "description": "A flavorful and aromatic North African dish made with chicken, spices, and preserved lemons.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1-2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "infused with spices"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tagine spice",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the infused olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the algerian spice blend, lemon juice, honey (if using), salt, and black pepper to the pot.",
+    "Stir to combine, then add the tagine spice (if using).",
+    "Transfer the pot to the oven and cook for 30-40 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs (such as parsley or cilantro) and lemon wedges (if desired).",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-algerian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:42:56.121Z"
+}
