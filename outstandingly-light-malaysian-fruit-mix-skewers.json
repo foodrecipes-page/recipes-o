@@ -1,0 +1,73 @@
+{
+  "slug": "outstandingly-light-malaysian-fruit-mix-skewers",
+  "title": "Malaysian Fruit Skewers",
+  "description": "A simple and colorful dessert perfect for warm weather. Fresh fruit is threaded onto skewers and served with a sweet and sticky sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, chunks"
+    },
+    {
+      "name": "Banana",
+      "amount": "2 medium, slices"
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1 cup, hulled and sliced"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Mango",
+      "amount": "1 cup, chunks"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the fruit into bite-sized pieces and set aside.",
+    "Thread the fruit onto the skewers, leaving a small space between each piece.",
+    "In a small saucepan, combine the coconut sugar and water. Heat over medium heat, stirring until the sugar dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in the lime juice.",
+    "Allow the sauce to cool slightly before serving with the fruit skewers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fruit",
+    "dessert",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-light-malaysian-fruit-mix-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:59:45.954Z"
+}
