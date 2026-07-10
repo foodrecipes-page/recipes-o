@@ -1,0 +1,82 @@
+{
+  "slug": "oven-baked-canadian-comte-croquettes",
+  "title": "Canadian Comte Croquettes",
+  "description": "A Canadian-inspired twist on classic French croquettes, featuring Comté cheese and a crispy baked exterior.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comté cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, combine Comté cheese, Canadian bacon, flour, eggs, onion, paprika, salt, and pepper. Mix well.",
+    "Using your hands, shape the mixture into small patties.",
+    "Dip each patty into the beaten eggs, then coat in breadcrumbs.",
+    "Place the coated croquettes on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown and crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "baked",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-canadian-comte-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:16:31.385Z"
+}
