@@ -1,0 +1,78 @@
+{
+  "slug": "oven-roasted-sicilian-eggplant-ragu",
+  "title": "Sicilian Eggplant Ragu",
+  "description": "A Sicilian-inspired eggplant ragu recipe roasted to perfection.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ragu",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the eggplant into 1/2-inch thick slices.",
+    "Brush both sides of the eggplant slices with olive oil and season with salt and black pepper.",
+    "Place the eggplant slices on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the eggplant is roasting, heat the ragu in a saucepan over medium heat.",
+    "When the eggplant is done, add it to the saucepan with the ragu and stir to combine.",
+    "Add the chopped garlic and cook for 1-2 minutes, or until fragrant.",
+    "Stir in the chopped fresh basil.",
+    "Serve the Sicilian eggplant ragu hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "veggie",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-sicilian-eggplant-ragu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:23:56.372Z"
+}
