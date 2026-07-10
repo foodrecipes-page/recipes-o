@@ -1,0 +1,78 @@
+{
+  "slug": "oozy-umami-thai-tofu-yum-salad",
+  "title": "Thai Tofu Salad",
+  "description": "A refreshing and flavorful salad made with crispy tofu, crunchy vegetables, and a tangy Thai dressing.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yum sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and pan-fry until crispy.",
+    "Chop the cucumber, carrots, and red chili peppers into bite-sized pieces.",
+    "Combine the salad, tofu, cucumber, carrots, and red chili peppers in a large bowl.",
+    "Mix the yum sauce and Thai red chili peppers in a small bowl to make the dressing.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Sprinkle chopped cilantro over the salad and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "tofu",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-umami-thai-tofu-yum-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:06:25.783Z"
+}
