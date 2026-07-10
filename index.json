@@ -815,17 +815,14 @@
   },
   {
     "slug": "oil-infused-algerian-chicken-tagine",
-    "title": "Algerian Chicken Tagine",
+    "title": "Spicy Algerian Chicken Tagine",
     "tags": [
-      "chicken-dish",
-      "flavorful",
-      "low-fat",
+      "chicken",
       "north-african",
-      "one-pot",
-      "special-occasion"
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -3795,16 +3792,15 @@
   },
   {
     "slug": "oozing-smoky-turkish-lamb-stew",
-    "title": "Oozing Smoky Turkish Lamb Stew",
+    "title": "Turkish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "meat-heavy",
-      "paleo-friendly",
-      "slow-cooker",
-      "smoky"
+      "turkish",
+      "lamb",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 135,
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -4145,17 +4141,15 @@
   },
   {
     "slug": "oozy-citrusy-greek-chicken-avgolemono",
-    "title": "Oozy Citrusy Greek Chicken Avgolemono",
+    "title": "Avgolemono Chicken Soup",
     "tags": [
-      "chicken-recipes",
-      "citrus-based",
-      "greek-cuisine",
-      "indulgent-dishes",
-      "one-pan-meals",
-      "satvik-friendly"
+      "greek",
+      "soup",
+      "chicken",
+      "avgolemono"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -7810,16 +7804,17 @@
   },
   {
     "slug": "outstandingly-tangy-algerian-lamb-tagine",
-    "title": "Outstandingly Tangy Algerian Lamb Tagine",
+    "title": "Spicy Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "lamb-recipes",
-      "low-glycemic",
-      "one-pot",
-      "slow-cooked"
+      "algerian",
+      "lamb",
+      "tagine",
+      "north african",
+      "spicy",
+      "slow cooker"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -7897,17 +7892,15 @@
   },
   {
     "slug": "oven-baked-canadian-comte-croquettes",
-    "title": "Oven Baked Canadian Comte Croquettes",
+    "title": "Canadian Comte Croquettes",
     "tags": [
-      "canadian-cuisine",
-      "comte-cheese",
-      "gluten-free",
-      "low-glycemic",
-      "oven-baked",
-      "snack-food"
+      "canadian",
+      "baked",
+      "cheese",
+      "snack"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -11583,17 +11576,15 @@
   },
   {
     "slug": "oven-roasted-norwegian-broccoli-roast",
-    "title": "Oven Roasted Norwegian Broccoli Roast",
+    "title": "Roasted Norwegian Broccoli",
     "tags": [
-      "easy-dinner",
-      "healthy-dinner",
-      "kid-friendly",
-      "norwegian-cuisine",
-      "roasted-vegetables",
-      "satvik-friendly"
+      "roasted",
+      "norwegian",
+      "vegetarian",
+      "broccoli"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
