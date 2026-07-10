@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-vietnamese-tofu-bowl",
+  "title": "Roasted Tofu Bowl",
+  "description": "A simple and flavorful Vietnamese-inspired dish featuring roasted tofu and a variety of vegetables.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "14 oz (397g)",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "amount": "1 pound (450g)",
+      "notes": "Trim and halve"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "Seed and chop into 1-inch pieces"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For roasting"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grate and mix with soy sauce and rice vinegar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together soy sauce, rice vinegar, and grated ginger. Add the tofu and marinate for at least 15 minutes.",
+    "Line a baking sheet with parchment paper and arrange the marinated tofu in a single layer.",
+    "Roast the tofu in the preheated oven for 20-25 minutes, flipping halfway through.",
+    "Toss the carrots, Brussels sprouts, and red bell pepper with coconut oil, salt, and pepper on a separate baking sheet.",
+    "Roast the vegetables in the preheated oven for 25-30 minutes, or until tender and lightly browned.",
+    "To assemble the bowls, place a portion of the roasted tofu on the bottom, followed by a variety of roasted vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "roasted",
+    "tofu",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:07:18.394Z"
+}
