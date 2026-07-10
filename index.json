@@ -7919,13 +7919,13 @@
   },
   {
     "slug": "oven-baked-canadian-sugar-cobbler",
-    "title": "Oven-Baked Canadian Sugar Cobbler",
+    "title": "Canadian Sugar Cobbler",
     "tags": [
-      "canadian",
       "dessert",
-      "holiday",
-      "special-occasion",
-      "sugar-free-friendly"
+      "canadian",
+      "sugar",
+      "cobbler",
+      "warm"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 55,
@@ -11349,17 +11349,15 @@
   },
   {
     "slug": "oven-roasted-mexican-courgette-tagine",
-    "title": "Oven Roasted Mexican Courgette Tagine",
+    "title": "Tagine Stuffed Courgette",
     "tags": [
-      "ayurvedic",
       "mexican",
-      "one-pot",
-      "roasted-vegetables",
-      "sattvic",
-      "vegetarian"
+      "vegetarian",
+      "vegan",
+      "oven-roasted"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -11919,16 +11917,16 @@
   },
   {
     "slug": "oven-roasted-russian-pork-shoulder-bake",
-    "title": "Oven Roasted Russian Pork Shoulder Bake",
+    "title": "Braised Russian-Style Pork Shoulder",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "roasted-vegetables",
-      "weeknight"
+      "russian",
+      "pork",
+      "shoulder",
+      "oven",
+      "roasted"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 140,
+    "cuisine": "russian",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
