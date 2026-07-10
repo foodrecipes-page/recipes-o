@@ -1556,17 +1556,15 @@
   },
   {
     "slug": "oily-garlicky-jamaican-frankfurter-stew",
-    "title": "Oily Garlicky Jamaican Frankfurter Stew",
+    "title": "Jamaican Frankfurter Stew",
     "tags": [
-      "claypot-cooking",
-      "frankfurter-recipes",
-      "garlic-lovers",
-      "jamaican-cuisine",
-      "one-pot",
-      "weeknight"
+      "caribbean",
+      "stew",
+      "frankfurter",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
