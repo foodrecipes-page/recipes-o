@@ -1,0 +1,78 @@
+{
+  "slug": "old-fashioned-filipino-soybean-sprouts-noodles",
+  "title": "Filipino-Style Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with noodles, soybean sprouts, and a hint of Filipino flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "old fashioned soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "filipino-style oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green chili",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add garlic, onion, and green chili. Cook until the onion is translucent.",
+    "Add soybean sprouts and cook for 2-3 minutes.",
+    "Stir in soy sauce and oyster sauce. Cook for an additional minute.",
+    "Add cooked noodles to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "noodle",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-filipino-soybean-sprouts-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:23:34.709Z"
+}
