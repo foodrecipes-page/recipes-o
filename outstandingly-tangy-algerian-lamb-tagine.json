@@ -1,0 +1,105 @@
+{
+  "slug": "outstandingly-tangy-algerian-lamb-tagine",
+  "title": "Spicy Algerian Lamb Tagine",
+  "description": "A traditional North African dish made with tender lamb, aromatic spices, and a rich, tangy sauce. This Spicy Algerian Lamb Tagine is perfect for a special occasion or a cozy night in.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Tangy tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb in batches until browned, about 5 minutes. Remove and set aside.",
+    "Reduce heat to medium and cook onion, garlic, and ginger until softened, about 5 minutes.",
+    "Add cumin, cayenne pepper, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add browned lamb, tagine spice blend, and 2 cups of water. Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F for 2 1/2 hours, or until lamb is tender.",
+    "Stir in chopped parsley and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "north african",
+    "spicy",
+    "slow cooker"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-tangy-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:25:31.540Z"
+}
