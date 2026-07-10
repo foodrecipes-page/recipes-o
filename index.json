@@ -2479,17 +2479,15 @@
   },
   {
     "slug": "old-fashioned-filipino-soybean-sprouts-noodles",
-    "title": "Filipino Soybean Sprouts Noodles",
+    "title": "Filipino-Style Noodle Stir Fry",
     "tags": [
-      "easy-to-make",
-      "filipino-food",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "filipino",
+      "noodle",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
@@ -7482,16 +7480,14 @@
   },
   {
     "slug": "outstandingly-light-malaysian-fruit-mix-skewers",
-    "title": "Malaysian Fruit Mix Skewers",
+    "title": "Malaysian Fruit Skewers",
     "tags": [
-      "fruit-based",
-      "jain-friendly",
-      "malaysian-cuisine",
-      "quick-snack",
-      "vegetarian-friendly"
+      "fruit",
+      "dessert",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "malaysian",
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
@@ -10073,17 +10069,15 @@
   },
   {
     "slug": "oven-roasted-french-beef-pot-au-feu",
-    "title": "Oven Roasted French Beef Pot Au Feu",
+    "title": "Beef Au Jus",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "romantic-dinner",
-      "winter-recipes"
+      "beef",
+      "french",
+      "oven-roasted",
+      "au-jus"
     ],
     "cuisine": "French",
-    "totalTimeMin": 180,
+    "totalTimeMin": 210,
     "shard": "o"
   },
   {
