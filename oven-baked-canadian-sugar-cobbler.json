@@ -1,0 +1,80 @@
+{
+  "slug": "oven-baked-canadian-sugar-cobbler",
+  "title": "Canadian Sugar Cobbler",
+  "description": "A warm, sweet dessert showcasing Canadian flavors with a crumbly sugar topping, perfect for chilly evenings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "cold butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "fresh berries",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together flour, sugar, and cold butter until crumbly.",
+    "In a separate bowl, whisk together maple syrup, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Press the dough into a 9x9-inch baking dish.",
+    "Top with fresh berries.",
+    "Bake for 40-45 minutes, or until the crust is golden brown and the berries are bubbly.",
+    "Serve warm, topped with additional sugar or maple syrup if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "canadian",
+    "sugar",
+    "cobbler",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-canadian-sugar-cobbler",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:16:11.974Z"
+}
