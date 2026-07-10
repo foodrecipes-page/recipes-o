@@ -12463,16 +12463,17 @@
   },
   {
     "slug": "oven-roasted-spanish-potatoes-patatas-bravas",
-    "title": "Oven-Roasted Spanish Potatoes Patatas Bravas",
+    "title": "Spanish-Style Roasted Patatas Bravas",
     "tags": [
-      "low-carb",
-      "one-pan",
       "spanish",
-      "tapas",
-      "weeknight"
+      "roasted",
+      "patatas",
+      "bravas",
+      "oven",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
