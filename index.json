@@ -9617,16 +9617,14 @@
   },
   {
     "slug": "oven-roasted-crunchy-pepper-meal",
-    "title": "oven-roasted crunchy pepper meal",
+    "title": "Crunchy Roasted Pepper Meal",
     "tags": [
-      "gluten-free",
-      "meal-prep",
-      "one-pan",
-      "south-american",
-      "vegan"
+      "roasted",
+      "peppers",
+      "oven"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 40,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -12052,17 +12050,14 @@
   },
   {
     "slug": "oven-roasted-sicilian-eggplant-ragu",
-    "title": "Oven Roasted Sicilian Eggplant Ragu",
+    "title": "Sicilian Eggplant Ragu",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "italian-food",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "veggie",
+      "eggplant"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -13150,17 +13145,15 @@
   },
   {
     "slug": "oven-roasted-vietnamese-tofu-bowl",
-    "title": "Oven Roasted Vietnamese Tofu Bowl",
+    "title": "Roasted Tofu Bowl",
     "tags": [
-      "bowls",
-      "one-pan",
-      "oven-roasted",
-      "plant-based",
+      "vietnamese",
+      "roasted",
       "tofu",
-      "vietnamese"
+      "bowl"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
