@@ -1374,16 +1374,14 @@
   },
   {
     "slug": "oily-creamy-norwegian-mozzarella-casserole",
-    "title": "Oily Creamy Norwegian Mozzarella Casserole",
+    "title": "Creamy Norwegian Casserole",
     "tags": [
+      "norwegian",
       "comfort-food",
-      "high-calorie",
-      "norwegian-cuisine",
-      "one-pan",
-      "rich-and-creamy"
+      "casserole"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -5578,17 +5576,16 @@
   },
   {
     "slug": "oozy-umami-thai-tofu-yum-salad",
-    "title": "Oozy Umami Thai Tofu Yum Salad",
+    "title": "Thai Tofu Salad",
     "tags": [
-      "cheese-pull",
-      "one-pot",
-      "thai-cuisine",
-      "umami",
-      "vegan-friendly",
-      "weeknight"
+      "thai",
+      "salad",
+      "tofu",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
