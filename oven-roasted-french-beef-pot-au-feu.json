@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-french-beef-pot-au-feu",
+  "title": "Beef Au Jus",
+  "description": "Tender beef cooked in a rich, flavorful au jus sauce, served with roasted vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (2 lbs)",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "Carrots (4)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Celery (2 stalks)",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Onion (1)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Red wine (1 cup)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth (2 cups)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Herbs (thyme, rosemary)",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt and pepper.",
+    "Sear the beef in a hot pan until browned on all sides.",
+    "Transfer the beef to a pot and add the red wine, beef broth, tomato paste, and herbs.",
+    "Bring the mixture to a boil, then cover and transfer to the preheated oven.",
+    "Roast the beef for 2-3 hours, or until tender.",
+    "Meanwhile, toss the carrots and celery in a bowl with olive oil and season with salt and pepper.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "Slice the beef against the grain and serve with the roasted vegetables and au jus sauce.",
+    "Strain the au jus sauce through a fine-mesh sieve into a clean pot and bring to a simmer.",
+    "Skim off any excess fat and season with salt and pepper to taste.",
+    "Serve the au jus sauce over the beef and vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "oven-roasted",
+    "au-jus"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-french-beef-pot-au-feu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:09:06.175Z"
+}
