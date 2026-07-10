@@ -1,0 +1,95 @@
+{
+  "slug": "oozing-smoky-turkish-lamb-stew",
+  "title": "Turkish Lamb Stew",
+  "description": "A hearty and flavorful lamb stew inspired by Turkish cuisine. Perfect for a cold winter evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into 1.5-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes. Remove and set aside.",
+    "Add onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add cumin, paprika, salt, and pepper. Cook for 1 minute.",
+    "Add carrots and potatoes. Cook for 5 minutes.",
+    "Add chicken broth and bring to a boil.",
+    "Return lamb to the pot and cover with a lid.",
+    "Transfer to a preheated oven at 300°F (150°C). Cook for 2-3 hours, or until lamb is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-smoky-turkish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:55:55.506Z"
+}
