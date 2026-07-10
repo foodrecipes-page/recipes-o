@@ -1,0 +1,85 @@
+{
+  "slug": "oven-roasted-mexican-courgette-tagine",
+  "title": "Tagine Stuffed Courgette",
+  "description": "A flavorful and aromatic dish from North Africa, made with roasted courgette and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "courgette",
+      "amount": "2",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice shops"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the courgette in half lengthwise and scoop out the seeds.",
+    "In a bowl, mix together the tagine spice blend, olive oil, onion, garlic, and chopped tomatoes.",
+    "Stuff each courgette half with the spice mixture, dividing it evenly.",
+    "Place the stuffed courgette on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 25-30 minutes, or until the courgette is tender.",
+    "While the courgette is roasting, cook the quinoa according to package instructions.",
+    "Fluff the cooked quinoa with a fork and stir in chopped cilantro, if using.",
+    "Serve the roasted courgette with the quinoa mixture on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "vegan",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-courgette-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:21:02.272Z"
+}
