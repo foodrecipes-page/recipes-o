@@ -1,0 +1,93 @@
+{
+  "slug": "oven-roasted-spanish-potatoes-patatas-bravas",
+  "title": "Spanish-Style Roasted Patatas Bravas",
+  "description": "A spicy and flavorful Spanish-inspired dish featuring roasted potatoes in a bold tomato sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Patatas (Potatoes)",
+      "amount": "2 pounds",
+      "notes": "preferably Spanish or sweet potatoes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added smokiness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel and cube the potatoes into 1-inch pieces.",
+    "Place the potatoes on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with smoked paprika, garlic, chili flakes, salt, and black pepper.",
+    "Toss to coat the potatoes evenly.",
+    "Roast in the preheated oven for 20-25 minutes or until tender and golden brown.",
+    "While the potatoes are roasting, heat the tomato sauce in a saucepan over medium heat.",
+    "Bring the sauce to a simmer and let it cook for 5-7 minutes or until heated through.",
+    "Once the potatoes are done, remove them from the oven and let them cool slightly.",
+    "Transfer the potatoes to the saucepan with the tomato sauce and toss to coat.",
+    "Return the potatoes to the oven and bake for an additional 5-7 minutes or until the sauce is bubbly and the potatoes are coated.",
+    "Remove from the oven and garnish with red pepper flakes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "roasted",
+    "patatas",
+    "bravas",
+    "oven",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spanish-potatoes-patatas-bravas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:34:29.255Z"
+}
