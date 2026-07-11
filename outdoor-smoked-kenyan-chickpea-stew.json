@@ -1,0 +1,100 @@
+{
+  "slug": "outdoor-smoked-kenyan-chickpea-stew",
+  "title": "Smoked Kenyan Outdoor Stew",
+  "description": "A hearty and flavorful stew made with smoked beef and inspired by Kenyan cuisine, perfect for outdoor gatherings.",
+  "cuisine": "kenyan",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chickpea",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for stew"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced smoked beef and cook until browned, about 5 minutes.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the canned chickpea, homemade or store-bought stew, water, tomato paste, salt, and black pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-beef",
+    "kenyan-cuisine",
+    "outdoor-stew",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-smoked-kenyan-chickpea-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:07:18.382Z"
+}
