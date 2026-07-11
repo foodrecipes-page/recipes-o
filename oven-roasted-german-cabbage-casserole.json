@@ -1,0 +1,76 @@
+{
+  "slug": "oven-roasted-german-cabbage-casserole",
+  "title": "German Oven Cabbage Casserole",
+  "description": "A hearty and comforting German-inspired dish made with roasted cabbage, savory beef, and a crispy crust.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, thinly sliced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the sliced cabbage to the skillet and cook until slightly softened, about 5 minutes.",
+    "In a large bowl, whisk together the flour and beef broth until smooth.",
+    "Pour the flour mixture over the cabbage mixture in the skillet and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the chopped parsley over the top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "oven-roasted",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-german-cabbage-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:19:03.454Z"
+}
