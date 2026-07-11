@@ -698,17 +698,14 @@
   },
   {
     "slug": "oil-free-kenyan-chicken-salad",
-    "title": "Oil Free Kenyan Chicken Salad",
+    "title": "Kenyan Chicken Salad",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "healthy",
       "kenyan",
-      "low-fat",
-      "quick-fix"
+      "salad",
+      "grilled-chicken"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
