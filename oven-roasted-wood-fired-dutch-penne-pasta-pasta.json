@@ -1,0 +1,80 @@
+{
+  "slug": "oven-roasted-wood-fired-dutch-penne-pasta-pasta",
+  "title": "Wood Fired Penne Pasta",
+  "description": "A rustic Italian dish featuring penne pasta baked to perfection in a wood-fired oven. This recipe combines the smoky flavors of the oven with the simplicity of a classic pasta dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "12 oz",
+      "notes": "Dutch oven preferred"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Wood-fired cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "Halved"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat wood-fired oven to 425°F (220°C).",
+    "Cook penne pasta according to package instructions until al dente.",
+    "In a large bowl, combine cooked pasta, olive oil, chopped basil, garlic, salt, and black pepper.",
+    "Add halved cherry tomatoes to the bowl and toss to combine.",
+    "Transfer the pasta mixture to a Dutch oven or a large cast-iron skillet.",
+    "Bake in the wood-fired oven for 10-12 minutes or until the pasta is lightly browned and the flavors have melded together.",
+    "Remove from the oven and let it rest for a few minutes before serving.",
+    "Serve hot, garnished with additional basil if desired.",
+    "Optional: Top with grated Parmesan cheese for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "wood-fired",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-wood-fired-dutch-penne-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:55:07.617Z"
+}
