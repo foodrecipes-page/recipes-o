@@ -5089,16 +5089,16 @@
   },
   {
     "slug": "oozy-peruvian-chickpea-causa-limena",
-    "title": "Oozy Peruvian Chickpea Causa Limena",
+    "title": "Peruvian Chickpea Causa",
     "tags": [
-      "comfort-food",
-      "easy",
       "peruvian",
-      "plant-based",
-      "vegan-friendly"
+      "causa",
+      "chickpea",
+      "limena",
+      "vegetarian"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 26,
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -8009,17 +8009,14 @@
   },
   {
     "slug": "oven-baked-malaysian-chicken-bake",
-    "title": "Oven Baked Malaysian Chicken Bake",
+    "title": "Malaysian-Style Baked Chicken",
     "tags": [
       "baked-chicken",
-      "gluten-free",
-      "low-carb",
       "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "chicken-recipes"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
