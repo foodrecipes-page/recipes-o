@@ -1,0 +1,92 @@
+{
+  "slug": "old-world-russian-lamb-pilaf",
+  "title": "Russian Lamb Pilaf",
+  "description": "A traditional Russian dish made with lamb, pilaf, and spices, perfect for a hearty meal.",
+  "cuisine": "russian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1-1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the skillet and set it aside.",
+    "Add the onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the pilaf to the skillet and cook for 1-2 minutes.",
+    "Add the thyme, salt, and pepper to the skillet and stir to combine.",
+    "Add the water to the skillet and bring to a boil.",
+    "Return the lamb to the skillet and cover with a lid.",
+    "Transfer the skillet to the oven and cook at 180°C (350°F) for 1.5-2 hours, or until the lamb is tender.",
+    "Remove the skillet from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "russian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-world-russian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:02:46.792Z"
+}
