@@ -1,0 +1,77 @@
+{
+  "slug": "oven-roasted-norwegian-pickle-flatbread",
+  "title": "Norwegian Flatbread with Roasted Pickle Topping",
+  "description": "A Scandinavian-inspired flatbread topped with a sweet and tangy roasted pickle mixture.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package (6-8 pieces)"
+    },
+    {
+      "name": "norwegian pickle",
+      "amount": "1 jar (16 oz)",
+      "notes": "such as aquavit pickles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flatbread into triangles or squares.",
+    "In a small bowl, mix together the olive oil, honey, Dijon mustard, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto the flatbread pieces.",
+    "Place the flatbread on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "Meanwhile, heat the norwegian pickle in the oven for 10-12 minutes, or until caramelized.",
+    "Top each flatbread piece with a spoonful of the roasted pickle mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "scandinavian",
+    "flatbread",
+    "pickles",
+    "easy-snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-norwegian-pickle-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:16:26.103Z"
+}
