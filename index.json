@@ -2593,16 +2593,15 @@
   },
   {
     "slug": "old-fashioned-korean-pinto-bean-tang",
-    "title": "Old Fashioned Korean Pinto Bean Tang",
+    "title": "Korean-Style Bean and Pinto Bean Stew",
     "tags": [
-      "comfort-food",
-      "high-fiber",
-      "korean-cuisine",
-      "one-pot",
+      "korean",
+      "stew",
+      "bean",
       "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 90,
+    "totalTimeMin": 110,
     "shard": "o"
   },
   {
@@ -2752,16 +2751,15 @@
   },
   {
     "slug": "old-fashioned-silky-canadian-morcilla-pasta",
-    "title": "Old Fashioned Silky Canadian Morcilla Pasta",
+    "title": "Canadian Pappardelle with Silky Morcilla Sauce",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "one-pot",
-      "satvik-friendly",
-      "vegetarian-option"
+      "italian",
+      "morcilla",
+      "cheese",
+      "pasta"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
