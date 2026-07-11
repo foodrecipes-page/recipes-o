@@ -1,0 +1,70 @@
+{
+  "slug": "oven-roasted-turkish-pistachio-kunefe",
+  "title": "Turkish Kunefe Cheesecake",
+  "description": "A twist on the traditional Turkish kunefe dessert, this cheesecake combines the crispy phyllo with a creamy cheese filling.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kunefe cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (thawed)"
+    },
+    {
+      "name": "Pistachio syrup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "Cut phyllo into 4 equal pieces.",
+    "In a bowl, mix together kunefe cheese, sugar, and pistachio syrup.",
+    "Brush melted butter on each phyllo piece.",
+    "Place one phyllo piece in the bottom of a springform pan.",
+    "Spread half of the cheese mixture on top of the phyllo.",
+    "Repeat the layers: phyllo, cheese mixture, phyllo, and finally the remaining cheese mixture.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let cool completely before serving.",
+    "Drizzle with additional pistachio syrup, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kunefe",
+    "cheesecake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-turkish-pistachio-kunefe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:47:03.928Z"
+}
