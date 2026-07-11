@@ -1,0 +1,95 @@
+{
+  "slug": "oven-roasted-moroccan-chicken-khle-a",
+  "title": "Moroccan Oven Chicken",
+  "description": "A flavorful and aromatic Moroccan-inspired dish made with roasted chicken, spices, and preserved lemons, all cooked to perfection in the oven.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For rubbing the chicken"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "For added depth"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "For Moroccan flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "2 tbsp",
+      "notes": "Chopped and drained"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the olive oil, paprika, cumin, coriander, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 30-40 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, mix together the chopped parsley and preserved lemon in a small bowl.",
+    "Once the chicken is done, let it rest for 10-15 minutes before slicing it thinly.",
+    "Serve the chicken with the parsley and lemon mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "oven-roasted",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-moroccan-chicken-khle-a",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:48:24.090Z"
+}
