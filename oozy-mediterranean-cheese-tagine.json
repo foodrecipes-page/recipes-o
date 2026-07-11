@@ -1,0 +1,82 @@
+{
+  "slug": "oozy-mediterranean-cheese-tagine",
+  "title": "Oozy Tagine Quesadilla",
+  "description": "A twist on traditional quesadillas, this oozy tagine quesadilla combines the rich flavors of the Mediterranean with gooey cheese.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oozy",
+      "amount": "1/2 cup",
+      "notes": "Melted tagine-based spread"
+    },
+    {
+      "name": "mediterranean cheese",
+      "amount": "2 cups, shredded",
+      "notes": "A blend of feta and ricotta cheese"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup, crumbled",
+      "notes": "Cooked and cooled tagine mixture"
+    },
+    {
+      "name": "flour tortilla",
+      "amount": "4",
+      "notes": "Large tortillas for wrapping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "For brushing tortillas"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (option)"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "for serving (option)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium heat.",
+    "2. Brush the tortillas with olive oil.",
+    "3. Sprinkle shredded cheese on half of each tortilla.",
+    "4. Spoon the crumbled tagine over the cheese.",
+    "5. Fold the tortillas in half to enclose the filling.",
+    "6. Cook for 2-3 minutes or until the tortillas are crispy and the cheese is melted.",
+    "7. Flip the quesadillas and cook for an additional 2 minutes.",
+    "8. Cut the quesadillas into wedges and serve hot with a side of oozy tagine spread and garnished with parsley.",
+    "9. Serve with lemon wedges on the side (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "quesadilla",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-mediterranean-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:59:08.021Z"
+}
