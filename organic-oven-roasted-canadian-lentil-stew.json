@@ -1,0 +1,86 @@
+{
+  "slug": "organic-oven-roasted-canadian-lentil-stew",
+  "title": "Canadian Lentil Stew",
+  "description": "A hearty and comforting stew made with lentils, roasted vegetables, and a hint of Canadian spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "organic vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the carrots and potatoes with 1 tbsp of olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large pot, heat the remaining 1 tbsp of olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the dried thyme and cook for 1 minute.",
+    "Add the rinsed lentils, vegetable broth, and roasted carrots and potatoes to the pot.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-stew",
+    "vegetarian-recipes",
+    "gluten-free-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/organic-oven-roasted-canadian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:57:35.626Z"
+}
