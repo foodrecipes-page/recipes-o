@@ -1,0 +1,82 @@
+{
+  "slug": "old-fashioned-silky-canadian-morcilla-pasta",
+  "title": "Canadian Pappardelle with Silky Morcilla Sauce",
+  "description": "A rich and creamy pasta dish featuring morcilla sausage, Canadian cheese, and silky sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "pappardelle"
+    },
+    {
+      "name": "Morcilla Sausage",
+      "amount": "1 lb",
+      "notes": "Spanish-style"
+    },
+    {
+      "name": "Old Fashioned Cheddar Cheese",
+      "amount": "1/2 cup",
+      "notes": "Canadian"
+    },
+    {
+      "name": "Silky Béchamel Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and cook the morcilla sausage until browned, breaking it up with a spoon as it cooks.",
+    "Add the homemade silky béchamel sauce to the skillet with the morcilla sausage and stir to combine.",
+    "Add the cooked pappardelle pasta to the skillet with the morcilla sausage and béchamel sauce, and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley and shaved old fashioned cheddar cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "morcilla",
+    "cheese",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-silky-canadian-morcilla-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:08:40.181Z"
+}
