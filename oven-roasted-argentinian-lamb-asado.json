@@ -1,0 +1,79 @@
+{
+  "slug": "oven-roasted-argentinian-lamb-asado",
+  "title": "Argentinian-Style Lamb Asado",
+  "description": "A traditional Argentinian dish featuring lamb roasted to perfection in an asado-style oven.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leg of Lamb",
+      "amount": "2 pounds",
+      "notes": "bone-in, preferably with a fat cap"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tablespoons",
+      "notes": "preferably kosher salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tablespoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "optional, for adding flavor to the pan drippings"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the lamb"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the lamb with salt, black pepper, and chopped rosemary.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes per pound, or until it reaches your desired level of doneness.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving.",
+    "If using red wine, deglaze the pan by adding 1 cup of red wine to the skillet and scraping up any browned bits with a wooden spoon.",
+    "Serve the lamb with the pan drippings spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "argentinian",
+    "asado",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 0,
+    "fat": 39
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-argentinian-lamb-asado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:22:57.642Z"
+}
