@@ -1662,17 +1662,15 @@
   },
   {
     "slug": "oily-lazy-vietnamese-beef-pho-bo",
-    "title": "Oily Lazy Vietnamese Beef Pho Bo",
+    "title": "Vietnamese Beef Pho",
     "tags": [
-      "beef-recipes",
-      "dairy-free",
-      "gluten-free",
-      "lazy-sundays",
-      "noodle-soups",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "beef",
+      "pho",
+      "noodle-soup"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 120,
     "shard": "o"
   },
   {
@@ -11460,16 +11458,15 @@
   },
   {
     "slug": "oven-roasted-moroccan-chicken-khle-a",
-    "title": "Oven-Roasted Moroccan Chicken Khle'a",
+    "title": "Moroccan Oven Chicken",
     "tags": [
-      "low-carb",
+      "chicken",
       "moroccan",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "oven-roasted",
+      "main-course"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
