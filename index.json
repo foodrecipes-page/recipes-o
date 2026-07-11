@@ -6091,17 +6091,14 @@
   },
   {
     "slug": "organic-oven-roasted-canadian-lentil-stew",
-    "title": "Organic Oven Roasted Canadian Lentil Stew",
+    "title": "Canadian Lentil Stew",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
       "lentil-stew",
-      "macrobiotic",
-      "one-pan",
-      "vegetarian"
+      "vegetarian-recipes",
+      "gluten-free-recipes"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
@@ -6638,17 +6635,15 @@
   },
   {
     "slug": "outdoor-smoked-kenyan-chickpea-stew",
-    "title": "Outdoor Smoked Kenyan Chickpea Stew",
+    "title": "Smoked Kenyan Outdoor Stew",
     "tags": [
-      "comfort-food",
-      "kenyan",
-      "outdoor-cooking",
-      "plant-based",
-      "smoked",
-      "stew"
+      "smoked-beef",
+      "kenyan-cuisine",
+      "outdoor-stew",
+      "hearty-stew"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "kenyan",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -12799,19 +12794,15 @@
   },
   {
     "slug": "oven-roasted-turkish-pistachio-kunefe",
-    "title": "Oven-Roasted Turkish Pistachio Kunefe",
+    "title": "Turkish Kunefe Cheesecake",
     "tags": [
-      "cheese",
-      "dessert",
-      "kunefe",
-      "low-fat",
-      "pistachio",
-      "romantic",
       "turkish",
-      "vegetarian"
+      "kunefe",
+      "cheesecake",
+      "dessert"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
