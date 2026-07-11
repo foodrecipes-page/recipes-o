@@ -1,0 +1,76 @@
+{
+  "slug": "oil-free-kenyan-chicken-salad",
+  "title": "Kenyan Chicken Salad",
+  "description": "A flavorful and healthy salad featuring Kenyan spices and grilled chicken.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "free-range chicken breast",
+      "amount": "1 (6 oz) breast",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Kenyan spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mixed greens salad",
+      "amount": "4 cups"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breast with Kenyan spice mix.",
+    "Grill chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Let chicken rest for 5 minutes before slicing.",
+    "In a large bowl, combine mixed greens salad, diced cucumber, diced bell pepper, crumbled feta cheese, and chopped fresh parsley.",
+    "Drizzle salad with oil and toss to combine.",
+    "Slice grilled chicken and add to salad.",
+    "Toss salad gently to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "salad",
+    "grilled-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-free-kenyan-chicken-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:20:54.978Z"
+}
