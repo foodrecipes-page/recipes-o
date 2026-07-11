@@ -144,16 +144,14 @@
   },
   {
     "slug": "oatzara-sour",
-    "title": "Oatzara Sour",
+    "title": "Sour and Oatzara Soup",
     "tags": [
-      "oatmeal",
-      "greek",
-      "sour",
-      "one-pot",
-      "dairy-free"
+      "soup",
+      "oatzara",
+      "sour"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -9034,18 +9032,15 @@
   },
   {
     "slug": "oven-roasted-argentinian-lamb-asado",
-    "title": "Oven-Roasted Argentinian Lamb Asado",
+    "title": "Argentinian-Style Lamb Asado",
     "tags": [
+      "lamb",
       "argentinian",
       "asado",
-      "comfort-food",
-      "high-protein",
-      "lamb",
-      "one-pan",
-      "slow-cooked"
+      "oven-roasted"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 405,
+    "totalTimeMin": 135,
     "shard": "o"
   },
   {
