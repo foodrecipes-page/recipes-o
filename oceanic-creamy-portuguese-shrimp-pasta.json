@@ -1,0 +1,86 @@
+{
+  "slug": "oceanic-creamy-portuguese-shrimp-pasta",
+  "title": "Shrimp and Portuguese Pasta Bake",
+  "description": "A creamy pasta bake with shrimp and portuguese flavors, perfect for a quick weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish_and_seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "such as linguine"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1/2 lb",
+      "notes": "such as linguiça"
+    },
+    {
+      "name": "oceanic seasoning blend",
+      "amount": "1 tsp",
+      "notes": "such as Old Bay"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or half-and-half"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "In a large skillet, cook the sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the garlic and onion to the skillet and cook until softened.",
+    "Add the shrimp to the skillet and cook until pink and just cooked through.",
+    "Stir in the oceanic seasoning blend and cook for 1 minute.",
+    "In a large bowl, combine the cooked pasta, shrimp mixture, and heavy cream. Stir until well combined.",
+    "Transfer the pasta mixture to a baking dish and top with parmesan cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "pasta",
+    "shrimp",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "36g",
+    "carbs": "46g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-creamy-portuguese-shrimp-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:11:48.783Z"
+}
