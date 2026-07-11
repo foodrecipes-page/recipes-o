@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-korean-mackerel-jjigae",
+  "title": "Korean-Style Oven-Roasted Mackerel Jjigae",
+  "description": "A fusion dish that combines the flavors of Korea with the richness of oven-roasted mackerel. This spicy jjigae is perfect for a quick and easy dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium or gluten-free"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "For balance"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season mackerel fillets with salt and pepper.",
+    "In a large oven-safe skillet, heat sesame oil over medium-high heat.",
+    "Sear mackerel fillets for 2-3 minutes per side, then transfer to a baking sheet.",
+    "Roast in the oven for 8-10 minutes, or until cooked through.",
+    "In the same skillet, add gochujang, soy sauce, rice vinegar, and garlic.",
+    "Bring to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "Add zucchini and bell peppers to the skillet and cook for 3-4 minutes, or until tender.",
+    "Transfer the skillet to the oven and roast for an additional 5-7 minutes, or until the vegetables are tender.",
+    "Garnish with green onions and serve with roasted mackerel on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "oven-roasted",
+    "mackerel",
+    "jjigae",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-korean-mackerel-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:50:36.326Z"
+}
