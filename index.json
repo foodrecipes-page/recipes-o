@@ -9074,17 +9074,16 @@
   },
   {
     "slug": "oven-roasted-argentinian-mustard-stew",
-    "title": "Oven Roasted Argentinian Mustard Stew",
+    "title": "Argentinian Stew",
     "tags": [
-      "argentine",
-      "mustard",
-      "no-garlic",
-      "one-pot",
-      "oven-roasted",
-      "stew"
+      "argentinian",
+      "beef",
+      "stew",
+      "dinner",
+      "winter"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 180,
     "shard": "o"
   },
   {
@@ -10668,17 +10667,15 @@
   },
   {
     "slug": "oven-roasted-jamaican-coconut-curry",
-    "title": "Oven Roasted Jamaican Coconut Curry",
+    "title": "Jamaican Coconut Curry Chicken",
     "tags": [
-      "coconut-based",
       "jamaican",
-      "one-pan",
-      "smoky",
-      "spicy",
-      "weeknight"
+      "coconut",
+      "curry",
+      "chicken"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
