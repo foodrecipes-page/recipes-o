@@ -1,0 +1,60 @@
+{
+  "slug": "oily-velvety-uruguayan-pineapple-skewers",
+  "title": "Uruguayan Grilled Pineapple Skewers",
+  "description": "Sweet and tangy pineapple paired with the smokiness of Uruguayan grilled meat, perfect for a summer evening.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan steak",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup chunks"
+    },
+    {
+      "name": "Oily olives",
+      "amount": "1/4 cup pitted"
+    },
+    {
+      "name": "Velvety cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 wooden skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread steak, pineapple, olives, and cheese onto skewers.",
+    "Season with salt, pepper, and your favorite spices.",
+    "Grill skewers for 8-10 minutes per side, or until steak reaches 135°F.",
+    "Let rest for 5 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "summer",
+    "uruguayan",
+    "pineapple",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-velvety-uruguayan-pineapple-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:26:11.092Z"
+}
