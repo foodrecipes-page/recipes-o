@@ -1,0 +1,95 @@
+{
+  "slug": "oily-lazy-vietnamese-beef-pho-bo",
+  "title": "Vietnamese Beef Pho",
+  "description": "A classic Vietnamese noodle soup made with beef broth, rice noodles, and your choice of beef. A comforting and flavorful meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef bones",
+      "amount": "2 lbs",
+      "notes": "preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "Beef brisket or chuck",
+      "amount": "1 lb",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 package",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "charred and sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2 whole",
+      "notes": "or 1 tsp ground anise"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Char the onion and ginger on a gas stovetop or in the oven until caramelized.",
+    "In a large stockpot, combine beef bones, charred onion and ginger, star anise, cinnamon, fish sauce, and soy sauce.",
+    "Pour in 4 cups of cold water and bring to a boil.",
+    "Reduce heat to a simmer and cook for 1 1/2 hours, or until the broth is rich and flavorful.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Bring the broth to a boil, then reduce the heat to a simmer.",
+    "Cook the rice noodles according to the package instructions.",
+    "Slice the beef brisket or chuck into thin strips and cook in the broth for 3-5 minutes, or until cooked to your liking.",
+    "Serve the beef and noodles in bowls, garnished with sliced onion, bean sprouts, and fresh herbs if desired.",
+    "Season with black pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "pho",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-lazy-vietnamese-beef-pho-bo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:26:17.118Z"
+}
