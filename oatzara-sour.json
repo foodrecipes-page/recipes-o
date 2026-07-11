@@ -1,0 +1,65 @@
+{
+  "slug": "oatzara-sour",
+  "title": "Sour and Oatzara Soup",
+  "description": "A hearty and comforting soup perfect for a chilly evening. Oatzara adds a unique flavor to this classic recipe.",
+  "cuisine": "European",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oatzara",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the oatzara and cook until tender, about 5 minutes.",
+    "Add the sour, water, salt, and pepper. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 15 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "oatzara",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oatzara-sour",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:06:24.737Z"
+}
