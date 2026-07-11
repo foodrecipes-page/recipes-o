@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-jamaican-coconut-curry",
+  "title": "Jamaican Coconut Curry Chicken",
+  "description": "A flavorful and aromatic dish that combines the warm spices of Jamaica with the richness of coconut and the creaminess of curry. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "jamaican",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Heat the coconut oil in a large oven-safe skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the curry powder, allspice, and ginger. Cook for 1 minute.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and stir in the coconut milk.",
+    "Simmer the sauce over low heat for 5 minutes.",
+    "Serve the chicken with the sauce spooned over the top, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "coconut",
+    "curry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-jamaican-coconut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:47:24.980Z"
+}
