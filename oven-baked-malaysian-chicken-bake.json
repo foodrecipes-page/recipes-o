@@ -1,0 +1,84 @@
+{
+  "slug": "oven-baked-malaysian-chicken-bake",
+  "title": "Malaysian-Style Baked Chicken",
+  "description": "A flavorful and moist baked chicken dish inspired by Malaysian cuisine. Marinated in a blend of Asian spices and herbs, this chicken is sure to become a favorite.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender or food processor, combine soy sauce, fish sauce, honey, garlic, ginger, cumin, and cayenne pepper. Blend until smooth.",
+    "Place the chicken breast in a shallow dish and brush the marinade all over it. Let it marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Line a baking sheet with parchment paper or aluminum foil, leaving enough room for the chicken to fit comfortably. Place the chicken on the prepared baking sheet.",
+    "Drizzle the coconut oil over the chicken and sprinkle with toasted coconut flakes.",
+    "Bake the chicken for 25-30 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-chicken",
+    "malaysian-cuisine",
+    "chicken-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-malaysian-chicken-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:30:22.621Z"
+}
