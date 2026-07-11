@@ -11637,16 +11637,14 @@
   },
   {
     "slug": "oven-roasted-norwegian-pickle-flatbread",
-    "title": "Oven Roasted Norwegian Pickle Flatbread",
+    "title": "Norwegian Flatbread with Roasted Pickle Topping",
     "tags": [
-      "easy-dinner",
-      "flatbread-recipes",
-      "mediterranean-diet",
-      "norwegian-cuisine",
-      "pickle-lovers",
-      "vegetarian-meals"
+      "scandinavian",
+      "flatbread",
+      "pickles",
+      "easy-snack"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "Scandinavian",
     "totalTimeMin": 25,
     "shard": "o"
   },
@@ -12964,18 +12962,16 @@
   },
   {
     "slug": "oven-roasted-uruguayan-chicken-wings-skewers",
-    "title": "Oven Roasted Uruguayan Chicken Wings Skewers",
+    "title": "Uruguayan Chicken Wings",
     "tags": [
-      "chicken-wings",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pan",
-      "oven-roasted",
-      "snack-time",
-      "uruguayan-cuisine"
+      "chicken",
+      "uruguayan",
+      "roasted",
+      "oven",
+      "snack"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
