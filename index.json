@@ -10161,16 +10161,15 @@
   },
   {
     "slug": "oven-roasted-german-cabbage-casserole",
-    "title": "Oven Roasted German Cabbage Casserole",
+    "title": "German Oven Cabbage Casserole",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "german-cuisine",
-      "one-pan",
-      "weeknight"
+      "german",
+      "casserole",
+      "oven-roasted",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 70,
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
