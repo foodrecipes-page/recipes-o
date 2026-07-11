@@ -2277,17 +2277,16 @@
   },
   {
     "slug": "oily-velvety-uruguayan-pineapple-skewers",
-    "title": "Oily Velvety Uruguayan Pineapple Skewers",
+    "title": "Uruguayan Grilled Pineapple Skewers",
     "tags": [
-      "dairy-free",
       "grilled",
-      "pineapple",
-      "south-american",
       "summer",
-      "vegetarian"
+      "uruguayan",
+      "pineapple",
+      "skewers"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 23,
+    "totalTimeMin": 28,
     "shard": "o"
   },
   {
@@ -9727,17 +9726,14 @@
   },
   {
     "slug": "oven-roasted-dutch-vegetable-stew",
-    "title": "Oven Roasted Dutch Vegetable Stew",
+    "title": "Roasted Vegetable Stew",
     "tags": [
-      "comfort-food",
-      "dutch-oven",
-      "gluten-free",
-      "one-pot",
-      "vegetarian",
-      "winter-stew"
+      "roasted",
+      "vegetable",
+      "stew"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 70,
+    "cuisine": "Western",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -13182,16 +13178,15 @@
   },
   {
     "slug": "oven-roasted-wood-fired-dutch-penne-pasta-pasta",
-    "title": "oven-roasted wood-fired dutch penne pasta",
+    "title": "Wood Fired Penne Pasta",
     "tags": [
-      "dutch",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "wood-fired"
+      "italian",
+      "pasta",
+      "wood-fired",
+      "oven-roasted"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
