@@ -3028,18 +3028,15 @@
   },
   {
     "slug": "old-world-russian-lamb-pilaf",
-    "title": "Old World Russian Lamb Pilaf",
+    "title": "Russian Lamb Pilaf",
     "tags": [
-      "herbal",
-      "lamb-based",
-      "mediterranean-inspired",
-      "one-pot",
-      "romantic",
-      "russian-cuisine",
-      "velvety"
+      "lamb",
+      "pilaf",
+      "russian",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": "russian",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
