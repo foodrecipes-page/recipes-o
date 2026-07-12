@@ -2172,17 +2172,17 @@
   },
   {
     "slug": "oily-tender-indian-katsuobushi-paratha",
-    "title": "Oily Tender Indian Katsuobushi Paratha",
+    "title": "Spicy Katsuobushi Paratha",
     "tags": [
-      "breakfast-option",
-      "easy-to-eat",
-      "easy-to-make",
-      "high-protein",
+      "breakfast",
       "indian",
-      "weeknight"
+      "paratha",
+      "katsuobushi",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -3043,13 +3043,12 @@
   },
   {
     "slug": "olive-oil-infused-ethiopian-snow-peas-stew",
-    "title": "Olive Oil Infused Ethiopian Snow Peas Stew",
+    "title": "Ethiopian Stew with Snow Peas",
     "tags": [
-      "comfort-food",
-      "low-calorie",
-      "one-pot",
+      "ethiopian",
+      "stew",
       "vegetarian",
-      "weeknight"
+      "lunch"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
@@ -6355,17 +6354,17 @@
   },
   {
     "slug": "outdoor-croatian-saskatoon-berry-skewers",
-    "title": "Outdoor Croatian Saskatoon Berry Skewers",
+    "title": "Grilled Saskatoon Berry Skewers with Outdoor Croatian Twist",
     "tags": [
-      "croatian-cuisine",
-      "fodmap-friendly",
-      "grilled-meats",
-      "outdoor-cooking",
-      "saskatoon-berries",
-      "vegetarian-option"
+      "grilled",
+      "vegetarian",
+      "croatian",
+      "summer",
+      "skewers",
+      "saskatoon-berry"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 23,
     "shard": "o"
   },
   {
@@ -6529,14 +6528,12 @@
     "tags": [
       "beef",
       "grilled",
-      "kid-friendly",
-      "outdoor",
       "skewers",
       "uruguayan",
-      "vegetables"
+      "outdoor"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -6555,17 +6552,15 @@
   },
   {
     "slug": "outdoor-grilled-venezuelan-ground-beef-empanadas",
-    "title": "Outdoor Grilled Venezuelan Ground Beef Empanadas",
+    "title": "Venezuelan Beef Empanadas",
     "tags": [
-      "beef",
-      "brunch",
-      "empanadas",
       "grilled",
-      "latin-american",
-      "venezuelan"
+      "venezuelan",
+      "beef",
+      "empanadas"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -7157,17 +7152,15 @@
   },
   {
     "slug": "outstanding-yeasty-malaysian-prawns-toast",
-    "title": "Outstanding Yeasty Malaysian Prawns Toast",
+    "title": "Prawn Toast with Malaysian Twist",
     "tags": [
-      "halal-friendly",
-      "malaysian-cuisine",
+      "malaysian",
       "seafood",
-      "snack-ideas",
-      "special-occasion",
-      "yeasty"
+      "snack",
+      "easy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "malaysian",
+    "totalTimeMin": 18,
     "shard": "o"
   },
   {
@@ -13504,17 +13497,15 @@
   },
   {
     "slug": "oven-toasted-chinese-squid-salt-and-pepper-squid",
-    "title": "Oven Toasted Chinese Squid Salt And Pepper Squid",
+    "title": "Squid in Garlic Butter",
     "tags": [
-      "chinese-food",
-      "easy-dinner",
-      "grand-marnier",
-      "oven-baked",
+      "squid",
+      "chinese",
       "seafood",
-      "snack-ideas"
+      "dinner"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 27,
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
