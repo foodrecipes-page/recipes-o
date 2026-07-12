@@ -1,0 +1,77 @@
+{
+  "slug": "oozing-slovakian-tofu-wrap",
+  "title": "Slovakian Wrap with Tofu",
+  "description": "A unique and flavorful wrap filled with Slovakian sausage, tofu, and fresh vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Tofu",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Large flour wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/4"
+    },
+    {
+      "name": "Oozing cheese",
+      "amount": "1 oz"
+    }
+  ],
+  "instructions": [
+    "Cook the Slovakian sausage in a pan over medium heat until browned, about 5 minutes.",
+    "Slice the tofu into thin strips and add to the pan with the sausage, cooking for an additional 3 minutes.",
+    "Warm the large flour wrap in the microwave or in a dry pan for 10-15 seconds.",
+    "Assemble the wrap by spreading the cooked sausage and tofu mixture onto the center of the wrap.",
+    "Add sliced cucumber, bell pepper, onion, and tomato on top of the sausage mixture.",
+    "Drizzle oozing cheese over the top of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "wrap",
+    "lunch",
+    "veggie",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-slovakian-tofu-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:30:10.571Z"
+}
