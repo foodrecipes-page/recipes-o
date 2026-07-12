@@ -1,0 +1,90 @@
+{
+  "slug": "oven-roasted-smoky-german-muffin-sandwich",
+  "title": "German Smoked Bratwurst Muffin Sandwich",
+  "description": "A twist on a classic German dish, featuring smoky bratwurst in a roasted muffin topped with tangy toppings.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausages",
+      "amount": "4",
+      "notes": "Fresh or smoked"
+    },
+    {
+      "name": "Brioche Muffins",
+      "amount": "4",
+      "notes": "Roasted or freshly baked"
+    },
+    {
+      "name": "Smoked Gouda Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Melted or crumbled"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup",
+      "notes": "Slow-cooked or pre-made"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tbsp",
+      "notes": "Spicy or whole-grain"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped or as garnish"
+    },
+    {
+      "name": "German-Style Sauerkraut",
+      "amount": "1 cup, drained",
+      "notes": "Canned or homemade"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Seasoning or as needed"
+    },
+    {
+      "name": "Oven",
+      "amount": "",
+      "notes": "For toasting or browning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the brioche muffins in half and toast in the oven for 5 minutes.",
+    "3. Grill or pan-fry the bratwurst sausages until browned, about 5-7 minutes.",
+    "4. Meanwhile, melt the smoked gouda cheese in a saucepan over low heat.",
+    "5. Assemble the sandwiches by spreading Dijon mustard on the toasted muffins.",
+    "6. Add the sliced bratwurst, caramelized onions, sauerkraut, and melted gouda cheese.",
+    "7. Top with chopped parsley and a pinch of salt and pepper.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "smoked",
+    "roasted",
+    "muffin",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-smoky-german-muffin-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:33:11.155Z"
+}
