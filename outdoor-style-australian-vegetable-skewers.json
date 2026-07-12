@@ -1,0 +1,76 @@
+{
+  "slug": "outdoor-style-australian-vegetable-skewers",
+  "title": "Grilled Australian Vegetable Skewers",
+  "description": "A delicious and healthy outdoor dish, perfect for a summer barbecue. The combination of Australian vegetables and a hint of smokiness from the grill will leave you wanting more.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large, cut into 1-inch pieces"
+    },
+    {
+      "name": "Australian-style barbecue sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak 10 wooden skewers in water for at least 30 minutes.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the zucchini, bell pepper, onion, mushrooms, and tomato onto the skewers.",
+    "Brush the skewers with olive oil, then season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Brush the skewers with Australian-style barbecue sauce during the last 2 minutes of cooking.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "australian",
+    "skewers",
+    "outdoor"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-style-australian-vegetable-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:55:53.765Z"
+}
