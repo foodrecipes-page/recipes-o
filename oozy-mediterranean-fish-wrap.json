@@ -1,0 +1,95 @@
+{
+  "slug": "oozy-mediterranean-fish-wrap",
+  "title": "Greek Wrap with Fish",
+  "description": "A simple Greek-inspired fish wrap with a delicious combination of flavors. Perfect for a quick and easy meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "fish-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (tilapia or cod)",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Oozy tzatziki sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Season the fish with salt and pepper.",
+    "Add the fish to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "While the fish is cooking, prepare the wrap by spreading the tzatziki sauce on the bottom half of the wrap.",
+    "Add the lettuce, tomato, cucumber, red onion, olives, and feta cheese on top of the sauce.",
+    "Once the fish is cooked, place it on top of the vegetables.",
+    "Fold the top half of the wrap over the fish and serve immediately.",
+    "Garnish with fresh parsley and serve with your favorite sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "fish",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-mediterranean-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:23:47.853Z"
+}
