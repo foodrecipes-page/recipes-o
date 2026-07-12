@@ -2315,16 +2315,15 @@
   },
   {
     "slug": "old-fashioned-american-egg-noodles",
-    "title": "Old Fashioned American Egg Noodles",
+    "title": "Classic American Breakfast",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
-      "weeknight"
+      "breakfast",
+      "american",
+      "scrambled-eggs",
+      "noodles"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 13,
     "shard": "o"
   },
   {
