@@ -130,16 +130,15 @@
   },
   {
     "slug": "oaty-savory-german-grains-pilaf",
-    "title": "Oaty Savory German Grains Pilaf",
+    "title": "German Oaty Pilaf",
     "tags": [
-      "comfort-food",
-      "flexitarian-friendly",
-      "german-cuisine",
-      "grain-bowl",
-      "one-pot"
+      "german",
+      "grains",
+      "rice",
+      "oats"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -474,16 +473,14 @@
   },
   {
     "slug": "oceanic-moroccan-dried-shrimp-seffa",
-    "title": "Oceanic Moroccan Dried Shrimp Seffa",
+    "title": "Moroccan Shrimp and Seffa Paella",
     "tags": [
-      "monsoon-food",
-      "moroccan-cuisine",
-      "one-pot",
-      "quick-meal",
-      "seafood"
+      "moroccan",
+      "seafood",
+      "paella"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -2279,18 +2276,16 @@
   },
   {
     "slug": "oily-venezuelan-coconut-bread",
-    "title": "Oily Venezuelan Coconut Bread",
+    "title": "Venezuelan-Style Pabellon Sandwich",
     "tags": [
-      "coconut-bread",
-      "easy-to-make",
-      "gluten-friendly",
-      "high-carb",
-      "homemade-bread",
-      "oat-free",
-      "venezuelan-bread"
+      "venezuelan",
+      "sandwich",
+      "beef",
+      "cheese",
+      "plantains"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 75,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -9834,17 +9829,15 @@
   },
   {
     "slug": "oven-roasted-ethiopian-lamb-tibs",
-    "title": "Oven Roasted Ethiopian Lamb Tibs",
+    "title": "Lamb Tibs",
     "tags": [
-      "dairy-free",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "ethiopian",
+      "roasted",
+      "oven-cooked"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
