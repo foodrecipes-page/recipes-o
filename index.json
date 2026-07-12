@@ -6309,16 +6309,14 @@
   },
   {
     "slug": "outdoor-braised-australian-lamb-stew",
-    "title": "Outdoor Braised Australian Lamb Stew",
+    "title": "Braised Australian Lamb Stew",
     "tags": [
-      "australian-cuisine",
-      "hearty-stew",
-      "lamb-based",
-      "low-fat",
-      "one-pot",
-      "outdoor-cooking"
+      "australian",
+      "lamb",
+      "stew",
+      "braised"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 180,
     "shard": "o"
   },
@@ -12176,17 +12174,16 @@
   },
   {
     "slug": "oven-roasted-smoky-german-muffin-sandwich",
-    "title": "OvenRoasted Smoky German Muffin Sandwich",
+    "title": "German Smoked Bratwurst Muffin Sandwich",
     "tags": [
       "german",
-      "high-protein",
-      "mediterranean-friendly",
-      "one-pan",
-      "oven-baked",
-      "post-workout"
+      "smoked",
+      "roasted",
+      "muffin",
+      "sandwich"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 22,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
