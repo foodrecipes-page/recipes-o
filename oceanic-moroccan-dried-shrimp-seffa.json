@@ -1,0 +1,95 @@
+{
+  "slug": "oceanic-moroccan-dried-shrimp-seffa",
+  "title": "Moroccan Shrimp and Seffa Paella",
+  "description": "A classic Moroccan dish infused with the flavors of the ocean, featuring succulent shrimp and a hearty seffa rice.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Seffa rice",
+      "amount": "1 cup",
+      "notes": "Dried"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Add the seffa rice and stir to coat with the oil and mix with the onion and garlic.",
+    "Add the diced dried apricots, cumin, paprika, salt, and black pepper.",
+    "Stir to combine, then add 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes or until the liquid has been absorbed and the rice is tender.",
+    "Fluff the paella with a fork and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "seafood",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-moroccan-dried-shrimp-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:20:34.258Z"
+}
