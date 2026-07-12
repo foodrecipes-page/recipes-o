@@ -1,0 +1,66 @@
+{
+  "slug": "oven-toasted-chinese-squid-salt-and-pepper-squid",
+  "title": "Squid in Garlic Butter",
+  "description": "Crispy pan-seared squid served with a flavorful garlic butter sauce. Quick and easy to make for a delicious dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "Cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the squid pieces and pat dry.",
+    "In a bowl, mix together minced garlic and softened butter.",
+    "Add salt and pepper to taste.",
+    "Place the squid pieces in a baking dish and drizzle with garlic butter mixture.",
+    "Bake in the oven for 8-10 minutes or until cooked through.",
+    "Serve hot and garnish with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "squid",
+    "chinese",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-toasted-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:32:49.984Z"
+}
