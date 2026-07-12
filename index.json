@@ -518,17 +518,14 @@
   },
   {
     "slug": "oceanic-original-korean-gorgonzola-dolce-sujebi",
-    "title": "Oceanic Original Korean Gorgonzola Dolce Sujebi",
+    "title": "Pan-Seared Gorgonzola and Dolce Shrimp",
     "tags": [
-      "binchotan-grill",
-      "cheesy",
-      "grilled",
-      "korean-cuisine",
-      "seafood",
-      "spicy"
+      "gorgonzola",
+      "shrimp",
+      "dolce"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 32,
+    "cuisine": "Italian",
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -9247,16 +9244,14 @@
   },
   {
     "slug": "oven-roasted-brazilian-sweet-potato-stew",
-    "title": "Oven Roasted Brazilian Sweet Potato Stew",
+    "title": "Brazilian Sweet Potato Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "cozy-night-in",
-      "lacto-vegetarian",
-      "one-pot"
+      "sweet-potato",
+      "stew",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
