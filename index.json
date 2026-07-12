@@ -11935,16 +11935,15 @@
   },
   {
     "slug": "oven-roasted-saudi-beef-stew",
-    "title": "Oven Roasted Saudi Beef Stew",
+    "title": "Saudi Beef Stew",
     "tags": [
-      "autumn",
       "beef",
-      "nut-free",
-      "one-pot",
-      "saudi"
+      "stew",
+      "saudi",
+      "oven-roasted"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 120,
+    "cuisine": "saudi",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -12248,18 +12247,16 @@
   },
   {
     "slug": "oven-roasted-southern-thai-guanciale-fried-rice",
-    "title": "Oven-Roasted Southern Thai Guanciale Fried-Rice",
+    "title": "Southern-Style Roasted Chicken",
     "tags": [
-      "fried-rice",
-      "low-fodmap",
-      "one-pan",
-      "oven-roasted",
-      "quick",
-      "savory",
-      "southern-thai"
+      "chicken",
+      "roasted",
+      "southern",
+      "rice",
+      "guanciale"
     ],
-    "cuisine": "Southern Thai",
-    "totalTimeMin": 60,
+    "cuisine": "Southern",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
