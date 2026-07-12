@@ -1,0 +1,99 @@
+{
+  "slug": "oven-roasted-southern-thai-guanciale-fried-rice",
+  "title": "Southern-Style Roasted Chicken",
+  "description": "A classic Southern dish featuring roasted chicken, rice, and a hint of Thai spices. This recipe is perfect for a comforting dinner.",
+  "cuisine": "Southern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 whole",
+      "notes": null
+    },
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "Season the chicken with salt and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 5 minutes per side.",
+    "Transfer the chicken to a baking dish.",
+    "Add guanciale, onion, and garlic to the skillet and cook until the onion is softened, about 5 minutes.",
+    "Add the Thai red curry paste to the skillet and cook for 1 minute.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Pour the curry sauce over the chicken in the baking dish.",
+    "Roast the chicken in the preheated oven for 25-30 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Serve the roasted chicken with cooked rice and spoon some of the curry sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roasted",
+    "southern",
+    "rice",
+    "guanciale"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-southern-thai-guanciale-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:09:10.370Z"
+}
