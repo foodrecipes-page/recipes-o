@@ -1,0 +1,84 @@
+{
+  "slug": "oceanic-original-korean-gorgonzola-dolce-sujebi",
+  "title": "Pan-Seared Gorgonzola and Dolce Shrimp",
+  "description": "A decadent and sweet shrimp dish featuring the creamy gorgonzola cheese and a drizzle of dolce sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12",
+      "notes": "Large, peeled and deveined"
+    },
+    {
+      "name": "Gorgonzola cheese",
+      "amount": "8 oz",
+      "notes": "Crumbly"
+    },
+    {
+      "name": "Dolce sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Reduce the heat to medium and add the gorgonzola cheese to the skillet.",
+    "Stir until the cheese is melted and smooth.",
+    "Add the dolce sauce to the skillet and stir to combine.",
+    "Add the cooked shrimp back to the skillet and toss to coat with the gorgonzola-dolce sauce.",
+    "Season with salt and Korean chili flakes (if using).",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gorgonzola",
+    "shrimp",
+    "dolce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-original-korean-gorgonzola-dolce-sujebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:47:02.041Z"
+}
