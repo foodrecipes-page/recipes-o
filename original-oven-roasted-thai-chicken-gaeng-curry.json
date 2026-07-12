@@ -1,0 +1,91 @@
+{
+  "slug": "original-oven-roasted-thai-chicken-gaeng-curry",
+  "title": "Thai Chicken Curry",
+  "description": "A flavorful and spicy Thai-inspired dish made with marinated chicken, roasted vegetables, and a rich curry sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "roasted cashews",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the sliced red bell pepper and red onion with 1 tablespoon of coconut oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large pan, heat 1 tablespoon of coconut oil over medium-high heat.",
+    "Add the chicken to the pan and cook until browned, about 5-7 minutes. Remove from heat and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of coconut oil, Thai red curry paste, fish sauce, and sugar.",
+    "Cook for 1-2 minutes, stirring constantly, until the curry paste is fragrant.",
+    "Add the chicken broth to the pan and bring to a simmer.",
+    "Return the chicken to the pan and cook until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the roasted cashews and cooked red bell pepper and red onion.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/original-oven-roasted-thai-chicken-gaeng-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:44:01.666Z"
+}
