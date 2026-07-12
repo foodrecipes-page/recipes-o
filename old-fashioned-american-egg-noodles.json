@@ -1,0 +1,50 @@
+{
+  "slug": "old-fashioned-american-egg-noodles",
+  "title": "Classic American Breakfast",
+  "description": "A hearty breakfast dish made with scrambled eggs, noodles, and a touch of American flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Old Fashioned American Egg",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "American Noodles",
+      "amount": "8 oz",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Whisk together eggs in a bowl.",
+    "Heat a non-stick skillet over medium heat.",
+    "Add the whisked eggs to the skillet and scramble until cooked through.",
+    "Serve the scrambled eggs over top of the cooked noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "american",
+    "scrambled-eggs",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-american-egg-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:38:45.228Z"
+}
