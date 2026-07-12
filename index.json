@@ -5252,13 +5252,12 @@
   },
   {
     "slug": "oozy-sour-chinese-shrimp-yangzhou-fried-rice",
-    "title": "Oozy Sour Chinese Shrimp Yangzhou Fried Rice",
+    "title": "Yangzhou-Style Shrimp Fried Rice",
     "tags": [
-      "chinese-food",
-      "gluten-free",
-      "one-pan",
-      "shellfish",
-      "sous-vide"
+      "chinese",
+      "shrimp",
+      "fried-rice",
+      "lunch"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
@@ -6213,17 +6212,14 @@
   },
   {
     "slug": "original-oven-roasted-thai-chicken-gaeng-curry",
-    "title": "Original Oven Roasted Thai Chicken Gaeng Curry",
+    "title": "Thai Chicken Curry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "kid-friendly",
-      "one-pot",
-      "thai-cuisine",
-      "weeknight"
+      "thai-curry",
+      "chicken",
+      "curry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -6678,17 +6674,16 @@
   },
   {
     "slug": "outdoor-style-australian-vegetable-skewers",
-    "title": "Australian Vegetable Skewers",
+    "title": "Grilled Australian Vegetable Skewers",
     "tags": [
-      "australian-cuisine",
-      "grilled-vegetables",
-      "jain-friendly",
-      "kid-friendly",
-      "outdoor-cooking",
-      "vegetarian"
+      "grilled",
+      "vegetarian",
+      "australian",
+      "skewers",
+      "outdoor"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
