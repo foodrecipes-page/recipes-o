@@ -1,0 +1,86 @@
+{
+  "slug": "outdoor-grilled-venezuelan-ground-beef-empanadas",
+  "title": "Venezuelan Beef Empanadas",
+  "description": "Delicious beef empanadas inspired by Venezuelan cuisine, perfect as a snack or appetizer.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up into small pieces.",
+    "Add the chopped onion, minced garlic, cumin, paprika, salt, and pepper to the pan. Cook for 2-3 minutes, until the onion is translucent.",
+    "Let the mixture cool slightly.",
+    "Roll out the empanada dough to desired thickness.",
+    "Place a tablespoon or two of the beef mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Brush the edges with a little water and fold the dough in half to form a half-circle.",
+    "Seal the edges by pressing them with a fork or your fingers.",
+    "Place the empanadas on the grill and cook for 2-3 minutes, until the dough is golden brown and the filling is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "venezuelan",
+    "beef",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-grilled-venezuelan-ground-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:44:59.277Z"
+}
