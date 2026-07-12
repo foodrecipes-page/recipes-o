@@ -2202,14 +2202,12 @@
   },
   {
     "slug": "oily-tender-spanish-chickpeas-paella",
-    "title": "Oily Tender Spanish Chickpeas Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paella",
       "spanish",
-      "sugar-free",
-      "weeknight"
+      "seafood",
+      "paella",
+      "main-course"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
@@ -4085,17 +4083,15 @@
   },
   {
     "slug": "oozy-cheesy-norwegian-cheese-casserole",
-    "title": "Oozy Cheesy Norwegian Cheese Casserole",
+    "title": "Cheesy Norwegian Casserole",
     "tags": [
       "cheesy",
-      "comfort-food",
-      "norwegian-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "casserole",
+      "norwegian",
+      "easy-meal"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "cuisine": "norwegian",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -10390,16 +10386,14 @@
   },
   {
     "slug": "oven-roasted-indian-sirloin-steak-tips-rajma",
-    "title": "Oven Roasted Indian Sirloin Steak Tips Rajma",
+    "title": "Indian-Style Sirloin Steak Tips",
     "tags": [
-      "high-protein",
-      "indian-cuisine",
-      "one-pan",
-      "oven-roasted",
-      "rajma-style",
-      "special-occasion"
+      "indian",
+      "steak",
+      "dinner",
+      "roasted"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "o"
   },
