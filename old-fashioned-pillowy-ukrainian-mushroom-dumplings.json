@@ -1,0 +1,70 @@
+{
+  "slug": "old-fashioned-pillowy-ukrainian-mushroom-dumplings",
+  "title": "Traditional Ukrainian Dumplings with Mushroom Gravy",
+  "description": "A hearty Ukrainian dish featuring pillowy dumplings served with a rich mushroom gravy, perfect for a comforting dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian dumplings",
+      "amount": "1 package (about 20 dumplings)",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup (sliced)",
+      "notes": ""
+    },
+    {
+      "name": "Old-fashioned butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pillowy flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Carefully add the Ukrainian dumplings to the boiling water and cook for 5-7 minutes, or until they float to the surface.",
+    "Remove the cooked dumplings from the water with a slotted spoon and set aside.",
+    "In a large skillet, melt the old-fashioned butter over medium heat.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Sprinkle the pillowy flour over the mushrooms and cook for 1 minute, stirring constantly.",
+    "Gradually add the water to the skillet, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "Return the cooked dumplings to the skillet and toss them in the mushroom gravy.",
+    "Serve the dumplings hot, topped with additional mushroom gravy if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "mushroom gravy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-pillowy-ukrainian-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:56:08.795Z"
+}
