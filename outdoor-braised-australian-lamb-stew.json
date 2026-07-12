@@ -1,0 +1,95 @@
+{
+  "slug": "outdoor-braised-australian-lamb-stew",
+  "title": "Braised Australian Lamb Stew",
+  "description": "A hearty, comforting stew made with tender lamb and a rich, flavorful broth. Perfect for a chilly evening.",
+  "cuisine": "australian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and cook the onion and garlic until softened, about 5 minutes.",
+    "Add the carrot and potato and cook for an additional 5 minutes.",
+    "Add the red wine, beef broth, tomato paste, and browned lamb back into the pot.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and stir in the chopped thyme.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "stew",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-braised-australian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:44:42.280Z"
+}
