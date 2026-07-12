@@ -1,0 +1,75 @@
+{
+  "slug": "oily-tender-indian-katsuobushi-paratha",
+  "title": "Spicy Katsuobushi Paratha",
+  "description": "A crispy and spicy Indian-inspired paratha dish topped with umami-rich katsuobushi.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "paratha",
+      "amount": "2 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "katsuobushi",
+      "amount": "2 tablespoons, flaked",
+      "notes": "dried and fermented bonito flakes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing paratha"
+    },
+    {
+      "name": "tender mustard greens",
+      "amount": "1 cup, chopped",
+      "notes": "or substitute with similar leafy greens"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece, grated",
+      "notes": "for added spice"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for heat"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Brush the paratha with olive oil on both sides.",
+    "Place the paratha in the pan and cook for 2-3 minutes on each side, until crispy and golden.",
+    "Heat the katsuobushi in a small pan over low heat, stirring constantly, until fragrant.",
+    "Add the chopped mustard greens, grated ginger, and cayenne pepper to the pan with the katsuobushi.",
+    "Stir-fry the greens until wilted, then season with salt to taste.",
+    "To assemble the dish, place a cooked paratha on a plate and top with the spicy greens mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "indian",
+    "paratha",
+    "katsuobushi",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-tender-indian-katsuobushi-paratha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:46:12.357Z"
+}
