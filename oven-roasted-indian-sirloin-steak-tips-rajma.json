@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-indian-sirloin-steak-tips-rajma",
+  "title": "Indian-Style Sirloin Steak Tips",
+  "description": "Tender sirloin steak tips marinated in Indian spices, roasted to perfection. A flavorful and healthy dish, perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "rajma (kidney beans)",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, combine garam masala, cumin powder, coriander powder, and red chili powder. Blend until smooth.",
+    "In a large bowl, whisk together lemon juice, olive oil, and the spice blend. Add the chopped onion and minced garlic. Mix well.",
+    "Add the sirloin steak tips to the marinade and mix until they are evenly coated. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the steak tips from the marinade and transfer them to a baking sheet lined with parchment paper. Roast in the preheated oven for 12-15 minutes per side, or until cooked to your desired level of doneness.",
+    "While the steak is cooking, heat the remaining marinade in a saucepan over medium heat. Bring to a simmer and cook for 5-7 minutes, or until slightly thickened.",
+    "To serve, place the roasted steak tips on a plate and spoon some of the sauce over the top. Serve with steamed vegetables or rice, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "steak",
+    "dinner",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indian-sirloin-steak-tips-rajma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:17:21.119Z"
+}
