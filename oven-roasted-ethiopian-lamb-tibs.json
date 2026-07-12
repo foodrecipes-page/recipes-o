@@ -1,0 +1,90 @@
+{
+  "slug": "oven-roasted-ethiopian-lamb-tibs",
+  "title": "Lamb Tibs",
+  "description": "A traditional Ethiopian lamb dish, cooked in a spicy onion and pepper sauce, served hot with roasted vegetables.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, combine lamb, berbere spice, and garlic. Mix well.",
+    "3. Heat olive oil in a large skillet over medium-high heat. Add the lamb and cook until browned, about 5 minutes.",
+    "4. Transfer the lamb to a baking dish and set aside.",
+    "5. In the same skillet, add the onions and bell peppers. Cook until the vegetables are tender, about 5 minutes.",
+    "6. Stir in the ginger and tomato paste. Cook for 1 minute.",
+    "7. Add the chicken broth to the skillet and bring to a simmer.",
+    "8. Return the lamb to the skillet and transfer to the preheated oven.",
+    "9. Roast the lamb in the oven for 30 minutes, or until cooked through.",
+    "10. Serve the lamb hot with the roasted vegetables and sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "ethiopian",
+    "roasted",
+    "oven-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-ethiopian-lamb-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:22:35.673Z"
+}
