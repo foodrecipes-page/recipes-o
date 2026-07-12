@@ -1,0 +1,73 @@
+{
+  "slug": "outdoor-croatian-saskatoon-berry-skewers",
+  "title": "Grilled Saskatoon Berry Skewers with Outdoor Croatian Twist",
+  "description": "A sweet and savory summer treat featuring fresh Saskatoon berries, marinated in a zesty outdoor-inspired Croatian sauce and grilled to perfection on skewers.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup, fresh"
+    },
+    {
+      "name": "Outdoor Croatian sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for ingredients and instructions"
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Thread Saskatoon berries, pineapple chunks, red onion, and bell pepper onto skewers.",
+    "In a small bowl, whisk together Outdoor Croatian sauce ingredients (see below).",
+    "Brush skewers with olive oil and season with Outdoor Croatian sauce.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until vegetables are tender.",
+    "Serve immediately, garnished with additional Saskatoon berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "croatian",
+    "summer",
+    "skewers",
+    "saskatoon-berry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-croatian-saskatoon-berry-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:02:34.601Z"
+}
