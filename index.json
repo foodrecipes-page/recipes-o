@@ -2666,17 +2666,14 @@
   },
   {
     "slug": "old-fashioned-pillowy-ukrainian-mushroom-dumplings",
-    "title": "Ukrainian Mushroom Dumplings",
+    "title": "Traditional Ukrainian Dumplings with Mushroom Gravy",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
-      "mushroom-based",
-      "one-pot",
-      "ukrainian-cuisine",
-      "vegetarian"
+      "ukrainian",
+      "dumplings",
+      "mushroom gravy"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -7198,16 +7195,16 @@
   },
   {
     "slug": "outstandingly-crunchy-brazilian-chicken-skewers",
-    "title": "Brazilian Chicken Skewers",
+    "title": "Brazilian-Style Chicken Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "gluten-free",
       "grilled",
-      "high-protein",
-      "low-lactose"
+      "chicken",
+      "skewers",
+      "brazilian",
+      "bbq"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 31,
     "shard": "o"
   },
   {
@@ -7498,16 +7495,15 @@
   },
   {
     "slug": "outstandingly-oven-roasted-american-beef-burger",
-    "title": "Outstandingly Oven Roasted American Beef Burger",
+    "title": "Oven Roasted American Beef Burger",
     "tags": [
-      "american-classic",
-      "date-night",
-      "gluten-free",
-      "high-protein",
-      "whole30"
+      "beef",
+      "burger",
+      "oven-roasted",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -11090,17 +11086,16 @@
   },
   {
     "slug": "oven-roasted-malaysian-deodeok-root-skewers",
-    "title": "Oven Roasted Malaysian Deodeok Root Skewers",
+    "title": "Malaysian Deodeok Skewers",
     "tags": [
-      "deodeok-root",
-      "easy-dinner",
-      "malaysian-cuisine",
-      "oven-roasted",
-      "skewers",
-      "vegetarian-friendly"
+      "malaysian",
+      "roasted",
+      "deodeok",
+      "root",
+      "skewers"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
