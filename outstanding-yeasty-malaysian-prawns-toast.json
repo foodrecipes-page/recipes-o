@@ -1,0 +1,69 @@
+{
+  "slug": "outstanding-yeasty-malaysian-prawns-toast",
+  "title": "Prawn Toast with Malaysian Twist",
+  "description": "A fusion of Asian flavors with a crispy twist, perfect for a snack or appetizer. ",
+  "cuisine": "malaysian",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "outstanding",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Devein and chop prawns into small pieces.",
+    "In a bowl, mix prawns with outstanding and yeasty.",
+    "Butter toast slices.",
+    "Spoon prawn mixture onto toast slices.",
+    "Season with salt and pepper to taste.",
+    "Bake in the oven for 8-10 minutes, or until crispy and golden brown.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "seafood",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-yeasty-malaysian-prawns-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:10:34.578Z"
+}
