@@ -1,0 +1,88 @@
+{
+  "slug": "outstandingly-oven-roasted-american-beef-burger",
+  "title": "Oven Roasted American Beef Burger",
+  "description": "A classic American style beef burger, oven roasted to perfection. This recipe yields a juicy and flavorful burger that's perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American Beef Patties (4-6 oz each)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Oven Roasted Burger Buns",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Roasted American Cheese (such as cheddar or American)",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Pickles",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mayonnaise or spread of choice",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season beef patties with salt and pepper.",
+    "Place beef patties on a baking sheet lined with parchment paper.",
+    "Place oven roasted burger buns on a separate baking sheet.",
+    "Roast in the preheated oven for 12-15 minutes or until the burger is cooked to your desired level of doneness.",
+    "Meanwhile, toast the oven roasted burger buns in the oven for 2-3 minutes.",
+    "Assemble the burgers by spreading mayonnaise or spread of choice on the bottom bun, followed by a beef patty, a slice of roasted American cheese, lettuce, tomato, onion, pickles, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "burger",
+    "oven-roasted",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-oven-roasted-american-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:34:36.173Z"
+}
