@@ -1,0 +1,76 @@
+{
+  "slug": "oozy-cheesy-norwegian-cheese-casserole",
+  "title": "Cheesy Norwegian Casserole",
+  "description": "A hearty, cheesy casserole with a norwegian twist.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 package"
+    },
+    {
+      "name": "Norwegian Bread Crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "In a separate bowl, mix together the cheese, milk, and eggs.",
+    "Add the casserole package to the bowl and stir until combined.",
+    "Add the sautéed onion and garlic to the bowl and stir until combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Top with Norwegian bread crumbs and butter.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "casserole",
+    "norwegian",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-cheesy-norwegian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:52:30.092Z"
+}
