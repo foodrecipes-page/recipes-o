@@ -1,0 +1,86 @@
+{
+  "slug": "oozy-sour-chinese-shrimp-yangzhou-fried-rice",
+  "title": "Yangzhou-Style Shrimp Fried Rice",
+  "description": "A classic Chinese dish made with succulent shrimp, savory soy sauce, and a hint of sour notes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Yangzhou rice",
+      "amount": "2 cups",
+      "notes": "day-old rice"
+    },
+    {
+      "name": "Sour soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oozy oyster sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a wok or large skillet over medium-high heat.",
+    "Add 1/4 cup of chopped scallions and cook until fragrant, about 1 minute.",
+    "Add 1 pound of peeled and deveined shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the wok and set aside.",
+    "Add 2 cups of day-old Yangzhou rice to the wok and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "In a small bowl, whisk together 2 tablespoons of sour soy sauce, 1 tablespoon of oyster sauce (if using), and a pinch of salt.",
+    "Pour the soy sauce mixture over the rice and stir-fry for another minute, until the rice is well coated.",
+    "Return the cooked shrimp to the wok and stir-fry for another minute, until the shrimp and rice are well combined.",
+    "Transfer the shrimp fried rice to a serving platter and sprinkle with 1/4 cup of fried shallots.",
+    "Serve immediately and enjoy!",
+    "Optional: garnish with additional scallions and a drizzle of oyster sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "shrimp",
+    "fried-rice",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-sour-chinese-shrimp-yangzhou-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:36:15.984Z"
+}
