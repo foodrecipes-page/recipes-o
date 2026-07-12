@@ -3730,17 +3730,16 @@
   },
   {
     "slug": "oozing-slovakian-tofu-wrap",
-    "title": "Oozing Slovakian Tofu Wrap",
+    "title": "Slovakian Wrap with Tofu",
     "tags": [
-      "cheese-pull",
-      "lacto-vegetarian-friendly",
-      "quick",
       "slovakian",
-      "vegan",
-      "wrap"
+      "wrap",
+      "lunch",
+      "veggie",
+      "cheesy"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -4844,17 +4843,16 @@
   },
   {
     "slug": "oozy-mediterranean-fish-wrap",
-    "title": "Oozy Mediterranean Fish Wrap",
+    "title": "Greek Wrap with Fish",
     "tags": [
-      "easy-to-make",
+      "greek",
       "fish",
-      "healthy",
-      "lacto-vegetarian",
-      "mediterranean",
-      "one-pan"
+      "wrap",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "cuisine": "Greek",
+    "totalTimeMin": 18,
     "shard": "o"
   },
   {
@@ -11689,16 +11687,15 @@
   },
   {
     "slug": "oven-roasted-polish-pecan-tart",
-    "title": "Oven-Roasted Polish Pecan Tart",
+    "title": "Polish Pecan Tart",
     "tags": [
-      "crowd-pleaser",
-      "dessert",
-      "one-pan",
       "polish",
-      "vegetarian"
+      "pecan",
+      "tart",
+      "dessert"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 42,
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
