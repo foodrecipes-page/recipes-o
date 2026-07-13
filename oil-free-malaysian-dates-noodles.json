@@ -1,0 +1,58 @@
+{
+  "slug": "oil-free-malaysian-dates-noodles",
+  "title": "Malaysian Noodle Stir Fry",
+  "description": "Quick and easy stir-fry made with Malaysian noodles, savory free sauce, and a hint of sweetness from dates.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malaysian noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Free sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dates",
+      "amount": "4"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the free sauce and stir-fry for 1-2 minutes.",
+    "Add the cooked noodles and stir-fry for another 2-3 minutes.",
+    "Add the dates and stir-fry for 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "gluten-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-free-malaysian-dates-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:51:01.380Z"
+}
