@@ -1,0 +1,80 @@
+{
+  "slug": "orange-zest-smoky-croatian-lamb-bowl",
+  "title": "Smoky Croatian Lamb with Orange",
+  "description": "A traditional Croatian dish with a smoky twist, featuring lamb and a hint of orange.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Orange",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "Season the lamb with salt, black pepper, and smoked paprika.",
+    "Heat the olive oil in a large bowl over medium heat.",
+    "Sear the lamb on all sides until browned, about 5 minutes.",
+    "Transfer the lamb to the preheated oven and roast for 2 hours.",
+    "After 2 hours, brush the lamb with orange juice and continue roasting for another 30 minutes.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Strain the pan juices and serve with the lamb.",
+    "Garnish with orange zest, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "lamb",
+    "orange",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-zest-smoky-croatian-lamb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:57:05.785Z"
+}
