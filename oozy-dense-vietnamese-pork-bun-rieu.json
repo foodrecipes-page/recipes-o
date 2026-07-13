@@ -1,0 +1,84 @@
+{
+  "slug": "oozy-dense-vietnamese-pork-bun-rieu",
+  "title": "Bun Rieu Recipe",
+  "description": "A hearty Vietnamese noodle soup made with pork and a flavorful broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "Bun Rieu Bun",
+      "amount": "8 ounces",
+      "notes": "Square egg noodles"
+    },
+    {
+      "name": "Dense Vietnamese Pork Stock",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Rieu Sauce",
+      "amount": "1 cup",
+      "notes": "Made with fish sauce, lime juice, and chili sauce"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Pork Rinds",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Vietnamese Herbs",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro, basil, and mint"
+    }
+  ],
+  "instructions": [
+    "1. Cook the pork in a pan until browned, breaking it up into small pieces.",
+    "2. Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "3. Add the pork rinds and cook for 1 minute.",
+    "4. Add the Vietnamese herbs and cook for 30 seconds.",
+    "5. Add the bun rieu bun to the pot and cook for 2-3 minutes, or until it is slightly softened.",
+    "6. Add the rieu sauce to the pot and stir to combine.",
+    "7. Bring the soup to a boil, then reduce the heat to a simmer.",
+    "8. Let the soup simmer for 10-15 minutes.",
+    "9. Season the soup with salt and pepper to taste.",
+    "10. Serve hot, garnished with additional Vietnamese herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-dense-vietnamese-pork-bun-rieu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:19:50.521Z"
+}
