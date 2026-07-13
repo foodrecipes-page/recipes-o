@@ -1,0 +1,88 @@
+{
+  "slug": "oven-roasted-vietnamese-pork-skewers",
+  "title": "Vietnamese Pork Skewers",
+  "description": "Marinated pork skewers roasted to perfection, inspired by the flavors of Vietnam.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, thinly sliced",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together fish sauce, lime juice, ginger, garlic, brown sugar, and black pepper.",
+    "3. Add the sliced pork to the marinade and mix until coated.",
+    "4. Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "5. Brush the skewers with vegetable oil and sprinkle with chopped peanuts.",
+    "6. Place the skewers on a baking sheet lined with parchment paper.",
+    "7. Roast in the preheated oven for 15-20 minutes, or until cooked through.",
+    "8. Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "skewers",
+    "vietnamese",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:57:46.218Z"
+}
