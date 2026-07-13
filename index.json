@@ -5000,16 +5000,15 @@
   },
   {
     "slug": "oozy-molten-norwegian-fish-skewers",
-    "title": "Oozy Molten Norwegian Fish Skewers",
+    "title": "Norwegian Fish Skewers",
     "tags": [
-      "fish-friendly",
-      "grilled",
-      "norwegian",
-      "seafood",
-      "special-occasion"
+      "fish",
+      "grill",
+      "easy",
+      "scandinavian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "scandinavian",
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
