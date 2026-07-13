@@ -715,17 +715,15 @@
   },
   {
     "slug": "oil-free-malaysian-dates-noodles",
-    "title": "Oil Free Malaysian Dates Noodles",
+    "title": "Malaysian Noodle Stir Fry",
     "tags": [
-      "malaysian-cuisine",
-      "noodle-dish",
-      "oil-free",
-      "quick-meal",
-      "sugar-free",
-      "vegan-friendly"
+      "malaysian",
+      "vegetarian",
+      "gluten-free",
+      "quick"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 13,
     "shard": "o"
   },
   {
@@ -4331,17 +4329,14 @@
   },
   {
     "slug": "oozy-dense-vietnamese-pork-bun-rieu",
-    "title": "Oozy Dense Vietnamese Pork Bun Rieu",
+    "title": "Bun Rieu Recipe",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "meal-prep",
-      "one-pot",
-      "spicy",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "noodle-soup",
+      "pork"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -8631,13 +8626,14 @@
   },
   {
     "slug": "oven-fried-northern-thai-mozzarella-bowl",
-    "title": "Oven-Fried Northern Thai Mozzarella Bowl",
+    "title": "Northern Thai-Style Mozzarella Bowl",
     "tags": [
       "northern-thai",
-      "lunch"
+      "mozzarella",
+      "thai-red-curry"
     ],
     "cuisine": "Northern Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
