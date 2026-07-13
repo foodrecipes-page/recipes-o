@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-filipino-red-cabbage-lumpia",
+  "title": "Filipino Roasted Cabbage Lumpia",
+  "description": "A twist on traditional lumpia, this recipe features roasted cabbage as the main filling, wrapped in a crispy lumpia wrapper and served with a side of tangy dipping sauce.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "lumpia wrapper",
+      "amount": "1 package",
+      "notes": "usually found in the frozen food section"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss shredded cabbage with 2 tbsp vegetable oil, salt, and black pepper. Spread on a baking sheet and roast for 20 minutes.",
+    "In a pan, heat 1/2 cup vegetable oil over medium heat. Add minced garlic and cook for 1 minute.",
+    "Add chopped green onions to the pan and cook for another minute.",
+    "To assemble the lumpia, lay a lumpia wrapper on a flat surface. Place a tablespoon of roasted cabbage in the center of the wrapper.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a cylinder. Repeat with the remaining wrappers and filling.",
+    "Heat 1/2 cup vegetable oil in a deep frying pan over medium-high heat. Fry the lumpia until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the lumpia on paper towels and serve hot with a side of tangy dipping sauce (such as a mixture of soy sauce, vinegar, and chili peppers).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lumpia",
+    "filipino",
+    "vegan",
+    "snack",
+    "cabbage",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-filipino-red-cabbage-lumpia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:58:04.059Z"
+}
