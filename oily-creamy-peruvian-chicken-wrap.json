@@ -1,0 +1,71 @@
+{
+  "slug": "oily-creamy-peruvian-chicken-wrap",
+  "title": "Peruvian Chicken Wrap",
+  "description": "A flavorful and spicy chicken wrap inspired by Peruvian cuisine, served with a creamy and oily sauce.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Oily dressing",
+      "amount": "2 tbsp",
+      "notes": "available as an ingredient"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1/4 cup",
+      "notes": "available as an ingredient"
+    },
+    {
+      "name": "Peruvian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the chicken breast with Peruvian seasoning.",
+    "3. Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the wrap on the grill or in a pan.",
+    "5. Spread the creamy sauce on the wrap.",
+    "6. Slice the grilled chicken and add on top of the sauce.",
+    "7. Add lettuce and tomatoes on top of the chicken.",
+    "8. Drizzle the oily dressing on top of the salad.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-creamy-peruvian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:55:34.275Z"
+}
