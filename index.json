@@ -9904,16 +9904,17 @@
   },
   {
     "slug": "oven-roasted-filipino-red-cabbage-lumpia",
-    "title": "Oven Roasted Filipino Red Cabbage Lumpia",
+    "title": "Filipino Roasted Cabbage Lumpia",
     "tags": [
-      "filipino-food",
-      "halal-friendly",
-      "lumpia-recipes",
-      "roasted-vegetables",
-      "weeknight-dinner"
+      "lumpia",
+      "filipino",
+      "vegan",
+      "snack",
+      "cabbage",
+      "roasted"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "cuisine": "filipino",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
