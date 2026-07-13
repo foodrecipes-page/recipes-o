@@ -11981,17 +11981,13 @@
     "slug": "oven-roasted-slovakian-beef-burger",
     "title": "Slovakian Beef Burger",
     "tags": [
-      "beef-burger",
-      "easy-to-make",
-      "high-protein",
-      "low-carb",
-      "one-pan-meal",
-      "robata-grill",
-      "slovakian-cuisine",
-      "weeknight-dinner"
+      "beef",
+      "burger",
+      "slovakian",
+      "roasted"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 27,
+    "cuisine": "slovakian",
+    "totalTimeMin": 32,
     "shard": "o"
   },
   {
