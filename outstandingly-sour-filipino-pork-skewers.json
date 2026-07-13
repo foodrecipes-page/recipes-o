@@ -1,0 +1,74 @@
+{
+  "slug": "outstandingly-sour-filipino-pork-skewers",
+  "title": "Filipino Pork Skewers with Sour Marinade",
+  "description": "Tender pork skewers marinated in a tangy sour mixture, grilled to perfection.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "For skewers"
+    },
+    {
+      "name": "Sour calamansi juice",
+      "amount": "1/2 cup",
+      "notes": "Filipino lime juice"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": "Mince garlic before adding"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine sour calamansi juice, garlic, and black pepper. Blend until smooth.",
+    "In a large bowl, combine pork cubes and marinade. Mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread pork cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until pork is cooked through.",
+    "Transfer skewers to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pork",
+    "grilled",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-sour-filipino-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:28:05.335Z"
+}
