@@ -5472,17 +5472,15 @@
   },
   {
     "slug": "oozy-turkish-kidney-bean-dolma",
-    "title": "Oozy Turkish Kidney Bean Dolma",
+    "title": "Oozy Bean Dolma",
     "tags": [
-      "air-fryer",
-      "claypot-cooking",
-      "comfort-food",
-      "kidney-beans",
-      "lacto-vegetarian",
-      "turkish-cuisine"
+      "turkish",
+      "dolma",
+      "veggie",
+      "beans"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
@@ -7674,17 +7672,15 @@
   },
   {
     "slug": "outstandingly-sour-filipino-pork-skewers",
-    "title": "Sour Filipino Pork Skewers",
+    "title": "Filipino Pork Skewers with Sour Marinade",
     "tags": [
-      "filipino-food",
-      "gluten-free",
-      "grilled-meats",
-      "midnight-cravings",
-      "no-onion-no-garlic",
-      "sour-dishes"
+      "filipino",
+      "pork",
+      "grilled",
+      "sour"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
