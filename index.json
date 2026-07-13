@@ -2964,16 +2964,15 @@
   },
   {
     "slug": "old-style-oven-roasted-slovakian-pork-casseroles",
-    "title": "Slovakian Pork Casserole",
+    "title": "Slovakian-Style Pork Casserole",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "one-pan",
-      "pork-recipes",
-      "slow-cooked"
+      "pork",
+      "casserole",
+      "slow-cooked",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 230,
     "shard": "o"
   },
   {
@@ -4580,14 +4579,13 @@
   },
   {
     "slug": "oozy-gooey-middle-eastern-chickpeas-tabbouleh",
-    "title": "Oozy Gooey Middle Eastern Chickpeas Tabbouleh",
+    "title": "Middle Eastern Chickpea Salad",
     "tags": [
-      "easy",
-      "gluten-free",
-      "healthy",
       "middle-eastern",
-      "plant-based",
-      "vegan"
+      "chickpea",
+      "salad",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
@@ -13018,16 +13016,14 @@
   },
   {
     "slug": "oven-roasted-vietnamese-pork-skewers",
-    "title": "Oven Roasted Vietnamese Pork Skewers",
+    "title": "Vietnamese Pork Skewers",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "oven-roasted",
-      "pork-recipes",
-      "smoky-flavors",
-      "vietnamese-cuisine"
+      "pork",
+      "skewers",
+      "vietnamese",
+      "oven-roasted"
     ],
-    "cuisine": "vietnamese",
+    "cuisine": "Vietnamese",
     "totalTimeMin": 35,
     "shard": "o"
   },
