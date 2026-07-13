@@ -1,0 +1,89 @@
+{
+  "slug": "oven-fried-northern-thai-mozzarella-bowl",
+  "title": "Northern Thai-Style Mozzarella Bowl",
+  "description": "A twist on traditional Thai dishes, this recipe combines the creaminess of mozzarella with the bold flavors of Northern Thai cuisine.",
+  "cuisine": "Northern Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh chilies",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Rice or noodles",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Northern-style sauce (or substitute with fish sauce and lime juice)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine shredded mozzarella cheese, Thai red curry paste, coconut milk, and a pinch of salt and pepper. Stir until well combined.",
+    "Add fresh basil leaves, chilies, and fried shallots to the bowl, and mix until they are evenly distributed.",
+    "Transfer the mixture to a baking dish and top with additional mozzarella cheese if desired.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "While the cheese is baking, cook rice or noodles according to package instructions.",
+    "To assemble the bowls, place a scoop of cooked rice or noodles in the bottom of a bowl, followed by the Northern Thai-style mozzarella mixture.",
+    "Drizzle with Northern-style sauce (or a substitute made from fish sauce and lime juice) and garnish with additional basil leaves and chilies if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "northern-thai",
+    "mozzarella",
+    "thai-red-curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-fried-northern-thai-mozzarella-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:58:06.644Z"
+}
