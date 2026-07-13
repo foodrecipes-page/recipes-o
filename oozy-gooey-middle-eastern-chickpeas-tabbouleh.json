@@ -1,0 +1,78 @@
+{
+  "slug": "oozy-gooey-middle-eastern-chickpeas-tabbouleh",
+  "title": "Middle Eastern Chickpea Salad",
+  "description": "A refreshing salad made with chickpeas, tabbouleh, and a hint of eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "tabbouleh",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chickpeas, tabbouleh, lemon juice, olive oil, garlic (if using), salt, and black pepper.",
+    "Mix well to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "chickpea",
+    "salad",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-gooey-middle-eastern-chickpeas-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:13:40.890Z"
+}
