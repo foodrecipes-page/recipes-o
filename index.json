@@ -1369,17 +1369,15 @@
   },
   {
     "slug": "oily-creamy-peruvian-chicken-wrap",
-    "title": "Oily Creamy Peruvian Chicken Wrap",
+    "title": "Peruvian Chicken Wrap",
     "tags": [
-      "chicken-recipes",
-      "dairy-free",
-      "gluten-free",
-      "peruvian-cuisine",
-      "spicy-food",
-      "wrap-sandwiches"
+      "peruvian",
+      "chicken",
+      "wrap",
+      "lunch"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -1524,15 +1522,15 @@
   },
   {
     "slug": "oily-fragrant-malaysian-nutmeg-bowl",
-    "title": "Oily Fragrant Malaysian Nutmeg Bowl",
+    "title": "Fragrant Malaysian Chicken Curry",
     "tags": [
-      "breakfast",
-      "dairy-free",
+      "chicken",
+      "curry",
       "malaysian",
-      "vegan-friendly"
+      "fragrant"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -1692,16 +1690,15 @@
   },
   {
     "slug": "oily-mediterranean-cannellini-beans-one-pot",
-    "title": "Oily Mediterranean Cannellini Beans One-Pot",
+    "title": "One Pot Cannellini Bean Stew",
     "tags": [
       "mediterranean",
-      "one-pot",
-      "shojin",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "cannellini-beans",
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -1746,17 +1743,13 @@
   },
   {
     "slug": "oily-monsoon-croatian-boudin-blanc-pilaf",
-    "title": "Oily Monsoon Croatian Boudin Blanc Pilaf",
+    "title": "Croatian Pilaf with Boudin and Blanc",
     "tags": [
-      "chewy",
-      "croatian",
-      "monsoon",
-      "mustardy",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "croatian-food",
+      "pilaf-recipe",
+      "boudin-recipe"
     ],
-    "cuisine": "Croatian",
+    "cuisine": "croatian",
     "totalTimeMin": 35,
     "shard": "o"
   },
