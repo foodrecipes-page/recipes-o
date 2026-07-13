@@ -1,0 +1,88 @@
+{
+  "slug": "oozy-molten-norwegian-fish-skewers",
+  "title": "Norwegian Fish Skewers",
+  "description": "A delicious and easy-to-make dish featuring Norwegian fish paired with a sweet and tangy glaze, perfect for a quick lunch or dinner.",
+  "cuisine": "scandinavian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian fish fillets",
+      "amount": "1 pound",
+      "notes": "You can use other white fish fillets if Norwegian fish is not available."
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grate the ginger or use ginger paste."
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic is fine too."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Use sea salt or kosher salt."
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together soy sauce, brown sugar, ginger, and garlic.",
+    "Add the fish fillets to the bowl and coat with the glaze.",
+    "Thread the fish onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "Serve hot with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "grill",
+    "easy",
+    "scandinavian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-molten-norwegian-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:44:54.049Z"
+}
