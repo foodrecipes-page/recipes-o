@@ -1,0 +1,68 @@
+{
+  "slug": "oily-monsoon-croatian-boudin-blanc-pilaf",
+  "title": "Croatian Pilaf with Boudin and Blanc",
+  "description": "A flavorful pilaf dish from Croatia featuring spicy boudin and savory blanc. Perfect for a hearty lunch or dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boudin",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably Croatian rice blend"
+    },
+    {
+      "name": "blanc",
+      "amount": "250g",
+      "notes": "sliced or chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "monsoon",
+      "amount": "1 tsp",
+      "notes": "dried or fresh, for flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium heat.",
+    "2. Add boudin and cook until browned, breaking it apart with a spoon.",
+    "3. Add pilaf to the skillet and stir to combine with boudin.",
+    "4. Add blanc to the skillet and stir-fry until vegetables are tender.",
+    "5. Add monsoon to the skillet and stir-fry for 1 minute.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve hot, garnished with additional monsoon if desired.",
+    "8. Prepare any additional sides, such as a green salad or steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-food",
+    "pilaf-recipe",
+    "boudin-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-monsoon-croatian-boudin-blanc-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:13:31.523Z"
+}
