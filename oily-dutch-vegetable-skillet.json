@@ -1,0 +1,55 @@
+{
+  "slug": "oily-dutch-vegetable-skillet",
+  "title": "Pan-Seared Dutch Potatoes",
+  "description": "A simple recipe to pan-sear Dutch potatoes with a crispy exterior and a fluffy interior.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dutch potatoes",
+      "amount": "4 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a skillet over medium-high heat.",
+    "Add the Dutch potatoes to the skillet and cook for 5 minutes on each side, or until golden brown.",
+    "Reduce heat to medium-low and continue cooking for an additional 10-12 minutes, or until the potatoes are cooked through.",
+    "Remove the potatoes from the skillet and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "potatoes",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-dutch-vegetable-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:16:38.381Z"
+}
