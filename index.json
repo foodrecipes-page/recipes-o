@@ -898,17 +898,16 @@
   },
   {
     "slug": "oil-infused-indian-tahini-curry",
-    "title": "Oil Infused Indian Tahini Curry",
+    "title": "Creamy Indian Curry Sauce",
     "tags": [
-      "copper-pot",
-      "festive",
-      "indian-cuisine",
-      "kosher",
-      "maharashtrian",
-      "vegetarian"
+      "indian",
+      "creamy",
+      "curry",
+      "sauce",
+      "dip"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 17,
     "shard": "o"
   },
   {
@@ -4557,16 +4556,14 @@
   },
   {
     "slug": "oozy-gooey-kenyan-pistachio-toast",
-    "title": "Oozy Gooey Kenyan Pistachio Toast",
+    "title": "Pistachio Crunch Toast",
     "tags": [
-      "easy-snack",
-      "gluten-free",
-      "kenyan",
-      "kid-friendly",
-      "pistachio",
-      "snack-time"
+      "breakfast",
+      "snack",
+      "crunchy",
+      "easy"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": null,
     "totalTimeMin": 15,
     "shard": "o"
   },
