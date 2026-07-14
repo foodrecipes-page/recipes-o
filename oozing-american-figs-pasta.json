@@ -1,0 +1,58 @@
+{
+  "slug": "oozing-american-figs-pasta",
+  "title": "Creamy Fig Pasta",
+  "description": "A rich and indulgent pasta dish featuring caramelized figs and a creamy sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "american",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "figs",
+      "amount": "6-8",
+      "notes": "canned in syrup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, caramelize the figs over medium heat until they're golden brown.",
+    "In a blender or food processor, combine the american, cooked pasta, and caramelized figs.",
+    "Blend the mixture until it's smooth and creamy.",
+    "Return the skillet to medium heat and add the creamy pasta mixture.",
+    "Simmer the sauce over low heat, stirring constantly, until it thickens to your liking.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve the creamy fig pasta hot, garnished with additional figs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cream-based",
+    "dinner",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-american-figs-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:04:51.102Z"
+}
