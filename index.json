@@ -5132,16 +5132,14 @@
   },
   {
     "slug": "oozy-savory-cucumber-salad",
-    "title": "Oozy Savory Cucumber Salad",
+    "title": "Savory Cucumber Salad",
     "tags": [
-      "light",
-      "monsoon",
-      "ozzy",
-      "savory",
-      "shojin-friendly"
+      "salad",
+      "easy",
+      "veggie"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "o"
   },
   {
@@ -11615,17 +11613,15 @@
   },
   {
     "slug": "oven-roasted-polish-lamb-skewers",
-    "title": "Oven Roasted Polish Lamb Skewers",
+    "title": "Polish Lamb Skewers",
     "tags": [
-      "high-protein",
-      "kid-friendly",
-      "lamb-recipes",
-      "one-pan",
-      "polish-cuisine",
-      "weeknight"
+      "lamb",
+      "polish",
+      "skewers",
+      "oven-roasted"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -13479,14 +13475,13 @@
   },
   {
     "slug": "oven-toasted-moroccan-pecan-tagine",
-    "title": "Oven Toasted Moroccan Pecan Tagine",
+    "title": "Moroccan Pecan Tagine",
     "tags": [
-      "low-calorie",
-      "moroccan-inspired",
-      "nutty",
-      "oven-toasted",
-      "vegetarian",
-      "weeknight"
+      "sweet",
+      "moroccan",
+      "pecan",
+      "tagine",
+      "dessert"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 45,
