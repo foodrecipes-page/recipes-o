@@ -1,0 +1,89 @@
+{
+  "slug": "outstandingly-fluffy-indian-bananas-tikka-masala",
+  "title": "Tikka Masala Banana Pancakes",
+  "description": "A sweet twist on traditional Indian street food, these fluffy pancakes are infused with the flavors of tikka masala and topped with caramelized bananas.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon tikka masala spice mix",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 ripe bananas, sliced",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together milk, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "While the pancakes are cooking, caramelize the bananas by cooking them in a skillet over medium heat for 2-3 minutes on each side.",
+    "Serve the pancakes hot with caramelized bananas on top and a sprinkle of tikka masala spice mix."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "breakfast",
+    "pancakes",
+    "tikka-masala"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-fluffy-indian-bananas-tikka-masala",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:57:40.533Z"
+}
