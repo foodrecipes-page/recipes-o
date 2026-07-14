@@ -1,0 +1,79 @@
+{
+  "slug": "oven-roasted-german-pork-skillet",
+  "title": "German-Style Roasted Pork Chops",
+  "description": "Tender and juicy pork chops roasted to perfection with a blend of traditional German spices, perfect for a hearty dinner.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4",
+      "notes": "1 1/2 pounds, 1-inch thick"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the pork chops and pat them dry with paper towels.",
+    "In a small bowl, mix together salt, black pepper, garlic powder, and dried thyme.",
+    "Brush the pork chops with olive oil and sprinkle the spice mixture evenly over both sides.",
+    "Place the pork chops on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes or until the internal temperature reaches 145°F (63°C).",
+    "While the pork chops are roasting, mix together brown sugar and 1 tablespoon of water to make a glaze.",
+    "After 15 minutes of roasting, brush the glaze over the pork chops.",
+    "Continue roasting for an additional 5-10 minutes or until the glaze is caramelized and the internal temperature reaches 145°F (63°C).",
+    "Remove the pork chops from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "roasted",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-german-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:07:19.714Z"
+}
