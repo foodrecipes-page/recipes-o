@@ -1,0 +1,72 @@
+{
+  "slug": "oyster-crumble-bliss",
+  "title": "Crispy Oyster Crumble Bliss Bites",
+  "description": "Crispy oyster bites with a crumbly topping, inspired by the flavors of bliss.",
+  "cuisine": "seafood",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "1 dozen",
+      "notes": "Shucked and patted dry"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "bliss",
+      "amount": "2 tbsp",
+      "notes": "Bliss seasoning blend"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together the crumble, bliss, and a pinch of salt and pepper.",
+    "Add the oysters to the bowl and gently toss to coat with the crumble mixture.",
+    "Arrange the oysters on a baking sheet lined with parchment paper.",
+    "Dot the top of each oyster with a pat of butter.",
+    "Bake for 8-10 minutes, or until the crust is golden brown and the oysters are cooked through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oyster-crumble-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:20:39.878Z"
+}
