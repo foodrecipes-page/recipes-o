@@ -1,0 +1,72 @@
+{
+  "slug": "oil-infused-indian-tahini-curry",
+  "title": "Creamy Indian Curry Sauce",
+  "description": "A rich and creamy sauce infused with Indian spices, perfect as a dip or accompaniment to your favorite dishes. This sauce is easy to make and can be customized to your taste.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a small saucepan over medium heat.",
+    "Add the curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add the tahini, lemon juice, garlic, and ginger. Whisk until smooth.",
+    "Reduce heat to low and simmer for 5-7 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "creamy",
+    "curry",
+    "sauce",
+    "dip"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-indian-tahini-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:21:25.389Z"
+}
