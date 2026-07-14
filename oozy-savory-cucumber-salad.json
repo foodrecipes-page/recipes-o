@@ -1,0 +1,53 @@
+{
+  "slug": "oozy-savory-cucumber-salad",
+  "title": "Savory Cucumber Salad",
+  "description": "A refreshing salad made with cucumber, oozy cheese, and a savory twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "oozy",
+      "amount": "8 oz",
+      "notes": "softened goat cheese"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens and sliced cucumber.",
+    "2. Crumbling the softened goat cheese into a bowl, add to the mix.",
+    "3. Drizzle with your favorite salad dressing and toss to coat.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "easy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-savory-cucumber-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:56:29.357Z"
+}
