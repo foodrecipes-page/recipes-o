@@ -1,0 +1,61 @@
+{
+  "slug": "oozy-gooey-kenyan-pistachio-toast",
+  "title": "Pistachio Crunch Toast",
+  "description": "A simple and crunchy snack made with pistachios and toast.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pistachios",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 tsp",
+      "notes": "seasoning of choice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Place the pistachios on a baking sheet and toast for 5-7 minutes, or until lightly browned.",
+    "3. Meanwhile, toast the bread slices until lightly browned.",
+    "4. Sprinkle the toasted pistachios over the toast slices.",
+    "5. Sprinkle Kenyan seasoning and salt to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "crunchy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-gooey-kenyan-pistachio-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:58:29.243Z"
+}
