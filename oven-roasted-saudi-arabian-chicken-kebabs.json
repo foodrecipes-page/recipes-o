@@ -1,0 +1,94 @@
+{
+  "slug": "oven-roasted-saudi-arabian-chicken-kebabs",
+  "title": "Saudi Arabian Chicken Kebabs",
+  "description": "A flavorful and aromatic dish inspired by the cuisine of Saudi Arabia, featuring marinated chicken kebabs roasted to perfection in the oven.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast, cut into 1-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, cayenne pepper, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the kebabs in the preheated oven for 20-25 minutes, or until the chicken is cooked through and slightly charred.",
+    "Remove the kebabs from the oven and sprinkle with chopped parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "oven-roasted",
+    "arabic-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-saudi-arabian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:39:50.498Z"
+}
