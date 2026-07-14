@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-ethiopian-beef-kitfo",
+  "title": "Ethiopian Kitfo with Roasted Vegetables",
+  "description": "A traditional Ethiopian dish made with raw ground beef and served with roasted vegetables. Kitfo is often served raw, but for food safety we are roasting the beef in the oven to an internal temperature of 160°F (71°C).",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "Make sure to handle the beef safely and cook it to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the chopped onion, bell pepper, tomato, and garlic.",
+    "Add the ground beef to the bowl and mix well.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and drizzle with olive oil.",
+    "Roast in the oven for 15-20 minutes, or until the beef reaches an internal temperature of 160°F (71°C).",
+    "While the beef is roasting, prepare the kitfo spice blend by mixing together the roasted garlic, ginger, and berbere spice.",
+    "Once the beef is cooked, let it cool slightly before mixing it with the kitfo spice blend.",
+    "Serve the kitfo with the roasted vegetables and injera bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "kitfo",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-ethiopian-beef-kitfo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:43:29.758Z"
+}
