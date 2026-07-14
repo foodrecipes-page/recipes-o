@@ -1,0 +1,88 @@
+{
+  "slug": "oozie-wilted-menemen-eggplant-omelette",
+  "title": "Menemen Eggplant Delight",
+  "description": "A flavorful and nutritious recipe combining the rich taste of menemen with the tender eggplant for a delightful dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "salted and drained"
+    },
+    {
+      "name": "Menemen",
+      "amount": "2 tablespoons",
+      "notes": "spicy tomato paste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 400°F (200°C).",
+    "2. Cut the eggplant into 1/2-inch thick rounds.",
+    "3. Brush both sides of the eggplant slices with olive oil and season with salt and pepper.",
+    "4. Place the eggplant slices on a baking sheet lined with parchment paper.",
+    "5. Bake the eggplant for 20-25 minutes or until it is tender and lightly browned.",
+    "6. In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "7. Add the chopped onion and cook until it is translucent, about 3-4 minutes.",
+    "8. Add the minced garlic and cook for another minute.",
+    "9. Stir in the menemen (spicy tomato paste) and cook for 1-2 minutes.",
+    "10. Once the eggplant is done, remove it from the oven and let it cool slightly.",
+    "11. Add the cooked eggplant slices to the skillet with the menemen mixture and toss to coat.",
+    "12. Season with salt and pepper to taste, then garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "menemen",
+    "vegetarian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozie-wilted-menemen-eggplant-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:48:47.724Z"
+}
