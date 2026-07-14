@@ -1297,18 +1297,16 @@
   },
   {
     "slug": "oily-brazilian-herbal-juicy-tart",
-    "title": "Brazilian Herbal Tart",
+    "title": "Brazilian Grilled Skewers with Chimichurri",
     "tags": [
-      "gluten-free",
-      "herbs",
-      "high-protein",
-      "one-pan",
-      "summer-dinner",
-      "vegan-friendly",
-      "weeknight"
+      "brazilian",
+      "grilled",
+      "skewers",
+      "chimichurri",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
@@ -11832,17 +11830,15 @@
   },
   {
     "slug": "oven-roasted-saudi-arabian-chicken-kebabs",
-    "title": "Oven Roasted Saudi Arabian Chicken Kebabs",
+    "title": "Saudi Arabian Chicken Kebabs",
     "tags": [
-      "chicken-kebabs",
-      "easy-dinner",
-      "kid-friendly",
-      "middle-eastern",
+      "chicken",
+      "kebabs",
       "oven-roasted",
-      "sugar-free"
+      "arabic-cuisine"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -13334,17 +13330,15 @@
   },
   {
     "slug": "oven-steamed-egyptian-penne-rigate-pasta",
-    "title": "Oven Steamed Egyptian Penne Rigate Pasta",
+    "title": "Egyptian Pasta Bake",
     "tags": [
-      "easy-dinner",
-      "mediterranean-inspired",
-      "one-pan",
-      "pasta-lovers",
-      "vegetarian-friendly",
-      "weeknight"
+      "pasta",
+      "egyptian",
+      "tomato-sauce",
+      "cheese"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
