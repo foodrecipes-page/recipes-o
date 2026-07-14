@@ -1,0 +1,93 @@
+{
+  "slug": "old-fashioned-syrian-navy-beans-stew",
+  "title": "Hearty Bean Stew",
+  "description": "A comforting and flavorful stew made with a variety of beans. Perfect for a chilly evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Navy Beans",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "Old Fashioned Oats",
+      "amount": "1/2 cup rolled",
+      "notes": ""
+    },
+    {
+      "name": "Syrian Stew",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, sauté the onion, garlic, carrots, and celery in a little bit of oil until tender.",
+    "Add the navy beans, old fashioned oats, Syrian stew, tomato paste, beef broth, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30-40 minutes, or until the beans are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "bean-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-syrian-navy-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:16:29.733Z"
+}
