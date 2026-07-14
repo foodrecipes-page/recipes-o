@@ -1,0 +1,93 @@
+{
+  "slug": "old-fashioned-russian-chuck-roast-stew",
+  "title": "Russian Chuck Roast Stew",
+  "description": "A hearty, comforting stew made with tender chunks of chuck roast and a rich, flavorful broth.",
+  "cuisine": "russian",
+  "diet": [
+    "comfort food"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1.5 pounds",
+      "notes": "preferably with some marbling"
+    },
+    {
+      "name": "old fashioned vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the roast"
+    },
+    {
+      "name": "russian beef broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "2 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "diced potato",
+      "amount": "2 large",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "beef stew seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the chuck roast with salt and pepper.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the roast on all sides until browned, about 2-3 minutes per side.",
+    "Remove the roast from the pot and set it aside.",
+    "Add the diced onion to the pot and cook until it's softened and lightly browned, about 5 minutes.",
+    "Add the diced carrot and cook for another 5 minutes.",
+    "Add the diced potato, beef broth, and beef stew seasoning to the pot.",
+    "Return the roast to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 to 3 hours, or until the roast is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort-food",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-russian-chuck-roast-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:53:12.696Z"
+}
