@@ -1,0 +1,80 @@
+{
+  "slug": "oven-braised-filipino-callaloo-stew",
+  "title": "Braised Callaloo Stew",
+  "description": "A hearty, comforting stew from the Philippines made with tender callaloo and flavorful braised beef.",
+  "cuisine": "filipino",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Beef (pork or beef stew meat)",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add beef and cook until browned on all sides, about 5 minutes.",
+    "3. Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "4. Add callaloo, tomatoes, salt, black pepper, and bay leaves.",
+    "5. Bring stew to a boil, then cover and transfer to the preheated oven.",
+    "6. Braise for 1 1/2 to 2 hours, or until callaloo is tender.",
+    "7. Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "filipino",
+    "stew",
+    "callaloo",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-braised-filipino-callaloo-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:43:47.976Z"
+}
