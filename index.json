@@ -10116,16 +10116,14 @@
   },
   {
     "slug": "oven-roasted-german-pork-skillet",
-    "title": "Oven Roasted German Pork Skillet",
+    "title": "German-Style Roasted Pork Chops",
     "tags": [
-      "german-cuisine",
-      "high-protein",
-      "mediterranean-friendly",
-      "one-pan",
-      "weeknight"
+      "german",
+      "roasted",
+      "pork"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
