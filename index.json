@@ -1182,17 +1182,14 @@
   },
   {
     "slug": "oily-asian-shrimp-spring-rolls",
-    "title": "Oily Asian Shrimp Spring Rolls",
+    "title": "Pan-Seared Shrimp Spring Rolls",
     "tags": [
-      "appetizer",
-      "asian-inspired",
-      "deep-fried",
-      "party-food",
-      "pescatarian",
-      "seafood"
+      "asian",
+      "seafood",
+      "snack"
     ],
-    "cuisine": "Asian",
-    "totalTimeMin": 35,
+    "cuisine": "asian",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -3218,18 +3215,15 @@
   },
   {
     "slug": "oozie-wilted-menemen-eggplant-omelette",
-    "title": "Oozie Wilted Menemen Eggplant Omelette",
+    "title": "Menemen Eggplant Delight",
     "tags": [
-      "cajunseasoned",
-      "energizingmenemen",
-      "ovemenemen",
-      "ozoneplant",
-      "turkishdinner",
+      "eggplant",
+      "menemen",
       "vegetarian",
-      "wineymenemen"
+      "breakfast"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
