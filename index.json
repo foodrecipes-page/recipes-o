@@ -2686,17 +2686,15 @@
   },
   {
     "slug": "old-fashioned-russian-chuck-roast-stew",
-    "title": "Old Fashioned Russian Chuck Roast Stew",
+    "title": "Russian Chuck Roast Stew",
     "tags": [
+      "beef",
+      "stew",
       "comfort-food",
-      "hearty-stew",
-      "lacto-vegetarian",
-      "russian-cuisine",
-      "slow-cooked",
-      "winter-meal"
+      "russian-cuisine"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 210,
+    "cuisine": "russian",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
