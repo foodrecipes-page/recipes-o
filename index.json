@@ -2554,18 +2554,14 @@
   },
   {
     "slug": "old-fashioned-kenyan-lamb-stew",
-    "title": "Old Fashioned Kenyan Lamb Stew",
+    "title": "Kenyan Lamb Stew",
     "tags": [
-      "crumbly",
-      "garlicky",
-      "gluten-free",
-      "kenyan-cuisine",
-      "lamb-stew",
-      "monsoon-recipe",
-      "sugar-free"
+      "kenyan",
+      "lamb",
+      "stew"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 140,
+    "totalTimeMin": 180,
     "shard": "o"
   },
   {
@@ -3568,17 +3564,14 @@
   },
   {
     "slug": "oozing-mediterranean-shoyu-koji-falafel",
-    "title": "Oozing Mediterranean Shoyu-Koji Falafel",
+    "title": "Koji Falafel with Mediterranean Sauce",
     "tags": [
-      "falafel",
+      "vegan",
       "gluten-free",
-      "mediterranean",
-      "party-appetizer",
-      "street-food",
-      "vegan"
+      "koji-falafel"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -8231,17 +8224,16 @@
   },
   {
     "slug": "oven-braised-filipino-callaloo-stew",
-    "title": "Oven Braised Filipino Callaloo Stew",
+    "title": "Braised Callaloo Stew",
     "tags": [
-      "cheese-pull",
+      "braised",
       "filipino",
-      "low-glycemic",
-      "one-pan",
-      "oven-braised",
-      "post-workout"
+      "stew",
+      "callaloo",
+      "beef"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 47,
+    "cuisine": "filipino",
+    "totalTimeMin": 105,
     "shard": "o"
   },
   {
