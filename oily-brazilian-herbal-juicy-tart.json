@@ -1,0 +1,78 @@
+{
+  "slug": "oily-brazilian-herbal-juicy-tart",
+  "title": "Brazilian Grilled Skewers with Chimichurri",
+  "description": "A delicious and easy-to-make Brazilian-inspired dish featuring grilled skewers with a tangy and herby chimichurri sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Red bell peppers",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Herbs (such as oregano, thyme, and parsley)",
+      "amount": "2 tablespoons, chopped",
+      "notes": null
+    },
+    {
+      "name": "Tart lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Oily olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together olive oil, lime juice, herbs, salt, and pepper.",
+    "3. Thread mushrooms, bell peppers, and onions onto skewers.",
+    "4. Grill skewers for 8-10 minutes, turning occasionally.",
+    "5. Brush chimichurri sauce onto skewers during the last 2 minutes of grilling.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "skewers",
+    "chimichurri",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-brazilian-herbal-juicy-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:30:44.917Z"
+}
