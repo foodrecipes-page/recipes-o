@@ -1,0 +1,91 @@
+{
+  "slug": "oven-steamed-egyptian-penne-rigate-pasta",
+  "title": "Egyptian Pasta Bake",
+  "description": "A classic Egyptian-inspired pasta bake made with penne pasta, topped with a flavorful tomato sauce and melted cheese.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz (225g)",
+      "notes": "penne pasta"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups (475 ml)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "for brushing pasta"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp (5g)",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for pasta water and seasoning"
+    },
+    {
+      "name": "Grated mozzarella cheese",
+      "amount": "1 cup (115g)",
+      "notes": "optional"
+    },
+    {
+      "name": "Grated parmesan cheese",
+      "amount": "1/2 cup (55g)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the penne pasta in a large pot of boiling salted water until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1 minute.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Stir in the tomato sauce, cumin (if using), and reserved pasta water. Bring the sauce to a simmer and cook for 5 minutes.",
+    "In a large mixing bowl, combine the cooked pasta, tomato sauce mixture, and chopped onion. Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with grated mozzarella and parmesan cheese (if using).",
+    "Cover the baking dish with aluminum foil and bake for 20-25 minutes.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "egyptian",
+    "tomato-sauce",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "23g",
+    "carbs": "65g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-steamed-egyptian-penne-rigate-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:16:53.662Z"
+}
