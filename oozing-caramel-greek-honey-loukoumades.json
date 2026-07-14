@@ -1,0 +1,58 @@
+{
+  "slug": "oozing-caramel-greek-honey-loukoumades",
+  "title": "Loukoumades with Honey-Caramel Sauce",
+  "description": "Crispy Greek doughnuts served with a sweet and sticky honey-caramel sauce. Perfect for a dessert or snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Loukoumades dough (Greek doughnuts)",
+      "amount": "1 batch",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Caramel syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan to 375°F (190°C).",
+    "Punch down the loukoumades dough and let it rest for 10 minutes.",
+    "Roll out the dough to about 1/4 inch thickness and use a cookie cutter to cut out circles.",
+    "Fry the loukoumades for 2-3 minutes on each side, or until golden brown.",
+    "Drain the loukoumades on paper towels.",
+    "In a small saucepan, heat the honey and caramel syrup over low heat.",
+    "Stir until the sauce is smooth and warm.",
+    "Dip the fried loukoumades in the honey-caramel sauce and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "loukoumades",
+    "honey-caramel"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-caramel-greek-honey-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:50:29.336Z"
+}
