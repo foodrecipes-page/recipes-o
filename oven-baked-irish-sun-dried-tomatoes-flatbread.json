@@ -1,0 +1,80 @@
+{
+  "slug": "oven-baked-irish-sun-dried-tomatoes-flatbread",
+  "title": "Irish Baked Flatbread with Dried Tomatoes",
+  "description": "A simple and flavorful flatbread recipe featuring dried tomatoes and a touch of Irish charm.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the dried tomatoes into small pieces and set aside.",
+    "Roll out the flatbread to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the flatbread to a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the flatbread, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Sprinkle the sea salt, garlic powder, and dried tomatoes over the flatbread.",
+    "Bake the flatbread in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "Remove the flatbread from the oven and top with chopped fresh basil, Parmesan cheese (if using), and a drizzle of balsamic vinegar.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "oven-baked",
+    "flatbread",
+    "dried-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-irish-sun-dried-tomatoes-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:33:50.472Z"
+}
