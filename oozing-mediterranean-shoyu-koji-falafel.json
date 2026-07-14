@@ -1,0 +1,88 @@
+{
+  "slug": "oozing-mediterranean-shoyu-koji-falafel",
+  "title": "Koji Falafel with Mediterranean Sauce",
+  "description": "A twist on traditional falafel with a boost of umami from koji, served with a creamy mediterranean sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup dried chickpeas",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup koji powder",
+      "amount": "",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "1/4 cup mediterranean oregano",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup shoyu",
+      "amount": "",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup falafel",
+      "amount": "",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak chickpeas in water overnight. Drain and rinse.",
+    "Preheat oven to 375°F (190°C).",
+    "In a food processor, combine chickpeas, koji powder, oregano, garlic, shoyu, and olive oil. Process until coarsely ground.",
+    "Using your hands, shape mixture into patties.",
+    "Bake for 20 minutes or until golden brown.",
+    "While falafel bakes, warm mediterranean sauce in a small saucepan over low heat.",
+    "Assemble falafel in a pita with warmed sauce and additional toppings, if desired.",
+    "Serve immediately and enjoy!",
+    "Note: For a crisper exterior, pan-fry for 3-4 minutes per side after baking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "koji-falafel"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-mediterranean-shoyu-koji-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:37:01.517Z"
+}
