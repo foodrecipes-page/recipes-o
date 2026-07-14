@@ -1,0 +1,94 @@
+{
+  "slug": "old-fashioned-kenyan-lamb-stew",
+  "title": "Kenyan Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, featuring tender lamb and a rich blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1.5 inch cubes"
+    },
+    {
+      "name": "Old fashioned mustard",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Kenyan stew spice mix",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium. Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the Kenyan stew spice mix and cook for 1 minute.",
+    "Add the sliced carrots and potatoes, cooking for 5 minutes.",
+    "Add the browned lamb, beef broth, and red wine. Bring to a boil, then cover and transfer to the oven.",
+    "Bake for 2 hours at 300°F or until the lamb is tender.",
+    "Stir in the canned tomatoes and cook for an additional 30 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "kenyan",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-kenyan-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:49:09.427Z"
+}
