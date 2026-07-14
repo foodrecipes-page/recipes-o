@@ -1465,17 +1465,15 @@
   },
   {
     "slug": "oily-dutch-vegetable-skillet",
-    "title": "Oily Dutch Vegetable Skillet",
+    "title": "Pan-Seared Dutch Potatoes",
     "tags": [
-      "creamy",
-      "flexitarian",
-      "one-pan",
-      "spicy",
-      "vegetarian",
-      "weeknight"
+      "dutch",
+      "potatoes",
+      "breakfast",
+      "vegetarian"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -9562,16 +9560,15 @@
   },
   {
     "slug": "oven-roasted-dutch-challots-pilaf",
-    "title": "oven-roasted dutch challots pilaf",
+    "title": "Dutch Oven Roasted Challots",
     "tags": [
-      "dutch",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "dutch-oven",
+      "roasted",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 35,
+    "cuisine": "european",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
