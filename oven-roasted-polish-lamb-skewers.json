@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-polish-lamb-skewers",
+  "title": "Polish Lamb Skewers",
+  "description": "A traditional Polish dish featuring tender lamb cooked to perfection on skewers. This recipe is perfect for a summer evening or a backyard barbecue.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to trim excess fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Polish seasoning blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Roasted red peppers, sliced",
+      "amount": "1 cup",
+      "notes": "Optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "3. In a small bowl, mix together olive oil, Polish seasoning blend, and garlic. Brush mixture onto lamb cubes.",
+    "4. Season skewers with salt and pepper to taste.",
+    "5. Place skewers on a baking sheet lined with parchment paper.",
+    "6. Roast lamb skewers in the preheated oven for 15-20 minutes, or until cooked through.",
+    "7. Garnish with chopped parsley and serve with lemon wedges.",
+    "8. If using, top skewers with roasted red peppers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "polish",
+    "skewers",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-polish-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:17:43.886Z"
+}
