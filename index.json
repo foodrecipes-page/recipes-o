@@ -2806,17 +2806,14 @@
   },
   {
     "slug": "old-fashioned-syrian-navy-beans-stew",
-    "title": "Syrian Navy Beans Stew",
+    "title": "Hearty Bean Stew",
     "tags": [
-      "brunch-ideas",
-      "claypot-cooking",
-      "kosher-recipes",
-      "navy-beans",
-      "syrian-cuisine",
-      "vegetarian-stew"
+      "hearty",
+      "bean-stew",
+      "comfort-food"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 80,
+    "cuisine": "American",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
@@ -7213,17 +7210,15 @@
   },
   {
     "slug": "outstandingly-fluffy-indian-bananas-tikka-masala",
-    "title": "Outstandingly Fluffy Indian Bananas Tikka Masala",
+    "title": "Tikka Masala Banana Pancakes",
     "tags": [
-      "comfort-food",
-      "indian-cuisine",
-      "low-glycemic",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "indian",
+      "breakfast",
+      "pancakes",
+      "tikka-masala"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
