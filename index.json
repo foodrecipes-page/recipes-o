@@ -7927,17 +7927,15 @@
   },
   {
     "slug": "oven-baked-irish-sun-dried-tomatoes-flatbread",
-    "title": "Oven Baked Irish Sun Dried Tomatoes Flatbread",
+    "title": "Irish Baked Flatbread with Dried Tomatoes",
     "tags": [
+      "irish",
+      "oven-baked",
       "flatbread",
-      "flexitarian",
-      "irish-food",
-      "midnight-craving",
-      "sun-dried-tomatoes",
-      "yeasty"
+      "dried-tomatoes"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
