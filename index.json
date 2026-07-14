@@ -3326,17 +3326,15 @@
   },
   {
     "slug": "oozing-caramel-greek-honey-loukoumades",
-    "title": "Oozing Caramel Greek Honey Loukoumades",
+    "title": "Loukoumades with Honey-Caramel Sauce",
     "tags": [
-      "caramel-lovers",
-      "deep-fried",
-      "egg-free",
-      "greek-desserts",
-      "sweet-treats",
-      "vegetarian-friendly"
+      "greek",
+      "dessert",
+      "loukoumades",
+      "honey-caramel"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
