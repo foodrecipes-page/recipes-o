@@ -1,0 +1,81 @@
+{
+  "slug": "oily-asian-shrimp-spring-rolls",
+  "title": "Pan-Seared Shrimp Spring Rolls",
+  "description": "Crispy spring rolls filled with succulent shrimp and crunchy vegetables. Pan-seared to perfection with a hint of oil.",
+  "cuisine": "asian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "spring rolls",
+      "amount": "1 package",
+      "notes": "frozen"
+    },
+    {
+      "name": "oily vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the grated carrot and cook for an additional 2 minutes.",
+    "Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Soak the spring rolls in warm water for 5-7 minutes, or according to package instructions.",
+    "Pan-fry the spring rolls in the remaining 2 tablespoons of vegetable oil until crispy and golden brown, about 2-3 minutes per side.",
+    "Serve the shrimp and spring rolls hot with soy sauce and sesame oil for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-asian-shrimp-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:06:56.519Z"
+}
