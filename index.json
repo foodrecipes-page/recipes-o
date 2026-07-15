@@ -2083,17 +2083,15 @@
   },
   {
     "slug": "oily-spicy-french-cheese-gratin",
-    "title": "Oily Spicy French Cheese Gratin",
+    "title": "French Cheese Gratin",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "french-cuisine",
-      "spicy",
-      "vegetarian",
-      "winter-dish"
+      "french",
+      "cheese",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
@@ -8501,16 +8499,17 @@
   },
   {
     "slug": "oven-dried-ethiopian-kale-azifa",
-    "title": "Oven Dried Ethiopian Kale Azifa",
+    "title": "Ethiopian Azifa Kale Bake",
     "tags": [
-      "african-cuisine",
-      "brunch-ideas",
-      "fermented-foods",
-      "gluten-free-recipes",
-      "vegan-recipes"
+      "ethiopian",
+      "kale",
+      "azifa",
+      "bake",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 160,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
