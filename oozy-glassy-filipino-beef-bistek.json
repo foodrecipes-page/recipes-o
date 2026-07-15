@@ -1,0 +1,60 @@
+{
+  "slug": "oozy-glassy-filipino-beef-bistek",
+  "title": "Filipino Beef Bistek",
+  "description": "A classic Filipino dish made with marinated beef, onions, and garlic, grilled to perfection. This recipe is a staple in many Filipino households, and is sure to become a favorite in yours.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bistek",
+      "amount": "2 tbsp",
+      "notes": "Filipino-style beef marinade"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine beef, onion, and garlic. Pour in bistek and mix until the beef is well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Grill the beef for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Let the beef rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the beef with the onions and garlic from the marinade, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "filipino",
+    "meat"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-glassy-filipino-beef-bistek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:20:08.399Z"
+}
