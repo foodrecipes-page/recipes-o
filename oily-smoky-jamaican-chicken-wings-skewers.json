@@ -1,0 +1,72 @@
+{
+  "slug": "oily-smoky-jamaican-chicken-wings-skewers",
+  "title": "Jamaican Chicken Wings Skewers",
+  "description": "A delicious and spicy twist on traditional chicken wings, served on skewers with a smoky Jamaican flavor.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "oily",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tablespoons",
+      "notes": "jamaican jerk seasoning"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, and jamaican jerk seasoning.",
+    "Add chicken wings to the bowl and toss to coat.",
+    "Thread chicken wings onto skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-smoky-jamaican-chicken-wings-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:40:19.859Z"
+}
