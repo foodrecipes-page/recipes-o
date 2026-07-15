@@ -2067,16 +2067,14 @@
   },
   {
     "slug": "oily-smoky-jamaican-chicken-wings-skewers",
-    "title": "Oily Smoky Jamaican Chicken Wings Skewers",
+    "title": "Jamaican Chicken Wings Skewers",
     "tags": [
-      "grilled-chicken",
-      "jamaican-cuisine",
-      "kosher-friendly",
-      "smoky-flavor",
-      "spicy-food"
+      "jamaican",
+      "grilled",
+      "chicken"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -14355,6 +14353,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 240,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-caramelized-russian-honey-bake--italian",
+    "title": "Italian Caramelized Honey Cake",
+    "tags": [
+      "italian",
+      "cake",
+      "honey",
+      "caramelized",
+      "dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-caramelized-russian-honey-bake--mexican",
+    "title": "Caramelized Honey Tacos",
+    "tags": [
+      "mexican",
+      "honey",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
