@@ -1,0 +1,76 @@
+{
+  "slug": "oven-roasted-portuguese-chicken-roast",
+  "title": "Portuguese Roasted Chicken",
+  "description": "A classic Portuguese dish, this roasted chicken is flavorful and moist. Perfect for a family dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 (3-4 pound) whole chicken",
+      "notes": "make sure it's patted dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for rubbing the chicken"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 tablespoon",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Rub the chicken with olive oil, making sure to get some under the skin as well.",
+    "Season with salt, black pepper, and minced garlic.",
+    "If using rosemary, sprinkle it over the chicken.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Baste the chicken with pan juices every 20 minutes to keep it moist.",
+    "Once the chicken is done, let it rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "roasted",
+    "chicken",
+    "oven",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-portuguese-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:22:36.950Z"
+}
