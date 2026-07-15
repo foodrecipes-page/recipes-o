@@ -1,0 +1,87 @@
+{
+  "slug": "oozing-caramelized-russian-honey-bake--mexican",
+  "title": "Caramelized Honey Tacos",
+  "description": "A sweet and savory Mexican dish featuring caramelized honey, crispy oozing cheese, and a hint of Russian spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Caramelized Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Oozing Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Monterey Jack or Queso Fresco work well"
+    },
+    {
+      "name": "Russian Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Bake Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn tortillas"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "3. Add the bake ground beef and cook until browned, breaking it up into small pieces.",
+    "4. Add the Russian Spice Blend and cook for 1 minute.",
+    "5. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the tacos by spooning the beef mixture onto a tortilla, followed by a spoonful of caramelized honey and a sprinkle of oozing cheese.",
+    "7. Garnish with chopped cilantro, if desired.",
+    "8. Serve immediately, with lime wedges on the side.",
+    "9. Cook for 15-20 minutes or until cheese is melted",
+    "10. Serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "honey",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-caramelized-russian-honey-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:37:24.091Z"
+}
