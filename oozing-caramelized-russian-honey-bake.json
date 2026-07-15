@@ -1,0 +1,65 @@
+{
+  "slug": "oozing-caramelized-russian-honey-bake",
+  "title": "Russian Honey Bake",
+  "description": "A sweet and gooey dessert that combines the flavors of Russia with a caramelized honey twist. This dish is perfect for those with a sweet tooth.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": "raw and pure"
+    },
+    {
+      "name": "caramelized",
+      "amount": "1/2 cup",
+      "notes": "from a previous baking session"
+    },
+    {
+      "name": "bake",
+      "amount": "1 sheet",
+      "notes": "unsalted and cold"
+    },
+    {
+      "name": "ozzing",
+      "amount": "1/4 cup",
+      "notes": "crushed into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Combine 1 cup of honey with 1/2 cup of caramelized ingredients in a saucepan.",
+    "Place the unsalted bake sheet in the oven for 10 minutes.",
+    "Remove the bake sheet from the oven and let it cool.",
+    "Pour the honey mixture over the cooled bake sheet.",
+    "Sprinkle crushed oozzing pieces over the top.",
+    "Return the bake sheet to the oven for an additional 5 minutes.",
+    "Remove the bake sheet from the oven and let it cool completely.",
+    "Cut the bake sheet into small squares and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "russian",
+    "honey",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-caramelized-russian-honey-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:46:14.067Z"
+}
