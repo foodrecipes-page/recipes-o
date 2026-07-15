@@ -1,0 +1,67 @@
+{
+  "slug": "oil-kissed-filipino-dried-white-corn-grill",
+  "title": "Grilled Filipino Corn with White Corn and Dried Kissed Fillet",
+  "description": "A delicious fusion of Filipino flavors with a sweet twist on grilled corn, paired with tender and flavorful dried kissed fillet.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white corn",
+      "amount": "4 ears"
+    },
+    {
+      "name": "dried kissed fillet",
+      "amount": "1 cup",
+      "notes": "soaked in water for 4 hours"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "preheated to medium heat"
+    },
+    {
+      "name": "filipino",
+      "amount": "2 tablespoons",
+      "notes": "Filipino seasoning"
+    }
+  ],
+  "instructions": [
+    "Soak the dried kissed fillet in water for 4 hours.",
+    "Preheat the grill to medium heat.",
+    "Brush the grates with oil to prevent sticking.",
+    "Grill the corn for 10-12 minutes, turning every 2 minutes until slightly charred.",
+    "Season the grilled corn with Filipino seasoning.",
+    "Grill the dried kissed fillet for 5-7 minutes per side, or until cooked through.",
+    "Serve the grilled corn with the grilled dried kissed fillet.",
+    "Optional: Add a drizzle of oil for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "corn",
+    "filipino",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-kissed-filipino-dried-white-corn-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:45:37.566Z"
+}
