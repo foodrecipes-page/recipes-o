@@ -1,0 +1,92 @@
+{
+  "slug": "outstandingly-nutty-british-lamb-tacos",
+  "title": "Lamb Tacos with Fresh Herbs",
+  "description": "A twist on traditional tacos, featuring tender lamb and a blend of fresh herbs. Serve with your favorite toppings and sides.",
+  "cuisine": "british",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound (450g)",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup (15g)",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup (15g)",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": "Corn or flour, for serving"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup (115g)",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup (240g)",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup (240g)",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine lamb pieces, taco seasoning, cilantro, parsley, and lime juice. Mix well to combine.",
+    "Heat olive oil in a large skillet over medium-high heat. Add the lamb mixture and cook until browned, about 5 minutes.",
+    "Transfer the lamb mixture to a baking dish and bake for 20-25 minutes, or until cooked through.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning lamb mixture onto a tortilla, followed by any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tacos",
+    "british",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-nutty-british-lamb-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:40:40.916Z"
+}
