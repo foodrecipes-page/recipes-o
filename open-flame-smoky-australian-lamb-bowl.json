@@ -1,0 +1,90 @@
+{
+  "slug": "open-flame-smoky-australian-lamb-bowl",
+  "title": "Smoky Lamb Skewers",
+  "description": "A classic Australian-inspired dish featuring smoky lamb skewers grilled to perfection.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Open",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "Flame",
+      "amount": "",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Smoky",
+      "amount": "",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Australian",
+      "amount": "",
+      "notes": "Inspiration for the dish"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together oil, garlic, lemon juice, and paprika.",
+    "Brush the mixture onto the lamb skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until lamb is cooked to your desired level of doneness.",
+    "Serve hot, garnished with lemon wedges and your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "lamb",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/open-flame-smoky-australian-lamb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:48:03.133Z"
+}
