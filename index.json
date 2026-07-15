@@ -3791,13 +3791,15 @@
   },
   {
     "slug": "oozing-syrian-lamb-tagine",
-    "title": "Oozing Syrian Lamb Tagine",
+    "title": "Syrian Lamb Tagine",
     "tags": [
-      "syrian",
-      "dinner"
+      "lamb",
+      "tagine",
+      "moroccan",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 150,
     "shard": "o"
   },
   {
@@ -10565,16 +10567,16 @@
   },
   {
     "slug": "oven-roasted-jamaican-fish-bake",
-    "title": "Oven-Roasted Jamaican Fish Bake",
+    "title": "Baked Jamaican Fish",
     "tags": [
-      "healthy",
+      "oven",
+      "roasted",
       "jamaican",
-      "one-pan",
-      "pescatarian",
-      "quick"
+      "fish",
+      "bake"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
@@ -11679,16 +11681,15 @@
   },
   {
     "slug": "oven-roasted-portuguese-chicken-roast",
-    "title": "Oven Roasted Portuguese Chicken Roast",
+    "title": "Portuguese Roasted Chicken",
     "tags": [
-      "chicken-roast",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "portuguese-cuisine",
-      "weeknight"
+      "portuguese",
+      "roasted",
+      "chicken",
+      "oven",
+      "roast"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 70,
     "shard": "o"
   },
