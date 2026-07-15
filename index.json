@@ -3331,17 +3331,15 @@
   },
   {
     "slug": "oozing-caramelized-russian-honey-bake",
-    "title": "Oozing Caramelized Russian Honey Bake",
+    "title": "Russian Honey Bake",
     "tags": [
-      "cinnamon-free",
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "dessert",
+      "russian",
+      "honey",
+      "caramelized"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
