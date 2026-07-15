@@ -10995,17 +10995,15 @@
   },
   {
     "slug": "oven-roasted-malaysian-chicken-satay",
-    "title": "Oven Roasted Malaysian Chicken Satay",
+    "title": "Malaysian Chicken Satay",
     "tags": [
-      "chicken-satay",
-      "date-night",
-      "kosher-friendly",
-      "malaysian-cuisine",
-      "oven-roasted",
-      "render-fat"
+      "chicken",
+      "grilled",
+      "peanut-sauce",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "malaysian",
+    "totalTimeMin": 32,
     "shard": "o"
   },
   {
@@ -12288,17 +12286,15 @@
   },
   {
     "slug": "oven-roasted-spanish-rice-paella",
-    "title": "Oven Roasted Spanish Rice Paella",
+    "title": "Classic Spanish Paella",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "roasted",
-      "weeknight"
+      "spanish",
+      "oven-roasted",
+      "rice",
+      "paella"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -12361,17 +12357,15 @@
   },
   {
     "slug": "oven-roasted-syrian-bulgur-pilaf",
-    "title": "Oven Roasted Syrian Bulgur Pilaf",
+    "title": "Syrian-Style Roasted Bulgur Pilaf",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian",
-      "weeknight"
+      "pilaf",
+      "bulgur",
+      "syrian",
+      "roasted"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
