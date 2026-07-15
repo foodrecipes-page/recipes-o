@@ -983,17 +983,15 @@
   },
   {
     "slug": "oil-kissed-filipino-dried-white-corn-grill",
-    "title": "Oil Kissed Filipino Dried White Corn Grill",
+    "title": "Grilled Filipino Corn with White Corn and Dried Kissed Fillet",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "filipino-food",
-      "gluten-free",
-      "grilled-corn",
-      "lazy-sunday",
-      "vegetarian-snack"
+      "grilled",
+      "corn",
+      "filipino",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -8056,18 +8054,16 @@
   },
   {
     "slug": "oven-baked-slovakian-dough-flatbread",
-    "title": "Oven Baked Slovakian Dough Flatbread",
+    "title": "Slovakian Oven Baked Flatbread",
     "tags": [
-      "chewy",
+      "baked",
+      "oven",
       "flatbread",
-      "light",
       "slovakian",
-      "snack",
-      "vegetarian",
-      "yeasty"
+      "bread"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
