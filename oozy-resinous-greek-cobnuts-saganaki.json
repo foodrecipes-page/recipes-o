@@ -1,0 +1,74 @@
+{
+  "slug": "oozy-resinous-greek-cobnuts-saganaki",
+  "title": "Greek Saganaki Bites with Cobnut Crunch",
+  "description": "A twist on the classic Greek saganaki, these bite-sized treats feature crunchy cobnut topping and oozy feta.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek bread",
+      "amount": "1 baguette",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cobnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "saganaki cheese",
+      "amount": "1 block",
+      "notes": "oozy"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the Greek bread into 1-inch cubes.",
+    "3. In a bowl, mix together crumbled feta cheese, olive oil, and cinnamon.",
+    "4. Add the chopped cobnuts to the feta mixture and stir to combine.",
+    "5. Stuff each bread cube with a small piece of oozy saganaki cheese.",
+    "6. Roll the bread cubes in the feta-cobnut mixture to coat.",
+    "7. Place the coated bread cubes on a baking sheet lined with parchment paper.",
+    "8. Bake for 10-12 minutes or until the bread is toasted and the cheese is melted.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "saganaki",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-resinous-greek-cobnuts-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:50:44.359Z"
+}
