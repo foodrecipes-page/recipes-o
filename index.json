@@ -7385,17 +7385,15 @@
   },
   {
     "slug": "outstandingly-nutty-british-lamb-tacos",
-    "title": "Outstandingly Nutty British Lamb Tacos",
+    "title": "Lamb Tacos with Fresh Herbs",
     "tags": [
-      "british-cuisine",
-      "dairy-free",
-      "indian-inspired",
-      "nutty-flavors",
-      "taco-night",
-      "weeknight"
+      "lamb",
+      "tacos",
+      "british",
+      "herbs"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
