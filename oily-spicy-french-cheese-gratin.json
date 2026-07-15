@@ -1,0 +1,69 @@
+{
+  "slug": "oily-spicy-french-cheese-gratin",
+  "title": "French Cheese Gratin",
+  "description": "A creamy, cheesy French dish with a crispy top, perfect for a comforting evening meal.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French cheese (Gruyère and Comté)",
+      "amount": "250g",
+      "notes": "grated"
+    },
+    {
+      "name": "oily (Butter)",
+      "amount": "60g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "gratin (Breadcrumbs)",
+      "amount": "100g",
+      "notes": "fresh"
+    },
+    {
+      "name": "spicy (Paprika)",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "French potatoes",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Peel the potatoes and slice them thinly.",
+    "In a saucepan, combine the grated cheese, butter, and paprika (if using).",
+    "Cook over low heat, stirring constantly, until the cheese is melted and smooth.",
+    "In a greased 20cm (8 inch) baking dish, create a layer of potatoes.",
+    "Pour some of the cheese mixture over the potatoes.",
+    "Repeat the potato and cheese layers, finishing with a layer of cheese on top.",
+    "Sprinkle the breadcrumbs over the cheese.",
+    "Bake in the preheated oven for 30-40 minutes, or until golden brown and crispy.",
+    "Serve hot and enjoy!",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cheese",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-spicy-french-cheese-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:54:32.060Z"
+}
