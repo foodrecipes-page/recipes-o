@@ -4461,16 +4461,15 @@
   },
   {
     "slug": "oozy-glassy-filipino-beef-bistek",
-    "title": "Oozy Glassy Filipino Beef Bistek",
+    "title": "Filipino Beef Bistek",
     "tags": [
-      "filipino-cuisine",
-      "low-sodium",
-      "meal-prep",
-      "one-pot",
-      "steamed-meal"
+      "beef",
+      "grilled",
+      "filipino",
+      "meat"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
@@ -10803,17 +10802,16 @@
   },
   {
     "slug": "oven-roasted-kenyan-meat-kebabs",
-    "title": "Oven Roasted Kenyan Meat Kebabs",
+    "title": "Kenyan-Style Oven-Roasted Meat Kebabs",
     "tags": [
-      "kenyan-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "meat-kebabs",
       "oven-roasted",
-      "salt-block-cooking"
+      "meat",
+      "kebabs",
+      "kenyan",
+      "grilling"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
