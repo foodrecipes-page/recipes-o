@@ -1,0 +1,78 @@
+{
+  "slug": "oven-roasted-jamaican-fish-bake",
+  "title": "Baked Jamaican Fish",
+  "description": "A flavorful and moist dish that combines the spices of Jamaica with the delicate taste of fish. Perfect for a quick dinner or lunch.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillet",
+      "amount": "2 fillets (6 oz each)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For greasing the baking sheet"
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "2 large",
+      "notes": "Sliced into 1-inch thick rounds"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Season the cod fillets with Jamaican jerk seasoning.",
+    "Drizzle with lime juice and brush with olive oil.",
+    "Place the fish on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "While the fish is baking, toss the roasted sweet potatoes with a little olive oil and season with salt and pepper.",
+    "Bake the sweet potatoes in the oven for an additional 5-7 minutes or until tender.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve the baked cod with roasted sweet potatoes and your choice of sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "oven",
+    "roasted",
+    "jamaican",
+    "fish",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-jamaican-fish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:42:31.842Z"
+}
