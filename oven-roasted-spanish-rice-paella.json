@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-spanish-rice-paella",
+  "title": "Classic Spanish Paella",
+  "description": "A traditional Spanish dish made with saffron-infused rice, vegetables, and seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can, drained"
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and red bell pepper and cook until tender, about 5 minutes.",
+    "Add the artichoke hearts, roasted red pepper, and smoked paprika. Cook for 1 minute.",
+    "Add the diced tomato and cook for 2 minutes.",
+    "Add the Spanish rice and stir to coat with the oil and mix with the vegetables.",
+    "Add the vegetable broth, 1 cup at a time, stirring constantly and allowing each cup to absorb before adding the next.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve hot, garnished with sliced roasted red pepper and a sprinkle of saffron threads."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "oven-roasted",
+    "rice",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spanish-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T10:27:52.215Z"
+}
