@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-kenyan-meat-kebabs",
+  "title": "Kenyan-Style Oven-Roasted Meat Kebabs",
+  "description": "A flavorful and aromatic Kenyan-inspired dish featuring roasted meat kebabs, perfect for a quick weeknight dinner. This recipe combines the rich flavors of Africa with the convenience of oven cooking.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat",
+    "oven-roasted"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "preferably flank steak or skirt steak"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "habanero pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most African markets or online"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the kenyan spice blend, olive oil, garlic, and habanero pepper.",
+    "Add the chopped onion and beef strips to the bowl, tossing to coat with the marinade.",
+    "Thread the marinated beef, onion, and habanero pepper onto skewers, leaving a little space between each piece.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 15-20 minutes, or until the beef is cooked to your desired level of doneness.",
+    "Brush the kebabs with additional olive oil during the last 5 minutes of cooking.",
+    "Serve hot with lemon wedges on the side.",
+    "Let the kebabs rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "meat",
+    "kebabs",
+    "kenyan",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-kenyan-meat-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:33:49.184Z"
+}
