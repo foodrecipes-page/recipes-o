@@ -1,0 +1,90 @@
+{
+  "slug": "oven-roasted-syrian-bulgur-pilaf",
+  "title": "Syrian-Style Roasted Bulgur Pilaf",
+  "description": "A flavorful and nutritious Syrian-inspired pilaf made with roasted bulgur and a blend of spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the bulgur with 1 tablespoon of olive oil, onion, garlic, cumin, paprika, salt, and black pepper on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until the bulgur is lightly toasted and fragrant.",
+    "Fluff the roasted bulgur with a fork and stir in the remaining 1 tablespoon of olive oil.",
+    "Transfer the bulgur mixture to a medium saucepan and add 2 cups of water.",
+    "Bring to a boil over high heat, then reduce the heat to low and cover.",
+    "Simmer for 10-12 minutes, or until the water has been absorbed and the bulgur is tender.",
+    "Fluff the pilaf with a fork and stir in chopped parsley, if using.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "bulgur",
+    "syrian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-syrian-bulgur-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:59:10.972Z"
+}
