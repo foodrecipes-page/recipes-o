@@ -5057,17 +5057,15 @@
   },
   {
     "slug": "oozy-resinous-greek-cobnuts-saganaki",
-    "title": "Oozy Resinous Greek Cobnuts Saganaki",
+    "title": "Greek Saganaki Bites with Cobnut Crunch",
     "tags": [
-      "comfort-food",
-      "easy-dinner",
-      "gluten-free",
-      "greek-food",
-      "one-pan",
-      "vegetarian"
+      "greek",
+      "saganaki",
+      "snack",
+      "easy-to-make"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "o"
   },
   {
@@ -5644,17 +5642,15 @@
   },
   {
     "slug": "open-flame-smoky-australian-lamb-bowl",
-    "title": "Open Flame Smoky Australian Lamb Bowl",
+    "title": "Smoky Lamb Skewers",
     "tags": [
       "australian",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "smoky",
-      "weeknight"
+      "grilled",
+      "lamb",
+      "skewers"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 70,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
