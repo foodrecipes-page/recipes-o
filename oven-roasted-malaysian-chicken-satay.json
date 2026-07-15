@@ -1,0 +1,93 @@
+{
+  "slug": "oven-roasted-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "A classic Southeast Asian dish of marinated chicken grilled to perfection and served with peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into skewer-sized pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince for marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grate for marinade"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped for peanut sauce"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "For peanut sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For peanut sauce"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "For peanut sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a blender or food processor, combine coconut milk, lime juice, garlic, and ginger. Blend until smooth.",
+    "3. In a large bowl, whisk together blended marinade, soy sauce, and honey. Add chicken and mix to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "4. Thread marinated chicken onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill or oven rack with peanut oil. Grill or bake the satay for 10-12 minutes, or until cooked through.",
+    "6. Meanwhile, prepare peanut sauce by blending peanuts, peanut butter, soy sauce, and honey until smooth.",
+    "7. Serve the grilled satay with peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "peanut-sauce",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:29:13.642Z"
+}
