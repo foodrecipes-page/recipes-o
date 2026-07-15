@@ -1,0 +1,82 @@
+{
+  "slug": "oven-dried-ethiopian-kale-azifa",
+  "title": "Ethiopian Azifa Kale Bake",
+  "description": "A flavorful and nutritious Ethiopian-inspired dish made with kale, azifa, and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch/dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups chopped"
+    },
+    {
+      "name": "Azifa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried Berbere Spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dried Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, combine chopped kale, azifa, berbere spice, cumin, garlic powder, salt, and black pepper.",
+    "3. Drizzle olive oil over the mixture and toss to coat.",
+    "4. Add water to the bowl and mix well.",
+    "5. Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "6. Bake for 30 minutes.",
+    "7. Remove the foil and continue baking for an additional 15-20 minutes.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "kale",
+    "azifa",
+    "bake",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-dried-ethiopian-kale-azifa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:54:30.441Z"
+}
