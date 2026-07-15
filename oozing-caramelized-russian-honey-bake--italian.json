@@ -1,0 +1,85 @@
+{
+  "slug": "oozing-caramelized-russian-honey-bake--italian",
+  "title": "Italian Caramelized Honey Cake",
+  "description": "A moist Italian dessert featuring caramelized honey and a hint of Russian flair.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": "caramelized"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "bake"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "bake"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "russian tea biscuits (or cookies)",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9-inch round cake pan and set aside.",
+    "In a medium bowl, whisk together flour, baking powder, and salt. Set aside.",
+    "In a large mixing bowl, cream together butter and honey until light and fluffy.",
+    "Beat in eggs one at a time, followed by vanilla extract.",
+    "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+    "Fold in crushed Russian tea biscuits.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cake",
+    "honey",
+    "caramelized",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-caramelized-russian-honey-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:36:41.528Z"
+}
