@@ -1,0 +1,95 @@
+{
+  "slug": "oozing-syrian-lamb-tagine",
+  "title": "Syrian Lamb Tagine",
+  "description": "A traditional Moroccan stew originating from Syria, this dish is characterized by its rich flavors and tender lamb. Serve over couscous for a hearty meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "syrian oozing cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot or Dutch oven over medium-high heat.",
+    "Brown the lamb in batches until browned on all sides. Remove from pot and set aside.",
+    "Reduce heat to medium and sauté the onion until softened. Add garlic and cook for 1 minute.",
+    "Add the cumin, coriander, garam masala, salt, and black pepper to the pot. Cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with 1 cup of water.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Stir in the Syrian oozing cheese and cook for an additional 10 minutes.",
+    "Serve the tagine over couscous, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:36:22.505Z"
+}
