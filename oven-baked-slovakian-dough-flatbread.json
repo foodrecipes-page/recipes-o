@@ -1,0 +1,58 @@
+{
+  "slug": "oven-baked-slovakian-dough-flatbread",
+  "title": "Slovakian Oven Baked Flatbread",
+  "description": "A traditional Slovakian flatbread recipe, perfect for snacking or as a side dish. Baked in the oven to achieve a crispy crust.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dough",
+      "amount": "1 package (1 pound)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup",
+      "notes": "for homemade dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "If using homemade dough, combine warm water and salt (if using). Add to the dough and knead for 5 minutes.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Cut into desired shapes or leave as is.",
+    "Place the flatbread on a baking sheet lined with parchment paper.",
+    "Brush with olive oil.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "oven",
+    "flatbread",
+    "slovakian",
+    "bread"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-slovakian-dough-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:33:16.858Z"
+}
