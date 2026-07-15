@@ -1,0 +1,97 @@
+{
+  "slug": "oven-roasted-indian-turkey-neck-curry",
+  "title": "Indian-Style Roasted Turkey Neck",
+  "description": "A flavorful and aromatic dish that's perfect for a special occasion. This recipe yields a crispy-skinned, tender, and juicy turkey neck.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "pork-free",
+    "shellfish-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1 (about 2 pounds)",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon (grated)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Roasted garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the turkey neck under cold water, pat it dry with paper towels, and season with salt and black pepper.",
+    "In a small bowl, mix together curry powder, garam masala, and ginger.",
+    "Rub the spice mixture all over the turkey neck, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat. Sear the turkey neck until browned on all sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and roast the turkey neck for 20 minutes.",
+    "Remove the skillet from the oven and add the onion and garlic to the pan. Roast for an additional 20 minutes, or until the onion is caramelized.",
+    "Remove the turkey neck from the skillet and let it rest for 10 minutes before slicing and serving.",
+    "Strain the juices from the skillet and serve them alongside the roasted turkey neck."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "roasted",
+    "turkey",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indian-turkey-neck-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:39:32.879Z"
+}
