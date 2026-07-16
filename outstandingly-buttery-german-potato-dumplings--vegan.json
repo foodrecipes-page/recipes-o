@@ -1,0 +1,78 @@
+{
+  "slug": "outstandingly-buttery-german-potato-dumplings--vegan",
+  "title": "German Potato Dumplings",
+  "description": "A traditional German potato dumpling recipe adapted to be vegan. These dumplings are boiled and served with a side of your favorite sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and grate them.",
+    "In a large bowl, combine the grated potatoes, flour, nutritional yeast, garlic powder, and salt.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it's smooth.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion to the skillet and sauté until softened, about 5 minutes.",
+    "Add the dumplings to the skillet and cook for 5-7 minutes on each side, until they're golden brown.",
+    "Serve the dumplings hot with your favorite sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegan",
+    "potato",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-buttery-german-potato-dumplings--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:57:36.866Z"
+}
