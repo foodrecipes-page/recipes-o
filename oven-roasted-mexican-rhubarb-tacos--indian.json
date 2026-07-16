@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-mexican-rhubarb-tacos--indian",
+  "title": "Roasted Rhubarb Tacos",
+  "description": "A unique fusion of Indian and Mexican flavors in this sweet and savory taco dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tablespoon",
+      "notes": "a blend of cumin, coriander, and garam masala"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2-3",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss rhubarb with Indian spices, brown sugar, salt, and cayenne pepper (if using).",
+    "Spread rhubarb mixture on a baking sheet lined with parchment paper.",
+    "Roast in the oven for 20-25 minutes or until tender and caramelized.",
+    "While rhubarb is roasting, brush tortillas with coconut oil.",
+    "Warm tortillas in the oven for 2-3 minutes or until pliable.",
+    "To assemble tacos, place a portion of roasted rhubarb onto a tortilla.",
+    "Serve with a squeeze of lime juice and a sprinkle of salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "indian",
+    "roasted",
+    "tacos",
+    "rhubarb"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-rhubarb-tacos--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:10:08.235Z"
+}
