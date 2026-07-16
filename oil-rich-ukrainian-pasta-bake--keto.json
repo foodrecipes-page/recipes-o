@@ -1,0 +1,79 @@
+{
+  "slug": "oil-rich-ukrainian-pasta-bake--keto",
+  "title": "Baked Ukrainian Pasta",
+  "description": "A keto twist on traditional pasta, featuring Ukrainian flavors and a crispy bake.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich Ukrainian pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "Pasta sauce",
+      "amount": "200g",
+      "notes": "homemade or store-bought, sugar-free"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bake cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (356°F).",
+    "Cook the Ukrainian pasta according to the package instructions.",
+    "In a large bowl, mix together the pasta sauce, oil, garlic, salt, black pepper, and dried oregano.",
+    "Add the cooked pasta to the bowl and toss to combine.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Top with bake cheese and sprinkle with parsley.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "keto",
+    "baked-pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-ukrainian-pasta-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:49:03.442Z"
+}
