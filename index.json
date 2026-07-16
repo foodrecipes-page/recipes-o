@@ -1165,17 +1165,16 @@
   },
   {
     "slug": "oily-argentinian-empanadas-puff-pastry",
-    "title": "Oily Argentinian Empanadas Puff Pastry",
+    "title": "Argentinian Empanadas",
     "tags": [
       "argentinian",
-      "flambe",
-      "high-calorie",
-      "kosher-friendly",
-      "one-pan",
-      "weeknight"
+      "empanadas",
+      "pastry",
+      "beef",
+      "snack"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -4073,17 +4072,14 @@
   },
   {
     "slug": "oozy-creamy-british-mushroom-cottage-pie",
-    "title": "Oozy Creamy British Mushroom Cottage Pie",
+    "title": "Classic British Cottage Pie",
     "tags": [
-      "british-classics",
+      "british",
       "comfort-food",
-      "dairy-free",
-      "mushroom-lovers",
-      "vegetarian",
-      "weeknight"
+      "cottage-pie"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -11279,18 +11275,14 @@
   },
   {
     "slug": "oven-roasted-miso-glazed-northern-irish-christmas-pudding-pastie",
-    "title": "Oven-Roasted Miso-Glazed Northern-Irish Christmas Pudding Pastie",
+    "title": "Northern Irish Christmas Glazed Miso Pudding",
     "tags": [
-      "british",
-      "dairy-free",
-      "european",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "christmas",
+      "pudding",
+      "northern irish"
     ],
-    "cuisine": "British (Northern Irish)",
-    "totalTimeMin": 55,
+    "cuisine": "Northern Irish",
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
@@ -14397,6 +14389,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mexican-rhubarb-tacos--indian",
+    "title": "Roasted Rhubarb Tacos",
+    "tags": [
+      "mexican",
+      "indian",
+      "roasted",
+      "tacos",
+      "rhubarb"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]
