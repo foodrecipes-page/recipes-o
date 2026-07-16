@@ -14431,5 +14431,18 @@
     "cuisine": "irish",
     "totalTimeMin": 50,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-creamy-british-mushroom-cottage-pie--german",
+    "title": "German Cottage Pie",
+    "tags": [
+      "german",
+      "cottage-pie",
+      "mushroom-gravy",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "o"
   }
 ]
