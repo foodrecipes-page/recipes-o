@@ -500,17 +500,16 @@
   },
   {
     "slug": "oceanic-optimistic-ukrainian-oat-pilaf",
-    "title": "Oceanic Optimistic Ukrainian Oat Pilaf",
+    "title": "Ukrainian Oat Pilaf with Oceanic Flavor",
     "tags": [
-      "monsoon",
-      "oat-milk",
-      "one-pot",
-      "satvik",
       "ukrainian",
+      "oat",
+      "pilaf",
+      "gluten-free",
       "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -14456,6 +14455,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
+    "slug": "oil-rich-ukrainian-pasta-bake--keto",
+    "title": "Baked Ukrainian Pasta",
+    "tags": [
+      "ukrainian",
+      "keto",
+      "baked-pasta"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-glassy-filipino-beef-bistek--mexican",
+    "title": "Beef Bistek Tacos",
+    "tags": [
+      "mexican",
+      "filipino",
+      "beef",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
