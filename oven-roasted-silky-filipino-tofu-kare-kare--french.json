@@ -1,0 +1,83 @@
+{
+  "slug": "oven-roasted-silky-filipino-tofu-kare-kare--french",
+  "title": "French-inspired Kare Kare-Style Tofu",
+  "description": "A fusion dish that combines the rich flavors of traditional Kare Kare with French culinary techniques. This silky, roasted tofu dish is perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Roasted eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-style kare kare peanut sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Oven-roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Wrap the tofu in foil and roast for 20-25 minutes, or until golden brown.",
+    "While the tofu is roasting, heat the olive oil in a pan over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "Pour in the kare kare peanut sauce and stir to combine.",
+    "Bring the sauce to a simmer and cook for 5-7 minutes, or until thickened.",
+    "Remove the tofu from the oven and let it cool for a few minutes.",
+    "Slice the tofu into thick medallions and serve with the kare kare sauce.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fusion",
+    "peanut-sauce",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-silky-filipino-tofu-kare-kare--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:34:05.365Z"
+}
