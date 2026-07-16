@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-dutch-challots-pilaf--indian",
+  "title": "Dutch Oven Chicken Pilaf",
+  "description": "A flavorful and comforting Indian-style chicken pilaf made in a Dutch oven with roasted vegetables.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "challots",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dutch oven",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 400°F (200°C).",
+    "In a large bowl, whisk together the curry powder, salt, and pepper. Add the chicken and toss to coat.",
+    "Heat the oil in the preheated Dutch oven over medium-high heat. Add the chicken and cook until browned on all sides, about 5-6 minutes. Remove the chicken from the pot and set aside.",
+    "Add the sliced challots to the pot and cook until they start to brown, about 3-4 minutes.",
+    "Add the chopped carrots and cook for an additional 2-3 minutes.",
+    "Add the rice to the pot, stirring to coat with the oil and mix with the vegetables. Cook for 1-2 minutes.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Return the chicken to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and the rice is tender.",
+    "Remove the pot from the oven and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "chicken",
+    "pilaf",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-dutch-challots-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:10:22.584Z"
+}
