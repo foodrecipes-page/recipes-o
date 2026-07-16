@@ -1,0 +1,70 @@
+{
+  "slug": "oozy-creamy-british-mushroom-cottage-pie--german",
+  "title": "German Cottage Pie",
+  "description": "A hearty German-inspired twist on the classic cottage pie, featuring a rich mushroom gravy and a creamy topping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage",
+      "amount": "1 cup",
+      "notes": "crumbly cottage cheese"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "british",
+      "amount": "1/4 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "oozy",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup",
+      "notes": "milk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Sauté the sliced mushrooms in butter until tender.",
+    "In a separate pan, combine the crumbled cottage cheese and all-purpose flour.",
+    "Gradually add in the beef broth, whisking constantly.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "Transfer the mushroom mixture to a baking dish.",
+    "Spread the cottage cheese mixture evenly over the top.",
+    "Dot the top with butter and sprinkle with milk.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cottage-pie",
+    "mushroom-gravy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-british-mushroom-cottage-pie--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:14:54.603Z"
+}
