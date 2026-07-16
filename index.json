@@ -6044,17 +6044,14 @@
   },
   {
     "slug": "original-oven-dutch-powder-pancakes",
-    "title": "Original Oven Dutch Powder Pancakes",
+    "title": "Crunchy Buttermilk Pancakes",
     "tags": [
-      "brunch-recipe",
-      "dutch-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "oven-baked",
-      "powder-pancakes"
+      "breakfast",
+      "pancakes",
+      "american"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -7309,16 +7306,16 @@
   },
   {
     "slug": "outstandingly-juicy-venezuelan-orange-skewers",
-    "title": "Venezuelan Orange Skewers",
+    "title": "Venezuelan Orange Skewer Kebabs",
     "tags": [
-      "citrusy",
-      "diabetic-friendly",
-      "easy-to-make",
-      "gluten-free",
+      "kebabs",
+      "venezuelan",
+      "orange",
       "grilled",
-      "summer-dessert"
+      "snack",
+      "easy"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "venezuelan",
     "totalTimeMin": 25,
     "shard": "o"
   },
