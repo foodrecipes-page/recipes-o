@@ -1,0 +1,84 @@
+{
+  "slug": "outstandingly-juicy-venezuelan-orange-skewers",
+  "title": "Venezuelan Orange Skewer Kebabs",
+  "description": "A sweet and tangy kebab recipe inspired by Venezuelan cuisine, featuring juicy orange slices and succulent meats.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes for kebabs"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Juicy Orange",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak skewers in water for 30 minutes before use.",
+    "Thread pork, bell pepper, onion, and orange onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper to taste.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "venezuelan",
+    "orange",
+    "grilled",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-juicy-venezuelan-orange-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:15:40.449Z"
+}
