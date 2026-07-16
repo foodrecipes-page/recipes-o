@@ -1,0 +1,97 @@
+{
+  "slug": "oozing-caramelized-russian-honey-bake--thai",
+  "title": "Thai Honey Caramelized Chicken",
+  "description": "Sweet and savory Thai-inspired dish featuring caramelized chicken, honey, and spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "caramelized onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "russian garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "bake sauce",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry sauce"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "Heat coconut oil in a skillet over medium-high heat. Sear the chicken until browned on both sides.",
+    "Transfer the chicken to a baking dish.",
+    "In the same skillet, add caramelized onion, russian garlic, fish sauce, soy sauce, and brown sugar. Cook for 2-3 minutes.",
+    "Pour the honey and Thai red curry sauce into the skillet, and cook for an additional 2-3 minutes.",
+    "Pour the sauce over the chicken in the baking dish.",
+    "Bake for 25-30 minutes or until the chicken is cooked through.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "honey",
+    "caramelized",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-caramelized-russian-honey-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:24:14.725Z"
+}
