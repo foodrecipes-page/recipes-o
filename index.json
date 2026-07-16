@@ -14481,5 +14481,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "orange-infused-brazilian-chicken-wrap--vegetarian",
+    "title": "Brazilian Wrap Fiesta",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "lunch",
+      "wrap",
+      "brazilian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
