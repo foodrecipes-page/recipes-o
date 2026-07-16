@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-chinese-boudin-noir-dumplings",
+  "title": "Roasted Boudin Noir Dumplings",
+  "description": "A twist on traditional Chinese dumplings, filled with rich roasted boudin noir and perfect for a hearty meal.",
+  "cuisine": "French-Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boudin Noir",
+      "amount": "250g"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "20",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Roasted Onion",
+      "amount": "1/2",
+      "notes": "Caramelized"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Dark"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For brushing dumplings"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap each dumpling wrapper around a tablespoon of boudin noir, leaving a small border. Seal edges.",
+    "Place dumplings on a baking sheet lined with parchment paper.",
+    "Brush tops with sesame oil and sprinkle with scallions.",
+    "Roast in the oven for 12-15 minutes or until golden brown.",
+    "While dumplings are roasting, heat soy sauce in a small saucepan over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes or until fragrant.",
+    "Serve dumplings hot with the garlic-soy sauce.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "oven-roasted",
+    "dinner-recipes",
+    "boudin-noir"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-chinese-boudin-noir-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:32:21.318Z"
+}
