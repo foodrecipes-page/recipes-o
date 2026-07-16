@@ -14495,5 +14495,19 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-silky-filipino-tofu-kare-kare--french",
+    "title": "French-inspired Kare Kare-Style Tofu",
+    "tags": [
+      "french",
+      "fusion",
+      "peanut-sauce",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
