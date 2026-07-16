@@ -351,17 +351,17 @@
   },
   {
     "slug": "oceanic-crisp-middle-eastern-fish-kibbeh",
-    "title": "Oceanic Crisp Middle Eastern Fish Kibbeh",
+    "title": "Eastern-Style Kibbeh Cakes with Crisp Fish",
     "tags": [
+      "kibbeh",
+      "fish",
+      "middle eastern",
+      "seafood",
       "crispy",
-      "middle-eastern",
-      "oven-baked",
-      "pescatarian",
-      "satvik",
-      "seafood"
+      "oceanic"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
@@ -14387,6 +14387,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-buttery-german-potato-dumplings--vegan",
+    "title": "German Potato Dumplings",
+    "tags": [
+      "german",
+      "vegan",
+      "potato",
+      "dumplings"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
