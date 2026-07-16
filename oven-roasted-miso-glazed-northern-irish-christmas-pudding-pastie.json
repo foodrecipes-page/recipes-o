@@ -1,0 +1,69 @@
+{
+  "slug": "oven-roasted-miso-glazed-northern-irish-christmas-pudding-pastie",
+  "title": "Northern Irish Christmas Glazed Miso Pudding",
+  "description": "A rich and savory pudding made with miso paste and a sweet Christmas glaze, inspired by Northern Irish cuisine.",
+  "cuisine": "Northern Irish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried fruit (currants, raisins, cranberries)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Christmas glaze (see instructions)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the flour, dried fruit, and miso paste.",
+    "In a separate bowl, whisk together the brown sugar, eggs, and heavy cream.",
+    "Add the melted butter to the sugar mixture and whisk until combined.",
+    "Pour the wet ingredients into the dry ingredients and mix until a smooth batter forms.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "While the pudding is baking, prepare the Christmas glaze by whisking together 1/4 cup powdered sugar and 2 tbsp milk.",
+    "Remove the pudding from the oven and brush the Christmas glaze over the top.",
+    "Return the pudding to the oven and bake for an additional 5-7 minutes, or until the glaze is set.",
+    "Remove the pudding from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "pudding",
+    "northern irish"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-miso-glazed-northern-irish-christmas-pudding-pastie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:45:02.319Z"
+}
