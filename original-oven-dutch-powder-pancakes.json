@@ -1,0 +1,79 @@
+{
+  "slug": "original-oven-dutch-powder-pancakes",
+  "title": "Crunchy Buttermilk Pancakes",
+  "description": "A classic breakfast recipe with a crunchy topping, perfect for a weekend morning. The buttermilk adds a tangy flavor to the pancakes.",
+  "cuisine": "American",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pancakes mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dutch-processed cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the buttermilk and powdered sugar until well combined.",
+    "2. Add the eggs, one at a time, whisking well after each addition.",
+    "3. Add the pancakes mix and stir until just combined. Do not overmix.",
+    "4. Heat a non-stick skillet or griddle over medium heat.",
+    "5. Grease the skillet with a small amount of veggie oil.",
+    "6. Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "7. Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "8. Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "9. Dust with cocoa powder and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/original-oven-dutch-powder-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:10:49.178Z"
+}
