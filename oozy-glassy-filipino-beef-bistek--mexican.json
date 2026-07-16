@@ -1,0 +1,83 @@
+{
+  "slug": "oozy-glassy-filipino-beef-bistek--mexican",
+  "title": "Beef Bistek Tacos",
+  "description": "A fusion of Mexican and Filipino flavors in a delicious taco dish featuring bistek beef.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "bistek",
+      "amount": "2 tablespoons",
+      "notes": "Filipino-style beef marinade"
+    },
+    {
+      "name": "oozy",
+      "amount": "2 tablespoons",
+      "notes": "Filipino-style fish sauce (optional)"
+    },
+    {
+      "name": "glassy",
+      "amount": "1 large",
+      "notes": "Onion, thinly sliced"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 teaspoon",
+      "notes": "Ground black pepper"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add sliced onions and cook until translucent, about 5 minutes.",
+    "Add bistek beef and cook until browned, about 5-7 minutes.",
+    "Add beef broth, fish sauce (if using), and black pepper. Simmer for 10-15 minutes.",
+    "Season with salt to taste.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing beef mixture onto tortillas and topping with shredded cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "filipino",
+    "beef",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-glassy-filipino-beef-bistek--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:38:32.856Z"
+}
