@@ -14444,5 +14444,18 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oven-braised-filipino-callaloo-stew--indian",
+    "title": "Braised Callaloo Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "vegetarian",
+      "braised"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 65,
+    "shard": "o"
   }
 ]
