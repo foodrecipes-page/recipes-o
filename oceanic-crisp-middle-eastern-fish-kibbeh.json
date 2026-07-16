@@ -1,0 +1,93 @@
+{
+  "slug": "oceanic-crisp-middle-eastern-fish-kibbeh",
+  "title": "Eastern-Style Kibbeh Cakes with Crisp Fish",
+  "description": "A Middle Eastern-inspired dish featuring crispy kibbeh cakes topped with pan-seared fish and served with a side of oceanic slaw.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kibbeh",
+      "amount": "1 package (about 1 pound)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "oceanic slaw mix",
+      "amount": "1 bag",
+      "notes": "or make your own with shredded cabbage, mayonnaise, and lemon juice"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 head",
+      "notes": "for garnish"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 teaspoons",
+      "notes": "such as sumac, cumin, and paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare kibbeh according to package instructions or recipe.",
+    "Cut fish fillets into 4 equal pieces.",
+    "Season fish with middle eastern spice blend, salt, and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add fish to skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer fish to a plate and cover with foil to keep warm.",
+    "Add a small amount of olive oil to the skillet and fry kibbeh cakes until crispy and golden brown.",
+    "Serve kibbeh cakes topped with pan-seared fish and a side of oceanic slaw.",
+    "Garnish with crisp lettuce and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kibbeh",
+    "fish",
+    "middle eastern",
+    "seafood",
+    "crispy",
+    "oceanic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-crisp-middle-eastern-fish-kibbeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:27:18.291Z"
+}
