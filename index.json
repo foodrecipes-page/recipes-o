@@ -3439,18 +3439,14 @@
   },
   {
     "slug": "oozing-italian-chickpeas-casserole",
-    "title": "Oozing Italian Chickpeas Casserole",
+    "title": "Chickpea Casserole Italiano",
     "tags": [
-      "chewy",
-      "cozy",
-      "herbal",
-      "high-protein",
-      "mini-cocotte",
-      "pickle-juice",
-      "puglian"
+      "italian",
+      "casserole",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -14379,6 +14375,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-caramelized-russian-honey-bake--thai",
+    "title": "Thai Honey Caramelized Chicken",
+    "tags": [
+      "thai",
+      "chicken",
+      "honey",
+      "caramelized",
+      "easy-to-make"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]
