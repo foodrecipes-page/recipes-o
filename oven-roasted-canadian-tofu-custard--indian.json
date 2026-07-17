@@ -1,0 +1,78 @@
+{
+  "slug": "oven-roasted-canadian-tofu-custard--indian",
+  "title": "Roasted Tofu in a Canadian Indian-Style Custard",
+  "description": "A unique and flavorful dish that combines the richness of custard with the savory taste of roasted tofu, inspired by the spices and techniques of Canadian-Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "Extra-firm"
+    },
+    {
+      "name": "Custard powder",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the tofu into 1-inch cubes and place on a baking sheet.",
+    "Roast the tofu in the oven for 20-25 minutes, or until golden brown.",
+    "In a blender or food processor, combine the custard powder, coconut milk, garam masala, cumin powder, cayenne pepper, and salt. Blend until smooth.",
+    "Pour the custard mixture into a saucepan and cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Add the roasted tofu to the saucepan and stir to coat with the custard mixture.",
+    "Serve the tofu in the custard sauce hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "canadian",
+    "tofu",
+    "custard",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-canadian-tofu-custard--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:51:02.824Z"
+}
