@@ -1,0 +1,95 @@
+{
+  "slug": "orange-infused-turkish-tofu-doner-kebab",
+  "title": "Turkish Doner Kebab Tofu Wrap",
+  "description": "A vegetarian twist on the popular Turkish dish, featuring marinated tofu and fresh orange slices wrapped in a crispy doner kebab.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and cut into thin strips"
+    },
+    {
+      "name": "Orange",
+      "amount": "1, juiced",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Infused Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Flavored with garlic and herbs"
+    },
+    {
+      "name": "Turkish Doner Kebab",
+      "amount": "1 package",
+      "notes": "Pre-made, store-bought or homemade"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup, shredded",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup, sliced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup, sliced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked, sweet or hot"
+    }
+  ],
+  "instructions": [
+    "Heat the infused olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the tofu and cook for 3-4 minutes, until golden brown and crispy.",
+    "Warm the Turkish doner kebab according to package instructions.",
+    "Slice the kebab into thin strips.",
+    "Assemble the wraps by spreading a layer of tofu on the bottom, followed by a few slices of kebab, lettuce, tomato, onion, cucumber, and orange slices.",
+    "Drizzle with additional infused olive oil and sprinkle with paprika.",
+    "Serve immediately and enjoy!",
+    "Optional: add a dollop of tzatziki sauce for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "doner-kebab",
+    "tofu",
+    "veggie-wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-infused-turkish-tofu-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:40:57.933Z"
+}
