@@ -1,0 +1,80 @@
+{
+  "slug": "oozy-mediterranean-fish-wrap--indian",
+  "title": "Fish Wrap with Mediterranean Salsa",
+  "description": "A flavorful and refreshing Indian-inspired fish wrap with a tangy Mediterranean salsa. This dish is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (canned or fresh)",
+      "amount": "4 oz",
+      "notes": "Canned fish can be used for a quicker option"
+    },
+    {
+      "name": "Mediterranean salsa",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Indian flatbread (wrap or roti)",
+      "amount": "1 piece",
+      "notes": "You can also use a tortilla for a similar wrap"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped or whole leaves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "Chopped or sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Oozy sauce (ranch or yogurt-based)",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium-high heat.",
+    "Season the fish with salt and pepper to taste.",
+    "Cook the fish for 2-3 minutes per side, or until it reaches a safe internal temperature of 145°F.",
+    "Warm the flatbread by wrapping it in a damp paper towel and microwaving for 10-15 seconds.",
+    "Assemble the wrap by spreading the Mediterranean salsa on the flatbread, then adding the cooked fish, lettuce, tomatoes, cucumber, and cilantro.",
+    "Drizzle the oozy sauce over the top and fold the wrap in half to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "fish",
+    "wrap",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-mediterranean-fish-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:55:02.932Z"
+}
