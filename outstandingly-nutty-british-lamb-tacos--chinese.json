@@ -1,0 +1,91 @@
+{
+  "slug": "outstandingly-nutty-british-lamb-tacos--chinese",
+  "title": "Lamb Koftas with Chinese Spices",
+  "description": "A twist on traditional lamb koftas, infused with Chinese spices and served with a side of steamed vegetables.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "British outstandingly nutty brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tacos seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chinese five-spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lamb's liver (optional)",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Steamed vegetables (such as broccoli and carrots)",
+      "amount": "to serve",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, combine the lamb, British outstandingly nutty brown sugar, tacos seasoning, Chinese five-spice, lamb's liver (if using), salt, and pepper. Mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread 8-10 meatballs onto skewers, leaving a small space between each one.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the koftas for 8-10 minutes per side, or until cooked through to an internal temperature of 63°C (145°F).",
+    "Meanwhile, steam the vegetables until tender. Season with salt and pepper to taste.",
+    "Serve the koftas hot with a side of steamed vegetables and garnished with chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "koftas",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-nutty-british-lamb-tacos--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:27:50.905Z"
+}
