@@ -1,0 +1,76 @@
+{
+  "slug": "oven-roasted-mediterranean-comte-pilaf",
+  "title": "Comte Pilaf Bake",
+  "description": "A delicious and easy-to-make pilaf with the nutty flavor of Comte cheese, perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Stir in the pilaf and cook for 1-2 minutes.",
+    "Transfer the pilaf mixture to a 9x13-inch baking dish.",
+    "Sprinkle the Comte cheese evenly over the top of the pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "cheesy",
+    "chicken",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mediterranean-comte-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:30:15.479Z"
+}
