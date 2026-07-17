@@ -7183,17 +7183,16 @@
   },
   {
     "slug": "outstandingly-fluffy-tunisian-barramundi-tagine",
-    "title": "Tunisian Barramundi Tagine",
+    "title": "Barramundi Tagine with Tunisian Spices",
     "tags": [
-      "fish-based",
-      "fluffy",
-      "high-protein",
       "north-african",
-      "post-workout",
-      "rich"
+      "fish",
+      "tagine",
+      "barbecue",
+      "moroccan"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -14622,6 +14621,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
+    "slug": "outrageously-comforting-kenyan-lamb-stew--vegan",
+    "title": "Kenyan-Style Vegan Stew",
+    "tags": [
+      "vegan",
+      "kenyan",
+      "stew",
+      "comforting"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-steamy-norwegian-kasha-pilaf--french",
+    "title": "Steamed Kasha Pilaf",
+    "tags": [
+      "kasha",
+      "pilaf",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "o"
   }
 ]
