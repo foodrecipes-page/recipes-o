@@ -1704,16 +1704,15 @@
   },
   {
     "slug": "oily-molten-uruguayan-beef-flank-steak-stew",
-    "title": "Uruguayan Beef Flank Steak Stew",
+    "title": "Uruguayan Flank Steak",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
-      "weeknight"
+      "uruguayan",
+      "grilled",
+      "beef",
+      "flank steak"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 150,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
