@@ -1,0 +1,92 @@
+{
+  "slug": "outrageously-comforting-kenyan-lamb-stew--vegan",
+  "title": "Kenyan-Style Vegan Stew",
+  "description": "A flavorful and comforting Kenyan-inspired stew made with plant-based ingredients, perfect for a cozy evening.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Red kidney beans, canned",
+      "amount": "1 can (15 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Lamb-free stew seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and bell pepper; cook until tender, about 5 minutes.",
+    "Add carrots and potatoes; cook for an additional 5 minutes.",
+    "Add canned beans, tomato paste, vegetable broth, stew seasoning, and paprika.",
+    "Bring to a boil; reduce heat to low and simmer, covered, for 20-25 minutes, or until vegetables are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "kenyan",
+    "stew",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-comforting-kenyan-lamb-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:29:30.769Z"
+}
