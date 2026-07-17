@@ -14586,5 +14586,19 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-canadian-tofu-custard--indian",
+    "title": "Roasted Tofu in a Canadian Indian-Style Custard",
+    "tags": [
+      "indian",
+      "canadian",
+      "tofu",
+      "custard",
+      "roasted"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
