@@ -12954,17 +12954,16 @@
   },
   {
     "slug": "oven-roasted-welsh-orange-cake",
-    "title": "Oven-Roasted Welsh Orange Cake",
+    "title": "Welsh Orange Cake",
     "tags": [
-      "british",
-      "citrus",
+      "orange",
+      "cake",
+      "welsh",
       "dessert",
-      "high-protein",
-      "kid-friendly",
-      "oven"
+      "baking"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 40,
+    "cuisine": "Welsh",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -14646,6 +14645,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
+    "slug": "outrageously-comforting-kenyan-lamb-stew--italian",
+    "title": "Kenyan Lamb Stew",
+    "tags": [
+      "italian",
+      "lamb",
+      "stew",
+      "comforting"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 150,
     "shard": "o"
   }
 ]
