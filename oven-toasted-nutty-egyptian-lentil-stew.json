@@ -1,0 +1,82 @@
+{
+  "slug": "oven-toasted-nutty-egyptian-lentil-stew",
+  "title": "Egyptian Lentil Stew",
+  "description": "A hearty and flavorful stew made with lentils, perfect for a chilly evening. This recipe is inspired by traditional Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Heat some oil in a large pot over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, carrot, and tomato to the pot. Cook for another 5 minutes, stirring occasionally.",
+    "Add the lentil, cumin, coriander, and paprika to the pot. Stir well to combine.",
+    "Add enough water to the pot to cover the lentil mixture. Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Transfer the pot to the preheated oven and bake for 30 minutes.",
+    "Remove the pot from the oven and season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "egyptian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-toasted-nutty-egyptian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:58:05.728Z"
+}
