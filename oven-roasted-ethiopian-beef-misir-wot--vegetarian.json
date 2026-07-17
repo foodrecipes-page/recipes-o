@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-ethiopian-beef-misir-wot--vegetarian",
+  "title": "Ethiopian Misir Wot",
+  "description": "A flavorful and spicy Ethiopian stew made with red lentils, onions, garlic, and spices, served hot over injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Misir Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender or food processor, puree the onions, garlic, and ginger until smooth.",
+    "Heat the olive oil in a large saucepan over medium heat. Add the pureed onion mixture and cook for 5 minutes, stirring occasionally.",
+    "Add the misir spice mix and cook for an additional 1-2 minutes, stirring constantly.",
+    "Add the red lentils, vegetable broth, and water to the saucepan. Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Season the wot with salt and pepper to taste.",
+    "Serve the Ethiopian Misir Wot hot over injera bread, garnished with chopped fresh cilantro if desired.",
+    "Roast the injera bread in the oven for an additional 2-3 minutes, or until crispy and warm.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentils",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-ethiopian-beef-misir-wot--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:03:06.685Z"
+}
