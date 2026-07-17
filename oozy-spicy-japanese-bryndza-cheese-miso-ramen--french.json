@@ -1,0 +1,71 @@
+{
+  "slug": "oozy-spicy-japanese-bryndza-cheese-miso-ramen--french",
+  "title": "Ramen French Dip",
+  "description": "A fusion twist on the classic French dip, using ramen noodles and bryndza cheese for a unique flavor profile.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Bryndza cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Spicy oozy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil and cook the ramen noodles according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat.",
+    "Add the miso paste and stir until dissolved.",
+    "Add the spicy oozy sauce and stir to combine.",
+    "Slice the French bread into thick slices and toast until crispy.",
+    "Assemble the sandwiches by placing a portion of the cooked ramen noodles on each slice of bread.",
+    "Top with a slice of bryndza cheese and spoon some of the miso-spicy sauce over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "french",
+    "cheese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-spicy-japanese-bryndza-cheese-miso-ramen--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:17:08.403Z"
+}
