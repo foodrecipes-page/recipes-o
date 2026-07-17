@@ -1,0 +1,101 @@
+{
+  "slug": "oven-roasted-welsh-orange-cake",
+  "title": "Welsh Orange Cake",
+  "description": "A traditional Welsh dessert, this orange cake is moist and flavorful, topped with a crunchy roasted pecan streusel.",
+  "cuisine": "Welsh",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Welsh cake mix",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "butter, softened",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "roasted pecans",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Prepare a 9x13-inch baking dish.",
+    "In a large bowl, combine cake mix, orange zest, orange juice, eggs, butter, sugar, flour, baking powder, and salt.",
+    "Mix until well combined.",
+    "Pour the batter into the prepared baking dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "While the cake is baking, prepare the streusel topping by mixing together roasted pecans and powdered sugar.",
+    "Remove the cake from the oven and let it cool for 10 minutes.",
+    "Top the cake with the streusel topping.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "orange",
+    "cake",
+    "welsh",
+    "dessert",
+    "baking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "3g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-welsh-orange-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:32:19.148Z"
+}
