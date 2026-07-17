@@ -1,0 +1,92 @@
+{
+  "slug": "oven-roasted-crunchy-peruvian-corned-beef-picarones",
+  "title": "Peruvian Picarones with Roasted Beef",
+  "description": "A traditional Peruvian dessert of sweet potato donuts served with a savory roasted beef filling.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "packed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup",
+      "notes": "fine"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the diced sweet potatoes and enough water to cover them. Bring to a boil, then reduce the heat and simmer for 10-15 minutes, or until the sweet potatoes are tender.",
+    "Drain the sweet potatoes and let them cool slightly.",
+    "In a large skillet, cook the sliced beef over medium-high heat until browned, about 5 minutes. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic, ground allspice, and ground cinnamon to the skillet and cook for 1 minute.",
+    "Stir in the brown sugar and cook for an additional 1-2 minutes.",
+    "Add the beaten egg to the skillet and stir to combine.",
+    "Using a cookie scoop or spoon, drop the sweet potato mixture into the hot oil, forming donuts.",
+    "Fry the donuts until golden brown, about 2-3 minutes per side. Drain on paper towels.",
+    "Serve the picarones warm with the roasted beef filling.",
+    "To assemble the dessert, place a few picarones on a plate and top with a spoonful of the roasted beef mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "sweet-potatoes",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-crunchy-peruvian-corned-beef-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:14:49.851Z"
+}
