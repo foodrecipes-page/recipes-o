@@ -5866,17 +5866,15 @@
   },
   {
     "slug": "orange-infused-turkish-tofu-doner-kebab",
-    "title": "Orange Infused Turkish Tofu Doner Kebab",
+    "title": "Turkish Doner Kebab Tofu Wrap",
     "tags": [
-      "citrus",
-      "macrobiotic",
-      "one-pan",
-      "tofu-doner",
       "turkish",
-      "vegan"
+      "doner-kebab",
+      "tofu",
+      "veggie-wrap"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
