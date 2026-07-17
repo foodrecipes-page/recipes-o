@@ -1,0 +1,77 @@
+{
+  "slug": "outstanding-oily-french-broad-beans-pot-au-feu--chinese",
+  "title": "Outstanding Oily French Broad Bean Stir Fry",
+  "description": "A simple Chinese-inspired stir fry dish using French broad beans and a variety of flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French broad beans",
+      "amount": "1 cup, trimmed"
+    },
+    {
+      "name": "Oily",
+      "amount": "2 tablespoons, vegetable oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pot au feu broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the French broad beans and stir-fry for 3-4 minutes, or until they start to tenderize.",
+    "Add the pot au feu broth, soy sauce, sesame oil, salt, and black pepper.",
+    "Stir-fry for another 2-3 minutes, or until the broad beans are tender but still crisp.",
+    "Serve hot, garnished with additional sesame oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oily-french-broad-beans-pot-au-feu--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:39:11.458Z"
+}
