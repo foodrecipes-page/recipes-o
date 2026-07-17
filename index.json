@@ -14611,5 +14611,17 @@
     "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "outstanding-oily-french-broad-beans-pot-au-feu--chinese",
+    "title": "Outstanding Oily French Broad Bean Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "o"
   }
 ]
