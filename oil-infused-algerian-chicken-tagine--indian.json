@@ -1,0 +1,62 @@
+{
+  "slug": "oil-infused-algerian-chicken-tagine--indian",
+  "title": "Chicken Tagine with Algerian Spices",
+  "description": "A flavorful and aromatic North African-inspired dish with the warm spices of India, perfect for a chilly evening.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb boneless, skinless chicken thighs"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tbsp Algerian spice blend"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup tagine sauce"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "infused",
+      "amount": "2 cloves garlic, minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add Algerian spice blend and cook for another minute.",
+    "Add tagine sauce and bring to a simmer.",
+    "Reduce heat to medium-low and cook, covered, for 20-25 minutes or until chicken is cooked through.",
+    "Garnish with garlic and serve with basmati rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "north-african",
+    "chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-algerian-chicken-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:20:58.782Z"
+}
