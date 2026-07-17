@@ -1,0 +1,59 @@
+{
+  "slug": "oily-steamy-norwegian-kasha-pilaf--french",
+  "title": "Steamed Kasha Pilaf",
+  "description": "A simple yet flavorful French-inspired side dish made with kasha and steamy vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kasha",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "steamy",
+      "amount": "2 cups",
+      "notes": "such as broccoli or cauliflower"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil in a medium saucepan.",
+    "Add kasha and cook according to package instructions.",
+    "Add pilaf to the saucepan and stir to combine.",
+    "Add steamy vegetables to the saucepan and stir to combine.",
+    "Reduce heat to low and cover the saucepan with a lid.",
+    "Simmer for 20 minutes or until the kasha and pilaf are tender.",
+    "Fluff the pilaf with a fork to separate the grains.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kasha",
+    "pilaf",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-steamy-norwegian-kasha-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:08:53.437Z"
+}
