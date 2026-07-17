@@ -1,0 +1,89 @@
+{
+  "slug": "outrageously-comforting-kenyan-lamb-stew--italian",
+  "title": "Kenyan Lamb Stew",
+  "description": "A comforting, flavorful stew inspired by Kenyan cuisine, with tender lamb and a rich tomato-based sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, then set it aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the cherry tomatoes, tomato paste, and Italian seasoning to the pot. Cook for 1 minute.",
+    "Add the tomato sauce to the pot and stir to combine.",
+    "Return the lamb shoulder to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "stew",
+    "comforting"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-comforting-kenyan-lamb-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:45:06.022Z"
+}
