@@ -14547,5 +14547,45 @@
     "cuisine": "Chinese",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oil-infused-algerian-chicken-tagine--indian",
+    "title": "Chicken Tagine with Algerian Spices",
+    "tags": [
+      "indian",
+      "north-african",
+      "chicken",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-mediterranean-fish-wrap--indian",
+    "title": "Fish Wrap with Mediterranean Salsa",
+    "tags": [
+      "indian",
+      "fish",
+      "wrap",
+      "lunch",
+      "dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-ethiopian-beef-misir-wot--vegetarian",
+    "title": "Ethiopian Misir Wot",
+    "tags": [
+      "ethiopian",
+      "lentils",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
