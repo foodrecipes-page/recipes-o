@@ -1,0 +1,83 @@
+{
+  "slug": "oily-molten-uruguayan-beef-flank-steak-stew",
+  "title": "Uruguayan Flank Steak",
+  "description": "A classic Uruguayan dish, this flank steak recipe features tender beef, marinated in a mixture of spices and herbs, then grilled to perfection.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "meat-only",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch thick slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "uruguayan steak seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together olive oil, uruguayan steak seasoning, black pepper, salt, garlic powder, and paprika.",
+    "Add the sliced flank steak to the bowl and coat with the marinade.",
+    "Let the steak marinate for at least 30 minutes.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 135°F - 140°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing it against the grain.",
+    "Serve the steak with chopped fresh parsley on top, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "grilled",
+    "beef",
+    "flank steak"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-molten-uruguayan-beef-flank-steak-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:20:07.020Z"
+}
