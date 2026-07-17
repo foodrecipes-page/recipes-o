@@ -1,0 +1,60 @@
+{
+  "slug": "oozing-caramel-greek-honey-loukoumades--gluten-free",
+  "title": "Loukoumades with Honey and Caramel Sauce",
+  "description": "A traditional Greek dessert made with crispy honey balls and topped with a sweet caramel sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Loukoumades (Greek doughnuts)",
+      "amount": "1 package (6-8 pieces)",
+      "notes": "available in most Greek or Mediterranean markets"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 cup",
+      "notes": "high-quality, pure honey"
+    },
+    {
+      "name": "Caramel Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Greek Yogurt (optional)",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Fry loukoumades according to package instructions.",
+    "Drain excess oil on paper towels.",
+    "Dip fried loukoumades in honey, then in caramel sauce.",
+    "Repeat the process for a thicker coating.",
+    "Serve warm or at room temperature with a dollop of Greek yogurt, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "greek",
+    "honey",
+    "caramel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-caramel-greek-honey-loukoumades--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:06:09.980Z"
+}
