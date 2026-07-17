@@ -13456,16 +13456,15 @@
   },
   {
     "slug": "oven-toasted-nutty-egyptian-lentil-stew",
-    "title": "Oven Toasted Nutty Egyptian Lentil Stew",
+    "title": "Egyptian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "lentil-stew",
-      "middle-eastern",
-      "one-pot",
+      "lentil",
+      "stew",
+      "egyptian",
       "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
@@ -14507,6 +14506,45 @@
       "vegan"
     ],
     "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-caramel-greek-honey-loukoumades--gluten-free",
+    "title": "Loukoumades with Honey and Caramel Sauce",
+    "tags": [
+      "dessert",
+      "greek",
+      "honey",
+      "caramel"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-spicy-japanese-bryndza-cheese-miso-ramen--french",
+    "title": "Ramen French Dip",
+    "tags": [
+      "ramen",
+      "french",
+      "cheese",
+      "fusion"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-nutty-british-lamb-tacos--chinese",
+    "title": "Lamb Koftas with Chinese Spices",
+    "tags": [
+      "chinese",
+      "lamb",
+      "koftas",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 45,
     "shard": "o"
   }
