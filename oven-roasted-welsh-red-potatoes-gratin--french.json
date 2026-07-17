@@ -1,0 +1,75 @@
+{
+  "slug": "oven-roasted-welsh-red-potatoes-gratin--french",
+  "title": "Welsh Rarebit and Roasted Potato Gratin",
+  "description": "A French-inspired gratin dish featuring roasted potatoes and a rich Welsh rarebit sauce.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Welsh Rarebit Sauce",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Red Potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Red Cabbage",
+      "amount": "1 head",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated Gruyère",
+      "amount": "150g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Toss sliced potatoes with olive oil, salt, and pepper.",
+    "Arrange potatoes in a single layer in a baking dish.",
+    "Roast in the preheated oven for 20-25 minutes, or until golden brown.",
+    "While potatoes are roasting, heat the Welsh rarebit sauce in a saucepan over medium heat.",
+    "Add chopped red cabbage to the saucepan and stir to combine.",
+    "Once potatoes are done, remove from oven and top with the rarebit sauce mixture.",
+    "Sprinkle grated Gruyère over the top.",
+    "Return to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "gratin",
+    "roasted-potatoes",
+    "welsh-rarebit"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-welsh-red-potatoes-gratin--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:48:45.143Z"
+}
