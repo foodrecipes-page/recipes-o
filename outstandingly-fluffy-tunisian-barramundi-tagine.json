@@ -1,0 +1,106 @@
+{
+  "slug": "outstandingly-fluffy-tunisian-barramundi-tagine",
+  "title": "Barramundi Tagine with Tunisian Spices",
+  "description": "A flavorful and aromatic dish from North Africa, featuring barramundi cooked in a rich and spicy tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fluffy couscous",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Tunisian spice blend, cumin, coriander, paprika, and cook for 1 minute, stirring constantly.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Add the barramundi fillets and cook for 8-10 minutes, or until cooked through.",
+    "Stir in the chopped parsley and cook for 1 minute.",
+    "Serve the barramundi with fluffy couscous.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "fish",
+    "tagine",
+    "barbecue",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-fluffy-tunisian-barramundi-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:57:07.442Z"
+}
