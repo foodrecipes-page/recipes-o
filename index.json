@@ -9470,17 +9470,15 @@
   },
   {
     "slug": "oven-roasted-crunchy-peruvian-corned-beef-picarones",
-    "title": "Oven-Roasted Crunchy Peruvian Corned Beef Picarones",
+    "title": "Peruvian Picarones with Roasted Beef",
     "tags": [
-      "corned-beef",
-      "high-protein",
-      "one-pan",
-      "oven-roasted",
       "peruvian",
-      "weeknight"
+      "dessert",
+      "sweet-potatoes",
+      "beef"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 75,
     "shard": "o"
   },
   {
@@ -14598,6 +14596,19 @@
       "roasted"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-welsh-red-potatoes-gratin--french",
+    "title": "Welsh Rarebit and Roasted Potato Gratin",
+    "tags": [
+      "french",
+      "gratin",
+      "roasted-potatoes",
+      "welsh-rarebit"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "o"
   }
