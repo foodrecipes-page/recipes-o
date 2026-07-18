@@ -1,0 +1,93 @@
+{
+  "slug": "oozy-dense-jamaican-paneer-curry",
+  "title": "Jamaican Paneer Curry",
+  "description": "A rich and creamy curry made with paneer cheese and a blend of Jamaican spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "300g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "Jamaican curry powder blend"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and ginger and sauté until softened.",
+    "Add cumin, coriander, and curry powder and cook for 1 minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add paneer and jerk seasoning, and stir to coat.",
+    "Reduce heat to low and let simmer for 10-15 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-dense-jamaican-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:30:59.965Z"
+}
