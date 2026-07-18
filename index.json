@@ -14785,5 +14785,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-moroccan-sterbottensost-cheese-pastilla--french",
+    "title": "Roasted Sterbottensost with Moroccan Spices",
+    "tags": [
+      "french",
+      "cheese",
+      "moroccan",
+      "oven-roasted"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "o"
   }
 ]
