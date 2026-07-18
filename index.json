@@ -14861,5 +14861,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 27,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-russian-pork-shoulder-bake--italian",
+    "title": "Italian-Style Braised Pork Shoulder",
+    "tags": [
+      "italian",
+      "braised",
+      "pork",
+      "shoulder",
+      "oven-roasted"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "o"
   }
 ]
