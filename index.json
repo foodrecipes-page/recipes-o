@@ -52,14 +52,15 @@
   },
   {
     "slug": "oatcrisp-crunch",
-    "title": "Oatcrisp Crunch",
+    "title": "Crunchy Oatcrisp Bites",
     "tags": [
-      "oatmeal",
-      "crunchy",
-      "peppery"
+      "oatcrisp",
+      "crunch",
+      "snack",
+      "easy-to-make"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -14797,6 +14798,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-smoky-german-muffin-sandwich--thai",
+    "title": "Thai Smoked Sausage Sandwich",
+    "tags": [
+      "german",
+      "muffin",
+      "smoky",
+      "thai",
+      "sandwich"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "o"
   }
 ]
