@@ -1,0 +1,84 @@
+{
+  "slug": "oily-lazy-vietnamese-beef-pho-bo--mexican",
+  "title": "Beef Fajitas",
+  "description": "A flavorful and spicy Mexican dish made with sautéed beef, onions, and bell peppers, served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or flank steak works well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the beef to the skillet and cook for 3-4 minutes per side, or until browned and cooked to your desired level of doneness.",
+    "Remove the beef from the skillet and set aside to rest.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet, then add the onion and bell pepper.",
+    "Cook the onion and bell pepper for 5-7 minutes, or until they begin to soften.",
+    "Add the garlic to the skillet and cook for an additional minute.",
+    "Add the fajita seasoning to the skillet and stir to combine.",
+    "Return the beef to the skillet and stir to combine with the onion and bell pepper mixture.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by slicing the beef into thin strips and serving with the onion and bell pepper mixture, warm flour tortillas, and your desired toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-lazy-vietnamese-beef-pho-bo--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:33:00.574Z"
+}
