@@ -1,0 +1,76 @@
+{
+  "slug": "old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings",
+  "title": "Pan-Fried Russian Dumplings with Yukon Gold Potatoes",
+  "description": "A hearty and comforting dish that combines pan-fried Russian dumplings with crispy Yukon gold potatoes.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian dumplings",
+      "amount": "1 package (12-15 pieces)",
+      "notes": "Available in many international grocery stores or online."
+    },
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4-5",
+      "notes": "Choose medium-sized potatoes for best results."
+    },
+    {
+      "name": "old fashioned snappy bacon",
+      "amount": "6 slices",
+      "notes": "Optional, but adds smoky flavor."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying."
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "Garnish with fresh parsley for a pop of color."
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of olive oil and cook the old fashioned snappy bacon until crispy. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and pan-fry the Russian dumplings until golden brown on the bottom (about 2-3 minutes).",
+    "Flip the dumplings and cook for an additional 2-3 minutes or until cooked through.",
+    "Meanwhile, peel the Yukon gold potatoes and cut them into 1-inch cubes.",
+    "Add the potato cubes to the skillet and cook for 5-7 minutes or until they are tender and golden brown, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve the pan-fried dumplings with the crispy bacon, pan-fried potatoes, and garnished with chopped fresh parsley (if using).",
+    "Enjoy your delicious and comforting meal!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "dumplings",
+    "potatoes",
+    "bacon",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:17:19.828Z"
+}
