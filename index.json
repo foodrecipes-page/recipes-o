@@ -4081,17 +4081,15 @@
   },
   {
     "slug": "oozy-creamy-greek-sterbottensost-cheese-stir-fry",
-    "title": "Oozy Creamy Greek Sterbottensost Cheese Stir Fry",
+    "title": "Sterbottensost Fritters with Greek Yogurt Dipping Sauce",
     "tags": [
-      "greek",
-      "one-pan",
-      "quick-fix",
-      "stir-fry",
-      "vegetarian",
-      "weeknight"
+      "snack",
+      "cheese",
+      "fried",
+      "dipping-sauce"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "cuisine": "Swedish",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -14812,6 +14810,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-welsh-red-potatoes-gratin--mexican",
+    "title": "Welsh Red Potato Gratin",
+    "tags": [
+      "mexican",
+      "side-dish",
+      "potatoes"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 65,
     "shard": "o"
   }
 ]
