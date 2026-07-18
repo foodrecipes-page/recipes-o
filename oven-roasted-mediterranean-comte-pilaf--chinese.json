@@ -1,0 +1,76 @@
+{
+  "slug": "oven-roasted-mediterranean-comte-pilaf--chinese",
+  "title": "Chinese Roasted Comte Pilaf",
+  "description": "A twist on traditional pilaf, this Chinese-inspired dish combines roasted Comte cheese with Mediterranean flavors.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "120g"
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "Chinese five-spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Rinse the pilaf rice and cook according to package instructions.",
+    "In a separate pan, heat the olive oil and add the Chinese five-spice.",
+    "Add the soy sauce and stir to combine.",
+    "Add the cooked pilaf rice to the pan and stir to coat with the soy sauce mixture.",
+    "Transfer the pilaf to a baking dish and top with the roasted Comte cheese.",
+    "Bake in the preheated oven for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and top with Mediterranean olives.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pilaf",
+    "comte-cheese",
+    "mediterranean",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mediterranean-comte-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:24:45.745Z"
+}
