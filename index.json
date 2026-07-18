@@ -14773,5 +14773,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-dutch-vegetable-stew--japanese",
+    "title": "Japanese Vegetable Stew",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
