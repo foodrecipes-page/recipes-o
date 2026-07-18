@@ -14745,5 +14745,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 180,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mediterranean-comte-pilaf--chinese",
+    "title": "Chinese Roasted Comte Pilaf",
+    "tags": [
+      "chinese",
+      "pilaf",
+      "comte-cheese",
+      "mediterranean",
+      "roasted"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "o"
   }
 ]
