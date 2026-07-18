@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-korean-fromage-fres-anju--japanese",
+  "title": "Korean-Style Oven Roasted Fromage",
+  "description": "A fusion dish that combines the richness of fromage with the bold flavors of Korean spices.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fromage",
+      "amount": "1 block (250g)",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Anju",
+      "amount": "1/4 cup (60g)",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Fres",
+      "amount": "1/4 cup (15g)",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together Anju, fres, gochugaru, honey, soy sauce, brown sugar, and black pepper.",
+    "Cut the Fromage into 1-inch (2.5 cm) cubes.",
+    "Place the Fromage cubes on a baking sheet lined with parchment paper.",
+    "Brush the Fromage with sesame oil and sprinkle the Anju mixture evenly over the top.",
+    "Roast in the preheated oven for 15-20 minutes, or until the Fromage is golden brown and caramelized.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "oven-roasted",
+    "dessert",
+    "fromage",
+    "anju"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-korean-fromage-fres-anju--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:52:32.770Z"
+}
