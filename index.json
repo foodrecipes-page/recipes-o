@@ -14693,5 +14693,31 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oily-molten-uruguayan-beef-flank-steak-stew--vegan",
+    "title": "Uruguayan-Style Vegan Flank Steak Fajitas",
+    "tags": [
+      "vegan",
+      "uruguayan",
+      "portobello-mushrooms",
+      "fajitas"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-glassy-ukrainian-beef-bisque--mexican",
+    "title": "Mexican Beef in Bisque",
+    "tags": [
+      "mexican",
+      "beef",
+      "bisque",
+      "comfort-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "o"
   }
 ]
