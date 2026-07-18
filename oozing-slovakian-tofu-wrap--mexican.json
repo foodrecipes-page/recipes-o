@@ -1,0 +1,96 @@
+{
+  "slug": "oozing-slovakian-tofu-wrap--mexican",
+  "title": "Tofu Wrap with Slovakian Twist",
+  "description": "A Mexican-inspired vegan wrap with a unique Slovakian twist. This dish combines the flavors of Mexico with the spices of Slovakia.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian oozing sausage",
+      "amount": "1 package, sliced",
+      "notes": "Make sure to squeeze out excess oil"
+    },
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block, drained and crumbled",
+      "notes": "Press tofu for at least 30 minutes before use"
+    },
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1 large wrap",
+      "notes": "Choose a brand with a 'gluten-free' label"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 handful",
+      "notes": "Add your favorite lettuce, spinach, and other greens"
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 bell pepper",
+      "notes": "Red, yellow, or orange, whichever you like"
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1/2 onion",
+      "notes": "Red or yellow, thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Add as much or as little as you like"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 tsp",
+      "notes": "Add a smoky flavor to your dish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed, of course"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning to your liking"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium-high heat.",
+    "Add sliced Slovakian oozing sausage and cook until browned, about 3-4 minutes.",
+    "Add crumbled tofu and cook until golden brown, about 4-5 minutes.",
+    "Add diced bell peppers and onions and cook until tender, about 5 minutes.",
+    "Add mixed greens, chopped cilantro, and Slovakian paprika. Stir to combine.",
+    "Wrap the mixture in a whole wheat wrap and slice in half.",
+    "Drizzle with lime juice and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Add sliced avocado or sour cream for extra creaminess."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "mexican",
+    "slovakian",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-slovakian-tofu-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:47:11.078Z"
+}
