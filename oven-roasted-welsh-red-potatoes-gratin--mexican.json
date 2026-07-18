@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-welsh-red-potatoes-gratin--mexican",
+  "title": "Welsh Red Potato Gratin",
+  "description": "A Mexican-inspired twist on the classic Welsh potato dish, topped with a layer of roasted red potatoes and a sprinkle of cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Welsh potatoes",
+      "amount": "2 large",
+      "notes": "thick-skinned"
+    },
+    {
+      "name": "Red potatoes",
+      "amount": "1 large",
+      "notes": "thin-skinned"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly slice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thinly slice the red onion and mince the garlic.",
+    "Layer the thinly sliced red onion and minced garlic at the bottom of a 9x13 inch baking dish.",
+    "Thinly slice the Welsh potatoes and layer them on top of the onion mixture.",
+    "Thinly slice the red potatoes and layer them on top of the Welsh potatoes.",
+    "Drizzle the olive oil over the top layer of potatoes.",
+    "Season with salt and pepper to taste.",
+    "Sprinkle the chopped cilantro and shredded cheddar cheese over the top layer of potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "side-dish",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-welsh-red-potatoes-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:00:46.869Z"
+}
