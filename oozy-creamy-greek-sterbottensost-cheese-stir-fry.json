@@ -1,0 +1,66 @@
+{
+  "slug": "oozy-creamy-greek-sterbottensost-cheese-stir-fry",
+  "title": "Sterbottensost Fritters with Greek Yogurt Dipping Sauce",
+  "description": "Crispy fritters filled with melted Sterbottensost cheese, served with a refreshing Greek yogurt dipping sauce.",
+  "cuisine": "Swedish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sterbottensost cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, egg, and chopped onion.",
+    "Stir in the shredded Sterbottensost cheese.",
+    "Drop small spoonfuls of the mixture into hot oil and fry until golden brown.",
+    "Drain on paper towels.",
+    "Mix the Greek yogurt with a pinch of salt and a squeeze of lemon juice.",
+    "Serve the fritters with the yogurt dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "cheese",
+    "fried",
+    "dipping-sauce"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-greek-sterbottensost-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:27:28.576Z"
+}
