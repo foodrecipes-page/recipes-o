@@ -1,0 +1,77 @@
+{
+  "slug": "oceanic-briny-filipino-jackfruit-halo-halo",
+  "title": "Halo-Halo with Jackfruit and Coconut",
+  "description": "A Filipino-inspired dessert made with jackfruit, coconut, and a variety of fruits and creamy condiments.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jackfruit",
+      "amount": "1 cup, canned and drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "halo-halo mix-ins (e.g., sweetened beans, kaong, leche flan)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ube halaya",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ube powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, sugar, and water in a saucepan and bring to a boil.",
+    "Reduce heat and simmer for 5 minutes.",
+    "Add ube halaya, ube powder, and jackfruit to the saucepan and stir to combine.",
+    "Remove from heat and let cool to room temperature.",
+    "In a separate bowl, mix together halo-halo mix-ins and ice.",
+    "Divide the mixture among individual serving cups.",
+    "Pour the cooled jackfruit mixture over the top of the mixture in each cup.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Serve chilled and garnish with additional ube powder, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "dessert",
+    "jackfruit",
+    "ube"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-briny-filipino-jackfruit-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:59:20.321Z"
+}
