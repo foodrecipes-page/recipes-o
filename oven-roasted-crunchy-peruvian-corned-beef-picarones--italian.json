@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-crunchy-peruvian-corned-beef-picarones--italian",
+  "title": "Italian-Style Beef Picarones",
+  "description": "A Peruvian-inspired twist on traditional Italian cuisine, featuring crispy beef picarones served with a side of roasted vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "for the picarones"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the beef, parmesan cheese, salt, and black pepper.",
+    "Mix well and set aside.",
+    "In a separate bowl, mix together the cornmeal, flour, and eggs.",
+    "Add the olive oil to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it's smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add a few of the dough disks to the skillet and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "Transfer the cooked picarones to a baking sheet and bake in the preheated oven for an additional 5-7 minutes, until crispy.",
+    "Serve the picarones hot with your favorite roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "peruvian",
+    "beef",
+    "picarones"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-crunchy-peruvian-corned-beef-picarones--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:57:40.460Z"
+}
