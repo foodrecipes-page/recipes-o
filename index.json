@@ -2759,17 +2759,16 @@
   },
   {
     "slug": "old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings",
-    "title": "Old Fashioned Snappy Russian Yukon Gold Potatoes Dumplings",
+    "title": "Pan-Fried Russian Dumplings with Yukon Gold Potatoes",
     "tags": [
-      "comfort-food",
+      "russian",
       "dumplings",
-      "homemade",
-      "russian-cuisine",
-      "traditional",
-      "vegetarian"
+      "potatoes",
+      "bacon",
+      "comfort-food"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -14822,6 +14821,31 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-syrian-black-beans-kebabs--keto",
+    "title": "Keto Syrian Black Bean Kebabs",
+    "tags": [
+      "keto",
+      "low-carb",
+      "black-beans",
+      "syrian-seasoning"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-lazy-vietnamese-beef-pho-bo--mexican",
+    "title": "Beef Fajitas",
+    "tags": [
+      "beef",
+      "mexican",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "o"
   }
 ]
