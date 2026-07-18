@@ -1,0 +1,72 @@
+{
+  "slug": "oven-roasted-crunchy-pepper-meal--gluten-free",
+  "title": "Roasted Pepper Crunchy Meal",
+  "description": "A delicious and healthy gluten-free meal made with roasted peppers and a crunchy topping.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Gluten-free meal",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Crunchy topping (e.g. gluten-free crackers)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the peppers in half and remove the seeds.",
+    "Place the peppers on a baking sheet and drizzle with olive oil.",
+    "Roast the peppers in the oven for 30-40 minutes, or until they are tender and slightly charred.",
+    "While the peppers are roasting, prepare the gluten-free meal according to package instructions.",
+    "Once the peppers are done, top the meal with roasted peppers and a sprinkle of crunchy topping.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "roasted-pepper",
+    "crunchy-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-crunchy-pepper-meal--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:37:18.405Z"
+}
