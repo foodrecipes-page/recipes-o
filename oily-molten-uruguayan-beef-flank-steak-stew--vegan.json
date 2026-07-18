@@ -1,0 +1,77 @@
+{
+  "slug": "oily-molten-uruguayan-beef-flank-steak-stew--vegan",
+  "title": "Uruguayan-Style Vegan Flank Steak Fajitas",
+  "description": "A vegan twist on the classic Uruguayan recipe, using marinated and grilled portobello mushrooms instead of steak.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "1 pound",
+      "notes": "clean and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "uruguayan seasoning",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "stew meat substitute",
+      "amount": "1 cup",
+      "notes": "such as textured vegetable protein"
+    }
+  ],
+  "instructions": [
+    "Marinate the portobello mushrooms in olive oil, uruguayan seasoning, and garlic for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the mushrooms and onion for 2-3 minutes per side, or until slightly charred.",
+    "Add the bell pepper to the grill and cook for an additional 2 minutes.",
+    "Add the stew meat substitute to the grill and cook for 2-3 minutes per side, or until lightly browned.",
+    "Serve the vegetables and meat substitute in a fajita-style dish, garnished with cilantro if desired.",
+    "Serve with your favorite toppings, such as avocado, salsa, or guacamole."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "uruguayan",
+    "portobello-mushrooms",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-molten-uruguayan-beef-flank-steak-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:17:32.687Z"
+}
