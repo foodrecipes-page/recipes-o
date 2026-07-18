@@ -14732,5 +14732,18 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-egyptian-lamb-tagine--chinese",
+    "title": "Egyptian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "oven-roasted",
+      "chinese-inspired"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 180,
+    "shard": "o"
   }
 ]
