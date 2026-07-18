@@ -1,0 +1,97 @@
+{
+  "slug": "oozy-molten-italian-pork-lasagna",
+  "title": "Classic Italian Lasagna",
+  "description": "A traditional Italian dish made with layers of pasta, rich meat sauce, and melted mozzarella cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Italian sausage, casings removed",
+      "amount": "1 pound",
+      "notes": "Cook to 160°F (71°C)"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "Cook to 160°F (71°C)"
+    },
+    {
+      "name": "Oozy mozzarella cheese, shredded",
+      "amount": "2 cups",
+      "notes": "Melt to 120°F (49°C)"
+    },
+    {
+      "name": "Molten parmesan cheese, grated",
+      "amount": "1 cup",
+      "notes": "Melt to 120°F (49°C)"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Dried basil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, cook Italian sausage and ground pork over medium-high heat, breaking up with a spoon, until browned, about 5-7 minutes.",
+    "Add onion and garlic to the skillet and cook until onion is translucent, about 3-4 minutes.",
+    "Stir in crushed tomatoes, basil, salt, and pepper. Bring to a simmer and let cook for 10-15 minutes.",
+    "In a large bowl, combine mozzarella and parmesan cheese. Stir until well combined.",
+    "Spread a layer of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top.",
+    "Spread half of the cheese mixture over the noodles. Repeat the layers, starting with the meat sauce, noodles, and finally the remaining cheese mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "pork",
+    "italian-sausage",
+    "cheese",
+    "pasta"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-molten-italian-pork-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:16:39.602Z"
+}
