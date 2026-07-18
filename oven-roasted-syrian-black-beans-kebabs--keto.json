@@ -1,0 +1,78 @@
+{
+  "slug": "oven-roasted-syrian-black-beans-kebabs--keto",
+  "title": "Keto Syrian Black Bean Kebabs",
+  "description": "A keto twist on traditional kebabs, using flavorful black beans and a spicy Syrian seasoning blend.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black beans, cooked",
+      "amount": "1 cup",
+      "notes": "Low-carb black beans"
+    },
+    {
+      "name": "Syrian seasoning blend",
+      "amount": "2 tsp",
+      "notes": "Keto-friendly blend of herbs and spices"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Aluminum foil",
+      "amount": "1 sheet",
+      "notes": "For wrapping kebabs"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "4-6",
+      "notes": "For grilling kebabs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine cooked black beans, Syrian seasoning blend, and black pepper.",
+    "Squeeze lime juice over the bean mixture and mix well.",
+    "Thread a few black beans onto each wooden skewer, leaving a small space between each bean.",
+    "Brush the kebabs with olive oil and wrap each kebab in aluminum foil to prevent sticking.",
+    "Place the kebabs on a baking sheet and bake for 15-20 minutes, or until heated through.",
+    "Remove the kebabs from the oven and let them cool for a few minutes.",
+    "Serve the kebabs hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "black-beans",
+    "syrian-seasoning"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-syrian-black-beans-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:09:24.963Z"
+}
