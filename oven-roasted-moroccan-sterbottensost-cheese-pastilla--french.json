@@ -1,0 +1,68 @@
+{
+  "slug": "oven-roasted-moroccan-sterbottensost-cheese-pastilla--french",
+  "title": "Roasted Sterbottensost with Moroccan Spices",
+  "description": "A French-inspired recipe that combines the flavors of roasted Sterbottensost cheese with traditional Moroccan spices.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sterbottensost cheese",
+      "amount": "1 wheel (150g)",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, cinnamon, and ginger"
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the Sterbottensost cheese into wedges.",
+    "Place the cheese on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the cheese and sprinkle with Moroccan spice blend.",
+    "Season with coarse black pepper to taste.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and slightly browned.",
+    "Remove from the oven and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "cheese",
+    "moroccan",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-moroccan-sterbottensost-cheese-pastilla--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:20:22.730Z"
+}
