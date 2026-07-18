@@ -322,17 +322,15 @@
   },
   {
     "slug": "oceanic-briny-filipino-jackfruit-halo-halo",
-    "title": "Oceanic Briny Filipino Jackfruit Halo Halo",
+    "title": "Halo-Halo with Jackfruit and Coconut",
     "tags": [
-      "ayurvedic-friendly",
-      "briny-flavors",
-      "deep-fried",
-      "filipino-food",
-      "jackfruit-recipes",
-      "vegan-desserts"
+      "filipino",
+      "dessert",
+      "jackfruit",
+      "ube"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -14654,6 +14652,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 150,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-korean-fromage-fres-anju--japanese",
+    "title": "Korean-Style Oven Roasted Fromage",
+    "tags": [
+      "korean",
+      "oven-roasted",
+      "dessert",
+      "fromage",
+      "anju"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-crunchy-pepper-meal--gluten-free",
+    "title": "Roasted Pepper Crunchy Meal",
+    "tags": [
+      "gluten-free",
+      "roasted-pepper",
+      "crunchy-meal"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-silky-filipino-tofu-kare-kare--italian",
+    "title": "Roasted Tofu Italian-Style",
+    "tags": [
+      "italian",
+      "tofu",
+      "roasted",
+      "vegan",
+      "kare"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]
