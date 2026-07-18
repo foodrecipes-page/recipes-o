@@ -4260,16 +4260,15 @@
   },
   {
     "slug": "oozy-dense-jamaican-paneer-curry",
-    "title": "Oozy Dense Jamaican Paneer Curry",
+    "title": "Jamaican Paneer Curry",
     "tags": [
-      "indian-inspired",
-      "jamaican-cuisine",
-      "one-pot",
-      "pescatarian-friendly",
-      "rich-and-creamy"
+      "indian",
+      "paneer",
+      "curry",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -4921,17 +4920,17 @@
   },
   {
     "slug": "oozy-molten-italian-pork-lasagna",
-    "title": "Oozy Molten Italian Pork Lasagna",
+    "title": "Classic Italian Lasagna",
     "tags": [
-      "cheesy",
-      "italian-food",
-      "low-glycemic",
-      "pork-recipes",
-      "slow-cooked",
-      "special-occasion"
+      "italian",
+      "lasagna",
+      "pork",
+      "italian-sausage",
+      "cheese",
+      "pasta"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
