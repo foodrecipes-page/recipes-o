@@ -1,0 +1,78 @@
+{
+  "slug": "oozy-glassy-ukrainian-beef-bisque--mexican",
+  "title": "Mexican Beef in Bisque",
+  "description": "Beef cooked in a rich and flavorful bisque. A twist on the classic Mexican dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Bisque",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Ukrainian",
+      "amount": "2 tsp",
+      "notes": "Ukrainian seasoning blend"
+    },
+    {
+      "name": "Glassy",
+      "amount": "1 tsp",
+      "notes": "Glassy onion powder"
+    },
+    {
+      "name": "Oozy",
+      "amount": "1/2 cup",
+      "notes": "Oozy cheese, shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add Ukrainian seasoning and glassy onion powder. Cook for 1 minute.",
+    "Add bisque and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Stir in oozzy cheese until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional oozzy cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "bisque",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-glassy-ukrainian-beef-bisque--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:38:07.367Z"
+}
