@@ -1,0 +1,85 @@
+{
+  "slug": "oven-roasted-peruvian-sweet-potatoes-picarones--mexican",
+  "title": "Peruvian Sweet Potato Picarones",
+  "description": "Traditional Peruvian sweet potato doughnuts, roasted to perfection with a crispy Mexican twist.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "for dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for dough"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "cinnamon sugar",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix mashed sweet potatoes, flour, baking powder, sugar, and egg in a bowl.",
+    "Heat 2 cups of vegetable oil in a deep frying pan.",
+    "Using a spoon, drop small balls of the dough mixture into the hot oil.",
+    "Fry the doughnuts until golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove the doughnuts from the oil and place them on a paper towel-lined plate.",
+    "Dust the doughnuts with cinnamon sugar.",
+    "Optional: sprinkle anise seeds on top of the doughnuts.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "mexican",
+    "sweet",
+    "potatoes",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-peruvian-sweet-potatoes-picarones--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:46:30.152Z"
+}
