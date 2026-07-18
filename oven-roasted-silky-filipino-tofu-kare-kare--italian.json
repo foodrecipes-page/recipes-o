@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-silky-filipino-tofu-kare-kare--italian",
+  "title": "Roasted Tofu Italian-Style",
+  "description": "A creative twist on Italian cuisine, this dish combines the flavors of kare with roasted tofu.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (about 12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "kare",
+      "amount": "2 tbsp",
+      "notes": " Filipino-inspired sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "handful",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Drain and press the tofu to remove excess liquid.",
+    "Cut the tofu into 1-inch cubes and place on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the tofu and sprinkle with salt, pepper, and roasted garlic.",
+    "Roast the tofu in the preheated oven for 20-25 minutes, or until golden brown.",
+    "While the tofu is roasting, heat the kare sauce in a small saucepan over medium heat.",
+    "Once the tofu is done, remove from the oven and toss with the kare sauce until coated.",
+    "Serve the roasted tofu hot, garnished with chopped fresh basil.",
+    "Enjoy as a main dish or as a side.",
+    "Optional: serve with pasta or rice for a more filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "tofu",
+    "roasted",
+    "vegan",
+    "kare"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-silky-filipino-tofu-kare-kare--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:40:44.646Z"
+}
