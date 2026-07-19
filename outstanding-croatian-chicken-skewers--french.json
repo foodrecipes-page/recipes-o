@@ -1,0 +1,80 @@
+{
+  "slug": "outstanding-croatian-chicken-skewers--french",
+  "title": "Chicken Skewers with French Inspiration",
+  "description": "A classic French-inspired dish made with tender chicken, flavorful seasoning, and grilled to perfection. Perfect for a light and refreshing meal or as an appetizer for a dinner party.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast or thighs, cut into 1-inch pieces"
+    },
+    {
+      "name": "outstanding olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika for added depth of flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground black pepper"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for at least 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, paprika, salt, pepper, and garlic. Add the chicken and toss to coat.",
+    "Thread the chicken onto the skewers, leaving a small space between each piece.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Transfer the skewers to a plate and brush with lemon juice. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "French",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-croatian-chicken-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:20:35.607Z"
+}
