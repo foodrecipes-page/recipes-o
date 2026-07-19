@@ -1,0 +1,97 @@
+{
+  "slug": "oven-smoked-norwegian-fish-poke",
+  "title": "Smoked Salmon Poke Bowl",
+  "description": "A dish that combines the flavors of Norwegian smoked salmon with the freshness of poke bowl ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Norwegian Salmon",
+      "amount": "6 ounces",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Cooked White Rice",
+      "amount": "1 cup",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Diced Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "Lightly toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the smoked salmon on a baking sheet and bake for 5-7 minutes, or until heated through.",
+    "In a small bowl, whisk together soy sauce, lime juice, and sesame oil.",
+    "In a large bowl, combine cooked white rice, mixed greens, sliced green onions, diced cucumber, and pickled ginger.",
+    "Add the cooked salmon to the bowl and toss with the soy sauce mixture.",
+    "Sprinkle toasted sesame seeds on top of the salad.",
+    "Serve immediately and garnish with additional green onions if desired.",
+    "Cook time: 5 minutes",
+    "Bake the salmon at 400°F (200°C) for 5-7 minutes.",
+    "Total time: 12 minutes"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "easy",
+    "poke-bowl",
+    "salmon",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoked-norwegian-fish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:21:37.074Z"
+}
