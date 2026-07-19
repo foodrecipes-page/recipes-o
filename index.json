@@ -5789,16 +5789,15 @@
   },
   {
     "slug": "orange-infused-american-chocolate-skillet",
-    "title": "Orange Infused American Chocolate Skillet",
+    "title": "Orange Skillet Chocolate Cake",
     "tags": [
-      "american-classics",
-      "chocolate-lovers",
-      "one-pan",
-      "orange-infused",
-      "weeknight"
+      "cake",
+      "orange",
+      "chocolate",
+      "skillet"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -11174,17 +11173,15 @@
   },
   {
     "slug": "oven-roasted-mexican-lentils-chilaquiles",
-    "title": "Oven Roasted Mexican Lentils Chilaquiles",
+    "title": "Roasted Lentil Chilaquiles",
     "tags": [
-      "breakfast-option",
-      "high-protein",
-      "lentil-based",
-      "mexican-inspired",
-      "oven-roasted",
-      "vegan-friendly"
+      "breakfast",
+      "lentils",
+      "mexican",
+      "roasted"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
