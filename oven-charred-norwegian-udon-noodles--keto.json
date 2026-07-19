@@ -1,0 +1,92 @@
+{
+  "slug": "oven-charred-norwegian-udon-noodles--keto",
+  "title": "Keto Norwegian Charred Udon Noodles",
+  "description": "A keto take on traditional udon noodles, charred to perfection and infused with Norwegian flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4 fillets",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Charred garlic",
+      "amount": "4 cloves",
+      "notes": "See notes for charred garlic method"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried dill weed",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with salt, pepper, and dried dill weed.",
+    "Place the salmon fillets on a baking sheet lined with parchment paper and bake for 12-15 minutes or until cooked through.",
+    "Meanwhile, char the garlic by cooking it in a skillet over medium heat for 5-7 minutes or until caramelized.",
+    "Cook the udon noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat the avocado oil over medium-high heat.",
+    "Add the charred garlic to the skillet and sauté for 1 minute.",
+    "Add the cooked udon noodles to the skillet and toss with the garlic and oil.",
+    "Squeeze the lemon juice over the noodles and toss to combine.",
+    "Serve the noodles with the cooked salmon fillets on top.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "norwegian",
+    "charred",
+    "udon",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-charred-norwegian-udon-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:07:33.477Z"
+}
