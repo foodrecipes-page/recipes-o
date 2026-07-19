@@ -1,0 +1,66 @@
+{
+  "slug": "oil-rich-italian-eggplant-pasta--thai",
+  "title": "Thai Eggplant Stir Fry",
+  "description": "A flavorful and healthy Thai-inspired eggplant dish with a mix of savory and sweet notes, served with a side of Italian pasta.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "Italian-style"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rich (fish sauce)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "italian (basil)",
+      "amount": "1 tsp dried",
+      "notes": "or 2 tbsp fresh"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions and set aside.",
+    "Cut eggplant into bite-sized pieces and set aside.",
+    "Heat oil in a large skillet over medium heat.",
+    "Add eggplant and cook until tender, about 3-4 minutes.",
+    "Add rich (fish sauce) and italian (basil) to the skillet and stir to combine.",
+    "Cook for an additional 1 minute.",
+    "Serve eggplant mixture over cooked pasta and enjoy!",
+    "Optional: Garnish with additional italian (basil) for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thaifusion",
+    "eggplant",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-italian-eggplant-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:34:13.930Z"
+}
