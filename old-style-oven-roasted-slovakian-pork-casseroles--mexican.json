@@ -1,0 +1,89 @@
+{
+  "slug": "old-style-oven-roasted-slovakian-pork-casseroles--mexican",
+  "title": "Slovakian-Mexican Pork Casserole",
+  "description": "A twist on traditional Slovakian pork dishes, this casserole combines oven-roasted pork with the bold flavors of Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Old Style Pork Shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "Oven Roasted Tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Slovakian Sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Mexican Cheese Blend",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mexican Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork shoulder with Mexican Spice Blend.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the pork to a large Dutch oven or oven-safe pot.",
+    "Add the diced onion and minced garlic to the skillet and cook until softened.",
+    "Add the Slovakian sausage and cook until browned, breaking up with a spoon as needed.",
+    "Stir in the oven-roasted tomatoes and Mexican Cheese Blend.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the pork is tender and easily shreds with a fork.",
+    "Stir in chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "pork",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-oven-roasted-slovakian-pork-casseroles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:38:29.423Z"
+}
