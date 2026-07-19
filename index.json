@@ -14869,5 +14869,18 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "o"
+  },
+  {
+    "slug": "old-style-oven-roasted-slovakian-pork-casseroles--mexican",
+    "title": "Slovakian-Mexican Pork Casserole",
+    "tags": [
+      "mexican",
+      "casserole",
+      "pork",
+      "oven-roasted"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "o"
   }
 ]
