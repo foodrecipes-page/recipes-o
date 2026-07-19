@@ -5846,16 +5846,15 @@
   },
   {
     "slug": "orange-infused-mexican-corn-elote",
-    "title": "Orange Infused Mexican Corn Elote",
+    "title": "Mexican Elote Grilled Corn Salad",
     "tags": [
-      "citrus-flavors",
-      "comfort-food",
-      "grilled-corn",
-      "mexican-food",
-      "vegetarian-recipes"
+      "corn",
+      "grilled",
+      "mexican",
+      "salad"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -13450,17 +13449,16 @@
   },
   {
     "slug": "oven-toasted-thai-tofu-curry",
-    "title": "Oven Toasted Thai Tofu Curry",
+    "title": "Thai-Style Oven Curry Tofu",
     "tags": [
-      "coconut-flakes",
-      "one-pot",
-      "oven-baked",
-      "tagine-pot",
-      "thai-cuisine",
-      "vegan-friendly"
+      "thai",
+      "curry",
+      "tofu",
+      "oven-roasted",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
