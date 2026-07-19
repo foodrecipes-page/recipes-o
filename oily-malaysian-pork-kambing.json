@@ -1,0 +1,88 @@
+{
+  "slug": "oily-malaysian-pork-kambing",
+  "title": "Malaysian-Style Grilled Pork Satay",
+  "description": "A traditional Southeast Asian dish, this recipe features marinated pork grilled to perfection and served with a spicy peanut sauce. The combination of flavors and textures is a true delight.",
+  "cuisine": "malaysian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "500g",
+      "notes": "thinly sliced into skewers"
+    },
+    {
+      "name": "oily",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil for grilling"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "for peanut sauce"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "for peanut sauce"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for peanut sauce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, fish sauce, grated ginger, and chili flakes.",
+    "Add the sliced pork to the marinade and mix well to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oily and cook the satay for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, make the peanut sauce by blending peanuts, coconut sugar, and water in a blender until smooth.",
+    "Serve the grilled satay with the peanut sauce for dipping.",
+    "Garnish with fresh cilantro leaves and serve immediately.",
+    "Note: Traditionally, satay is grilled over charcoal, but a gas grill or grill pan will also work well."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "malaysian",
+    "pork",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-malaysian-pork-kambing",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:05:34.529Z"
+}
