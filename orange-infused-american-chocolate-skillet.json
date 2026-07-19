@@ -1,0 +1,85 @@
+{
+  "slug": "orange-infused-american-chocolate-skillet",
+  "title": "Orange Skillet Chocolate Cake",
+  "description": "A moist and flavorful chocolate cake made with fresh orange zest and a hint of American spice.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "orange",
+      "amount": "2 medium"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "skillet",
+      "amount": "9-inch round"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease the 9-inch round skillet with infused oil.",
+    "In a medium bowl, whisk together flour, sugar, cocoa powder, salt, and baking powder.",
+    "In a large bowl, whisk together eggs and infused oil.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Stir in the orange zest and chocolate chips.",
+    "Pour the batter into the prepared skillet and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let the cake cool in the skillet for 10 minutes before transferring it to a wire rack to cool completely.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "orange",
+    "chocolate",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-infused-american-chocolate-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:39:42.548Z"
+}
