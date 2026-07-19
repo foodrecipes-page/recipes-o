@@ -9272,17 +9272,15 @@
   },
   {
     "slug": "oven-roasted-chinese-chicken-noodles",
-    "title": "Oven Roasted Chinese Chicken Noodles",
+    "title": "Chinese Oven Roasted Chicken Noodles",
     "tags": [
-      "chinese-cuisine",
-      "diabetic-friendly",
-      "low-sodium",
-      "one-pan",
+      "chinese",
       "oven-roasted",
-      "weeknight"
+      "chicken",
+      "noodles"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -14935,6 +14933,46 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "outstanding-croatian-chicken-skewers--french",
+    "title": "Chicken Skewers with French Inspiration",
+    "tags": [
+      "chicken",
+      "French",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-smoky-turkish-lamb-stew--vegan",
+    "title": "Vegan Stew with Smoky Flair",
+    "tags": [
+      "vegan",
+      "stew",
+      "smoky",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-charred-norwegian-udon-noodles--keto",
+    "title": "Keto Norwegian Charred Udon Noodles",
+    "tags": [
+      "keto",
+      "norwegian",
+      "charred",
+      "udon",
+      "noodles"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
     "shard": "o"
   }
 ]
