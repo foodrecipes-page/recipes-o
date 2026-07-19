@@ -6817,16 +6817,14 @@
   },
   {
     "slug": "outstanding-oily-egyptian-lamb-kebabs",
-    "title": "Egyptian Lamb Kebabs with Fermented Kimchi Slaw",
+    "title": "Egyptian-Style Lamb Kebabs",
     "tags": [
-      "fermented-foods",
-      "grilled-meats",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "middle-eastern",
+      "grilled"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "o"
   },
@@ -15000,6 +14998,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-kenyan-yogurt-flatbread--japanese",
+    "title": "Kenyan Flatbread with Spicy Oozing Topping",
+    "tags": [
+      "japanese",
+      "snack",
+      "appetizer",
+      "spicy",
+      "yogurt"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "o"
   }
 ]
