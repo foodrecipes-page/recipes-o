@@ -15053,5 +15053,31 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oozing-american-figs-pasta--chinese",
+    "title": "Fig and American Cheese Pasta Stir Fry",
+    "tags": [
+      "chinese",
+      "pasta",
+      "easy",
+      "figs",
+      "american-cheese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "o"
+  },
+  {
+    "slug": "outrageously-comforting-kenyan-lamb-stew--chinese",
+    "title": "Kenyan Lamb Stew with Chinese Flair",
+    "tags": [
+      "lamb",
+      "stew",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "o"
   }
 ]
