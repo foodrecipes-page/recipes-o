@@ -1,0 +1,101 @@
+{
+  "slug": "oven-roasted-mexican-lentils-chilaquiles",
+  "title": "Roasted Lentil Chilaquiles",
+  "description": "A Mexican-inspired breakfast dish made with roasted lentils and crispy tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "Corn tortillas"
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "",
+      "notes": "See notes"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Shredded Cheese (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Toss the diced onion, minced garlic and diced tomatoes with 1 tsp cumin, 1 tsp chili powder, 1 tsp salt, and 1/2 tsp pepper. Spread on a baking sheet and roast for 20 minutes.",
+    "3. Cook the red lentils according to package instructions. Drain and set aside.",
+    "4. In a large skillet, heat a tablespoon of oil over medium heat. Add the cooked lentils and stir to combine with the roasted vegetables.",
+    "5. Warm the tortillas in the oven for 5 minutes.",
+    "6. Cut the tortillas into quarters and add them to the skillet with the lentil mixture. Stir to combine.",
+    "7. Cook for an additional 2-3 minutes, until the tortillas are slightly crispy.",
+    "8. Serve hot, topped with shredded cheese if desired.",
+    "9. Garnish with fresh cilantro, if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lentils",
+    "mexican",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-lentils-chilaquiles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:27:28.919Z"
+}
