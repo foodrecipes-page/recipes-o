@@ -1,0 +1,98 @@
+{
+  "slug": "outrageously-comforting-kenyan-lamb-stew--chinese",
+  "title": "Kenyan Lamb Stew with Chinese Flair",
+  "description": "A comforting twist on traditional Kenyan lamb stew, with a hint of Chinese spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "lacto-ovo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches until browned on all sides; set aside.",
+    "Add onion, garlic, and ginger to pot, cooking until softened.",
+    "Add chili flakes and Chinese five-spice powder, cooking for 1 minute.",
+    "Add browned lamb, tomatoes, chicken broth, potatoes, and green beans to pot.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 2 hours or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-comforting-kenyan-lamb-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:39:32.565Z"
+}
