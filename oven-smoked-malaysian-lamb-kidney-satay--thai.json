@@ -1,0 +1,95 @@
+{
+  "slug": "oven-smoked-malaysian-lamb-kidney-satay--thai",
+  "title": "Smoked Lamb Satay",
+  "description": "A classic Malaysian-inspired dish from Thailand, featuring tender lamb skewers with a rich, smoky flavor.",
+  "cuisine": "thai",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "For marinade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons",
+      "notes": "Ground, for marinade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground, for marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "kecap manis",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together coconut milk, fish sauce, lime juice, coriander, cumin, salt, and sugar.",
+    "3. Add lamb cubes to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "4. Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Brush coconut oil onto the lamb skewers.",
+    "6. Grill the skewers over medium-high heat for 8-10 minutes per side, or until cooked through.",
+    "7. Transfer the skewers to a baking sheet and bake in the preheated oven for an additional 5 minutes.",
+    "8. Serve the satay hot with kecap manis, garnished with fresh cilantro and toasted peanuts if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "malaysian",
+    "lamb",
+    "kidney",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoked-malaysian-lamb-kidney-satay--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:20:10.270Z"
+}
