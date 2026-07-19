@@ -1663,16 +1663,15 @@
   },
   {
     "slug": "oily-malaysian-pork-kambing",
-    "title": "oily malaysian pork kambing",
+    "title": "Malaysian-Style Grilled Pork Satay",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "grilled",
+      "malaysian",
+      "pork",
+      "satay"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -15012,6 +15011,47 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-spicy-chinese-bacon-soup--vegan",
+    "title": "Savory Vegan Oozing Soup",
+    "tags": [
+      "vegan",
+      "soup",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-juicy-turkish-lamb-manti--italian",
+    "title": "Turkish-Italian Lamb Manti",
+    "tags": [
+      "italian",
+      "turkish",
+      "lamb",
+      "pasta",
+      "ricotta",
+      "parmesan"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-dutch-lamb-skewers--indian",
+    "title": "Tandoori Lamb Skewers",
+    "tags": [
+      "indian",
+      "tandoori",
+      "lamb",
+      "skewers",
+      "oven-roasted"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
