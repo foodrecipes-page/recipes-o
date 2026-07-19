@@ -1,0 +1,75 @@
+{
+  "slug": "oven-toasted-thai-tofu-curry",
+  "title": "Thai-Style Oven Curry Tofu",
+  "description": "A flavorful and spicy Thai-inspired dish made with oven-roasted tofu in a rich curry sauce, served with toasted bread.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "press and drained"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": "Thai red or green"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the tofu into bite-sized cubes and place on a baking sheet.",
+    "Drizzle with a little oil and toss to coat. Roast in the oven for 20-25 minutes, or until golden brown.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Add the fish sauce (if using) and brown sugar. Stir to combine.",
+    "Add the roasted tofu to the skillet and toss to coat with the curry sauce.",
+    "Serve the tofu and sauce over toasted bread.",
+    "Garnish with fresh cilantro or basil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "tofu",
+    "oven-roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-toasted-thai-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:53:17.197Z"
+}
