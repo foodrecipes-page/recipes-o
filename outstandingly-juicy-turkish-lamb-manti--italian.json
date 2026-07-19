@@ -1,0 +1,99 @@
+{
+  "slug": "outstandingly-juicy-turkish-lamb-manti--italian",
+  "title": "Turkish-Italian Lamb Manti",
+  "description": "A fusion twist on traditional Turkish manti, with Italian flavors and lamb as the star ingredient.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "250g",
+      "notes": "grass-fed lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium size"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pasta dough (homemade or store-bought)",
+      "amount": "1 sheet",
+      "notes": "thinly rolled"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "100g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a large mixing bowl, combine lamb mince, onion, garlic, Italian seasoning, salt, and black pepper. Mix well with your hands until just combined.",
+    "Roll out the pasta dough to a thin sheet, about 1/16 inch thick. Cut into small squares, about 3 inches per side.",
+    "Place a tablespoon of the lamb mixture in the center of each square. Fold the dough over the filling to form a triangle, and press the edges together to seal.",
+    "Place the manti on a baking sheet lined with parchment paper, leaving about 1 inch of space between each piece.",
+    "Drizzle the top of each manti with olive oil and sprinkle with parmesan cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the tops are golden brown and the filling is cooked through.",
+    "While the manti is baking, combine ricotta cheese and a pinch of salt in a small bowl.",
+    "Once the manti is done, remove from the oven and let cool for a few minutes.",
+    "Serve the manti hot, topped with a dollop of ricotta cheese and a sprinkle of parmesan cheese.",
+    "Enjoy your delicious Turkish-Italian Lamb Manti!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "turkish",
+    "lamb",
+    "pasta",
+    "ricotta",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-juicy-turkish-lamb-manti--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:30:27.220Z"
+}
