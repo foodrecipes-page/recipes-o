@@ -5831,17 +5831,16 @@
   },
   {
     "slug": "orange-infused-indian-paneer-curry",
-    "title": "Orange Infused Indian Paneer Curry",
+    "title": "Indian-Style Orange Paneer Curry",
     "tags": [
-      "cheese-pull",
-      "hangover-cure",
-      "indian-cuisine",
-      "spicy-food",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "paneer",
+      "curry",
+      "orange",
+      "indian",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -8907,13 +8906,15 @@
   },
   {
     "slug": "oven-roasted-argentinian-lamb-gratin",
-    "title": "Oven Roasted Argentinian Lamb Gratin",
+    "title": "Argentinian Lamb Gratin",
     "tags": [
+      "lamb",
       "argentinian",
-      "dinner"
+      "gratin",
+      "oven-roasted"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 230,
     "shard": "o"
   },
   {
@@ -14906,6 +14907,34 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-mediterranean-fish-stew--italian",
+    "title": "Italian Fish Stew",
+    "tags": [
+      "italian",
+      "fish",
+      "stew",
+      "mediterranean",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-smoky-argentinian-meal-prep-bowl--mexican",
+    "title": "Argentinian-Style Smoked Chicken Fajitas",
+    "tags": [
+      "chicken",
+      "fajitas",
+      "mexican",
+      "argentinian",
+      "smoked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "o"
   }
 ]
