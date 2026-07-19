@@ -1,0 +1,91 @@
+{
+  "slug": "oven-roasted-chinese-chicken-noodles",
+  "title": "Chinese Oven Roasted Chicken Noodles",
+  "description": "A simple and delicious dish that combines the flavors of Chinese cuisine with the convenience of the oven. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 whole",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "any type of noodle will work"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grate or mince"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, whisk together soy sauce, honey, garlic, and ginger.",
+    "Brush the mixture evenly onto both sides of the chicken.",
+    "Place the chicken on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Bake the chicken in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, cook the noodles according to the package instructions.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "Serve the sliced chicken on top of the cooked noodles.",
+    "Garnish with chopped green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "oven-roasted",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-chinese-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:27:40.575Z"
+}
