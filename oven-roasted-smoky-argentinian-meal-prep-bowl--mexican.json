@@ -1,0 +1,92 @@
+{
+  "slug": "oven-roasted-smoky-argentinian-meal-prep-bowl--mexican",
+  "title": "Argentinian-Style Smoked Chicken Fajitas",
+  "description": "Smoky, roasted chicken breast in a Mexican-inspired dish, served with meal prep in a bowl.",
+  "cuisine": "mexican",
+  "diet": [
+    "healthy",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Roasted green peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with smoked paprika, chili powder, salt, and pepper.",
+    "In a large bowl, toss together the roasted green peppers, onion, and garlic.",
+    "In a separate bowl, mix together the olive oil, chili powder, and smoked paprika.",
+    "Place the chicken breast in a separate bowl and brush the olive oil mixture on top.",
+    "Place the chicken on a baking sheet and bake for 20 minutes.",
+    "After 20 minutes, add the bowl with the peppers and onion to the oven and roast for an additional 10 minutes.",
+    "Remove the chicken and peppers from the oven and let it rest for 5 minutes.",
+    "Slice the chicken and serve with the roasted peppers and onion.",
+    "Serve in a bowl with your favorite Mexican-inspired toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fajitas",
+    "mexican",
+    "argentinian",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-smoky-argentinian-meal-prep-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:01:53.282Z"
+}
