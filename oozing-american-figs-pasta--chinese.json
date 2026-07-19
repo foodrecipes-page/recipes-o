@@ -1,0 +1,72 @@
+{
+  "slug": "oozing-american-figs-pasta--chinese",
+  "title": "Fig and American Cheese Pasta Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry made with sweet figs, creamy American cheese, and oozing goodness. Perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Figs",
+      "amount": "1 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "American Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Oozing goodness!"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add minced garlic and stir-fry for 1 minute until fragrant.",
+    "Add chopped figs and stir-fry for 2 minutes until they start to soften.",
+    "Add soy sauce and stir-fry for another minute.",
+    "Add cooked pasta and shredded American cheese to the skillet. Stir-fry until cheese is melted and pasta is well coated.",
+    "Transfer pasta to a serving dish and garnish with additional figs if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "pasta",
+    "easy",
+    "figs",
+    "american-cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-american-figs-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:24:46.996Z"
+}
