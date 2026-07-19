@@ -14882,5 +14882,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 170,
     "shard": "o"
+  },
+  {
+    "slug": "oven-smoked-malaysian-lamb-kidney-satay--thai",
+    "title": "Smoked Lamb Satay",
+    "tags": [
+      "smoked",
+      "malaysian",
+      "lamb",
+      "kidney",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 55,
+    "shard": "o"
   }
 ]
