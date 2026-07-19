@@ -1,0 +1,87 @@
+{
+  "slug": "outstandingly-crunchy-indian-shrimp-rasmalai",
+  "title": "Spicy Shrimp Rasmalai Bites",
+  "description": "A twist on the classic Indian rasmalai dessert, with succulent shrimp and crunchy coating.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "rasmalai",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "1 cup",
+      "notes": "vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together flour, panko breadcrumbs, cornstarch, garam masala, salt, and pepper.",
+    "2. Add the rasmalai to the bowl and mix until a crumbly mixture forms.",
+    "3. Dip each shrimp into the mixture, pressing gently to coat.",
+    "4. Heat oil in a deep frying pan to 350°F (175°C).",
+    "5. Fry the coated shrimp in batches until golden brown, about 2-3 minutes.",
+    "6. Remove the shrimp from oil and drain on paper towels.",
+    "7. Serve the spicy shrimp rasmalai bites hot with a side of chutney or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "snack",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-crunchy-indian-shrimp-rasmalai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:41:59.980Z"
+}
