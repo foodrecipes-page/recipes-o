@@ -1,0 +1,79 @@
+{
+  "slug": "outstanding-oily-egyptian-lamb-kebabs",
+  "title": "Egyptian-Style Lamb Kebabs",
+  "description": "Tender lamb skewers marinated in a blend of spices and grilled to perfection, inspired by the flavors of Egypt.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Fat-trimmed lamb for best results"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "4 tbsp",
+      "notes": "For brushing skewers during grilling"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "2 tbsp",
+      "notes": "A mix of cumin, coriander, cinnamon, and cardamom"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning lamb"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, Egyptian spices, lemon juice, garlic, salt, and pepper.",
+    "Add the lamb cubes to the marinade and mix until they're evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb reaches a safe internal temperature of 145°F (63°C).",
+    "Transfer the kebabs to a serving platter and garnish with chopped parsley.",
+    "Serve immediately, with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "middle-eastern",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "43g",
+    "carbs": "6g",
+    "fat": "28g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oily-egyptian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:44:15.605Z"
+}
