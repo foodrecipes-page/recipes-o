@@ -1,0 +1,54 @@
+{
+  "slug": "oozing-kenyan-yogurt-flatbread--japanese",
+  "title": "Kenyan Flatbread with Spicy Oozing Topping",
+  "description": "A unique Japanese-inspired appetizer featuring a spicy oozing sauce on top of crispy Kenyan flatbread.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Spicy oozing sauce",
+      "amount": "1/2 cup",
+      "notes": "Can be made with ingredients like sriracha, mayonnaise, and hot sauce"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup",
+      "notes": "For serving as a cooling contrast"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 350°F (175°C).",
+    "Cut the Kenyan flatbread into bite-sized pieces and toast until crispy.",
+    "Meanwhile, mix together the spicy oozing sauce ingredients in a small bowl.",
+    "Once the flatbread is toasted, spoon the spicy oozing sauce over the top of each piece.",
+    "Garnish with a dollop of yogurt for a refreshing contrast.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "appetizer",
+    "spicy",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-kenyan-yogurt-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:34:03.720Z"
+}
