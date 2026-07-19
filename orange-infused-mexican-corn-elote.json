@@ -1,0 +1,72 @@
+{
+  "slug": "orange-infused-mexican-corn-elote",
+  "title": "Mexican Elote Grilled Corn Salad",
+  "description": "A delicious and easy-to-make salad featuring grilled elote corn, oranges, and infused flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "elote corn",
+      "amount": "4 ears"
+    },
+    {
+      "name": "orange",
+      "amount": "2 medium"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill elote corn for 10-12 minutes, turning occasionally.",
+    "Let corn cool, then slice off kernels.",
+    "Juice oranges and strain to remove seeds.",
+    "Whisk together infused oil, salt, pepper, and lime juice.",
+    "Combine grilled corn, orange juice, and whisked dressing in a bowl.",
+    "Stir in chopped cilantro.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "grilled",
+    "mexican",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-infused-mexican-corn-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:10:31.968Z"
+}
