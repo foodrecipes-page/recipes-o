@@ -1,0 +1,73 @@
+{
+  "slug": "orange-infused-indian-paneer-curry",
+  "title": "Indian-Style Orange Paneer Curry",
+  "description": "A creamy and flavorful Indian-inspired curry made with paneer, orange juice, and infused spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "200g"
+    },
+    {
+      "name": "orange",
+      "amount": "1"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Heat infused oil in a pan over medium heat.",
+    "Add curry powder and garam masala, cook for 1 minute.",
+    "Add paneer and cook until lightly browned.",
+    "Squeeze in orange juice and add water.",
+    "Bring to a simmer and cook until sauce thickens.",
+    "Season with salt to taste.",
+    "Serve hot garnished with orange slices.",
+    "Garnish with chopped cilantro (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paneer",
+    "curry",
+    "orange",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-infused-indian-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:12:26.624Z"
+}
