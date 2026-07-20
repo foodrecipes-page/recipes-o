@@ -1,0 +1,80 @@
+{
+  "slug": "oil-infused-german-pork-bowl--japanese",
+  "title": "Ginger Pork Ramen",
+  "description": "A hearty and flavorful Japanese dish, perfect for a cold day. Savor the rich pork broth and tender noodles.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "infused with sesame seeds"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, heat the infused oil over medium heat.",
+    "2. Add the sliced pork and cook until browned, about 5 minutes.",
+    "3. Add the grated ginger and minced garlic, cooking for another minute.",
+    "4. Pour in 4 cups of pork broth and bring to a boil.",
+    "5. Reduce heat and simmer for 10 minutes.",
+    "6. Cook the ramen noodles according to the package instructions.",
+    "7. To assemble the bowls, place a portion of noodles in the bottom.",
+    "8. Add sliced pork, green onions, and a ladle of hot broth.",
+    "9. Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "pork",
+    "ginger",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "60g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-german-pork-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:02:25.481Z"
+}
