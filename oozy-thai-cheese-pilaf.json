@@ -1,0 +1,63 @@
+{
+  "slug": "oozy-thai-cheese-pilaf",
+  "title": "Creamy Thai Pilaf",
+  "description": "A flavorful and aromatic pilaf dish with a creamy twist, inspired by Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Oozy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Pilaf seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium heat.",
+    "Add 1 cup of Thai rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add 1 teaspoon of pilaf seasoning and stir to combine.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is tender.",
+    "Fluff the cooked rice with a fork and stir in 1/2 cup of shredded cheese.",
+    "Add 1/4 cup of oozy sauce and stir to combine.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with additional cheese and pilaf seasoning, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "thai",
+    "cheese",
+    "creamy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-thai-cheese-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:39:33.323Z"
+}
