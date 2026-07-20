@@ -1,0 +1,96 @@
+{
+  "slug": "oozy-dense-jamaican-paneer-curry--indian",
+  "title": "Jamaican Paneer Curry",
+  "description": "A rich and creamy Indian curry made with paneer, Jamaican spices, and a hint of ooziness.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "oozy sauce",
+      "amount": "2 tbsp",
+      "notes": "see note"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "dense coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add curry powder and cook for 1 minute.",
+    "Add paneer and cook until golden brown.",
+    "Add coconut milk and stir to combine.",
+    "Add oozy sauce and stir to combine.",
+    "Season with salt and cayenne pepper to taste.",
+    "Simmer for 10-15 minutes or until sauce has thickened.",
+    "Serve hot and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "paneer",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-dense-jamaican-paneer-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:05:50.901Z"
+}
