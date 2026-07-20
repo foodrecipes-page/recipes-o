@@ -1,0 +1,84 @@
+{
+  "slug": "outstanding-croatian-chicken-skewers--italian",
+  "title": "Italian-Style Chicken Skewers",
+  "description": "A delicious and easy-to-make Italian-inspired chicken recipe featuring skewers with a flavorful marinade.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "outstanding garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Brush the skewers with lemon juice during the last minute of grilling.",
+    "Serve hot, garnished with chopped basil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "italian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-croatian-chicken-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:34:08.480Z"
+}
