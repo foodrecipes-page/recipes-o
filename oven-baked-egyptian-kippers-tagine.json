@@ -1,0 +1,96 @@
+{
+  "slug": "oven-baked-egyptian-kippers-tagine",
+  "title": "Egyptian Baked Kippers Tagine",
+  "description": "A fusion of Egyptian and Mediterranean flavors, this baked kippers tagine is a hearty and flavorful dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the kippers and pat them dry with paper towels.",
+    "In a small bowl, mix together olive oil, onion, garlic, ginger, cumin, coriander, paprika, and salt.",
+    "Place the kippers in a baking dish and brush the spice mixture evenly over them.",
+    "Cover the baking dish with aluminum foil and bake for 15 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the kippers are cooked through.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eussian",
+    "baked",
+    "egyptian",
+    "kippers",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-egyptian-kippers-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:32:53.585Z"
+}
