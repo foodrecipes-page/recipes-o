@@ -5391,18 +5391,15 @@
   },
   {
     "slug": "oozy-thai-cheese-pilaf",
-    "title": "Oozy Thai Cheese Pilaf",
+    "title": "Creamy Thai Pilaf",
     "tags": [
+      "pilaf",
+      "thai",
       "cheese",
-      "confittomato",
-      "currants",
-      "easydinner",
-      "northernthailand",
-      "onepan",
-      "thaicuisine"
+      "creamy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
