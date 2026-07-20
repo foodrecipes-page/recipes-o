@@ -1,0 +1,76 @@
+{
+  "slug": "oil-infused-german-pork-bowl--thai",
+  "title": "Thai-Style Braised Pork Belly",
+  "description": "A rich and flavorful Thai-inspired pork belly dish with a deep, caramelized glaze. Serve with steamed vegetables and rice.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "german",
+      "amount": "1/2 cup",
+      "notes": "german mustard"
+    },
+    {
+      "name": "infused",
+      "amount": "2 tbsp",
+      "notes": "infused oil"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bowls",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Pat the pork belly dry with paper towels.",
+    "Season with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork belly until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the pork to a plate and set aside.",
+    "Add the infused oil and german mustard to the pot, scraping up any browned bits from the bottom.",
+    "Add 1 cup of water to the pot and bring to a simmer.",
+    "Return the pork to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Braise for 2-1/2 hours, or until the pork is tender and the internal temperature reaches 190°F (88°C).",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the cooking liquid through a fine-mesh sieve into a clean saucepan.",
+    "Simmer the liquid over medium heat until thickened and syrupy.",
+    "Slice the pork and serve with the caramelized glaze spooned over the top.",
+    "Serve with steamed vegetables and rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "thai",
+    "pork",
+    "braised",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 50
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-german-pork-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:34:49.825Z"
+}
