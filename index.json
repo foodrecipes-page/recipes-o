@@ -15143,5 +15143,31 @@
     "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-dense-jamaican-paneer-curry--indian",
+    "title": "Jamaican Paneer Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "paneer",
+      "jamaican"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-monsoon-croatian-boudin-blanc-pilaf--vegan",
+    "title": "Monsoon Pilaf Bowl",
+    "tags": [
+      "vegan",
+      "pilaf",
+      "monsoon",
+      "lunch"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
