@@ -1,0 +1,68 @@
+{
+  "slug": "oven-roasted-thai-berry-crumble--french",
+  "title": "French Berry Crumble",
+  "description": "A classic French dessert featuring a mixture of juicy berries topped with a crumbly oat mixture and baked to perfection.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed Berries (strawberries, blueberries, raspberries)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the berries and granulated sugar.",
+    "In a separate bowl, whisk together the flour and cold butter until the mixture resembles coarse crumbs.",
+    "Add the rolled oats, brown sugar, and salt to the bowl and mix until well combined.",
+    "Pour the berry mixture into a 9x9-inch baking dish and top with the crumb mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "berry",
+    "crumble"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-thai-berry-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:39:08.920Z"
+}
