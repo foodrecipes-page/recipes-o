@@ -15169,5 +15169,18 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-kenyan-lamb-stew--italian",
+    "title": "Kenyan Lamb Stew with Italian Twist",
+    "tags": [
+      "italian",
+      "lamb",
+      "stew",
+      "braise"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "o"
   }
 ]
