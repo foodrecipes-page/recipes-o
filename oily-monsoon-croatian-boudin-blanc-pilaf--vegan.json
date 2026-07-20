@@ -1,0 +1,69 @@
+{
+  "slug": "oily-monsoon-croatian-boudin-blanc-pilaf--vegan",
+  "title": "Monsoon Pilaf Bowl",
+  "description": "A flavorful vegan pilaf bowl with a variety of textures and a hint of monsoon spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oily pilaf rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "monsoon spices",
+      "amount": "2 tsp",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "croatian olives",
+      "amount": "1/2 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "blanc mushroom broth",
+      "amount": "2 cups",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, zucchini and bell peppers"
+    }
+  ],
+  "instructions": [
+    "Cook the pilaf rice according to package instructions.",
+    "Heat some oil in a large pan and add the monsoon spices. Cook for 1-2 minutes until fragrant.",
+    "Add the sliced olives and cook for 2-3 minutes until they start to soften.",
+    "Add the pilaf rice to the pan and stir to combine with the spices and olives.",
+    "Add the mushroom broth to the pan and bring to a simmer.",
+    "Reduce the heat to low and cook for 5-7 minutes until the liquid has been absorbed and the rice is tender.",
+    "While the pilaf is cooking, roast the vegetables in the oven with some oil and salt until tender.",
+    "To serve, place a scoop of the pilaf in a bowl and top with the roasted vegetables.",
+    "Garnish with any additional herbs or spices you like."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "pilaf",
+    "monsoon",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-monsoon-croatian-boudin-blanc-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:16:48.076Z"
+}
