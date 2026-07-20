@@ -1,0 +1,81 @@
+{
+  "slug": "oozy-crisp-thai-chicken-larb",
+  "title": "Thai Larb Chicken Salad",
+  "description": "A spicy and sour salad from Thailand, made with crispy fried chicken, crunchy vegetables, and a tangy dressing.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "oozy fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "thai red chili",
+      "amount": "1-2",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "larb spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crisp shallots",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "crisp mint",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "50ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the chicken into bite-sized pieces and season with salt.",
+    "2. Heat a large skillet over medium-high heat and add the chicken. Cook until browned and cooked through.",
+    "3. In a blender or food processor, combine the fish sauce, chili, larb spice mix, chicken broth, and a squeeze of lime juice.",
+    "4. In a large bowl, combine the cooked chicken, crisp lettuce, crisp shallots, and crisp mint.",
+    "5. Pour the dressing over the salad and toss to combine.",
+    "6. Serve immediately and garnish with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "salad",
+    "larb"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-crisp-thai-chicken-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:34:06.217Z"
+}
