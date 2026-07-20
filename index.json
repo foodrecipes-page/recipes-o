@@ -6052,17 +6052,15 @@
   },
   {
     "slug": "original-oven-roasted-american-tofu-bowl",
-    "title": "Original Oven Roasted American Tofu Bowl",
+    "title": "Roasted Tofu Bowl",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "vegan",
+      "tofu",
+      "bowl",
+      "roasted"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 55,
     "shard": "o"
   },
   {
@@ -15226,6 +15224,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
+    "slug": "oil-rich-italian-eggplant-pasta--chinese",
+    "title": "Eggplant Stir Fry with Pasta",
+    "tags": [
+      "eggplant",
+      "pasta",
+      "chinese",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "o"
+  },
+  {
+    "slug": "oil-infused-german-pork-bowl--thai",
+    "title": "Thai-Style Braised Pork Belly",
+    "tags": [
+      "thai",
+      "pork",
+      "braised",
+      "glaze"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 180,
     "shard": "o"
   }
 ]
