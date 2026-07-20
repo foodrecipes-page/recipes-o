@@ -1,0 +1,76 @@
+{
+  "slug": "old-fashioned-charred-portuguese-chinese-cabbage-stew--keto",
+  "title": "Keto Charred Portuguese Stew",
+  "description": "A hearty and flavorful keto stew made with charred portuguese sausage, cabbage, and a hint of spice.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charred Portuguese Sausage",
+      "amount": "1 lb",
+      "notes": "charred over medium heat"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Old Bay Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat.",
+    "Add charred portuguese sausage and cook until browned, about 5 minutes.",
+    "Add shredded cabbage and cook until tender, about 10 minutes.",
+    "Add stew, old bay seasoning, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "portuguese",
+    "stew",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-charred-portuguese-chinese-cabbage-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:50:35.205Z"
+}
