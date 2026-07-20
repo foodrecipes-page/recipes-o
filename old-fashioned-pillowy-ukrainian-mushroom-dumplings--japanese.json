@@ -1,0 +1,71 @@
+{
+  "slug": "old-fashioned-pillowy-ukrainian-mushroom-dumplings--japanese",
+  "title": "Pan-Seared Japanese Mushroom Dumplings",
+  "description": "A delicious and savory Japanese-inspired dish featuring pillowy and ukrainian-style dumplings filled with earthy mushrooms. Serve with your favorite dipping sauce.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Old Fashioned Ukrainian Dumplings",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "Mushroom (varieties like shiitake or cremini work well)",
+      "amount": "250g"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add sesame oil, then add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the miso paste, soy sauce, and grated ginger to the pan and stir to combine.",
+    "Add the green onions and sesame seeds to the pan and stir to combine.",
+    "Pan-fry the Ukrainian dumplings until golden brown on both sides and crispy at the bottom.",
+    "Serve the pan-fried dumplings with the mushroom and sauce mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "mushroom",
+    "dumplings",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-pillowy-ukrainian-mushroom-dumplings--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:34:49.763Z"
+}
