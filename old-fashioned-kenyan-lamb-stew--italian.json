@@ -1,0 +1,86 @@
+{
+  "slug": "old-fashioned-kenyan-lamb-stew--italian",
+  "title": "Kenyan Lamb Stew with Italian Twist",
+  "description": "A hearty, flavorful stew made with tender lamb, inspired by traditional Kenyan flavors with an Italian twist.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound, cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Old fashioned Kenyan stew spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if needed, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Stir in the Kenyan stew spice blend and cook for 1 minute.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the red wine and beef broth, scraping the bottom of the pot to release the browned bits.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "lamb",
+    "stew",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "20g",
+    "fat": "38g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-kenyan-lamb-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:20:30.350Z"
+}
