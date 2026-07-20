@@ -1,0 +1,73 @@
+{
+  "slug": "oozing-kenyan-yogurt-flatbread--vegetarian",
+  "title": "Kenyan-Style Yogurt Flatbread",
+  "description": "A traditional Kenyan flatbread recipe made with yogurt and topped with a tangy oozing sauce. Perfect for a quick snack or light meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan flatbread",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Oozing sauce (or tzatziki)",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Warm the Kenyan flatbread sheets by wrapping them in a damp cloth and microwaving for 20-30 seconds.",
+    "2. In a bowl, mix together the yogurt, oozing sauce, cucumber, garlic, salt, and black pepper.",
+    "3. Spread a tablespoon of the yogurt mixture onto each flatbread sheet.",
+    "4. Top with additional oozing sauce and cucumber slices, if desired.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "flatbread",
+    "yogurt",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-kenyan-yogurt-flatbread--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:29:15.325Z"
+}
