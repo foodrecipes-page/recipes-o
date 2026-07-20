@@ -1,0 +1,88 @@
+{
+  "slug": "oceanic-brazilian-fish-skewers--indian",
+  "title": "Spicy Oceanic Skewers",
+  "description": "A simple and flavorful Indian-inspired dish featuring marinated oceanic on skewers, perfect for a quick dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oceanic",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, lemon juice, garam masala, cumin, coriander, cayenne pepper, and salt.",
+    "Add the oceanic to the bowl and toss to coat with the marinade.",
+    "Thread the oceanic onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the oceanic is cooked through.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "grilled",
+    "skewers",
+    "oceanic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-brazilian-fish-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:37:11.658Z"
+}
