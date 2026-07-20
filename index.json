@@ -15182,5 +15182,32 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "o"
+  },
+  {
+    "slug": "oozing-kenyan-yogurt-flatbread--vegetarian",
+    "title": "Kenyan-Style Yogurt Flatbread",
+    "tags": [
+      "kenyan",
+      "flatbread",
+      "yogurt",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 10,
+    "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-pillowy-ukrainian-mushroom-dumplings--japanese",
+    "title": "Pan-Seared Japanese Mushroom Dumplings",
+    "tags": [
+      "japanese",
+      "mushroom",
+      "dumplings",
+      "lunch"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
