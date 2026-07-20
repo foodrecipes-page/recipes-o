@@ -7810,17 +7810,16 @@
   },
   {
     "slug": "oven-baked-egyptian-kippers-tagine",
-    "title": "Oven Baked Egyptian Kippers Tagine",
+    "title": "Egyptian Baked Kippers Tagine",
     "tags": [
+      "eussian",
+      "baked",
       "egyptian",
-      "fish",
-      "kosher",
-      "oven-baked",
-      "tagine",
-      "weeknight"
+      "kippers",
+      "tagine"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 34,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -15078,6 +15077,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 140,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-thai-berry-crumble--french",
+    "title": "French Berry Crumble",
+    "tags": [
+      "french",
+      "berry",
+      "crumble"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-charred-portuguese-chinese-cabbage-stew--keto",
+    "title": "Keto Charred Portuguese Stew",
+    "tags": [
+      "keto",
+      "portuguese",
+      "stew",
+      "low-carb"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-chocolate-polish-cucumber-tart--keto",
+    "title": "Tart Cucumber Keto Delight",
+    "tags": [
+      "keto",
+      "low-carb",
+      "snack",
+      "summer"
+    ],
+    "cuisine": "keto",
+    "totalTimeMin": 25,
     "shard": "o"
   }
 ]
