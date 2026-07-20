@@ -1,0 +1,67 @@
+{
+  "slug": "oven-roasted-malaysian-deodeok-root-skewers--vegan",
+  "title": "Roasted Deodeok Skewers",
+  "description": "Tender and flavorful deodeok roasted to perfection on skewers, perfect for a vegan dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "deodeok",
+      "amount": "1 large",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "root",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegan oil for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread deodeok and root cubes onto skewers.",
+    "Brush with vegan oil and season with salt and pepper.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender.",
+    "Serve hot and enjoy!",
+    "Optional: serve with a side of steamed vegetables or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "malaysian",
+    "roasted",
+    "deodeok"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-malaysian-deodeok-root-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:39:39.271Z"
+}
