@@ -1,0 +1,78 @@
+{
+  "slug": "oozy-yeasty-shaggy-peruvian-terracotta-dish-pancake",
+  "title": "Terracotta Crusted Pancake Delight",
+  "description": "A sweet and savory pancake dish with a crunchy terracotta crust, perfect for snacking or as a light breakfast.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Terracotta",
+      "amount": "150g"
+    },
+    {
+      "name": "Pancake",
+      "amount": "2",
+      "notes": "flour-based"
+    },
+    {
+      "name": "Oozy",
+      "amount": "30ml"
+    },
+    {
+      "name": "Yeasty",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shaggy",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Peruvian",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Combine the terracotta, pancake, and water in a bowl.",
+    "Add the oozy, yeasty, shaggy, and Peruvian ingredients to the bowl and mix until smooth.",
+    "Pour the mixture onto a greased baking sheet.",
+    "Bake for 15-20 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Slice into wedges and serve warm.",
+    "Optional: add a sprinkle of salt before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "vegan",
+    "gluten-free",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-yeasty-shaggy-peruvian-terracotta-dish-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:08:04.588Z"
+}
