@@ -1,0 +1,56 @@
+{
+  "slug": "oil-rich-italian-eggplant-pasta--chinese",
+  "title": "Eggplant Stir Fry with Pasta",
+  "description": "A delicious and easy Chinese-inspired stir fry made with eggplant and pasta. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Bow-tie or penne work well"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add eggplant and cook until tender, about 3-4 minutes.",
+    "Add pasta to the skillet and stir to combine with eggplant.",
+    "Cook for an additional 2 minutes, until pasta is heated through.",
+    "Season with soy sauce to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "pasta",
+    "chinese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-italian-eggplant-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:02:39.817Z"
+}
