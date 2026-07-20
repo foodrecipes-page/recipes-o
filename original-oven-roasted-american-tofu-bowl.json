@@ -1,0 +1,87 @@
+{
+  "slug": "original-oven-roasted-american-tofu-bowl",
+  "title": "Roasted Tofu Bowl",
+  "description": "A simple and flavorful bowl filled with roasted tofu and mixed vegetables.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Vegan bowl seasoning",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trims and halved"
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut tofu into 1-inch cubes and place on a parchment-lined baking sheet.",
+    "Drizzle olive oil over tofu and sprinkle with vegan bowl seasoning. Toss to coat.",
+    "Roast tofu in the oven for 20-25 minutes, or until golden brown.",
+    "Toss Brussels sprouts with olive oil, salt, and black pepper. Spread on a separate baking sheet.",
+    "Roast Brussels sprouts in the oven for 20-25 minutes, or until tender and caramelized.",
+    "Toss sweet potatoes with olive oil, salt, and black pepper. Spread on a separate baking sheet.",
+    "Roast sweet potatoes in the oven for 25-30 minutes, or until tender.",
+    "Toss carrots with olive oil, salt, and black pepper. Spread on a separate baking sheet.",
+    "Roast carrots in the oven for 20-25 minutes, or until tender.",
+    "Assemble the bowl by placing roasted tofu, Brussels sprouts, sweet potatoes, and carrots in a bowl. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "tofu",
+    "bowl",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/original-oven-roasted-american-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:05:00.992Z"
+}
