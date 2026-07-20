@@ -1,0 +1,83 @@
+{
+  "slug": "oven-roasted-american-chickpeas-brownies",
+  "title": "Roasted Chickpea Brownies",
+  "description": "A twist on traditional brownies with roasted chickpeas for added texture.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "brownies",
+      "amount": "1 box"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Rinse and dry the chickpeas.",
+    "Toss the chickpeas with a pinch of salt and roast in the oven for 10 minutes.",
+    "Let the chickpeas cool completely.",
+    "Prepare the brownie mix according to the package instructions.",
+    "Stir in the roasted chickpeas, cocoa powder, sugar, eggs, flour, baking powder, and butter.",
+    "Pour the batter into a greased baking dish.",
+    "Bake for 25-30 minutes or until a toothpick comes out clean.",
+    "Let the brownies cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "roasted-chickpeas",
+    "brownies",
+    "american-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-american-chickpeas-brownies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:45:02.390Z"
+}
