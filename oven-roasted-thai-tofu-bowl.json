@@ -1,0 +1,101 @@
+{
+  "slug": "oven-roasted-thai-tofu-bowl",
+  "title": "Thai Roasted Tofu Bowl",
+  "description": "A delicious and easy-to-make Thai-inspired dish made with roasted tofu, served in a bowl with your choice of toppings.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, whisk together curry paste, maple syrup, brown sugar, garlic powder, and rice vinegar.",
+    "Add the tofu to the marinade and toss to coat. Let it sit for at least 15 minutes.",
+    "Line a baking sheet with parchment paper and arrange the tofu in a single layer.",
+    "Drizzle the coconut oil over the tofu and toss to coat.",
+    "Roast the tofu in the preheated oven for 20-25 minutes, or until golden brown and crispy.",
+    "While the tofu is roasting, heat a tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the sliced bell peppers and onions to the skillet and cook for 5-7 minutes, or until they start to soften.",
+    "Add the sliced cucumber to the skillet and cook for an additional 2-3 minutes, or until the vegetables are tender.",
+    "To assemble the bowls, place a scoop of the roasted tofu on the bottom, followed by a spoonful of the vegetable mixture.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "thai-inspired",
+    "tofu",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-thai-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:50:45.326Z"
+}
