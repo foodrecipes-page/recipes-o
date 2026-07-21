@@ -1,0 +1,80 @@
+{
+  "slug": "outstandingly-crisp-thai-chicken-nam-prik",
+  "title": "Crisp Thai Chicken Stir Fry",
+  "description": "A quick and flavorful stir fry recipe made with crisp vegetables, Thai spices, and tender chicken. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "outstandingly crisp vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, bell peppers, and snap peas"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "prik nam pla",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the crisp vegetables to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the chicken broth, fish sauce, prik nam pla, and brown sugar to the skillet.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until the sauce has thickened.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Serve the chicken and vegetables hot, garnished with chopped cilantro if desired.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "chicken",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-crisp-thai-chicken-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:01:07.350Z"
+}
