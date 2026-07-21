@@ -1133,17 +1133,14 @@
   },
   {
     "slug": "oil-rich-ukrainian-pork-borscht",
-    "title": "Oil Rich Ukrainian Pork Borscht",
+    "title": "Traditional Ukrainian Borscht",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "hangover-cure",
-      "hearty-stew",
-      "one-pot",
-      "ukrainian-cuisine"
+      "soup",
+      "ukrainian",
+      "beets"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -15390,6 +15387,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-dutch-poffertjes-pancake--french",
+    "title": "French Poffertjes Pancake",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "french",
+      "pancakes"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-german-onion-hash--japanese",
+    "title": "Japanese Onion Hash",
+    "tags": [
+      "japanese",
+      "onion-hash",
+      "snack-recipe",
+      "vegetarian-recipe"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-malaysian-curry-biryani--german",
+    "title": "Bavarian Currywurst Biryani",
+    "tags": [
+      "german",
+      "currywurst",
+      "biryani",
+      "malaysian-curry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
