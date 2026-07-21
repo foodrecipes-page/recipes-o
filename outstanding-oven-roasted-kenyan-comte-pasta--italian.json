@@ -1,0 +1,88 @@
+{
+  "slug": "outstanding-oven-roasted-kenyan-comte-pasta--italian",
+  "title": "Roasted Kenyan Pasta with Comte",
+  "description": "A unique Italian-inspired pasta dish featuring roasted Kenyan vegetables and a touch of creamy Comte cheese.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel and chop the Kenyan sweet potatoes into 1-inch cubes.",
+    "Toss with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "Cook the pasta according to package instructions.",
+    "In a large skillet, sauté the roasted red peppers and garlic until fragrant.",
+    "Add the cooked pasta to the skillet and toss with the pepper mixture.",
+    "Stir in the shredded Comte cheese until melted and combined.",
+    "Top with chopped fresh basil and serve immediately.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-kenyan-comte-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:47:18.469Z"
+}
