@@ -1,0 +1,62 @@
+{
+  "slug": "oily-sweet-egyptian-cheese-fritters",
+  "title": "Egyptian Sweet Fritters",
+  "description": "A sweet and crispy Egyptian dessert made with sweet fritters and topped with oily cheese.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet fritters",
+      "amount": "1 package",
+      "notes": "pre-made or homemade"
+    },
+    {
+      "name": "oily",
+      "amount": "1/4 cup",
+      "notes": "melted butter or ghee"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 cup",
+      "notes": "honey or date syrup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded or crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the oily in a small saucepan over medium heat.",
+    "In a large bowl, mix together the egyptian and sweet fritters.",
+    "Add the melted oily to the bowl and mix until well combined.",
+    "Spoon the mixture into a greased skillet or frying pan.",
+    "Cook for 2-3 minutes on each side, or until golden brown.",
+    "Remove from heat and top with cheese.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweets",
+    "desserts",
+    "egyptian",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-sweet-egyptian-cheese-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:51:41.329Z"
+}
