@@ -1,0 +1,68 @@
+{
+  "slug": "oven-golden-algerian-lamb-tagine",
+  "title": "Braised Lamb Tagine",
+  "description": "A classic North African dish, this braised lamb tagine is slow-cooked in a flavorful stew with aromatic spices and sweet golden carrots.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Golden carrots",
+      "amount": "4 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "2 tablespoons",
+      "notes": "Dried and ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the Algerian spices to the pot and cook for 1 minute, stirring constantly.",
+    "Add the chopped carrots to the pot and cook for 5 minutes, stirring occasionally.",
+    "Return the lamb shoulder to the pot and add enough water to cover the meat.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and serve it with the braised carrots and juices."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "braised",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-golden-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:34:04.846Z"
+}
