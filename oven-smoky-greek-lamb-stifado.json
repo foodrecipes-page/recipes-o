@@ -1,0 +1,98 @@
+{
+  "slug": "oven-smoky-greek-lamb-stifado",
+  "title": "Greek Lamb Stifado",
+  "description": "A traditional Greek stew made with tender lamb, onions, garlic, and a blend of spices. Serve with crusty bread or over mashed potatoes.",
+  "cuisine": "greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "stifado spice blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb cubes with salt, black pepper, and cumin.",
+    "Heat a large Dutch oven over medium-high heat. Add the lamb and sear until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Reduce heat to medium and add more oil if necessary. Add the chopped onion and cook until softened, about 8 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the smoked paprika, beef broth, and red wine (if using). Stir to combine.",
+    "Add the browned lamb back to the pot and stir to coat with the sauce.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Bake for 2-1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the pot from the oven and stir in the stifado spice blend.",
+    "Serve hot, garnished with fresh parsley if desired.",
+    "Optional: Serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "stifado",
+    "oven",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoky-greek-lamb-stifado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:59:45.973Z"
+}
