@@ -7077,17 +7077,15 @@
   },
   {
     "slug": "outstandingly-crisp-thai-chicken-nam-prik",
-    "title": "Outstandingly Crisp Thai Chicken Nam Prik",
+    "title": "Crisp Thai Chicken Stir Fry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "thai-cuisine",
-      "weeknight"
+      "thai",
+      "stir-fry",
+      "chicken",
+      "vegetables"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
@@ -8588,17 +8586,15 @@
   },
   {
     "slug": "oven-golden-algerian-lamb-tagine",
-    "title": "oven-golden algerian lamb tagine",
+    "title": "Braised Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "gluten-free",
-      "one-pan",
-      "raw-friendly",
-      "tagine-dish",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "braised",
+      "north-african"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 150,
+    "cuisine": "North African",
+    "totalTimeMin": 190,
     "shard": "o"
   },
   {
@@ -12794,16 +12790,14 @@
   },
   {
     "slug": "oven-roasted-venezuelan-beef-casserole",
-    "title": "Oven Roasted Venezuelan Beef Casserole",
+    "title": "Venezuelan Beef Casserole",
     "tags": [
+      "oven-roasted",
       "beef-casserole",
-      "comfort-food",
-      "mediterranean-inspired",
-      "one-dish-meal",
-      "venezuelan-food"
+      "venezuelan-cuisine"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
@@ -15372,6 +15366,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-light-vietnamese-paprika-noodles--vegan",
+    "title": "Vietnamese Oven-Roasted Noodle Bowl",
+    "tags": [
+      "vegan",
+      "vietnamese",
+      "noodle-bowl"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "outstanding-oven-roasted-kenyan-comte-pasta--italian",
+    "title": "Roasted Kenyan Pasta with Comte",
+    "tags": [
+      "italian",
+      "pasta",
+      "cheese",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]
