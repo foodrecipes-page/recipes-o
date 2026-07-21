@@ -2114,15 +2114,14 @@
   },
   {
     "slug": "oily-sweet-egyptian-cheese-fritters",
-    "title": "Oily Sweet Egyptian Cheese Fritters",
+    "title": "Egyptian Sweet Fritters",
     "tags": [
-      "cheese",
-      "deep-fried",
+      "sweets",
+      "desserts",
       "egyptian",
-      "high-fat",
-      "sweet"
+      "fritters"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "o"
   },
@@ -15280,6 +15279,18 @@
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-creamy-mexican-mole-poblano--thai",
+    "title": "Poblano Chicken Curry",
+    "tags": [
+      "curry",
+      "chicken",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]
