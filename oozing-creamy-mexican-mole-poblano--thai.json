@@ -1,0 +1,95 @@
+{
+  "slug": "oozing-creamy-mexican-mole-poblano--thai",
+  "title": "Poblano Chicken Curry",
+  "description": "A flavorful Thai-inspired dish featuring chicken cooked in a rich and spicy poblano curry sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "non-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "poblano pepper",
+      "amount": "2",
+      "notes": "roasted, chopped, and seeded"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Thai fish sauce"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sliced red chilies",
+      "amount": "2",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet or wok over medium-high heat.",
+    "2. Add chicken to the skillet and cook until browned on all sides and cooked through, about 6-8 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. In the same skillet, add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "5. Add the roasted poblanos, fish sauce, brown sugar, and sliced red chilies to the skillet. Stir to combine.",
+    "6. Add the coconut milk to the skillet and bring to a simmer.",
+    "7. Return the chicken to the skillet and cook for an additional 2-3 minutes, until the sauce has thickened slightly.",
+    "8. Season the curry with salt and pepper to taste.",
+    "9. Garnish with chopped cilantro and serve hot over rice or noodles.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "chicken",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-creamy-mexican-mole-poblano--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:26:22.016Z"
+}
