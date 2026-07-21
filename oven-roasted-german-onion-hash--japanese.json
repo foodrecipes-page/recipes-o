@@ -1,0 +1,67 @@
+{
+  "slug": "oven-roasted-german-onion-hash--japanese",
+  "title": "Japanese Onion Hash",
+  "description": "A crispy Japanese-style onion hash made with roasted onions, perfect as a side dish or snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "roasted onion",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "german onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel the roasted onion and slice it into 1/2-inch thick rounds.",
+    "Cut the german onion into 1/2-inch pieces.",
+    "In a bowl, mix together the sliced roasted onion and chopped german onion.",
+    "Heat 1 tablespoon of oil in a large oven-safe skillet over medium-high heat.",
+    "Add the onion mixture to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until the onions are caramelized.",
+    "While the onions are roasting, heat the remaining 1 tablespoon of oil in a small pan over medium heat.",
+    "Add the hash to the pan and cook until crispy and golden brown.",
+    "Fluff the hash with a fork and set aside.",
+    "Once the onions are done roasting, remove the skillet from the oven and stir in the crispy hash.",
+    "Serve the Japanese onion hash hot, garnished with additional hash if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "onion-hash",
+    "snack-recipe",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-german-onion-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:59:42.216Z"
+}
