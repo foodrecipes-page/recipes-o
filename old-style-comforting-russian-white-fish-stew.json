@@ -1,0 +1,87 @@
+{
+  "slug": "old-style-comforting-russian-white-fish-stew",
+  "title": "Borscht",
+  "description": "A hearty, old-style Russian beet soup that warms the soul.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add beets, carrots, and beef broth.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in tomato paste, vinegar, sugar, salt, and pepper.",
+    "Simmer for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh dill.",
+    "Optional: add sour cream or yogurt for extra flavor.",
+    "Serve with a side of dark rye bread or crackers.",
+    "Enjoy your hearty borscht!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "borscht",
+    "russian",
+    "beet",
+    "soup",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-comforting-russian-white-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:14:13.423Z"
+}
