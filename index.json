@@ -13155,16 +13155,16 @@
   },
   {
     "slug": "oven-smoky-greek-lamb-stifado",
-    "title": "Oven Smoky Greek Lamb Stifado",
+    "title": "Greek Lamb Stifado",
     "tags": [
-      "greek-cuisine",
-      "lamb-recipes",
-      "one-pot-meals",
-      "smoky-flavors",
-      "winter-comfort-food"
+      "greek",
+      "lamb",
+      "stifado",
+      "oven",
+      "smoky"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 180,
+    "cuisine": "greek",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -15291,6 +15291,34 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "outrageously-garlicky-mexican-beef-tacos--keto",
+    "title": "Beef Tacos with Mexican Twist",
+    "tags": [
+      "beef",
+      "tacos",
+      "mexican",
+      "keto",
+      "garlicky",
+      "spicy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-malaysian-chicken-bake--chinese",
+    "title": "Baked Malaysian Chicken",
+    "tags": [
+      "baked",
+      "chinese",
+      "malaysian",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
