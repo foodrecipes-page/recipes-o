@@ -1,0 +1,85 @@
+{
+  "slug": "oil-rich-ukrainian-pork-borscht",
+  "title": "Traditional Ukrainian Borscht",
+  "description": "A hearty and flavorful beet-based soup originating from Ukraine. This recipe combines the sweetness of beets with the savory flavor of pork.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large"
+    },
+    {
+      "name": "pork",
+      "amount": "1 pound, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rich beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "borscht",
+      "amount": "1 cup (homemade or store-bought)"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat oil over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add diced pork and cook until browned, about 5-7 minutes.",
+    "Add beets, carrots, and potatoes to the pot. Pour in beef broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until vegetables are tender.",
+    "Stir in borscht and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh dill before serving.",
+    "Serve hot, accompanied by a dollop of sour cream and a side of crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "ukrainian",
+    "beets"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-rich-ukrainian-pork-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:39:02.314Z"
+}
