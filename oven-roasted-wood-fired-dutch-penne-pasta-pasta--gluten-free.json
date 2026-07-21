@@ -1,0 +1,77 @@
+{
+  "slug": "oven-roasted-wood-fired-dutch-penne-pasta-pasta--gluten-free",
+  "title": "Wood Fired Penne Pasta",
+  "description": "A gluten-free pasta dish made with penne pasta and roasted vegetables, cooked to perfection in a wood-fired oven.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "1 pound",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Roasted vegetables (such as zucchini, bell peppers, and onions)",
+      "amount": "2 cups",
+      "notes": "any combination"
+    },
+    {
+      "name": "Wood-fired oven oil",
+      "amount": "2 tablespoons",
+      "notes": "or regular olive oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425°F (220°C).",
+    "Cook the penne pasta according to the package instructions until al dente.",
+    "In a large bowl, combine the roasted vegetables, garlic, and basil.",
+    "Add the cooked penne pasta to the bowl and toss to combine.",
+    "Drizzle the wood-fired oven oil over the pasta and toss to coat.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "italian",
+    "pasta",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-wood-fired-dutch-penne-pasta-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:54:16.162Z"
+}
