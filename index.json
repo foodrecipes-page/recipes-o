@@ -15427,5 +15427,72 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-smoky-roasted-ceviche-avocado-skewers--keto",
+    "title": "Ceviche Skewer Appetizer",
+    "tags": [
+      "keto",
+      "ceviche",
+      "appetizer"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-brazilian-skirt-steak-skewers--french",
+    "title": "French Churrasco Skirt Steak",
+    "tags": [
+      "grilled-skirt-steak",
+      "brazilian-sausage",
+      "french-cuisine",
+      "skewers"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-crunchy-russian-white-bread-casserole--thai",
+    "title": "Thai Crispy Bread Casserole",
+    "tags": [
+      "thai",
+      "snack",
+      "bread",
+      "casserole"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-fresh-german-broad-beans-bake--mexican",
+    "title": "German-Style Oven Roasted Broad Beans",
+    "tags": [
+      "mexican",
+      "german",
+      "roasted",
+      "oven",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-creamy-tunisian-egg-wrap--thai",
+    "title": "Thai Oozy Wrap",
+    "tags": [
+      "thai",
+      "wrap",
+      "lunch",
+      "easy",
+      "cheese",
+      "egg"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "o"
   }
 ]
