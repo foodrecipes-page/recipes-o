@@ -1,0 +1,79 @@
+{
+  "slug": "oven-roasted-fresh-german-broad-beans-bake--mexican",
+  "title": "German-Style Oven Roasted Broad Beans",
+  "description": "A twist on traditional Mexican broad beans with a German-inspired flavor from oregano and thyme. Simple to prepare, this recipe is perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the broad beans and remove any stems or debris.",
+    "In a large bowl, whisk together olive oil, oregano, thyme, garlic, salt, and pepper.",
+    "Add the broad beans to the bowl and toss to coat with the herb mixture.",
+    "Transfer the broad beans to a baking sheet and bake for 20-25 minutes or until tender.",
+    "Check for doneness by inserting a fork – it should slide in easily.",
+    "Remove from the oven and serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "german",
+    "roasted",
+    "oven",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-fresh-german-broad-beans-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:30:55.910Z"
+}
