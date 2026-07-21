@@ -1,0 +1,81 @@
+{
+  "slug": "oozy-brazilian-skirt-steak-skewers--french",
+  "title": "French Churrasco Skirt Steak",
+  "description": "Grilled skirt steak, marinated in a blend of Brazilian and French flavors, served with skewers of oozy ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt Steak",
+      "amount": "4",
+      "notes": "1.5-2 pounds, preferably with a good balance of fat and lean meat"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Sausage",
+      "amount": "4",
+      "notes": "sliced, for skewers"
+    }
+  ],
+  "instructions": [
+    "1. In a large resealable plastic bag, combine olive oil, garlic, thyme, salt, and pepper.",
+    "2. Add the skirt steak to the marinade, turning to coat evenly.",
+    "3. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Remove the steak from the marinade, letting any excess liquid drip off.",
+    "6. Grill the steak for 4-5 minutes per side, or until it reaches an internal temperature of 130-135°F for medium-rare.",
+    "7. Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "8. Meanwhile, thread the sliced sausage onto skewers.",
+    "9. Grill the sausage skewers for 2-3 minutes per side, or until lightly charred.",
+    "10. Slice the steak against the grain and serve with the sausage skewers.",
+    "11. Garnish with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-skirt-steak",
+    "brazilian-sausage",
+    "french-cuisine",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-brazilian-skirt-steak-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:16:28.718Z"
+}
