@@ -1,0 +1,104 @@
+{
+  "slug": "oven-roasted-venezuelan-beef-casserole",
+  "title": "Venezuelan Beef Casserole",
+  "description": "A hearty and flavorful casserole inspired by Venezuelan cuisine, featuring tender beef and a rich roasted sauce.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (ground beef)",
+      "amount": "1 pound",
+      "notes": "80/20 ground beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "canned"
+    },
+    {
+      "name": "Roasted peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "plain breadcrumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brown the ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the chopped onion and minced garlic and cook until the onion is translucent.",
+    "Stir in the tomato paste, chopped tomatoes, roasted peppers, oregano, cumin, salt, and black pepper.",
+    "Bring the mixture to a simmer and let it cook for 10-15 minutes, stirring occasionally.",
+    "While the beef mixture is cooking, prepare the casserole dish by sprinkling a layer of breadcrumbs on the bottom.",
+    "Transfer the beef mixture to the prepared casserole dish and top with shredded cheddar cheese.",
+    "Cover the dish with aluminum foil and bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Let the casserole rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "beef-casserole",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-venezuelan-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:26:08.718Z"
+}
