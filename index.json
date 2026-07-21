@@ -12081,18 +12081,15 @@
   },
   {
     "slug": "oven-roasted-smoky-russian-white-bread-tagine",
-    "title": "Oven Roasted Smoky Russian White Bread Tagine",
+    "title": "Russian Smoked Tagine Bread",
     "tags": [
-      "brunch",
-      "one-pot",
-      "oven-roasted",
-      "plant-based",
+      "bread",
       "russian",
-      "smoky",
-      "tagine"
+      "smoked",
+      "oven-roasted"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
@@ -15269,6 +15266,20 @@
     ],
     "cuisine": "venezuelan",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-smoked-malaysian-lamb-kidney-satay--gluten-free",
+    "title": "Gluten-Free Malaysian Satay with Smoked Lamb",
+    "tags": [
+      "gluten-free",
+      "malaysian",
+      "smoked-lamb",
+      "kidney",
+      "satay"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
