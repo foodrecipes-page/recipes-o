@@ -1,0 +1,68 @@
+{
+  "slug": "oven-roasted-smoky-russian-white-bread-tagine",
+  "title": "Russian Smoked Tagine Bread",
+  "description": "A hearty Russian-inspired bread with smoky flavor, perfect for dipping into soups or olive oil.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White Bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Russian Smoked Paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oven-roasted Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the white bread into 1-inch thick slices.",
+    "Mix the Russian smoked paprika, oven-roasted garlic, and smoked salt in a small bowl.",
+    "Brush the mixture evenly onto each bread slice.",
+    "Dip each bread slice into the water, coating both sides.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the bread is crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "russian",
+    "smoked",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-smoky-russian-white-bread-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:06:22.743Z"
+}
