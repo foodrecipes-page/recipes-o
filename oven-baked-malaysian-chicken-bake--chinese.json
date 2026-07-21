@@ -1,0 +1,83 @@
+{
+  "slug": "oven-baked-malaysian-chicken-bake--chinese",
+  "title": "Baked Malaysian Chicken",
+  "description": "A simple and flavorful baked chicken dish inspired by Malaysian cuisine, featuring a sweet and spicy glaze.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breasts with garlic powder, ginger powder, and chili flakes.",
+    "In a small bowl, whisk together honey, soy sauce, and brown sugar.",
+    "Brush the chicken breasts with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Brush the honey-soy sauce glaze over the chicken breasts.",
+    "Bake in the preheated oven for 25-30 minutes or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "chinese",
+    "malaysian",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-malaysian-chicken-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:44:41.441Z"
+}
