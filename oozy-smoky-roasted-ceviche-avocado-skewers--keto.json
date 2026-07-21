@@ -1,0 +1,77 @@
+{
+  "slug": "oozy-smoky-roasted-ceviche-avocado-skewers--keto",
+  "title": "Ceviche Skewer Appetizer",
+  "description": "A keto-friendly appetizer that combines the freshness of ceviche with the smokiness of roasted avocado, all on a stick.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "Roasted"
+    },
+    {
+      "name": "Fish (sushi-grade)",
+      "amount": "1 pound",
+      "notes": "Ceviche-style"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "For assembly"
+    },
+    {
+      "name": "Oozy cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "For keto compliance, use a low-carb cheese"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 400°F (200°C).",
+    "2. Cut the avocado in half and place it on a baking sheet. Roast in the oven for 10-12 minutes, or until tender.",
+    "3. Cut the fish into bite-sized pieces and place them in a large bowl.",
+    "4. Squeeze the lime juice over the fish, making sure it's all coated.",
+    "5. Stir in the chopped cilantro and salt to taste.",
+    "6. Thread a piece of fish, a roasted avocado slice, and a sprinkle of cilantro onto each skewer.",
+    "7. If using, sprinkle a small amount of oozy cheese on top of the fish.",
+    "8. Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "ceviche",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-smoky-roasted-ceviche-avocado-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:56:56.606Z"
+}
