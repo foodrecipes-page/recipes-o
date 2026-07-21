@@ -1,0 +1,77 @@
+{
+  "slug": "outrageously-garlicky-mexican-beef-tacos--keto",
+  "title": "Beef Tacos with Mexican Twist",
+  "description": "A twist on traditional tacos using outrageously garlicky beef and served with a mexican flair.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the cumin and chili powder and stir to combine.",
+    "Cook for an additional 1-2 minutes until the flavors are fragrant.",
+    "Stir in the freshly squeezed lime juice and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble tacos by spooning beef mixture into shells and topping with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "tacos",
+    "mexican",
+    "keto",
+    "garlicky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outrageously-garlicky-mexican-beef-tacos--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:09:16.672Z"
+}
