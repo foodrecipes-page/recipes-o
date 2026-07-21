@@ -1,0 +1,88 @@
+{
+  "slug": "oozing-malaysian-curry-biryani--german",
+  "title": "Bavarian Currywurst Biryani",
+  "description": "A unique German twist on popular Indian dish. Currywurst is a classic German street food. This recipe combines flavors from both cuisines.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron-infused Basmati rice",
+      "amount": "1 cup",
+      "notes": "use leftover rice if possible"
+    },
+    {
+      "name": "Bavarian-style sausage (Bratwurst)",
+      "amount": "1 pound",
+      "notes": "grill or pan-fry until browned"
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grate or finely chop"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chop or thinly slice"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "canned or fresh, diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful",
+      "notes": "chop for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill or pan-fry the Bratwurst until browned.",
+    "In a pan, heat oil and sauté the onion and ginger until softened.",
+    "Add the Malaysian curry paste and cook for 1 minute.",
+    "Add the tomatoes and cook for 5 minutes.",
+    "Add the cooked Bratwurst to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the currywurst mixture over saffron-infused Basmati rice.",
+    "Garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "currywurst",
+    "biryani",
+    "malaysian-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-malaysian-curry-biryani--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:15:34.741Z"
+}
