@@ -2873,17 +2873,16 @@
   },
   {
     "slug": "old-style-comforting-russian-white-fish-stew",
-    "title": "Russian White Fish Stew",
+    "title": "Borscht",
     "tags": [
-      "comfort-food",
-      "fish-stew",
-      "gluten-free",
-      "one-pot",
-      "pescatarian",
-      "russian-cuisine"
+      "borscht",
+      "russian",
+      "beet",
+      "soup",
+      "comforting"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -6375,16 +6374,15 @@
   },
   {
     "slug": "outdoor-grilled-malaysian-chicken-satay",
-    "title": "Outdoor Grilled Malaysian Chicken Satay",
+    "title": "Grilled Malaysian Chicken Satay",
     "tags": [
-      "binchotan-grill",
-      "gluten-free",
-      "grilled-chicken",
-      "malaysian-cuisine",
-      "outdoor-cooking",
-      "satay-recipe"
+      "grilled",
+      "outdoor",
+      "malaysian",
+      "chicken",
+      "satay"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "o"
   },
