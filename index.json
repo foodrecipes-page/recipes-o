@@ -15259,5 +15259,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "outdoor-grilled-venezuelan-ground-beef-empanadas--keto",
+    "title": "Venezuelan Beef Empanadas",
+    "tags": [
+      "outdoor",
+      "grilled",
+      "venezuelan",
+      "empanadas"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
