@@ -1,0 +1,78 @@
+{
+  "slug": "oven-roasted-light-vietnamese-paprika-noodles--vegan",
+  "title": "Vietnamese Oven-Roasted Noodle Bowl",
+  "description": "A flavorful and nutritious vegan bowl filled with roasted vegetables, served over a bed of noodles. This recipe is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": "vegan"
+    },
+    {
+      "name": "roasted sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel and chop the carrots and bell peppers into bite-sized pieces.",
+    "Chop the red onion into thin slices.",
+    "In a large bowl, toss the chopped vegetables with 1 tbsp of roasted sesame oil, 1 tsp of paprika, and salt and pepper to taste.",
+    "Spread the vegetables out in a single layer on a baking sheet and roast in the oven for 25-30 minutes, or until tender.",
+    "Cook the noodles according to the package instructions.",
+    "In a small bowl, whisk together 2 tbsp of light soy sauce and 1 tbsp of roasted sesame oil.",
+    "To assemble the bowls, place a portion of noodles in the bottom, followed by a portion of the roasted vegetables, and drizzle with the soy sauce mixture.",
+    "Serve immediately, garnished with chopped green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vietnamese",
+    "noodle-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-light-vietnamese-paprika-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:36:00.205Z"
+}
