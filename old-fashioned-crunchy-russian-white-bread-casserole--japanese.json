@@ -1,0 +1,82 @@
+{
+  "slug": "old-fashioned-crunchy-russian-white-bread-casserole--japanese",
+  "title": "Russian-Style Japanese Bread Casserole",
+  "description": "A unique fusion of Japanese and Russian flavors, this bread casserole is perfect for a cold winter night. Crunchy bread and savory ingredients come together in a delightful dish.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Old Fashioned White Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Crunchy Russian Bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Casserole Bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the white bread into 1-inch cubes and set aside.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the cubed Russian bread and cook until lightly toasted.",
+    "In a large bowl, whisk together the soy sauce and miso paste.",
+    "Add the cooked bread, green onions, and shredded mozzarella cheese to the bowl.",
+    "Stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with additional cheese if desired.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "russian",
+    "bread",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-crunchy-russian-white-bread-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:00:02.584Z"
+}
