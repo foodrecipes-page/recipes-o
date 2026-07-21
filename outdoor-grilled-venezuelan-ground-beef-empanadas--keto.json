@@ -1,0 +1,81 @@
+{
+  "slug": "outdoor-grilled-venezuelan-ground-beef-empanadas--keto",
+  "title": "Venezuelan Beef Empanadas",
+  "description": "A delicious and crispy empanada filled with ground beef, perfect for a keto diet.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Venezuelan Empanada Dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large pan, heat coconut oil over medium heat.",
+    "Add onion and garlic, cook until onion is translucent.",
+    "Add ground beef, cumin, salt, and black pepper. Cook until beef is browned.",
+    "In a separate bowl, whisk eggs.",
+    "Roll out empanada dough and use a cookie cutter to create shapes.",
+    "Place a spoonful of beef mixture onto the center of each dough shape.",
+    "Brush edges with eggs and fold dough in half to form a triangle.",
+    "Grill empanadas for 2-3 minutes per side, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "outdoor",
+    "grilled",
+    "venezuelan",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-grilled-venezuelan-ground-beef-empanadas--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:13:17.974Z"
+}
