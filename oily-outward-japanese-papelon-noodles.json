@@ -1,0 +1,68 @@
+{
+  "slug": "oily-outward-japanese-papelon-noodles",
+  "title": "Japanese Noodle Stir Fry",
+  "description": "A quick and easy Japanese-inspired dish using noodles and a variety of ingredients. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "Vegetarian",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "Japanese-style noodles"
+    },
+    {
+      "name": "papelon",
+      "amount": "1",
+      "notes": "1 papelon (about 1 inch in diameter)"
+    },
+    {
+      "name": "oily",
+      "amount": "2 tbsp",
+      "notes": "Oily (for stir frying)"
+    },
+    {
+      "name": "outward",
+      "amount": "1 cup",
+      "notes": "outward (such as bok choy or Chinese broccoli)"
+    },
+    {
+      "name": "japanese",
+      "amount": "2 tbsp",
+      "notes": "Japanese seasonings (such as soy sauce or sesame oil)"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions and set aside.",
+    "Heat 1 tablespoon of oily in a pan over medium-high heat.",
+    "Add the papelon and cook for 2-3 minutes on each side, or until slightly charred.",
+    "Add the outward and cook for an additional 2-3 minutes, or until tender.",
+    "Add the cooked noodles to the pan and stir to combine with the outward and papelon.",
+    "Season with Japanese seasonings and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-stir-fry",
+    "japanese-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-outward-japanese-papelon-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:56:11.169Z"
+}
