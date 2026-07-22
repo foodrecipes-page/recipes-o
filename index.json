@@ -65,16 +65,13 @@
   },
   {
     "slug": "oatmeal-crumbly-irish-soda-bread-gratin",
-    "title": "Oatmeal Crumbly Irish Soda Bread Gratin",
+    "title": "Irish Soda Bread",
     "tags": [
-      "bread",
-      "breakfast",
-      "easy-to-make",
-      "gratin",
       "irish",
-      "weeknight"
+      "bread",
+      "breakfast"
     ],
-    "cuisine": "Irish",
+    "cuisine": "irish",
     "totalTimeMin": 55,
     "shard": "o"
   },
@@ -1145,17 +1142,15 @@
   },
   {
     "slug": "oily-algerian-lamb-tagine",
-    "title": "Oily Algerian Lamb Tagine",
+    "title": "Classic Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "dairy-free",
-      "lamb-recipes",
       "north-african",
-      "one-pot",
-      "slow-cooker"
+      "lamb",
+      "tagine",
+      "algerian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 230,
     "shard": "o"
   },
   {
