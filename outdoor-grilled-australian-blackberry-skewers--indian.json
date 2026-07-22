@@ -1,0 +1,110 @@
+{
+  "slug": "outdoor-grilled-australian-blackberry-skewers--indian",
+  "title": "Grilled Australian Lamb Skewers with Blackberry Chutney",
+  "description": "Tender lamb skewers marinated in a blend of Indian spices, grilled to perfection and served with a sweet and tangy blackberry chutney.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to buy lamb shoulder for best results"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1-inch piece",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Blackberries",
+      "amount": "250g",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Pure, unfiltered"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together lemon juice, yogurt, ginger, garlic, cumin powder, coriander powder, red chili powder, salt, and black pepper.",
+    "2. Add the lamb cubes to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated lamb cubes onto skewers, leaving a little space between each piece.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "7. Meanwhile, in a small saucepan, combine blackberries, honey, and lime juice.",
+    "8. Bring the mixture to a simmer over medium heat and cook for 5-7 minutes, or until the blackberries have broken down and the chutney has thickened.",
+    "9. Serve the grilled lamb skewers with the blackberry chutney spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "blackberry",
+    "chutney",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-grilled-australian-blackberry-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:43:48.656Z"
+}
