@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-andean-lentil-paella--french",
+  "title": "Lentil and Andean Paella",
+  "description": "A French-inspired twist on the classic Spanish dish, featuring roasted lentils and Andean potatoes.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentil",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "Andean Potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the lentils, paella rice, roasted red pepper, thyme, salt, and black pepper.",
+    "Stir to combine, then add 2 cups of water.",
+    "Bring to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 25-30 minutes, until the liquid has been absorbed and the lentils are tender.",
+    "Fluff the paella with a fork and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "lentils",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-andean-lentil-paella--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:19:02.281Z"
+}
