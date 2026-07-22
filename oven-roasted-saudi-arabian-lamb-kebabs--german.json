@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-saudi-arabian-lamb-kebabs--german",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A twist on traditional German cuisine, these lamb kebabs are marinated in Middle Eastern spices and roasted to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "beef-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Fat-trimmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Roasted red pepper, chopped",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, spice blend, salt, black pepper, garlic, and paprika.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until the lamb is cooked through.",
+    "Let rest for 5 minutes before serving.",
+    "Garnish with chopped roasted red pepper, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "saudi-arabian",
+    "lamb-kebabs",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-saudi-arabian-lamb-kebabs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:39:25.473Z"
+}
