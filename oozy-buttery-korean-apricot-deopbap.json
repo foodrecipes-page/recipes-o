@@ -1,0 +1,75 @@
+{
+  "slug": "oozy-buttery-korean-apricot-deopbap",
+  "title": "Korean Apricot Deopbap",
+  "description": "A traditional Korean rice bowl dish topped with a sweet and spicy apricot sauce. Serve with a side of stir-fried vegetables for a well-rounded meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Deopbap rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce (optional)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook the Deopbap rice according to the package instructions.",
+    "2. In a small saucepan, melt the butter over medium heat.",
+    "3. Add the Korean chili flakes and cook for 1 minute, stirring constantly.",
+    "4. Add the apricot jam and stir until smooth.",
+    "5. Add the soy sauce (if using) and stir to combine.",
+    "6. Taste and adjust the seasoning as needed.",
+    "7. To assemble the dish, place a scoop of cooked Deopbap rice in a bowl.",
+    "8. Top the rice with the apricot sauce.",
+    "9. Garnish with fresh cilantro and a drizzle of sesame oil.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "apricot",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-buttery-korean-apricot-deopbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:40:20.658Z"
+}
