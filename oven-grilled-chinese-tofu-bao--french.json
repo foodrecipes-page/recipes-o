@@ -1,0 +1,81 @@
+{
+  "slug": "oven-grilled-chinese-tofu-bao--french",
+  "title": "Pan-Seared Tofu Bao",
+  "description": "A simple and delicious French-inspired dish featuring crispy tofu and soft bao.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Bao",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the tofu into small cubes and season with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in a pan over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Transfer the tofu to a baking sheet and bake for 10-12 minutes.",
+    "Meanwhile, toast the bao in the oven for 2-3 minutes.",
+    "In a small saucepan, heat the soy sauce and honey over low heat.",
+    "To assemble the dish, place a piece of bao on a plate, top with a few pieces of tofu, and drizzle with the soy sauce glaze.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "tofu",
+    "bao",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-grilled-chinese-tofu-bao--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:13:52.691Z"
+}
