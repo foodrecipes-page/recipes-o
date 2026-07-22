@@ -1,0 +1,69 @@
+{
+  "slug": "oven-crisped-smoky-uruguayan-serrano-ham-wrap--japanese",
+  "title": "Uruguayan Serrano Ham Wrap",
+  "description": "A Japanese-inspired wrap using Uruguayan ham and crispy serrano ham, perfect for a quick snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Serrano Ham",
+      "amount": "8 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Crisped Ham",
+      "amount": "4 slices",
+      "notes": "Crisp-fried"
+    },
+    {
+      "name": "Large Flour Tortilla Wrap",
+      "amount": "1",
+      "notes": "Use plain flour tortilla wrap"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "For dipping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the Uruguayan Serrano ham slices on a baking sheet and bake for 5 minutes to crisp.",
+    "Wrap the tortilla in a dry towel and microwave for 20 seconds to warm.",
+    "Place the crispy Uruguayan Serrano ham on the tortilla.",
+    "Add the crisp-fried ham on top.",
+    "Sprinkle sesame seeds around the ham.",
+    "Drizzle with soy sauce for dipping.",
+    "Fold the tortilla to enclose the filling.",
+    "Cut the wrap into halves and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "ham",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-crisped-smoky-uruguayan-serrano-ham-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:27:36.410Z"
+}
