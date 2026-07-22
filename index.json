@@ -15514,5 +15514,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 15,
     "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-dutch-plum-tomato-skewers--german",
+    "title": "German Plum Skewers",
+    "tags": [
+      "german",
+      "grilling",
+      "summer",
+      "skewers"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-grilled-chinese-tofu-bao--french",
+    "title": "Pan-Seared Tofu Bao",
+    "tags": [
+      "french",
+      "tofu",
+      "bao",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
