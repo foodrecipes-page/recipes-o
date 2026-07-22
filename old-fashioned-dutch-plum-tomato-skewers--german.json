@@ -1,0 +1,63 @@
+{
+  "slug": "old-fashioned-dutch-plum-tomato-skewers--german",
+  "title": "German Plum Skewers",
+  "description": "Sweet and tangy plum skewers cooked to perfection in a Dutch oven, inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "old fashioned dutch oven",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 375°F (190°C).",
+    "Rinse the plums and pat them dry with a paper towel.",
+    "Thread a plum, a tomato, and a few skewers onto each stick.",
+    "Season with salt and pepper to taste.",
+    "Place the skewers in the preheated Dutch oven and bake for 20-25 minutes.",
+    "Baste the skewers with the juices from the Dutch oven every 5 minutes.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "grilling",
+    "summer",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-dutch-plum-tomato-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:11:47.138Z"
+}
