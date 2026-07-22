@@ -3902,16 +3902,15 @@
   },
   {
     "slug": "oozy-buttery-korean-apricot-deopbap",
-    "title": "Oozy Buttery Korean Apricot Deopbap",
+    "title": "Korean Apricot Deopbap",
     "tags": [
-      "korean-cuisine",
-      "low-sodium",
-      "one-pot",
-      "special-occasion",
-      "sweet-and-savory"
+      "korean",
+      "apricot",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "o"
   },
   {
