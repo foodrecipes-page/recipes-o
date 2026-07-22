@@ -1840,16 +1840,15 @@
   },
   {
     "slug": "oily-outstanding-korean-beef-noodles",
-    "title": "Oily Outstanding Korean Beef Noodles",
+    "title": "Spicy Korean Beef Noodles",
     "tags": [
-      "beef-recipes",
-      "korean-food",
-      "noodle-soup",
-      "one-pot",
-      "sugar-free"
+      "korean",
+      "beef",
+      "noodles",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 90,
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
@@ -15537,6 +15536,59 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-lemon-skewers--japanese",
+    "title": "Japanese-Style Oven-Roasted Chicken Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "skewers",
+      "chicken"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-saudi-arabian-lamb-kebabs--german",
+    "title": "Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "german",
+      "saudi-arabian",
+      "lamb-kebabs",
+      "oven-roasted"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "outdoor-grilled-australian-blackberry-skewers--indian",
+    "title": "Grilled Australian Lamb Skewers with Blackberry Chutney",
+    "tags": [
+      "indian",
+      "lamb",
+      "blackberry",
+      "chutney",
+      "grilled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "orange-glazed-northern-thai-chicken-skewers--keto",
+    "title": "Thai Chicken Skewers",
+    "tags": [
+      "keto",
+      "low-carb",
+      "grilled",
+      "chicken"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
     "shard": "o"
   }
 ]
