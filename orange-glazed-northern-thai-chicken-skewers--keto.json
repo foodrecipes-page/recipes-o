@@ -1,0 +1,87 @@
+{
+  "slug": "orange-glazed-northern-thai-chicken-skewers--keto",
+  "title": "Thai Chicken Skewers",
+  "description": "Grilled chicken skewers marinated in a sweet and spicy Thai-inspired sauce, perfect for a low-carb keto diet.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "northern thai chili sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "glazed orange",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a blender or food processor, combine northern thai chili sauce, orange marmalade, soy sauce, garlic, fish sauce, and brown sugar.",
+    "3. Blend sauce until smooth.",
+    "4. In a large bowl, whisk together sauce and chicken breast.",
+    "5. Thread chicken onto northern skewers.",
+    "6. Grill chicken for 8-10 minutes or until cooked through.",
+    "7. Serve hot garnished with chopped cilantro and glazed orange."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/orange-glazed-northern-thai-chicken-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:04:22.413Z"
+}
