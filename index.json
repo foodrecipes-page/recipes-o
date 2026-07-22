@@ -15488,5 +15488,31 @@
     "cuisine": "thai",
     "totalTimeMin": 10,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-andean-lentil-paella--french",
+    "title": "Lentil and Andean Paella",
+    "tags": [
+      "french",
+      "vegetarian",
+      "lentils",
+      "paella"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-crisped-smoky-uruguayan-serrano-ham-wrap--japanese",
+    "title": "Uruguayan Serrano Ham Wrap",
+    "tags": [
+      "japanese",
+      "snack",
+      "ham",
+      "wrap"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "o"
   }
 ]
