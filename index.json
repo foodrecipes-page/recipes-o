@@ -15736,5 +15736,31 @@
     "cuisine": null,
     "totalTimeMin": 22,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-indian-sirloin-steak-tips-rajma--german",
+    "title": "German Sirloin Steak with Rajma Roast",
+    "tags": [
+      "german",
+      "indian",
+      "steak",
+      "roasted"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-asian-shrimp-spring-rolls--keto",
+    "title": "Keto Asian Shrimp Spring Rolls",
+    "tags": [
+      "keto",
+      "asian",
+      "shrimp",
+      "spring-rolls"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 23,
+    "shard": "o"
   }
 ]
