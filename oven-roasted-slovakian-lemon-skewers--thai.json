@@ -1,0 +1,90 @@
+{
+  "slug": "oven-roasted-slovakian-lemon-skewers--thai",
+  "title": "Thai Skewers with Lemon-Oven Glaze",
+  "description": "A fusion of Thai flavors and Slovakian roasting techniques in a delicious and easy-to-make dish. The tender chicken is perfectly balanced by the sweet and tangy lemon glaze.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "skewers",
+      "amount": "12"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Cut the chicken into 2cm cubes and thread onto the skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the lemon juice, brown sugar, soy sauce, and olive oil.",
+    "Add the minced garlic and grated ginger to the bowl and whisk until combined.",
+    "Season the mixture with salt and pepper to taste.",
+    "Brush the mixture onto both sides of the chicken on the skewers.",
+    "Place the skewers on a baking tray and roast in the oven for 15 minutes.",
+    "Remove the skewers from the oven and brush with the lemon-oven glaze.",
+    "Return the skewers to the oven for an additional 5-7 minutes, or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "skewers",
+    "ovenroasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-lemon-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:51:31.016Z"
+}
