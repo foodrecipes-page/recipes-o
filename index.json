@@ -5483,17 +5483,14 @@
   },
   {
     "slug": "oozy-velvety-moroccan-almond-chebakia",
-    "title": "Oozy Velvety Moroccan Almond Chebakia",
+    "title": "Moroccan Cheesecake Chebakia Bites",
     "tags": [
-      "almond-based",
-      "jain-friendly",
-      "lazy-sunday",
-      "moroccan-dessert",
-      "steamed-dessert",
-      "velvety-texture"
+      "moroccan",
+      "cheesecake",
+      "dessert"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 32,
     "shard": "o"
   },
   {
@@ -9937,17 +9934,15 @@
   },
   {
     "slug": "oven-roasted-french-wild-garlic-bouillabaisse",
-    "title": "Oven Roasted French Wild Garlic Bouillabaisse",
+    "title": "Wild Garlic and Ocean Bouillabaisse",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "low-glycemic",
-      "one-pot",
-      "oven-roasted",
-      "seafood-stew"
+      "french",
+      "seafood",
+      "bouillabaisse",
+      "wild-garlic"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
