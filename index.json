@@ -15670,5 +15670,31 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oven-baked-croatian-cheese-casserole--keto",
+    "title": "Croatian Cheese Baked Casserole",
+    "tags": [
+      "baked",
+      "keto",
+      "casserole",
+      "cheese"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-velvety-spanish-seafood-fideua--german",
+    "title": "German Seafood Fideua with Spanish Flair",
+    "tags": [
+      "german",
+      "seafood",
+      "fideua",
+      "spanish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
