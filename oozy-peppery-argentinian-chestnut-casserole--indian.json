@@ -1,0 +1,95 @@
+{
+  "slug": "oozy-peppery-argentinian-chestnut-casserole--indian",
+  "title": "Argentinian Chicken Casserole with Chestnut and Oozy Sauce",
+  "description": "A unique Indian-inspired casserole made with Argentinian chicken, chestnut, and a creamy oozy sauce, all wrapped up in a delicious peppery crust.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Chestnut flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oozy sauce (made from cream and cheese)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together cumin powder, turmeric powder, and salt.",
+    "Rub the spice mixture on the Argentinian chicken breast.",
+    "Heat coconut oil in a pan and cook the chicken breast until browned.",
+    "In a separate pan, heat the oozy sauce over low heat.",
+    "In a greased casserole dish, arrange the cooked chicken breast.",
+    "Pour the heated oozy sauce over the chicken breast.",
+    "Mix together chestnut flour and a little water to make a thick paste.",
+    "Spread the chestnut paste on top of the casserole.",
+    "Sprinkle peppercorns on top of the casserole.",
+    "Bake the casserole in the preheated oven for 25-30 minutes or until the crust is golden brown.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "casserole",
+    "chicken",
+    "chestnut",
+    "oozy-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-peppery-argentinian-chestnut-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:08:45.906Z"
+}
