@@ -3269,17 +3269,16 @@
   },
   {
     "slug": "oozing-brass-greek-rice-curry",
-    "title": "Oozing Brass Greek Rice Curry",
+    "title": "Greek Curry Rice Bowl",
     "tags": [
-      "brass-bowl",
-      "greek-flavor",
-      "one-pot",
-      "satvik-friendly",
-      "thai-curry",
-      "vegan"
+      "greek",
+      "curry",
+      "rice",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -8704,17 +8703,15 @@
   },
   {
     "slug": "oven-roasted-algerian-lentil-tagine",
-    "title": "Oven Roasted Algerian Lentil Tagine",
+    "title": "Algerian Lentil Tagine",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kid-friendly",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "algerian",
+      "lentil",
+      "oven-roasted",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
