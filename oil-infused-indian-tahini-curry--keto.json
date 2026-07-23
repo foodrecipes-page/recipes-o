@@ -1,0 +1,72 @@
+{
+  "slug": "oil-infused-indian-tahini-curry--keto",
+  "title": "Keto Indian Tahini Chicken",
+  "description": "A flavorful keto dish combining the richness of Indian spices with the creaminess of tahini, served with grilled chicken.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "infused oil"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with salt, garam masala, and curry powder.",
+    "Brush the grill with infused oil to prevent sticking.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "While the chicken cooks, mix tahini with 1 tablespoon of water to thin it out.",
+    "Once the chicken is cooked, brush it with the tahini mixture.",
+    "Serve the chicken hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-indian-tahini-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:08:23.667Z"
+}
