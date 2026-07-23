@@ -10187,17 +10187,15 @@
   },
   {
     "slug": "oven-roasted-indian-myeongnan-roe-vindaloo",
-    "title": "Oven Roasted Indian Myeongnan Roe Vindaloo",
+    "title": "Roasted Mysore Style Vindaloo",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "indian-food",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "indian",
+      "vindaloo",
+      "chicken",
+      "roasted"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 29,
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -15614,6 +15612,45 @@
       "cake"
     ],
     "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-vietnamese-tofu-bowl--chinese",
+    "title": "Vietnamese-Style Roasted Tofu Bowl",
+    "tags": [
+      "chinese",
+      "vietnamese",
+      "tofu",
+      "roasted"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "open-flame-smoky-australian-lamb-bowl--vegan",
+    "title": "Australian Bush Barbecue Bowl",
+    "tags": [
+      "australian",
+      "vegan",
+      "barbecue",
+      "outback"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-filipino-quinoa-bowl--japanese",
+    "title": "Japanese-Style Roasted Quinoa Bowl",
+    "tags": [
+      "japanese",
+      "quinoa",
+      "roasted",
+      "vegan"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "o"
   }
