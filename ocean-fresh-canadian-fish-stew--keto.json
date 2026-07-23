@@ -1,0 +1,77 @@
+{
+  "slug": "ocean-fresh-canadian-fish-stew--keto",
+  "title": "Pan-Seared Cod with Lemon",
+  "description": "A simple yet flavorful keto dinner recipe featuring pan-seared Canadian cod, served with a squeeze of fresh lemon.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian Cod Fillets",
+      "amount": "4 (6 oz each)",
+      "notes": null
+    },
+    {
+      "name": "Fresh Lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the cod fillets with salt, black pepper, and garlic powder.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the cod fillets for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Remove the skillet from the oven and top each cod fillet with a squeeze of fresh lemon juice and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "fish",
+    "seafood",
+    "cod",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-canadian-fish-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:50:33.777Z"
+}
