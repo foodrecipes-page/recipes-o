@@ -1,0 +1,92 @@
+{
+  "slug": "oven-roasted-indian-myeongnan-roe-vindaloo",
+  "title": "Roasted Mysore Style Vindaloo",
+  "description": "A twist on the classic Indian vindaloo, this dish combines the rich flavors of roasted spices with the tender texture of roasted chicken.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "roasted myeongnan chili peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "roasted coriander powder",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "roasted cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "roasted garam masala powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "roasted turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "roasted salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "roasted black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "roasted coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, mix together the chicken, roasted chili peppers, coriander powder, cumin powder, garam masala powder, turmeric powder, salt, and black pepper.",
+    "Heat 1 tablespoon of roasted coconut oil in a pan over medium-high heat.",
+    "Add the chicken mixture to the pan and cook until browned, about 5 minutes.",
+    "Transfer the pan to the preheated oven and roast for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is roasting, heat the remaining 1 tablespoon of roasted coconut oil in a separate pan over medium heat.",
+    "Add the roasted vindaloo paste to the pan and cook, stirring constantly, for 2-3 minutes.",
+    "Add 1 cup of water to the pan and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5-7 minutes, or until it has thickened slightly.",
+    "To serve, place the roasted chicken on a plate and spoon the vindaloo sauce over the top.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vindaloo",
+    "chicken",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indian-myeongnan-roe-vindaloo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:33:59.696Z"
+}
