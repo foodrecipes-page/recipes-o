@@ -1,0 +1,70 @@
+{
+  "slug": "oozing-brass-greek-rice-curry",
+  "title": "Greek Curry Rice Bowl",
+  "description": "A flavorful and nutritious bowl of Greek-inspired curry rice with a side of vegetables.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "brass (bell) peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "oozing (feta cheese)",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large saucepan over medium heat.",
+    "2. Add curry and stir for 1 minute.",
+    "3. Add Greek rice and stir to coat with curry.",
+    "4. Add 2 cups water to saucepan and bring to a boil.",
+    "5. Reduce heat to low, cover, and simmer for 20 minutes.",
+    "6. While rice cooks, slice brass peppers and set aside.",
+    "7. After 15 minutes of cooking time, fluff Greek rice with a fork.",
+    "8. Stir in oozing (feta cheese).",
+    "9. Serve Greek curry rice in bowls and top with sliced brass peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "curry",
+    "rice",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-brass-greek-rice-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:14:49.031Z"
+}
