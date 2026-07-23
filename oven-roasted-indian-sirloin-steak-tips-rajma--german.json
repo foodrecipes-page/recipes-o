@@ -1,0 +1,89 @@
+{
+  "slug": "oven-roasted-indian-sirloin-steak-tips-rajma--german",
+  "title": "German Sirloin Steak with Rajma Roast",
+  "description": "A hearty, flavorful dish that combines the richness of a German-inspired roasted vegetable dish with the bold taste of an Indian-inspired steak.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 (1.5 inch thick)",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "rajma",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the sirloin steak with salt and black pepper.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the sirloin steak for 2-3 minutes per side, or until a nice crust forms.",
+    "Transfer the skillet to the preheated oven and roast the steak to desired level of doneness, about 8-12 minutes.",
+    "While the steak is cooking, toss the carrots, potatoes, onion, and garlic with the remaining 1 tablespoon of olive oil, salt, and black pepper.",
+    "Spread the vegetables out in a single layer on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "Serve the steak with the roasted vegetables and a side of rajma, heated through in a saucepan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "indian",
+    "steak",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indian-sirloin-steak-tips-rajma--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:15:31.901Z"
+}
