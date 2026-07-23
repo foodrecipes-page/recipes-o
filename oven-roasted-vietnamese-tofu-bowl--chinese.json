@@ -1,0 +1,94 @@
+{
+  "slug": "oven-roasted-vietnamese-tofu-bowl--chinese",
+  "title": "Vietnamese-Style Roasted Tofu Bowl",
+  "description": "A fusion of Chinese and Vietnamese flavors, this dish features crispy roasted tofu served over a bed of steamed vegetables in a savory sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressured dried"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers (any color)",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Press the tofu to remove excess moisture.",
+    "Cut the tofu into bite-sized cubes and place on a baking sheet lined with parchment paper.",
+    "Drizzle the tofu with 1 tablespoon of sesame oil and toss to coat.",
+    "Roast the tofu in the oven for 20-25 minutes, or until crispy and golden brown.",
+    "While the tofu is roasting, steam the bell peppers, carrots, and snow peas until tender.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, honey, grated ginger, and garlic.",
+    "Once the tofu is done, toss it with the sauce and serve over a bed of steamed vegetables.",
+    "Garnish with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vietnamese",
+    "tofu",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-tofu-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:23:41.549Z"
+}
