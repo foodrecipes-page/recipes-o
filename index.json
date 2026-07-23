@@ -15696,5 +15696,17 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-lemon-skewers--thai",
+    "title": "Thai Skewers with Lemon-Oven Glaze",
+    "tags": [
+      "thaifood",
+      "skewers",
+      "ovenroasted"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "o"
   }
 ]
