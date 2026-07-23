@@ -15708,5 +15708,33 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-algerian-cod-bake--chinese",
+    "title": "Algerian Cod with Roasted Flavor",
+    "tags": [
+      "chinese",
+      "algerian",
+      "cod",
+      "roasted",
+      "bake"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
+    "slug": "ocean-fresh-canadian-fish-stew--keto",
+    "title": "Pan-Seared Cod with Lemon",
+    "tags": [
+      "keto",
+      "fish",
+      "seafood",
+      "cod",
+      "dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "o"
   }
 ]
