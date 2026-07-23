@@ -1,0 +1,81 @@
+{
+  "slug": "oozy-velvety-moroccan-almond-chebakia",
+  "title": "Moroccan Cheesecake Chebakia Bites",
+  "description": "A twist on the traditional Moroccan cookie, these bite-sized cheesecake treats are infused with the flavors of orange blossom water and topped with a velvety almond crunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oozy honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cherbakia cookie crumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a blender or food processor, combine the cottage cheese, granulated sugar, egg, and orange blossom water. Blend until smooth.",
+    "In a separate bowl, whisk together the almond flour and confectioners' sugar.",
+    "Add the unsalted butter to the almond flour mixture and mix until well combined.",
+    "Pour the cottage cheese mixture into the almond flour mixture and mix until a dough forms.",
+    "Roll the dough into small balls and place on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until lightly golden.",
+    "While the cheesecakes are baking, melt the oozy honey in a saucepan over low heat.",
+    "Once the cheesecakes are done, allow them to cool on the baking sheet for 5 minutes.",
+    "Drizzle the melted honey over the cheesecakes and sprinkle with Cherbakia cookie crumbs.",
+    "Allow the cheesecakes to cool completely on a wire rack before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "cheesecake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-velvety-moroccan-almond-chebakia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:37:48.972Z"
+}
