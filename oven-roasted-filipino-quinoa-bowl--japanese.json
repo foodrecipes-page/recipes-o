@@ -1,0 +1,88 @@
+{
+  "slug": "oven-roasted-filipino-quinoa-bowl--japanese",
+  "title": "Japanese-Style Roasted Quinoa Bowl",
+  "description": "A flavorful and nutritious quinoa bowl inspired by Japanese cuisine, featuring roasted vegetables and a savory sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "purple cabbage",
+      "amount": "1 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sweet potato, carrots, and purple cabbage with 1 tablespoon of sesame oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 20-25 minutes, or until they are tender and lightly caramelized.",
+    "While the vegetables are roasting, cook the quinoa according to package instructions.",
+    "In a small bowl, whisk together the soy sauce and 1 tablespoon of sesame oil.",
+    "To assemble the bowls, place a scoop of cooked quinoa in the bottom, followed by the roasted vegetables, and drizzle with the soy sauce mixture.",
+    "Garnish with chopped green onions, if desired.",
+    "Serve hot and enjoy!",
+    "Cook Time: 25 minutes",
+    "Prep Time: 15 minutes",
+    "Total Time: 40 minutes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "quinoa",
+    "roasted",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-filipino-quinoa-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:59:22.412Z"
+}
