@@ -1,0 +1,82 @@
+{
+  "slug": "oily-velvety-spanish-seafood-fideua--german",
+  "title": "German Seafood Fideua with Spanish Flair",
+  "description": "A hearty German dish with a Spanish twist, featuring seafood and fideua. Perfect for a special occasion.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fideua",
+      "amount": "500g",
+      "notes": "Spanish variety of thin pasta"
+    },
+    {
+      "name": "Seafood mix",
+      "amount": "1 bag",
+      "notes": "Containing shrimp, mussels, and clams"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tbsp",
+      "notes": "For a authentic flavor"
+    },
+    {
+      "name": "Velvety besciamella sauce",
+      "amount": "250ml",
+      "notes": "Creamy sauce made from butter, flour, and milk"
+    },
+    {
+      "name": "Oily chopped garlic",
+      "amount": "3 cloves",
+      "notes": "Sauteed in Spanish olive oil"
+    },
+    {
+      "name": "White wine",
+      "amount": "125ml",
+      "notes": "Dry white wine for added flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for brightness"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the fideua according to the package instructions. Drain and set aside.",
+    "Heat the Spanish olive oil in a large skillet over medium heat. Add the chopped garlic and sauté for 1 minute.",
+    "Add the seafood mix to the skillet and cook until the seafood is pink and cooked through.",
+    "Add the white wine to the skillet and cook until the liquid has almost completely reduced.",
+    "Stir in the velvety besciamella sauce and cook for an additional 2 minutes.",
+    "Add the cooked fideua to the skillet and toss with the seafood mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley.",
+    "Optional: Add a squeeze of lemon juice for extra brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "seafood",
+    "fideua",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-velvety-spanish-seafood-fideua--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:44:41.404Z"
+}
