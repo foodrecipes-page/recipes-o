@@ -7811,16 +7811,16 @@
   },
   {
     "slug": "oven-baked-irish-stroop-gratin",
-    "title": "Oven-Baked Irish Stroop Gratin",
+    "title": "Irish Stroop Baked Gratin",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "baked",
+      "irish",
+      "stroop",
+      "gratin",
+      "dessert"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 30,
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -15642,6 +15642,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oil-infused-indian-tahini-curry--keto",
+    "title": "Keto Indian Tahini Chicken",
+    "tags": [
+      "keto",
+      "indian",
+      "chicken",
+      "grilled"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 22,
     "shard": "o"
   }
 ]
