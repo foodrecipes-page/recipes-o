@@ -15656,5 +15656,19 @@
     "cuisine": "Indian",
     "totalTimeMin": 22,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-peppery-argentinian-chestnut-casserole--indian",
+    "title": "Argentinian Chicken Casserole with Chestnut and Oozy Sauce",
+    "tags": [
+      "indian",
+      "casserole",
+      "chicken",
+      "chestnut",
+      "oozy-sauce"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
