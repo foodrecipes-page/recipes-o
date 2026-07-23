@@ -1,0 +1,80 @@
+{
+  "slug": "open-flame-smoky-australian-lamb-bowl--vegan",
+  "title": "Australian Bush Barbecue Bowl",
+  "description": "A smoky and flavorful vegan barbecue dish inspired by the outback.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian Wild Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Open-Fire Roasted Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Tofu",
+      "amount": "1 block",
+      "notes": "marinated in a smoky BBQ sauce"
+    },
+    {
+      "name": "Vegan BBQ Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley or cilantro"
+    },
+    {
+      "name": "Lamb's Lettuce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the open flame to medium-high heat.",
+    "2. Marinate the smoky tofu in the vegan BBQ sauce for at least 30 minutes.",
+    "3. Roast the sweet potatoes over the open flame until caramelized.",
+    "4. Grill the Australian wild mushrooms until tender.",
+    "5. Warm the lamb's lettuce by placing the bowl over the open flame.",
+    "6. Assemble the dish by placing the roasted sweet potatoes, grilled mushrooms, and marinated tofu on top of the warmed lamb's lettuce.",
+    "7. Drizzle with additional vegan BBQ sauce if desired.",
+    "8. Garnish with chopped fresh herbs.",
+    "9. Serve immediately in the bowl.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegan",
+    "barbecue",
+    "outback"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/open-flame-smoky-australian-lamb-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:24:42.160Z"
+}
