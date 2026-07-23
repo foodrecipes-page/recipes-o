@@ -1,0 +1,78 @@
+{
+  "slug": "oily-asian-shrimp-spring-rolls--keto",
+  "title": "Keto Asian Shrimp Spring Rolls",
+  "description": "A keto-friendly twist on traditional spring rolls, featuring succulent shrimp and crunchy vegetables.",
+  "cuisine": "Asian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "12 oz",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Oily Lettuce",
+      "amount": "2 cups",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Spring Rolls Wrappers",
+      "amount": "1 package",
+      "notes": "Keto-friendly"
+    },
+    {
+      "name": "Coconut Aminos",
+      "amount": "2 tbsp",
+      "notes": "For dipping sauce"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp and pat dry with paper towels.",
+    "In a large pan, heat 1 tablespoon of coconut oil over medium-high heat.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "While the shrimp is cooking, prepare the dipping sauce by whisking together coconut aminos and 1 tablespoon of coconut oil.",
+    "Assemble the spring rolls by placing a shrimp in the center of each wrapper, followed by a spoonful of cucumber, avocado, and lettuce.",
+    "Brush the edges of the wrapper with coconut oil and roll up the spring rolls tightly.",
+    "Serve the spring rolls with the dipping sauce and garnish with sesame seeds.",
+    "Enjoy as a keto snack or appetizer!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "asian",
+    "shrimp",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-asian-shrimp-spring-rolls--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:56:23.147Z"
+}
