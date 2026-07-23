@@ -1,0 +1,82 @@
+{
+  "slug": "oven-roasted-algerian-cod-bake--chinese",
+  "title": "Algerian Cod with Roasted Flavor",
+  "description": "A unique Chinese-inspired recipe that combines Algerian spices with the classic flavors of roasted cod, all baked to perfection.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern markets."
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": "Mince roasted garlic for best flavor."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley for garnish."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For roasting garlic and baking cod."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "Serve with wedges for added flavor and moisture."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season cod fillets with Algerian spice blend, salt, and black pepper.",
+    "Heat olive oil in a pan over medium heat. Add minced roasted garlic and cook for 1-2 minutes.",
+    "Place cod fillets in the pan and sear for 2-3 minutes on each side.",
+    "Transfer the pan to the preheated oven and bake for 8-10 minutes or until cod is cooked through.",
+    "Garnish with chopped fresh parsley and serve with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "algerian",
+    "cod",
+    "roasted",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-algerian-cod-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:23:36.606Z"
+}
