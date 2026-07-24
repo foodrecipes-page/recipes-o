@@ -1,0 +1,91 @@
+{
+  "slug": "outstanding-oven-roasted-vietnamese-pork-tagine",
+  "title": "Crispy Roasted Pork Tagine",
+  "description": "A flavorful and aromatic Vietnamese-inspired dish made with tender pork, crispy roasted vegetables, and a hint of spice.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the pork shoulder with salt and black pepper.",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat. Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast the pork for 20 minutes.",
+    "Add the sliced ginger, minced garlic, chopped onions, carrots, and potatoes to the pan. Toss to coat with the juices.",
+    "Continue roasting for an additional 30-40 minutes, or until the vegetables are tender and the pork is cooked through.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "roasted",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-vietnamese-pork-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:07:34.611Z"
+}
