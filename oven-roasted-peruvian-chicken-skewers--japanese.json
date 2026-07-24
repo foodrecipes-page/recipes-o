@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-peruvian-chicken-skewers--japanese",
+  "title": "Japanese-Style Oven Roasted Chicken Skewers",
+  "description": "A fusion of Japanese flavors with Peruvian-style oven roasted chicken skewers, perfect for a quick and delicious meal.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1-2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together soy sauce, rice vinegar, honey, sesame oil, garlic, and ginger.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until the chicken is cooked through.",
+    "Sprinkle with green onions and cilantro before serving.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "oven-roasted",
+    "peruvian",
+    "chicken-skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-peruvian-chicken-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:45:29.456Z"
+}
