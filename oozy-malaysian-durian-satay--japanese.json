@@ -1,0 +1,94 @@
+{
+  "slug": "oozy-malaysian-durian-satay--japanese",
+  "title": "Durian Satay",
+  "description": "A unique twist on traditional Japanese satay, featuring the infamous durian fruit.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Durian",
+      "amount": "2",
+      "notes": "Ripe and soft"
+    },
+    {
+      "name": "Malaysian satay sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Oozy sauce (optional)",
+      "amount": "2 tbsp",
+      "notes": "For added creaminess"
+    },
+    {
+      "name": "Pork or chicken satay meat",
+      "amount": "1 pound",
+      "notes": "Choose your preferred protein"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tsp",
+      "notes": "For added umami"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "For balance"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Cut the durian into bite-sized pieces and set aside.",
+    "2. Grill or pan-fry the satay meat until cooked through.",
+    "3. In a small saucepan, combine the satay sauce, coconut milk, fish sauce, and brown sugar. Heat over low heat until warm and fragrant.",
+    "4. Add the grilled satay meat to the sauce and toss to coat.",
+    "5. If using, drizzle with oozy sauce for added creaminess.",
+    "6. Serve the satay with a side of cooked rice and garnish with chopped cilantro.",
+    "7. Squeeze a sliver of lime juice over the top for added brightness.",
+    "8. Enjoy with the durian pieces on the side or mixed into the satay sauce.",
+    "9. Garnish with additional cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "satay",
+    "durian",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-malaysian-durian-satay--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:19:07.457Z"
+}
