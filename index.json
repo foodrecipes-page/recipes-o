@@ -2352,16 +2352,14 @@
   },
   {
     "slug": "old-fashioned-croatian-dough-dumplings",
-    "title": "Croatian Dough Dumplings",
+    "title": "Croatian Dumplings with Old Fashioned Dough",
     "tags": [
-      "comfort-food",
-      "eastern-european",
-      "homemade",
-      "one-pot",
-      "traditional"
+      "croatian-food",
+      "homemade-dumplings",
+      "old-fashioned-dough"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -10584,17 +10582,15 @@
   },
   {
     "slug": "oven-roasted-japanese-chicken-ozoni",
-    "title": "Oven Roasted Japanese Chicken Ozoni",
+    "title": "Japanese Chicken Ozoni",
     "tags": [
-      "chicken-recipes",
-      "diabetic-friendly",
-      "japanese-cuisine",
-      "low-carb",
-      "oven-roasted",
-      "weeknight"
+      "japanese",
+      "soup",
+      "chicken",
+      "roasted"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -12264,14 +12260,12 @@
   },
   {
     "slug": "oven-roasted-syrian-fermented-lentils-casserole",
-    "title": "Oven-Roasted Syrian Fermented Lentils Casserole",
+    "title": "Syrian Lentil Casserole",
     "tags": [
-      "anti-inflammatory",
-      "easy",
-      "gluten-free",
-      "one-pan",
-      "oven-casserole",
-      "vegetarian"
+      "lentils",
+      "syrian",
+      "casserole",
+      "oven-roasted"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 60,
@@ -15827,6 +15821,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-smoked-malaysian-lamb-kidney-satay--vegetarian",
+    "title": "Smoked Satay Lamb-Free Skewers",
+    "tags": [
+      "malaysian",
+      "vegetarian",
+      "skewers",
+      "oven-roasted"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-malaysian-durian-satay--french",
+    "title": "Durian Crème Brûlée",
+    "tags": [
+      "french",
+      "dessert",
+      "durian",
+      "crème-brûlée"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "o"
   }
 ]
