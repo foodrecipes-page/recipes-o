@@ -1,0 +1,91 @@
+{
+  "slug": "oven-roasted-syrian-fermented-lentils-casserole",
+  "title": "Syrian Lentil Casserole",
+  "description": "A hearty and flavorful casserole made with lentils, inspired by Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils, brown",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Add the lentils and stir to coat with the spice mixture.",
+    "Transfer the lentil mixture to a 9x13 inch baking dish.",
+    "Top with the diced roasted red peppers.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the casserole is hot and the lentils are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "syrian",
+    "casserole",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-syrian-fermented-lentils-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:47:36.824Z"
+}
