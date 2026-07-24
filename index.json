@@ -2491,17 +2491,16 @@
   },
   {
     "slug": "old-fashioned-jamaican-cox-apple-onigiri",
-    "title": "Old Fashioned Jamaican Cox Apple Onigiri",
+    "title": "Jamaican Jerk Chicken with Grilled Apple",
     "tags": [
-      "cox-apple",
-      "jamaican",
-      "nigiri",
-      "snack",
-      "traditional",
-      "vegetarian"
+      "caribbean",
+      "grilled",
+      "chicken",
+      "apple",
+      "gluten-free"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -15873,6 +15872,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "olive-oil-infused-ethiopian-snow-peas-stew--keto",
+    "title": "Ethiopian Snow Pea Stew Keto",
+    "tags": [
+      "low-carb",
+      "keto",
+      "ethiopian",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 10,
+    "shard": "o"
+  },
+  {
+    "slug": "outstanding-oven-roasted-kenyan-comte-pasta--vegetarian",
+    "title": "Roasted Comte Pasta",
+    "tags": [
+      "italian",
+      "pasta",
+      "comte",
+      "cheese",
+      "roasted"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "o"
   }
 ]
