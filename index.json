@@ -15957,5 +15957,72 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-beef-burger--vegan",
+    "title": "Slovakian Vegan Burger",
+    "tags": [
+      "vegan",
+      "slovakian",
+      "burger",
+      "roasted"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "outstanding-yeasty-malaysian-prawns-toast--mexican",
+    "title": "Prawn and Toast Quesadilla",
+    "tags": [
+      "mexican",
+      "prawns",
+      "quesadilla",
+      "toast"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-argentinian-mustard-stew--german",
+    "title": "Argentinian-German Stew with Roasted Vegetables",
+    "tags": [
+      "argentinian",
+      "german",
+      "beef-stew",
+      "roasted-vegetables",
+      "hearty-stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 300,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-dutch-vegetable-stew--french",
+    "title": "French Stew",
+    "tags": [
+      "stew",
+      "french",
+      "vegetarian",
+      "oven-roasted"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-vietnamese-cabbage-bowl--italian",
+    "title": "Roasted Cabbage Italian Bowl",
+    "tags": [
+      "italian",
+      "italian-american",
+      "italian-inspired",
+      "italian-seasoning",
+      "roasted-cabbage"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
