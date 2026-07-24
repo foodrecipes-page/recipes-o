@@ -1,0 +1,57 @@
+{
+  "slug": "olive-oil-infused-ethiopian-snow-peas-stew--keto",
+  "title": "Ethiopian Snow Pea Stew Keto",
+  "description": "This is a low-carb Ethiopian-inspired stew made with snow peas, olive oil, and infused with traditional spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ethiopian stew seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat infused oil in a pan over medium-high heat.",
+    "Add snow peas and cook until they start to soften, about 3 minutes.",
+    "Add Ethiopian stew seasoning and stir to combine.",
+    "Continue cooking for another 2-3 minutes, until snow peas are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "keto",
+    "ethiopian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 11
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/olive-oil-infused-ethiopian-snow-peas-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:07:00.591Z"
+}
