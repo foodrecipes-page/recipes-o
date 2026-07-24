@@ -113,17 +113,15 @@
   },
   {
     "slug": "oaty-nutty-uruguayan-oat-bake",
-    "title": "Oaty Nutty Uruguayan Oat Bake",
+    "title": "Uruguayan Oat Cookies",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "healthy-snack",
-      "high-fiber",
-      "meal-prep",
-      "vegetarian-friendly"
+      "cookies",
+      "oatmeal",
+      "snack",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -2037,17 +2035,14 @@
   },
   {
     "slug": "oily-smoky-croatian-sesame-seed-stir-fry",
-    "title": "Oily Smoky Croatian Sesame Seed Stir fry",
+    "title": "Smoky Stir-Fry with Sesame Seeds",
     "tags": [
-      "croatian",
-      "gluten-free",
-      "sesame-seeds",
-      "smoky",
-      "stir-fry",
-      "vegetarian"
+      "veggie",
+      "quick",
+      "easy"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
@@ -15761,6 +15756,19 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 23,
+    "shard": "o"
+  },
+  {
+    "slug": "oil-infused-german-pork-bowl--indian",
+    "title": "German Pork Vindaloo",
+    "tags": [
+      "indian",
+      "pork",
+      "vindaloo",
+      "german"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]
