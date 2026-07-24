@@ -1,0 +1,71 @@
+{
+  "slug": "oven-baked-canadian-sugar-cobbler--mexican",
+  "title": "Mexican Cobbler",
+  "description": "A classic mexican dessert made with a crispy crust and a sweet, sugar-rich topping.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 (14.1 oz) package of Mexican cornbread mix",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 cup granulated sugar",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup unsalted butter, melted",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 cup blackberries",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped pecans (optional)",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup brown sugar",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the cornbread mix, granulated sugar, and melted butter. Mix until well combined.",
+    "Fold in the blackberries and chopped pecans (if using).",
+    "Pour the mixture into a greased 9x9-inch baking dish.",
+    "In a separate bowl, mix the brown sugar and a pinch of cinnamon. Sprinkle over the top of the cobbler.",
+    "Bake for 35-40 minutes, or until the cobbler is golden brown and the fruit is bubbly.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cobbler",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-canadian-sugar-cobbler--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:31:16.214Z"
+}
