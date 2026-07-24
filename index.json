@@ -15848,5 +15848,31 @@
     "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mexican-lentils-chilaquiles--japanese",
+    "title": "Saffron Lentil Bowl with Japanese Twist",
+    "tags": [
+      "lentils",
+      "japanese",
+      "saute",
+      "stew"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-peruvian-chicken-skewers--japanese",
+    "title": "Japanese-Style Oven Roasted Chicken Skewers",
+    "tags": [
+      "japanese",
+      "oven-roasted",
+      "peruvian",
+      "chicken-skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "o"
   }
 ]
