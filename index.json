@@ -8303,18 +8303,14 @@
   },
   {
     "slug": "oven-crisp-ukrainian-cheddar-gratin",
-    "title": "Oven Crisp Ukrainian Cheddar Gratin",
+    "title": "Ukrainian Cheesy Oven Gratin",
     "tags": [
-      "cheddar",
-      "floral",
-      "gratin",
-      "oven-crisp",
-      "quick",
       "ukrainian",
-      "vegetarian"
+      "gratin",
+      "cheesy"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -15924,6 +15920,42 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-blood-filipino-pork-dinuguan--japanese",
+    "title": "Filipino-Style Braised Pork Belly with Dinuguan Sauce",
+    "tags": [
+      "filipino",
+      "pork",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-mediterranean-cannellini-beans-one-pot--german",
+    "title": "German Bean Stew",
+    "tags": [
+      "german",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-canadian-sugar-cobbler--mexican",
+    "title": "Mexican Cobbler",
+    "tags": [
+      "mexican",
+      "cobbler",
+      "dessert"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "o"
   }
 ]
