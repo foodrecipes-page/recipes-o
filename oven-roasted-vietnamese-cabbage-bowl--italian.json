@@ -1,0 +1,72 @@
+{
+  "slug": "oven-roasted-vietnamese-cabbage-bowl--italian",
+  "title": "Roasted Cabbage Italian Bowl",
+  "description": "A simple and flavorful Italian-inspired bowl filled with roasted cabbage and topped with a variety of ingredients.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "any variety"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup shaved",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the cabbage into wedges and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with salt, Italian seasoning, and a pinch of black pepper.",
+    "Roast in the oven for 20-25 minutes, or until caramelized and tender.",
+    "Meanwhile, chop the basil and shave the Parmesan cheese.",
+    "Assemble the bowls by placing a portion of the roasted cabbage on each plate.",
+    "Top with basil and Parmesan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "italian-american",
+    "italian-inspired",
+    "italian-seasoning",
+    "roasted-cabbage"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-cabbage-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:31:41.728Z"
+}
