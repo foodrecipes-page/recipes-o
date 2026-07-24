@@ -1,0 +1,73 @@
+{
+  "slug": "old-fashioned-jamaican-cox-apple-onigiri",
+  "title": "Jamaican Jerk Chicken with Grilled Apple",
+  "description": "A Caribbean-inspired dish with spicy jerk seasoning and a sweet apple glaze, perfect for a weeknight dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Apple",
+      "amount": "1",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "Onigiri",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a small bowl, mix together jerk seasoning, apple cider vinegar, and 2 tbsp of coconut oil.",
+    "Rub the mixture all over the chicken breast.",
+    "Place the chicken on the grill and cook for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, brush the sliced apple with the remaining coconut oil and grill for 2-3 minutes per side, or until caramelized.",
+    "Serve the chicken with grilled apple and onigiri on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "grilled",
+    "chicken",
+    "apple",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-jamaican-cox-apple-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:22:30.452Z"
+}
