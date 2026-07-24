@@ -1,0 +1,80 @@
+{
+  "slug": "outstanding-yeasty-malaysian-prawns-toast--mexican",
+  "title": "Prawn and Toast Quesadilla",
+  "description": "A twist on the classic quesadilla, this Mexican dish combines the flavors of toasted prawns with crispy toast.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "preferably baguette or ciabatta"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for toasting"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the prawns and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Meanwhile, toast the bread slices until crispy.",
+    "In a separate pan, warm the tortillas over medium heat.",
+    "Place a tortilla in the pan and sprinkle shredded cheese on half of the tortilla.",
+    "Add a few slices of toasted prawns on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for another 2-3 minutes or until the other side is also crispy.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve with salsa and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "prawns",
+    "quesadilla",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-yeasty-malaysian-prawns-toast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:56:07.340Z"
+}
