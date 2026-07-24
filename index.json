@@ -2672,17 +2672,14 @@
   },
   {
     "slug": "old-fashioned-russian-lamb-pie",
-    "title": "Old Fashioned Russian Lamb Pie",
+    "title": "Russian Lamb Pie",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "homemade-pie",
-      "lamb-recipes",
-      "low-glycemic",
-      "russian-cuisine"
+      "russian",
+      "lamb",
+      "pie"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "cuisine": "russian",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
