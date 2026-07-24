@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-spanish-eggs-bake--chinese",
+  "title": "Spanish-Style Chinese-Style Baked Eggs",
+  "description": "A fusion dish that combines the flavors of Spain and China, featuring baked eggs in a savory sauce.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, whisk together soy sauce, chili flakes, and sesame oil.",
+    "In a separate bowl, whisk together eggs and a pinch of salt and pepper.",
+    "In a 9x13 inch baking dish, add the shrimp and drizzle with the soy sauce mixture.",
+    "Pour the egg mixture over the shrimp and smooth the top.",
+    "Bake for 12-15 minutes, or until the eggs are set and the shrimp are cooked through.",
+    "Sprinkle green onions on top and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chinese",
+    "eggs",
+    "oven",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spanish-eggs-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:03:08.298Z"
+}
