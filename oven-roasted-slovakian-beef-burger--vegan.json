@@ -1,0 +1,83 @@
+{
+  "slug": "oven-roasted-slovakian-beef-burger--vegan",
+  "title": "Slovakian Vegan Burger",
+  "description": "A hearty vegan burger inspired by Slovakian cuisine, made with roasted vegetables and served on a toasted bun.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan burger patty",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bun",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegan mayo",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the beetroot, carrot, and onion. Toss with oil, salt, and pepper.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 25 minutes.",
+    "Slice the mushrooms and sauté them in a pan until tender.",
+    "Prepare the vegan burger patty according to the package instructions.",
+    "Assemble the burger by spreading vegan mayo on the bun, adding the roasted vegetables, mushrooms, and vegan patty.",
+    "Top with breadcrumbs and serve immediately.",
+    "Optional: Grill the burger for an extra crispy texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "slovakian",
+    "burger",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-beef-burger--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:40:35.993Z"
+}
