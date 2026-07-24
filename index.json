@@ -15900,5 +15900,30 @@
     "cuisine": "Italian",
     "totalTimeMin": 25,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-fresh-german-broad-beans-bake--german",
+    "title": "German Broad Bean Bake",
+    "tags": [
+      "german",
+      "comfort-food",
+      "broad-beans"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-malaysian-durian-satay--japanese",
+    "title": "Durian Satay",
+    "tags": [
+      "japanese",
+      "satay",
+      "durian",
+      "veggie"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
