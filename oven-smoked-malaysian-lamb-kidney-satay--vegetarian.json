@@ -1,0 +1,88 @@
+{
+  "slug": "oven-smoked-malaysian-lamb-kidney-satay--vegetarian",
+  "title": "Smoked Satay Lamb-Free Skewers",
+  "description": "A Malaysian-inspired vegetarian take on the classic street food, using smoked tofu and a variety of colorful vegetables.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked tofu",
+      "amount": "1 block, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1, cut into 1-inch pieces"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1, cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1, cut into 1/2-inch slices"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers, soaked in water for 30 minutes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tsp, ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp, ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Thread the smoked tofu, red bell pepper, yellow onion, and zucchini onto the skewers.",
+    "In a small bowl, whisk together the coconut oil, honey, soy sauce, rice vinegar, coriander, and cumin.",
+    "Brush the mixture evenly onto both sides of the skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the vegetables are tender and lightly charred.",
+    "Serve warm and enjoy!",
+    "Optional: Grill the skewers for 5-7 minutes per side, or until lightly charred.",
+    "Note: If using a grill, preheat to medium-high heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "skewers",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-smoked-malaysian-lamb-kidney-satay--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:13:37.683Z"
+}
