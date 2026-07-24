@@ -1,0 +1,80 @@
+{
+  "slug": "oven-roasted-japanese-chicken-ozoni",
+  "title": "Japanese Chicken Ozoni",
+  "description": "A traditional Japanese soup originating from the Hokkaido region, typically served at New Year's. This recipe replaces the traditional mochi with roasted chicken.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "white or yellow"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "shredded daikon",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper. Roast in the oven for 20-25 minutes, or until cooked through.",
+    "In a large pot, combine dashi broth, miso paste, soy sauce, sake, and sugar. Whisk until the miso paste is dissolved.",
+    "Slice the roasted chicken into thin strips.",
+    "Add the sliced chicken to the pot and simmer for 5-7 minutes.",
+    "Stir in chopped green onions and shredded daikon, if using.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "soup",
+    "chicken",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-japanese-chicken-ozoni",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:51:18.084Z"
+}
