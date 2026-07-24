@@ -15778,5 +15778,19 @@
     "cuisine": "indian",
     "totalTimeMin": 135,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-spanish-eggs-bake--chinese",
+    "title": "Spanish-Style Chinese-Style Baked Eggs",
+    "tags": [
+      "spanish",
+      "chinese",
+      "eggs",
+      "oven",
+      "roasted"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
