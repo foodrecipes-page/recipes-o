@@ -1,0 +1,75 @@
+{
+  "slug": "old-fashioned-russian-lamb-pie",
+  "title": "Russian Lamb Pie",
+  "description": "A hearty and flavorful pie filled with lamb and spices, inspired by traditional Russian cuisine.",
+  "cuisine": "russian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Old Fashioned Pie Crust",
+      "amount": "1 pie crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place it in a 9-inch pie dish.",
+    "In a large skillet, cook the lamb over medium-high heat, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the salt, black pepper, and thyme to the skillet and stir to combine.",
+    "Pour the lamb mixture into the pie crust and spread it out evenly.",
+    "Cover the pie with another pie crust or a pie crust top and crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pie for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Let the pie rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "lamb",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-russian-lamb-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:54:49.509Z"
+}
