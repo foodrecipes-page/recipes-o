@@ -1,0 +1,85 @@
+{
+  "slug": "outstanding-oven-roasted-kenyan-comte-pasta--vegetarian",
+  "title": "Roasted Comte Pasta",
+  "description": "A simple yet flavorful pasta dish featuring roasted comte cheese and an array of herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "any shape will do"
+    },
+    {
+      "name": "Comte Cheese",
+      "amount": "1 cup",
+      "notes": "high-quality, preferably aged"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "While the pasta cooks, toss the comte cheese with olive oil, thyme, rosemary, and garlic on a baking sheet.",
+    "Roast the comte cheese in the preheated oven for 5-7 minutes, or until golden brown and bubbly.",
+    "Reserve 1 cup of pasta water before draining the cooked pasta.",
+    "Add the reserved pasta water to the roasted comte cheese and toss to combine.",
+    "Add the cooked pasta to the cheese mixture and toss until well coated.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "comte",
+    "cheese",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-kenyan-comte-pasta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:59:18.261Z"
+}
