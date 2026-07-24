@@ -1,0 +1,95 @@
+{
+  "slug": "oven-dried-ethiopian-kale-azifa--mexican",
+  "title": "Ethiopian-Style Azifa Quesadilla",
+  "description": "A unique twist on traditional quesadillas, blending Ethiopian flavors with Mexican cuisine. This dish combines the spicy kick of azifa with the comfort of melted cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ethiopian azifa",
+      "amount": "1 cup, dried",
+      "notes": "rehydrated according to package instructions"
+    },
+    {
+      "name": "Dried kale",
+      "amount": "1 cup, chopped",
+      "notes": "rehydrated according to package instructions"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup, shredded",
+      "notes": "for quesadilla filling"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 teaspoon paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rehydrate the azifa and dried kale according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cumin and paprika (if using).",
+    "Add the rehydrated azifa and kale mixture to the skillet and cook until heated through.",
+    "In a separate pan or griddle, melt a small amount of cheese over medium heat.",
+    "Place a tortilla in the pan and sprinkle shredded cheese on half of the tortilla.",
+    "Add the azifa and kale mixture on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "ethiopian",
+    "mexican",
+    "azifa",
+    "kale"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-dried-ethiopian-kale-azifa--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:58:57.543Z"
+}
