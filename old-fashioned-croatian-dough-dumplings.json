@@ -1,0 +1,85 @@
+{
+  "slug": "old-fashioned-croatian-dough-dumplings",
+  "title": "Croatian Dumplings with Old Fashioned Dough",
+  "description": "A traditional Croatian dish featuring homemade dumplings and rich, old-fashioned dough.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt. Mix well.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a large pot of salted water and bring it to a boil.",
+    "Punch down the dough and divide it into small pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of cottage cheese, some chopped scallions, and a sprinkle of black pepper in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Carefully place the dumplings into the boiling water and cook for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with a dollop of sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-food",
+    "homemade-dumplings",
+    "old-fashioned-dough"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-croatian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:46:26.354Z"
+}
