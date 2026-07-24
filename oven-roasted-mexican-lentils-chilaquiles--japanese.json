@@ -1,0 +1,92 @@
+{
+  "slug": "oven-roasted-mexican-lentils-chilaquiles--japanese",
+  "title": "Saffron Lentil Bowl with Japanese Twist",
+  "description": "A hearty, comforting bowl of saffron-infused lentils topped with crispy tempura bits, a nod to the bold flavors of Japan.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red or green lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "tempura bits",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for at least 30 minutes.",
+    "In a large saucepan, heat the oil over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the lentils, saffron, and water to the saucepan. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "While the lentils are cooking, prepare the tempura bits. Heat about 1-2 inches of oil in a deep frying pan over medium-high heat. Fry the tempura bits until crispy and golden brown.",
+    "Strain the lentils and discard the excess liquid. Add the cornstarch and stir to combine.",
+    "To serve, place a scoop of the lentils in a bowl and top with crispy tempura bits, green onions, and sesame seeds.",
+    "Garnish with additional green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "japanese",
+    "saute",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-lentils-chilaquiles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:39:40.885Z"
+}
