@@ -1,0 +1,78 @@
+{
+  "slug": "oceanic-light-kenyan-sea-bass-soup--keto",
+  "title": "Pan-Seared Bass with Oceanic Soup",
+  "description": "A keto-friendly dish featuring pan-seared bass served with a light and refreshing oceanic soup.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Oceanic soup mix",
+      "amount": "1 packet",
+      "notes": "available at most seafood markets"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the bass fillets and pat them dry with a paper towel.",
+    "Season the bass with salt and black pepper.",
+    "Heat butter in an oven-safe skillet over medium-high heat. Add the garlic and cook for 1 minute.",
+    "Add the bass to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until the bass is cooked through.",
+    "Meanwhile, prepare the oceanic soup according to the package instructions.",
+    "Serve the pan-seared bass with a side of oceanic soup.",
+    "Squeeze lemon juice over the bass before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "keto",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-light-kenyan-sea-bass-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:48:38.710Z"
+}
