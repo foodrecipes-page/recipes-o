@@ -1,0 +1,67 @@
+{
+  "slug": "oven-roasted-fresh-german-broad-beans-bake--german",
+  "title": "German Broad Bean Bake",
+  "description": "A delicious and simple German-inspired dish made with broad beans, perfect for a comforting meal. This recipe is easy to follow and requires minimal ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 pound, fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Trim the ends of the broad beans and cut them into 1-inch pieces.",
+    "In a large pan, sauté the chopped onion and minced garlic in butter until softened.",
+    "Add the broad beans to the pan and cook for 2-3 minutes.",
+    "In a separate bowl, mix the flour and grated Gruyère cheese.",
+    "Add the flour and cheese mixture to the pan with the broad beans and stir until well combined.",
+    "Transfer the mixture to a baking dish and top with additional grated cheese if desired.",
+    "Bake for 20-25 minutes or until the top is golden brown and the filling is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "comfort-food",
+    "broad-beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-fresh-german-broad-beans-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:44:55.617Z"
+}
