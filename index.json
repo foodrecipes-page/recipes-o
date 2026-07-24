@@ -15770,5 +15770,19 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "outrageously-comforting-kenyan-lamb-stew--indian",
+    "title": "Kenyan Lamb Stew",
+    "tags": [
+      "indian",
+      "lamb",
+      "stew",
+      "comforting",
+      "kenyan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 135,
+    "shard": "o"
   }
 ]
