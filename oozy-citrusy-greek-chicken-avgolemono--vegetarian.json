@@ -1,0 +1,76 @@
+{
+  "slug": "oozy-citrusy-greek-chicken-avgolemono--vegetarian",
+  "title": "Avgolemono Soup",
+  "description": "A traditional Greek soup made with chicken broth, eggs, and a squeeze of fresh lemon juice, perfect for a comforting meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "avgolemono",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, heat the olive oil over medium heat.",
+    "2. Add the chopped onion and cook until softened, about 5 minutes.",
+    "3. Pour in the chicken broth and bring to a boil.",
+    "4. Stir in the avgolemono and lemon juice.",
+    "5. Reduce heat to low and simmer for 10 minutes.",
+    "6. In a separate bowl, whisk together the eggs and a splash of the hot broth.",
+    "7. Stir the egg mixture back into the soup.",
+    "8. Cook for an additional 2-3 minutes, or until the soup has thickened slightly.",
+    "9. Stir in the cooked rice and chopped dill.",
+    "10. Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "greek-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-citrusy-greek-chicken-avgolemono--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:22:04.128Z"
+}
