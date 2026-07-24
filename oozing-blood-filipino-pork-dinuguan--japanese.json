@@ -1,0 +1,92 @@
+{
+  "slug": "oozing-blood-filipino-pork-dinuguan--japanese",
+  "title": "Filipino-Style Braised Pork Belly with Dinuguan Sauce",
+  "description": "A rich and savory dish that brings together the flavors of Japan and the Philippines. This braised pork belly is slow-cooked in a sweet and spicy dinuguan sauce, resulting in a tender and flavorful meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "dinuguan sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the pork belly until browned on all sides, about 5 minutes per side.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the dinuguan sauce to the pot and bring to a boil.",
+    "Scrape up any browned bits from the bottom of the pot.",
+    "Return the pork belly to the pot and add the soy sauce, sugar, rice vinegar, and water.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Slice the pork into thick slices and serve with the braising liquid.",
+    "Garnish with green onions and serve with steamed rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pork",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-blood-filipino-pork-dinuguan--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:39:26.950Z"
+}
