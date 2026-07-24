@@ -1,0 +1,75 @@
+{
+  "slug": "oozy-malaysian-durian-satay--french",
+  "title": "Durian Crème Brûlée",
+  "description": "A rich and creamy French dessert featuring the unique flavor of durian, topped with a caramelized sugar crust.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Durian",
+      "amount": "1 cup",
+      "notes": "Freshly pureed"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "Divided"
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a medium saucepan, whisk together the heavy cream, 1/2 cup granulated sugar, and cornstarch. Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Remove the saucepan from the heat and stir in the durian puree and vanilla extract. Let cool slightly.",
+    "In a separate bowl, whisk together the egg yolks and the remaining 1/2 cup granulated sugar until pale and thick.",
+    "Temper the egg yolks by slowly pouring the warm durian mixture into the egg yolks, whisking constantly.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until set.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle a thin layer of granulated sugar over the top of each ramekin.",
+    "Caramelize the sugar with a kitchen torch or under the broiler."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "durian",
+    "crème-brûlée"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-malaysian-durian-satay--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:54:36.755Z"
+}
