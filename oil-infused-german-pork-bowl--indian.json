@@ -1,0 +1,94 @@
+{
+  "slug": "oil-infused-german-pork-bowl--indian",
+  "title": "German Pork Vindaloo",
+  "description": "A twist on the classic Indian vindaloo, using German pork and infused oil.",
+  "cuisine": "indian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral oil like canola or grapeseed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Bowl",
+      "amount": null,
+      "notes": "Use for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the pork pieces and cook until browned, about 5 minutes.",
+    "Add the tomato, red chili powder, cumin powder, and salt. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the pork is tender.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Transfer to a bowl and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pork",
+    "vindaloo",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oil-infused-german-pork-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:33:44.840Z"
+}
