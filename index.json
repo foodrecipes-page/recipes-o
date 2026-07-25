@@ -16024,5 +16024,45 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-japanese-citrus-kaiseki-course--chinese",
+    "title": "Sesame Crusted Salmon with Citrus Glaze",
+    "tags": [
+      "chinese",
+      "seafood",
+      "gluten-free",
+      "citrus"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-jamaican-rice-stew--japanese",
+    "title": "Japanese-Style Jamaican Jerk Stew",
+    "tags": [
+      "japanese",
+      "jamaican",
+      "stew",
+      "rice"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-korean-tofu-fried-chicken--vegan",
+    "title": "Korean-Style Vegan Tofu Bites",
+    "tags": [
+      "korean",
+      "vegan",
+      "tofu",
+      "fried",
+      "snack"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
