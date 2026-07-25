@@ -16064,5 +16064,19 @@
     "cuisine": "Korean",
     "totalTimeMin": 35,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-ethiopian-beef-kitfo--vegetarian",
+    "title": "Roasted Ethiopian Vegetarian Kitfo",
+    "tags": [
+      "ethiopian",
+      "vegetarian",
+      "dinner",
+      "kitfo",
+      "roasted"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
