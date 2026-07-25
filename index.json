@@ -16185,5 +16185,18 @@
     "cuisine": "indian",
     "totalTimeMin": 60,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-indian-turkey-neck-curry--vegan",
+    "title": "Vegan Indian-Style Roasted Neck of Turkey",
+    "tags": [
+      "vegan",
+      "indian",
+      "roasted",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "o"
   }
 ]
