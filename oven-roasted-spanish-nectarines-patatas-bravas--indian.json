@@ -1,0 +1,85 @@
+{
+  "slug": "oven-roasted-spanish-nectarines-patatas-bravas--indian",
+  "title": "Indian-Style Roasted Nectarine and Patatas",
+  "description": "A sweet and savory fusion of Indian and Spanish flavors, combining roasted nectarines and patatas with a hint of bravas spice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "patatas",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "bravas spice mix",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the nectarines in half and place them on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with garam masala, cumin powder, and bravas spice mix.",
+    "Toss to coat and roast in the oven for 20-25 minutes, or until the nectarines are tender.",
+    "While the nectarines are roasting, slice the patatas into thin rounds.",
+    "Place the patatas on a separate baking sheet and drizzle with olive oil.",
+    "Season with salt and roast in the oven for 15-20 minutes, or until crispy.",
+    "Once the nectarines are done, remove them from the oven and let them cool for a few minutes.",
+    "Serve the roasted nectarines with the crispy patatas and a sprinkle of sugar.",
+    "Garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spanish",
+    "oven-roasted",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-spanish-nectarines-patatas-bravas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:27:46.364Z"
+}
