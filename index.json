@@ -16104,5 +16104,18 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oily-molten-uruguayan-beef-flank-steak-stew--german",
+    "title": "Uruguayan-Style German Flank Steak",
+    "tags": [
+      "german",
+      "uruguayan",
+      "beef",
+      "flank-steak"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
