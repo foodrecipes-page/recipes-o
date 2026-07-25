@@ -1,0 +1,90 @@
+{
+  "slug": "oven-roasted-jamaican-chicken-wrap",
+  "title": "Jamaican Chicken Wrap",
+  "description": "A flavorful and spicy Jamaican-inspired wrap filled with roasted chicken, onions, and bell peppers.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together olive oil, Jamaican jerk seasoning, salt, and pepper.",
+    "Place the chicken breast in a shallow dish and brush the jerk seasoning mixture evenly over both sides of the chicken.",
+    "Roast the chicken in the preheated oven for 25-30 minutes, or until cooked through.",
+    "While the chicken is cooking, heat a large skillet over medium-high heat.",
+    "Add the sliced onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it thinly.",
+    "Warm the tortilla wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading a tablespoon of sour cream on the tortilla, followed by a few slices of the roasted chicken, some sautéed onion and bell pepper, and finally some shredded cheese and chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "wrap",
+    "oven-roasted",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-jamaican-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:55:30.137Z"
+}
