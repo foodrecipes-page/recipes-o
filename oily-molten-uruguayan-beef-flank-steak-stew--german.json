@@ -1,0 +1,82 @@
+{
+  "slug": "oily-molten-uruguayan-beef-flank-steak-stew--german",
+  "title": "Uruguayan-Style German Flank Steak",
+  "description": "A hearty, German-inspired dish featuring a tender Uruguayan-style flank steak, marinated in a rich and savory sauce. Perfect for a cold evening.",
+  "cuisine": "german",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "500g"
+    },
+    {
+      "name": "uruguayan steak seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the flank steak with Uruguayan steak seasoning, salt, and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the steak for 2-3 minutes per side, or until browned.",
+    "Transfer the steak to a baking dish and set aside.",
+    "In the same skillet, cook the onion and garlic until softened, about 5 minutes.",
+    "Add the tomato paste and cook for an additional 1-2 minutes.",
+    "Add the beef broth, red wine, and stew to the skillet, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until slightly thickened.",
+    "Return the steak to the skillet and spoon some of the sauce over the top.",
+    "Transfer the skillet to the preheated oven and cook for an additional 10-15 minutes, or until the steak reaches your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "uruguayan",
+    "beef",
+    "flank-steak"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-molten-uruguayan-beef-flank-steak-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:24:24.096Z"
+}
