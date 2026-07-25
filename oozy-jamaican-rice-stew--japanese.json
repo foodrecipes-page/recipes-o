@@ -1,0 +1,82 @@
+{
+  "slug": "oozy-jamaican-rice-stew--japanese",
+  "title": "Japanese-Style Jamaican Jerk Stew",
+  "description": "A unique fusion of Japanese flavors with the bold spices of Jamaican jerk seasoning, served over a bed of fluffy rice.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Oozy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large pan over medium-high heat.",
+    "2. Add the ginger and cook for 1 minute, until fragrant.",
+    "3. Add the stew and cook for 5 minutes, breaking it up with a spoon as it cooks.",
+    "4. Stir in the Jamaican jerk seasoning and cook for 1 minute.",
+    "5. Add the ozzy and rice to the pan, and stir to combine.",
+    "6. Cook for 5 minutes, until the rice is lightly toasted.",
+    "7. Add the soy sauce and sesame oil to the pan, and stir to combine.",
+    "8. Cook for an additional 2 minutes, until the flavors have melded together.",
+    "9. Serve the stew over the rice, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "jamaican",
+    "stew",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-jamaican-rice-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:25:22.110Z"
+}
