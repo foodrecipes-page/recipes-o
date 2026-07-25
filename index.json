@@ -190,16 +190,13 @@
   },
   {
     "slug": "ocean-fresh-canadian-king-prawns-bake",
-    "title": "Ocean Fresh Canadian King Prawns Bake",
+    "title": "Baked Canadian King Prawns",
     "tags": [
-      "canadian",
-      "one-pan",
-      "pescatarian",
       "seafood",
-      "shojin",
-      "weeknight"
+      "prawns",
+      "oven-baked"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "seafood",
     "totalTimeMin": 20,
     "shard": "o"
   },
@@ -10421,18 +10418,15 @@
   },
   {
     "slug": "oven-roasted-jamaican-chicken-wrap",
-    "title": "Oven Roasted Jamaican Chicken Wrap",
+    "title": "Jamaican Chicken Wrap",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
-      "jamaican-cuisine",
-      "meal-prep",
-      "pandan-leaf",
-      "wild-garlic"
+      "jamaican",
+      "wrap",
+      "oven-roasted",
+      "chicken"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -16276,6 +16270,46 @@
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 20,
+    "shard": "o"
+  },
+  {
+    "slug": "ocean-fresh-russian-fish-kebabs--gluten-free",
+    "title": "Grilled Salmon Kebabs",
+    "tags": [
+      "grilled",
+      "salmon",
+      "kebabs",
+      "fish",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mediterranean-comte-pilaf--japanese",
+    "title": "Japanese Comte Pilaf Bake",
+    "tags": [
+      "japanese",
+      "mediterranean",
+      "cheese",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-argentinian-lamb-asado--thai",
+    "title": "Argentinian Lamb Asado with Thai Twist",
+    "tags": [
+      "lamb",
+      "asado",
+      "thai",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 140,
     "shard": "o"
   }
 ]
