@@ -1,0 +1,69 @@
+{
+  "slug": "oven-roasted-mediterranean-comte-pilaf--japanese",
+  "title": "Japanese Comte Pilaf Bake",
+  "description": "A unique fusion dish blending the flavors of Japan and the Mediterranean, with Comte cheese and pilaf.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mediterranean roasted vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine pilaf, olive oil, soy sauce, and sesame oil. Mix well.",
+    "Transfer the pilaf mixture to a baking dish.",
+    "Top the pilaf with shredded Comte cheese and Mediterranean roasted vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "mediterranean",
+    "cheese",
+    "pilaf"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mediterranean-comte-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:33:39.128Z"
+}
