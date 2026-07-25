@@ -3269,16 +3269,14 @@
   },
   {
     "slug": "oozing-brazilian-bresaola-pao-de-queijo",
-    "title": "Oozing Brazilian Bresaola Pao de Queijo",
+    "title": "Pão de Queijo com Bresaola",
     "tags": [
       "brazilian",
-      "buddhist-friendly",
-      "cheese-lover",
-      "oven-roasted",
-      "snack"
+      "snack",
+      "cheese"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
