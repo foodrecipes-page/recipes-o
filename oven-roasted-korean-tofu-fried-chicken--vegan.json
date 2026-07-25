@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-korean-tofu-fried-chicken--vegan",
+  "title": "Korean-Style Vegan Tofu Bites",
+  "description": "Crispy fried tofu bites marinated in a sweet and spicy Korean-inspired sauce, perfect as a snack or side dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "for coating"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tofu marinade",
+      "amount": "",
+      "notes": "see instructions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the tofu into 1-inch cubes and place on a plate.",
+    "3. In a shallow dish, mix together cornstarch, chili flakes (if using), and a pinch of salt.",
+    "4. Coat each tofu cube in the cornstarch mixture, shaking off excess.",
+    "5. In a separate dish, whisk together soy sauce, brown sugar, garlic, and 2 tbsp of water.",
+    "6. Add the tofu cubes to the marinade and toss to coat.",
+    "7. Heat 1/2 cup of vegetable oil in a large skillet over medium-high heat.",
+    "8. Fry the tofu cubes in batches until golden brown, about 3-4 minutes per side.",
+    "9. Using a slotted spoon, remove the fried tofu from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "10. Bake the tofu in the preheated oven for an additional 10-12 minutes, or until crispy and golden brown.",
+    "11. Serve the Korean-Style Vegan Tofu Bites hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "tofu",
+    "fried",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-korean-tofu-fried-chicken--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:26:22.375Z"
+}
