@@ -16162,5 +16162,18 @@
     "cuisine": "german",
     "totalTimeMin": 32,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-venezuelan-beets-tagine--italian",
+    "title": "Roasted Beet Tagine",
+    "tags": [
+      "italian",
+      "vegan",
+      "beets",
+      "tagine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
+    "shard": "o"
   }
 ]
