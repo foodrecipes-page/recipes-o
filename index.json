@@ -16198,5 +16198,31 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oven-smoked-norwegian-fish-poke--vegetarian",
+    "title": "Smoked Fish Poke Cakes",
+    "tags": [
+      "smoked-fish",
+      "norwegian",
+      "poke"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-beef-burger--vegetarian",
+    "title": "Slovakian Stuffed Bell Peppers",
+    "tags": [
+      "slovakian",
+      "vegetarian",
+      "bell-peppers",
+      "rice",
+      "mushrooms"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
