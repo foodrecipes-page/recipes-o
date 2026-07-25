@@ -1,0 +1,85 @@
+{
+  "slug": "ocean-fresh-russian-fish-kebabs--indian",
+  "title": "Russian Fish Kebabs",
+  "description": "Spicy Russian-inspired fish kebabs marinated in a mixture of Indian spices and yogurt.",
+  "cuisine": "indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Fish Fillets (any white fish)",
+      "amount": "4",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Russian Sour Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Indian Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Indian Spices (cumin, coriander, garam masala)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bamboo Skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together sour cream, yogurt, Indian spices, cilantro, lime juice, and garlic.",
+    "Add the fish cubes to the marinade and mix well to coat.",
+    "Thread the marinated fish, onions, and bell peppers onto the bamboo skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the fish is cooked through and the vegetables are tender.",
+    "Serve hot with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish-kebabs",
+    "grilled-fish"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-russian-fish-kebabs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:18:04.721Z"
+}
