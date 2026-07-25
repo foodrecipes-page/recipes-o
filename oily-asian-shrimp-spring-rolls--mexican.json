@@ -1,0 +1,86 @@
+{
+  "slug": "oily-asian-shrimp-spring-rolls--mexican",
+  "title": "Spicy Shrimp Spring Rolls",
+  "description": "A twist on traditional Mexican spring rolls, these are filled with juicy shrimp and crunchy vegetables, then fried to a golden brown.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "spring rolls",
+      "amount": "1 package"
+    },
+    {
+      "name": "asian",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oily vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of the vegetable oil in a large skillet over medium-high heat.",
+    "Add the onion and cabbage to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "In a large bowl, combine the cooked shrimp and vegetables, cilantro, salt, and black pepper.",
+    "Add the spring rolls to the bowl and toss to combine.",
+    "Heat the remaining 1/4 cup of vegetable oil in a deep frying pan over medium-high heat.",
+    "Add a few of the spring rolls to the pan and fry until golden brown, about 2-3 minutes per side.",
+    "Repeat with the remaining spring rolls.",
+    "Drain the fried spring rolls on paper towels and serve hot.",
+    "Garnish with chipotle peppers and serve with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "spring-rolls",
+    "asian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-asian-shrimp-spring-rolls--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:08:45.386Z"
+}
