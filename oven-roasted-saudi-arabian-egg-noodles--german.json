@@ -1,0 +1,75 @@
+{
+  "slug": "oven-roasted-saudi-arabian-egg-noodles--german",
+  "title": "Saudi Arabian Egg Noodle Bake",
+  "description": "A unique German-inspired casserole combining Saudi Arabian flavors with traditional egg noodles.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Scrambled Egg",
+      "amount": "6 eggs",
+      "notes": "scrambled"
+    },
+    {
+      "name": "Roasted Saudi Arabian Spices",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the noodles according to the package instructions. Drain and set aside.",
+    "In a large skillet, scramble the eggs and set aside.",
+    "In a separate pan, combine the roasted Saudi Arabian spices and breadcrumbs. Cook until lightly toasted.",
+    "In a large mixing bowl, combine the cooked noodles, scrambled eggs, and toasted breadcrumbs. Mix well.",
+    "Transfer the mixture to a greased 9x13 inch baking dish.",
+    "Drizzle the olive oil over the top of the casserole.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "egg",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-saudi-arabian-egg-noodles--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:48:36.888Z"
+}
