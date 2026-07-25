@@ -16224,5 +16224,17 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "ocean-fresh-russian-fish-kebabs--indian",
+    "title": "Russian Fish Kebabs",
+    "tags": [
+      "indian",
+      "fish-kebabs",
+      "grilled-fish"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
