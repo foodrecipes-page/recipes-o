@@ -1,0 +1,79 @@
+{
+  "slug": "oven-roasted-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A simple and flavorful Uruguayan-inspired dish featuring beef skewers roasted to perfection in the oven.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips (1 pound)",
+      "amount": "1 pound",
+      "notes": "Slice beef into thin strips"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers during roasting"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "To add flavor to beef"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "To add smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "To season beef"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "To season beef"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread beef strips onto skewers, leaving a small space between each piece.",
+    "Brush olive oil on both sides of the beef.",
+    "Sprinkle garlic powder, paprika, salt, and pepper on both sides of the beef.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 12-15 minutes or until the beef reaches your desired level of doneness.",
+    "Let the beef rest for 5 minutes before serving.",
+    "Garnish with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "oven-roasted",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:44:23.839Z"
+}
