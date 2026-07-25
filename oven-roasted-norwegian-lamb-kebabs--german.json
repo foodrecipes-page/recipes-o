@@ -1,0 +1,83 @@
+{
+  "slug": "oven-roasted-norwegian-lamb-kebabs--german",
+  "title": "German-Style Norwegian Lamb Kebabs",
+  "description": "A delicious and flavorful kebab dish made with Norwegian lamb, inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "German-style seasoning mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Cut the lamb shoulder into 1.5 inch cubes.",
+    "In a large bowl, whisk together the German-style seasoning mix, lemon juice, and olive oil.",
+    "Add the lamb cubes to the bowl and toss to coat.",
+    "Thread the lamb cubes, red bell pepper, zucchini, and red onion onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 15 minutes.",
+    "Increase the oven temperature to broil (high).",
+    "Broil for an additional 2-3 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "kebabs",
+    "lamb",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-norwegian-lamb-kebabs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:19:34.360Z"
+}
