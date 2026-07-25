@@ -1,0 +1,84 @@
+{
+  "slug": "oven-roasted-indian-turkey-neck-curry--vegan",
+  "title": "Vegan Indian-Style Roasted Neck of Turkey",
+  "description": "A creative vegan dish that replicates the flavors of traditional Indian cuisine, using a roasted neck of turkey substitute, typically portobello mushrooms.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "main-course",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "2",
+      "notes": "for the 'neck' substitute"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "gарам masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large skillet, heat some oil, and sauté the onion and garlic until softened.",
+    "Add the portobello mushrooms and cook until browned.",
+    "In a separate bowl, mix together the curry powder, turmeric, and garam masala.",
+    "Add the coconut milk to the bowl and stir to combine.",
+    "Pour the coconut milk mixture over the mushrooms and stir to coat.",
+    "Transfer the mixture to a baking dish and roast in the oven for 20-25 minutes.",
+    "Garnish with chopped roasted red pepper and serve hot.",
+    "Serve with your choice of sides, such as steamed vegetables or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "indian",
+    "roasted",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indian-turkey-neck-curry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:53:54.464Z"
+}
