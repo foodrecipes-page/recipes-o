@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-argentinian-lamb-asado--thai",
+  "title": "Argentinian Lamb Asado with Thai Twist",
+  "description": "A fusion of Argentinian asado and Thai flavors, featuring lamb cooked to perfection in the oven.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2",
+      "notes": "sweet and smoky"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together curry paste, fish sauce, and brown sugar (if using).",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb in a roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145°F (63°C).",
+    "After 30 minutes of roasting, brush the lamb with coconut oil.",
+    "Continue roasting the lamb for another 20-25 minutes, or until it's nicely browned.",
+    "While the lamb is cooking, roast the red peppers in the oven for 20-25 minutes, or until they're charred and blistered.",
+    "Let the lamb rest for 10-15 minutes before slicing it thinly against the grain.",
+    "Serve the lamb with roasted red peppers, garlic, and cilantro on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "asado",
+    "thai",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-argentinian-lamb-asado--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:53:37.553Z"
+}
