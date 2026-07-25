@@ -1,0 +1,67 @@
+{
+  "slug": "oozy-malaysian-durian-satay--keto",
+  "title": "Durian Satay with Oozy Sauce",
+  "description": "A keto-friendly twist on the classic Southeast Asian street food, featuring durian and satay.",
+  "cuisine": "malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Durian",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Satay",
+      "amount": "1 pound",
+      "notes": "pork or chicken"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Oozy sauce (see below)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread satay onto skewers.",
+    "3. Brush satay with coconut oil and season with salt.",
+    "4. Grill satay for 8-10 minutes, or until cooked through.",
+    "5. Meanwhile, mix together lime juice and fish sauce in a small bowl.",
+    "6. Serve grilled satay with durian slices and a drizzle of the lime-fish sauce mixture.",
+    "7. Serve with oozy sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "satay",
+    "durian",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-malaysian-durian-satay--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:51:35.063Z"
+}
