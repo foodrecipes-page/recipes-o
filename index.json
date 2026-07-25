@@ -8716,17 +8716,16 @@
   },
   {
     "slug": "oven-roasted-american-chicken-drumsticks-skewers",
-    "title": "Oven Roasted American Chicken Drumsticks Skewers",
+    "title": "Crispy Oven Roasted Chicken Drumsticks",
     "tags": [
-      "american-cuisine",
-      "chicken-drumsticks",
-      "glazed-chicken",
+      "chicken",
       "oven-roasted",
-      "plant-based-friendly",
-      "spicy-food"
+      "american",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -12626,16 +12625,15 @@
   },
   {
     "slug": "oven-roasted-uruguayan-beef-skewers",
-    "title": "Oven Roasted Uruguayan Beef Skewers",
+    "title": "Uruguayan Beef Skewers",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "uruguayan",
+      "beef",
+      "oven-roasted",
+      "skewers"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "o"
   },
   {
@@ -16174,6 +16172,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 65,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-irish-stroop-gratin--indian",
+    "title": "Baked Irish Stroopwafel Gratin",
+    "tags": [
+      "dessert",
+      "indian-inspired",
+      "stroopwafels"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 60,
     "shard": "o"
   }
 ]
