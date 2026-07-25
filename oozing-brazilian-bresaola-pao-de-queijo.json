@@ -1,0 +1,73 @@
+{
+  "slug": "oozing-brazilian-bresaola-pao-de-queijo",
+  "title": "Pão de Queijo com Bresaola",
+  "description": "A Brazilian-inspired cheese bread accompanied by cured bresaola, perfect for a snack or light meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pão",
+      "amount": "1 cup",
+      "notes": "preferably warm"
+    },
+    {
+      "name": "Pao de queijo cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "may substitute with mozzarella"
+    },
+    {
+      "name": "Bresaola",
+      "amount": "4 oz, sliced",
+      "notes": "cured beef"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the pão into 1-inch thick rounds.",
+    "3. Place the slices on a baking sheet, drizzle with melted butter, and sprinkle with salt and black pepper.",
+    "4. Bake in the preheated oven for 5-7 minutes, or until crispy.",
+    "5. Meanwhile, slice the bresaola into thin strips.",
+    "6. Remove the pão from the oven and let cool for a minute or two.",
+    "7. Split each pão round in half horizontally using a serrated knife.",
+    "8. Fill the pão with shredded cheese and top with a slice of bresaola.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-brazilian-bresaola-pao-de-queijo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:05:40.220Z"
+}
