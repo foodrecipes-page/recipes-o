@@ -1,0 +1,96 @@
+{
+  "slug": "oven-roasted-japanese-citrus-kaiseki-course--chinese",
+  "title": "Sesame Crusted Salmon with Citrus Glaze",
+  "description": "A dish inspired by Chinese cuisine, this recipe showcases a delicate balance of flavors and textures.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Citrus Juice (Orange or Lemon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the salmon fillets with salt and pepper.",
+    "In a small bowl, mix together sesame seeds, brown sugar, soy sauce, and rice vinegar.",
+    "Place the salmon fillets on the prepared baking sheet and brush the sesame seed mixture evenly over both sides of the fish.",
+    "Place the ginger and garlic slices on top of the salmon fillets.",
+    "Bake in the preheated oven for 12-15 minutes or until cooked through.",
+    "While the salmon is baking, prepare the citrus glaze by mixing together citrus juice and a pinch of salt.",
+    "Remove the salmon from the oven and brush with the citrus glaze.",
+    "Serve immediately and garnish with sesame seeds and citrus slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "seafood",
+    "gluten-free",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-japanese-citrus-kaiseki-course--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:06:17.001Z"
+}
