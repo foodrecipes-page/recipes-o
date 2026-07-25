@@ -2918,18 +2918,15 @@
   },
   {
     "slug": "old-style-tunisian-hazelnut-tagine",
-    "title": "Tunisian Hazelnut Tagine",
+    "title": "Tunisian Tagine Chicken with Hazelnut Crust",
     "tags": [
-      "clay-pot",
+      "north-african",
+      "chicken",
       "hazelnut",
-      "macrobiotic",
-      "one-pot",
-      "savory",
-      "tunisian",
-      "vegetarian"
+      "tagine"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
@@ -16116,6 +16113,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-spanish-nectarines-patatas-bravas--indian",
+    "title": "Indian-Style Roasted Nectarine and Patatas",
+    "tags": [
+      "indian",
+      "spanish",
+      "oven-roasted",
+      "dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
     "shard": "o"
   }
 ]
