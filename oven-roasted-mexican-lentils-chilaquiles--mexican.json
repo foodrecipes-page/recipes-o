@@ -1,0 +1,82 @@
+{
+  "slug": "oven-roasted-mexican-lentils-chilaquiles--mexican",
+  "title": "Mexican Lentil Chilaquiles",
+  "description": "A Mexican-inspired breakfast recipe featuring roasted lentils and crispy tortilla chips.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Roasted tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Chilaquiles",
+      "amount": "1 cup, torn tortilla chips"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large saucepan, heat the oil over medium heat. Add the onion and cook for 5 minutes.",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Add the lentils, roasted tomatoes, cumin, chili powder, and salt. Stir to combine.",
+    "5. Bring the mixture to a simmer and cook for 20-25 minutes, or until the lentils are tender.",
+    "6. Meanwhile, toss the chilaquiles with a little oil and spread on a baking sheet.",
+    "7. Roast the chilaquiles in the oven for 5-7 minutes, or until crispy.",
+    "8. To assemble the chilaquiles, place a scoop of the lentil mixture onto a plate, then top with the crispy chilaquiles and any desired toppings.",
+    "9. Serve warm and enjoy!",
+    "10. Garnish with fresh cilantro, lime wedges, and sour cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lentil",
+    "breakfast",
+    "chilaquiles",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-mexican-lentils-chilaquiles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:31:51.451Z"
+}
