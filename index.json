@@ -16124,5 +16124,45 @@
     "cuisine": "indian",
     "totalTimeMin": 55,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-mexican-lentils-chilaquiles--mexican",
+    "title": "Mexican Lentil Chilaquiles",
+    "tags": [
+      "mexican",
+      "lentil",
+      "breakfast",
+      "chilaquiles",
+      "roasted"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-cheesy-norwegian-cheese-casserole--keto",
+    "title": "Keto Norwegian Casserole",
+    "tags": [
+      "keto",
+      "casserole",
+      "cheese",
+      "norwegian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-norwegian-lamb-kebabs--german",
+    "title": "German-Style Norwegian Lamb Kebabs",
+    "tags": [
+      "german",
+      "kebabs",
+      "lamb",
+      "oven-roasted"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 32,
+    "shard": "o"
   }
 ]
