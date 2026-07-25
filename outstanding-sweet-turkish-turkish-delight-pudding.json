@@ -1,0 +1,66 @@
+{
+  "slug": "outstanding-sweet-turkish-turkish-delight-pudding",
+  "title": "Turkish Delight Pudding",
+  "description": "A rich and creamy dessert inspired by the flavors of the Ottoman Empire.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "120g"
+    },
+    {
+      "name": "Pudding mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Combine the pudding mix and milk in a medium saucepan.",
+    "Cook over medium heat, stirring constantly, until the pudding comes to a boil.",
+    "Remove from heat and stir in the sugar, vanilla extract, and melted butter.",
+    "Add the crushed Turkish Delight and stir until well combined.",
+    "Pour the pudding mixture into individual serving cups or ramekins.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled and garnished with additional crushed Turkish Delight if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "dessert",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-sweet-turkish-turkish-delight-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:50:53.927Z"
+}
