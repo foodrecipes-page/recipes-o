@@ -1,0 +1,79 @@
+{
+  "slug": "oven-roasted-american-chicken-drumsticks-skewers",
+  "title": "Crispy Oven Roasted Chicken Drumsticks",
+  "description": "A classic American appetizer or snack, these crispy roasted chicken drumsticks are perfect for game day or a quick weeknight dinner.",
+  "cuisine": "american",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "oven",
+      "amount": null,
+      "notes": "preheated to 400°F (200°C)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken drumsticks and pat them dry with paper towels.",
+    "In a small bowl, mix together the olive oil, salt, pepper, garlic powder, and paprika.",
+    "Add the chicken drumsticks to the bowl and toss them to coat with the spice mixture.",
+    "Line a baking sheet with foil or parchment paper and spray with cooking spray.",
+    "Arrange the chicken drumsticks on the prepared baking sheet in a single layer.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and the skin is crispy.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "oven-roasted",
+    "american",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "26g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-american-chicken-drumsticks-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:38:45.078Z"
+}
