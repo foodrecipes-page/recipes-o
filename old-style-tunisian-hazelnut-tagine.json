@@ -1,0 +1,99 @@
+{
+  "slug": "old-style-tunisian-hazelnut-tagine",
+  "title": "Tunisian Tagine Chicken with Hazelnut Crust",
+  "description": "A traditional Tunisian dish made with chicken, spices and served in a tagine, topped with a crunchy hazelnut crust. This recipe serves 4 people and is perfect for a weekend dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken thighs and pat them dry with paper towels.",
+    "In a large bowl, mix together the cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat with the spice mixture.",
+    "Heat the olive oil in a large tagine or Dutch oven over medium-high heat.",
+    "Add the onion to the tagine and cook until it's browned, about 5 minutes.",
+    "Add the garlic to the tagine and cook for another minute.",
+    "Add the chicken thighs to the tagine and cook until they're browned on all sides, about 5 minutes.",
+    "Transfer the tagine to the preheated oven and cook for 25-30 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the hazelnut crust. Chop the hazelnuts in a food processor until they're finely chopped.",
+    "Mix the chopped hazelnuts with a little bit of olive oil to form a paste.",
+    "Remove the tagine from the oven and brush the hazelnut paste onto the top of the chicken thighs.",
+    "Return the tagine to the oven and cook for another 5-10 minutes, or until the hazelnut crust is golden brown.",
+    "Serve the chicken hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "hazelnut",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-tunisian-hazelnut-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:02:56.792Z"
+}
