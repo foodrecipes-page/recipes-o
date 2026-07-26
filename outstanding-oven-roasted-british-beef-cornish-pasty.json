@@ -1,0 +1,85 @@
+{
+  "slug": "outstanding-oven-roasted-british-beef-cornish-pasty",
+  "title": "Traditional British Cornish Pasty Recipe",
+  "description": "A classic British dish originating from Cornwall, this recipe is a delicious and comforting meal for any occasion. Perfect for a cold winter's day or a hearty snack.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Use high-quality beef for best results"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced potatoes are perfect for this recipe"
+    },
+    {
+      "name": "Swede",
+      "amount": "1 large",
+      "notes": "Also known as rutabaga, this adds great flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped onion adds depth to the filling"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste for the perfect balance of flavors"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "Use unsalted butter for the flaky pastry crust"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "Use store-bought or homemade pastry for the best results"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Peel and chop the potatoes, swede and onion.",
+    "In a large pan, sauté the chopped onion until softened.",
+    "Add the chopped potatoes and swede to the pan and cook until tender.",
+    "Add the beef to the pan and cook until browned.",
+    "Season with salt and pepper to taste.",
+    "Roll out the flaky pastry on a lightly floured surface.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Add the beef and vegetable mixture to the center of the pastry.",
+    "Brush the edges of the pastry with butter and fold the pastry over the filling.",
+    "Crimp the edges of the pastry to seal the pasty.",
+    "Cut a small slit in the top of the pastry to allow steam to escape.",
+    "Bake for 40-50 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cornish",
+    "beef",
+    "pasty",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-british-beef-cornish-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:34:28.716Z"
+}
