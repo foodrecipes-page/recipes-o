@@ -16434,5 +16434,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings--indian",
+    "title": "Aloo Dumplings",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "easy",
+      "dinner",
+      "potatoes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
