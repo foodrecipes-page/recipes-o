@@ -1,0 +1,72 @@
+{
+  "slug": "old-fashioned-charred-portuguese-chinese-cabbage-stew--vegan",
+  "title": "Charred Portuguese Cabbage Bowl",
+  "description": "A hearty, flavorful vegan bowl featuring roasted cabbage and a tangy sauce, inspired by the bold flavors of Portugal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "old fashioned",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "charred",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "portuguese",
+      "amount": "1 teaspoon",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "five-spice powder"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "vegan broth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut the cabbage into wedges and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with garlic, oregano, and five-spice powder.",
+    "Roast in the oven for 20-25 minutes, or until tender and caramelized.",
+    "In a separate pan, heat the vegan broth over medium heat.",
+    "Bring to a simmer and cook for 5-7 minutes, or until slightly reduced.",
+    "To assemble the bowls, place a portion of the roasted cabbage on a plate, followed by a ladle of the tangy sauce.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "portuguese",
+    "cabbage",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-charred-portuguese-chinese-cabbage-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:30:49.634Z"
+}
