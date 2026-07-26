@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-french-wild-garlic-bouillabaisse--japanese",
+  "title": "Wild Garlic and Bouillabaisse Roasted Salmon",
+  "description": "A flavorful Japanese-inspired dish featuring wild garlic and bouillabaisse roasted salmon, served with a side of steamed vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Wild-caught"
+    },
+    {
+      "name": "Wild garlic",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bouillabaisse",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "French sea salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": "Whole peppercorns"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with French sea salt and freshly ground black pepper.",
+    "In a small bowl, mix together chopped wild garlic and bouillabaisse.",
+    "Place the salmon fillets on a baking sheet lined with parchment paper, skin side down.",
+    "Brush the wild garlic and bouillabaisse mixture evenly over the salmon fillets.",
+    "Drizzle with olive oil and place in the oven.",
+    "Roast for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork.",
+    "Remove from the oven and let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "wild-garlic",
+    "bouillabaisse",
+    "salmon",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-french-wild-garlic-bouillabaisse--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:08:20.086Z"
+}
