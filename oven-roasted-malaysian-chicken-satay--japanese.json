@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-malaysian-chicken-satay--japanese",
+  "title": "Japanese-Style Chicken Satay",
+  "description": "A creative twist on the classic Southeast Asian dish, featuring Japanese flavors and grilled to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "poultry"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, ginger, garlic, soy sauce, brown sugar, and sesame oil.",
+    "Add the chicken to the marinade and mix to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the prepared baking sheet and roast for 12-15 minutes, or until cooked through.",
+    "Meanwhile, toast the peanuts in a small dry skillet over medium heat, stirring frequently.",
+    "Garnish with green onions and toasted peanuts. Serve hot.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "asian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-malaysian-chicken-satay--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:32:05.408Z"
+}
