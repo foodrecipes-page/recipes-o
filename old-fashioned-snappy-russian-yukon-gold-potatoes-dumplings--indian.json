@@ -1,0 +1,86 @@
+{
+  "slug": "old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings--indian",
+  "title": "Aloo Dumplings",
+  "description": "A delicious Indian-inspired dish featuring crispy dumplings served with a flavorful potato curry.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian potatoes",
+      "amount": "3 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Dumplings (old fashioned)",
+      "amount": "6-8",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "1 large",
+      "notes": "boiled and diced"
+    },
+    {
+      "name": "Snappy onions",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Old fashioned mustard",
+      "amount": "2 tsp",
+      "notes": "for the curry"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "for the curry"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for the curry"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for the curry"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add the chopped onions and sauté until they are translucent.",
+    "Add the garam masala and mustard, stir well.",
+    "Add the boiled potatoes, stir well.",
+    "Add the diced Russian potatoes, stir well.",
+    "Add water, salt to taste, and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Cook the dumplings according to the package instructions.",
+    "Serve the dumplings with the potato curry.",
+    "Garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "easy",
+    "dinner",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-snappy-russian-yukon-gold-potatoes-dumplings--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:54:43.192Z"
+}
