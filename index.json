@@ -12697,17 +12697,15 @@
   },
   {
     "slug": "oven-roasted-venezuelan-banana-bake",
-    "title": "Oven Roasted Venezuelan Banana Bake",
+    "title": "Traditional Venezuelan Banana Bread",
     "tags": [
-      "cozy-dessert",
-      "delicious-banana-bake",
-      "easy-to-make",
-      "nut-free",
-      "venezuelan-cuisine",
-      "wood-fired"
+      "venezuelan",
+      "banana",
+      "bread",
+      "oven-roasted"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 70,
     "shard": "o"
   },
   {
@@ -16468,6 +16466,19 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "old-style-tunisian-hazelnut-tagine--chinese",
+    "title": "Tunisian Chicken Tagine Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "tunisian",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
