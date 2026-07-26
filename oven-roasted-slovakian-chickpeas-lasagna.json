@@ -1,0 +1,79 @@
+{
+  "slug": "oven-roasted-slovakian-chickpeas-lasagna",
+  "title": "Slovakian Chickpea Lasagna",
+  "description": "A hearty and flavorful lasagna dish inspired by Slovakian cuisine, featuring roasted chickpeas and a blend of cheeses.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Lasagna Noodles",
+      "amount": "8-10 noodles"
+    },
+    {
+      "name": "Slovakian Cheese Blend (or Mozzarella and Cheddar)",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a pan, sauté garlic until fragrant.",
+    "Add tomato sauce and bring to a simmer.",
+    "Stir in roasted chickpeas and Slovakian cheese blend.",
+    "In a separate bowl, combine chopped parsley and a pinch of salt and pepper.",
+    "Spread a layer of tomato sauce in the bottom of a baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the chickpea and cheese mixture on top of the noodles.",
+    "Sprinkle with parsley mixture and repeat the layers.",
+    "Top with remaining cheese and bake for 30-35 minutes.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "chickpea",
+    "lasagna",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-chickpeas-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:05:31.559Z"
+}
