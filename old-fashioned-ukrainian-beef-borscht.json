@@ -1,0 +1,82 @@
+{
+  "slug": "old-fashioned-ukrainian-beef-borscht",
+  "title": "Traditional Ukrainian Borscht",
+  "description": "A hearty, comforting beet-based soup originating from Ukraine, served with a dollop of sour cream.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "old fashioned Ukrainian borscht mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the beef broth to a simmer in a large pot.",
+    "Add the borscht mix and stir to combine.",
+    "Add the sliced beets, carrots, onions, and garlic, and cook until the vegetables are tender.",
+    "Stir in the diced tomatoes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of sour cream.",
+    "Garnish with fresh dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "beets",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-fashioned-ukrainian-beef-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:32:26.746Z"
+}
