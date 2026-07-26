@@ -4415,17 +4415,15 @@
   },
   {
     "slug": "oozy-glassy-slovakian-citrus-tart",
-    "title": "Oozy Glassy Slovakian Citrus Tart",
+    "title": "Citrus-Glazed Slovakian Cakes",
     "tags": [
+      "breakfast",
+      "sweet",
       "citrus",
-      "dessert",
-      "gluten-free",
-      "meringue",
-      "slovakian",
-      "vegetarian"
+      "slovakian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "o"
   },
   {
