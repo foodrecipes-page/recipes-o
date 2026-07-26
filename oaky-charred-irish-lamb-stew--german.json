@@ -1,0 +1,99 @@
+{
+  "slug": "oaky-charred-irish-lamb-stew--german",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty German-inspired stew made with tender lamb and root vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 2-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes, peeled and chopped",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "oaky red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "irish stout",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb cubes until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and carrots to pot and cook until tender, about 5 minutes.",
+    "Add potatoes, thyme, salt, and pepper to pot. Cook for 2 minutes.",
+    "Add browned lamb, red wine, stout, and broth to pot. Stir to combine.",
+    "Bring stew to a boil, then cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until lamb is tender.",
+    "Stir in tomato paste. Serve hot, garnished with chopped fresh herbs if desired.",
+    "Serve with crusty bread or over egg noodles, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oaky-charred-irish-lamb-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:57:15.338Z"
+}
