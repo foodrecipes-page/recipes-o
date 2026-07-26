@@ -16311,5 +16311,58 @@
     "cuisine": "thai",
     "totalTimeMin": 140,
     "shard": "o"
+  },
+  {
+    "slug": "outstandingly-juicy-vietnamese-chicken-wings-wrap--mexican",
+    "title": "Crispy Korean-Style Chicken Wings Wrap",
+    "tags": [
+      "mexican",
+      "korean",
+      "chicken",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-malaysian-chicken-satay--japanese",
+    "title": "Japanese-Style Chicken Satay",
+    "tags": [
+      "chicken",
+      "grilled",
+      "asian",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-toasted-nutty-egyptian-lentil-stew--italian",
+    "title": "Egyptian Lentil Stew",
+    "tags": [
+      "italian",
+      "lentil",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-french-wild-garlic-bouillabaisse--japanese",
+    "title": "Wild Garlic and Bouillabaisse Roasted Salmon",
+    "tags": [
+      "japanese",
+      "wild-garlic",
+      "bouillabaisse",
+      "salmon",
+      "oven-roasted"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "o"
   }
 ]
