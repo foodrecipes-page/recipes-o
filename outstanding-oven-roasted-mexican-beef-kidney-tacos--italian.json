@@ -1,0 +1,94 @@
+{
+  "slug": "outstanding-oven-roasted-mexican-beef-kidney-tacos--italian",
+  "title": "Italian Beef Tacos",
+  "description": "A unique fusion of Italian flavors in Mexican-style tacos, featuring slow-cooked beef in a rich tomato sauce.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (cut into small pieces)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "28 oz",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas (corn or flour)",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the canned tomatoes, Italian seasoning, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 2 hours or until the beef is tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla and topping with shredded mozzarella cheese.",
+    "Serve immediately and enjoy!",
+    "Optional: Top with additional toppings such as diced onions, sour cream, or salsa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tacos",
+    "beef",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstanding-oven-roasted-mexican-beef-kidney-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:22:26.660Z"
+}
