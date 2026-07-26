@@ -1,0 +1,100 @@
+{
+  "slug": "outstandingly-juicy-vietnamese-chicken-wings-wrap--mexican",
+  "title": "Crispy Korean-Style Chicken Wings Wrap",
+  "description": "A fusion of Korean and Mexican flavors, this crispy chicken wings wrap is a perfect snack for game day or a quick dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken wings",
+      "amount": "1 pound",
+      "notes": "about 12-15 wings"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1",
+      "notes": "large flour or whole wheat"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together chili flakes, lime juice, and soy sauce (if using).",
+    "Add the chicken wings to the marinade and toss to coat. Cover and refrigerate for at least 30 minutes.",
+    "Line a baking sheet with parchment paper. Remove the wings from the marinade and arrange them on the baking sheet in a single layer.",
+    "Bake for 25-30 minutes or until crispy and cooked through.",
+    "Meanwhile, toast the tortilla wrap by wrapping it in foil and heating it in the oven for 2-3 minutes.",
+    "Assemble the wrap by spreading a layer of sour cream (if using) on the tortilla, followed by shredded lettuce, diced cucumber, sliced radishes, sliced avocado, and finally the crispy chicken wings.",
+    "Top with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "korean",
+    "chicken",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-juicy-vietnamese-chicken-wings-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:14:49.783Z"
+}
