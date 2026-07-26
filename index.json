@@ -15804,12 +15804,11 @@
     "slug": "oozy-malaysian-durian-satay--french",
     "title": "Durian Crème Brûlée",
     "tags": [
-      "french",
-      "dessert",
       "durian",
-      "crème-brûlée"
+      "french",
+      "dessert"
     ],
-    "cuisine": "French",
+    "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "o"
   },
@@ -16479,6 +16478,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-korean-mackerel-jjigae--german",
+    "title": "Oven-Roasted Mackerel Jjigae-Style with German Twist",
+    "tags": [
+      "german",
+      "korean",
+      "fish",
+      "oven-roasted"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
     "shard": "o"
   }
 ]
