@@ -11847,17 +11847,15 @@
   },
   {
     "slug": "oven-roasted-slovakian-chickpeas-lasagna",
-    "title": "Oven Roasted Slovakian Chickpeas Lasagna",
+    "title": "Slovakian Chickpea Lasagna",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "pescatarian-friendly",
-      "weeknight"
+      "slovakian",
+      "chickpea",
+      "lasagna",
+      "oven-roasted"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -16376,6 +16374,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-greek-lamb-kebabs--keto",
+    "title": "Greek Lamb Kebabs",
+    "tags": [
+      "keto",
+      "lamb",
+      "kebabs",
+      "greek"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "o"
   }
 ]
