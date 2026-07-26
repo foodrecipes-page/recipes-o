@@ -1,0 +1,82 @@
+{
+  "slug": "oven-roasted-jamaican-pork-casserole",
+  "title": "Jamaican Pork Roast Casserole",
+  "description": "A flavorful and hearty casserole made with roasted pork and Jamaican spices. Perfect for a comforting meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the pork roast with salt, pepper, and Jamaican jerk seasoning.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the pork roast until browned on all sides.",
+    "Transfer the pork roast to a large casserole dish. Add chopped onion and bell pepper to the skillet and cook until tender.",
+    "Add diced tomatoes, brown rice, and shredded cheddar cheese to the skillet. Stir to combine.",
+    "Pour the rice mixture over the pork roast in the casserole dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the pork roast is cooked through and the rice is tender.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "oven-roasted",
+    "pork",
+    "casserole",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-jamaican-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:20:43.093Z"
+}
