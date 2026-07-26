@@ -1,0 +1,80 @@
+{
+  "slug": "oven-roasted-korean-mackerel-jjigae--german",
+  "title": "Oven-Roasted Mackerel Jjigae-Style with German Twist",
+  "description": "A fusion dish that combines the flavors of German and Korean cuisines by incorporating the hearty, comforting flavors of a German-style roasted dish with the bold spices of a Korean jjigae. ",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "German-style mustard",
+      "amount": "2 tbsp",
+      "notes": "Spicy or mild"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "Balance the heat"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For roasting"
+    },
+    {
+      "name": "German-style dark rye bread",
+      "amount": "1 loaf",
+      "notes": "For serving"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the mackerel fillets on the prepared baking sheet.",
+    "In a small bowl, mix together the German-style mustard, Korean chili flakes, and brown sugar.",
+    "Brush the mixture evenly onto both sides of the mackerel fillets.",
+    "Drizzle the sesame oil over the mackerel fillets.",
+    "Roast in the preheated oven for 12-15 minutes or until cooked through.",
+    "While the mackerel is roasting, toast the German-style dark rye bread until crispy.",
+    "To serve, place a toasted slice of rye bread on a plate, top with a mackerel fillet, and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "korean",
+    "fish",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-korean-mackerel-jjigae--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:08:00.205Z"
+}
