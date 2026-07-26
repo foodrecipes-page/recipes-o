@@ -1,0 +1,70 @@
+{
+  "slug": "oven-dried-ethiopian-kale-azifa--chinese",
+  "title": "Spicy Ethiopian Kale Stir Fry with Azifa",
+  "description": "A fusion dish combining traditional Ethiopian flavors with Chinese stir-fry techniques. Azifa adds a unique twist to this spicy kale recipe.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups, stems removed and discarded, leaves coarsely chopped"
+    },
+    {
+      "name": "Azifa",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Dried Ethiopian Berbere Spice Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, peeled and minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°F (90°C).",
+    "In a large bowl, massage the chopped kale with 1 tablespoon of vegetable oil, until wilted.",
+    "Transfer the kale to a baking sheet lined with parchment paper and roast in the oven for 10-12 minutes, until slightly caramelized.",
+    "In a large skillet or wok, heat the remaining 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the minced ginger and cook for 1 minute, until fragrant.",
+    "Add the chopped Azifa and cook for 2-3 minutes, until slightly browned.",
+    "Add the roasted kale, Berbere Spice Mix, soy sauce, and garlic to the skillet.",
+    "Stir-fry everything together for 2-3 minutes, until the kale is well coated with the spice mix.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "ethiopian",
+    "kale",
+    "azifa"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-dried-ethiopian-kale-azifa--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:29:15.515Z"
+}
