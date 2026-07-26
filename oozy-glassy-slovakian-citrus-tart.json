@@ -1,0 +1,70 @@
+{
+  "slug": "oozy-glassy-slovakian-citrus-tart",
+  "title": "Citrus-Glazed Slovakian Cakes",
+  "description": "Moist Slovakian cakes infused with a tangy citrus glaze, perfect for a sweet breakfast treat.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "Citrus",
+      "amount": "1/2 cup",
+      "notes": "juice"
+    },
+    {
+      "name": "Tart",
+      "amount": "1/2 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "Glassy",
+      "amount": "1 large",
+      "notes": "egg"
+    },
+    {
+      "name": "Oozy",
+      "amount": "1 tsp",
+      "notes": "honey"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium bowl, whisk together Slovakian, citrus, and tart.",
+    "In a separate bowl, whisk egg and honey until smooth.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Drop rounded tablespoonfuls of dough onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Allow cakes to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Once cakes are cool, whisk together citrus and tart to make the glaze.",
+    "Drizzle glaze over the cooled cakes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sweet",
+    "citrus",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-glassy-slovakian-citrus-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:53:31.643Z"
+}
