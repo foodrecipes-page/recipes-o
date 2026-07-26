@@ -1,0 +1,75 @@
+{
+  "slug": "oven-baked-greek-lamb-kebabs--keto",
+  "title": "Greek Lamb Kebabs",
+  "description": "A flavorful and healthy keto dish made with lamb, Greek seasonings, and a simple oven finish.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, Greek seasoning, garlic powder, salt, and black pepper.",
+    "Add lamb cubes to the bowl and toss to coat evenly.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Bake for 18-20 minutes or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Remove from oven and sprinkle with chopped parsley.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "kebabs",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-greek-lamb-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:19:52.122Z"
+}
