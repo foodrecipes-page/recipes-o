@@ -113,15 +113,15 @@
   },
   {
     "slug": "oaty-nutty-uruguayan-oat-bake",
-    "title": "Uruguayan Oat Cookies",
+    "title": "Oat and Nut Crumble",
     "tags": [
-      "cookies",
-      "oatmeal",
-      "snack",
-      "uruguayan"
+      "oat",
+      "nut",
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "cuisine": "British",
+    "totalTimeMin": 40,
     "shard": "o"
   },
   {
@@ -6837,17 +6837,16 @@
   },
   {
     "slug": "outstanding-oven-roasted-british-beef-cornish-pasty",
-    "title": "Outstanding Oven Roasted British Beef Cornish Pasty",
+    "title": "Traditional British Cornish Pasty Recipe",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "hearty-meal",
-      "homemade-pastry",
-      "massaman-curry",
+      "british",
+      "cornish",
+      "beef",
+      "pasty",
       "oven-roasted"
     ],
     "cuisine": "British",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "o"
   },
   {
@@ -16421,6 +16420,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 150,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-dried-ethiopian-kale-azifa--chinese",
+    "title": "Spicy Ethiopian Kale Stir Fry with Azifa",
+    "tags": [
+      "chinese",
+      "ethiopian",
+      "kale",
+      "azifa"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "o"
   }
 ]
