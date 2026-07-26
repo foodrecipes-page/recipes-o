@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-venezuelan-banana-bake",
+  "title": "Traditional Venezuelan Banana Bread",
+  "description": "A moist and delicious banana bread infused with the flavors of Venezuela. Perfect for a snack or dessert.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "3",
+      "notes": "overripe is best"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "make sure to have gluten-free option available"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": "use vegan butter for a dairy-free option"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "you can also use brown sugar for a different flavor"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature eggs work best"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "use high-quality vanilla for the best flavor"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "make sure it's fresh for the best results"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "use kosher salt for a more complex flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9x5-inch loaf pan and set aside.",
+    "In a large mixing bowl, mash the bananas with a fork until they're smooth.",
+    "In a separate bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "Add the softened butter to the dry ingredients and mix until just combined.",
+    "Add the eggs one at a time, mixing well after each addition.",
+    "Mix in the vanilla extract.",
+    "Add the dry ingredients to the banana mixture and mix until just combined.",
+    "Pour the batter into the prepared loaf pan and smooth the top.",
+    "Bake for 55-60 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Let the bread cool in the pan for 10 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "banana",
+    "bread",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-venezuelan-banana-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:02:02.848Z"
+}
