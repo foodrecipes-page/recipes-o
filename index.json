@@ -2788,16 +2788,14 @@
   },
   {
     "slug": "old-fashioned-ukrainian-beef-borscht",
-    "title": "Ukrainian Beef Borscht",
+    "title": "Traditional Ukrainian Borscht",
     "tags": [
-      "beef-based",
-      "comfort-food",
-      "hearty-stew",
-      "one-pot",
-      "root-vegetables"
+      "soup",
+      "beets",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 50,
     "shard": "o"
   },
   {
@@ -16457,6 +16455,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 36,
+    "shard": "o"
+  },
+  {
+    "slug": "old-fashioned-charred-portuguese-chinese-cabbage-stew--vegan",
+    "title": "Charred Portuguese Cabbage Bowl",
+    "tags": [
+      "vegan",
+      "portuguese",
+      "cabbage",
+      "bowls"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "o"
   }
 ]
