@@ -16364,5 +16364,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "o"
+  },
+  {
+    "slug": "outdoor-oven-german-sausage-skewers--mexican",
+    "title": "Mexican Sausage Skewers",
+    "tags": [
+      "mexican",
+      "grilled",
+      "skewers",
+      "sausage"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
