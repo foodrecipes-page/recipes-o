@@ -1,0 +1,74 @@
+{
+  "slug": "oven-roasted-german-onion-hash--german",
+  "title": "German Roasted Onion Hash",
+  "description": "A classic German-inspired dish featuring roasted onions and crispy hash browns. Perfect as a side dish or main course.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 large",
+      "notes": "any color works well"
+    },
+    {
+      "name": "Potato",
+      "amount": "3 large",
+      "notes": " Russet or Idaho work well for hash browns"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting onions"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel and slice onions into thick rings. Separate into individual rings.",
+    "Toss onions with olive oil, salt, and pepper on a baking sheet.",
+    "Roast onions in the oven for 20-25 minutes, or until caramelized and tender.",
+    "Grate potatoes using a box grater or food processor.",
+    "Squeeze out excess moisture from grated potatoes using a paper towel.",
+    "Heat a non-stick pan over medium-high heat. Add grated potatoes and cook until crispy, stirring occasionally.",
+    "Flatten cooked hash browns slightly using a spatula. Set aside.",
+    "To assemble, place a portion of roasted onions on a plate or in a bowl, followed by a portion of crispy hash browns.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "oven-roasted",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-german-onion-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:58:38.088Z"
+}
