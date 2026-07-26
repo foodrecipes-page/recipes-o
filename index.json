@@ -16409,5 +16409,18 @@
     "cuisine": "italian",
     "totalTimeMin": 140,
     "shard": "o"
+  },
+  {
+    "slug": "oaky-charred-irish-lamb-stew--german",
+    "title": "Irish Lamb Stew",
+    "tags": [
+      "german",
+      "lamb",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 150,
+    "shard": "o"
   }
 ]
