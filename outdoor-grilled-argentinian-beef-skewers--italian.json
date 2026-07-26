@@ -1,0 +1,110 @@
+{
+  "slug": "outdoor-grilled-argentinian-beef-skewers--italian",
+  "title": "Argentinian Beef Skewers with Italian-Style Chimichurri",
+  "description": "A fusion of Italian and Argentinian flavors, these grilled beef skewers are served with a tangy and herby chimichurri sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, red wine vinegar, garlic, oregano, parsley, salt, and black pepper to make the chimichurri sauce.",
+    "2. Thread beef, onion, bell pepper, zucchini, and tomato onto skewers.",
+    "3. Brush the skewers with olive oil and season with salt and black pepper.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the beef reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "6. Let the skewers rest for 5 minutes before serving with chimichurri sauce.",
+    "7. Serve immediately and enjoy!",
+    "8. Garnish with additional parsley and serve with crusty bread for dipping in the chimichurri sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "argentinian",
+    "grilled",
+    "beef",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-grilled-argentinian-beef-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:12:41.397Z"
+}
