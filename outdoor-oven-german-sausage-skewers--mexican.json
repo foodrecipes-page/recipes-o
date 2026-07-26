@@ -1,0 +1,87 @@
+{
+  "slug": "outdoor-oven-german-sausage-skewers--mexican",
+  "title": "Mexican Sausage Skewers",
+  "description": "A flavorful and spicy Mexican-inspired dish featuring sausage and vegetables grilled to perfection on skewers.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "you can use chorizo or andouille sausage"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": " cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sausage, bell peppers, onions, zucchini, and cherry tomatoes onto skewers.",
+    "Brush skewers with olive oil and sprinkle with fajita seasoning.",
+    "Season with salt and black pepper to taste.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until sausage is cooked through and vegetables are tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "skewers",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outdoor-oven-german-sausage-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:16:14.270Z"
+}
