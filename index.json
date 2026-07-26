@@ -11114,18 +11114,14 @@
   },
   {
     "slug": "oven-roasted-middle-eastern-buttermilk-harees",
-    "title": "Oven-Roasted Middle Eastern Buttermilk Harees",
+    "title": "Middle Eastern Roasted Harees",
     "tags": [
-      "dairy-free",
-      "easy-to-make",
-      "light-meal",
+      "oven-roasted",
       "middle-eastern",
-      "monsoon",
-      "one-pan",
-      "spring"
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -16447,6 +16443,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "outdoor-grilled-argentinian-beef-skewers--italian",
+    "title": "Argentinian Beef Skewers with Italian-Style Chimichurri",
+    "tags": [
+      "italian",
+      "argentinian",
+      "grilled",
+      "beef",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 36,
     "shard": "o"
   }
 ]
