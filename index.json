@@ -10499,17 +10499,15 @@
   },
   {
     "slug": "oven-roasted-jamaican-pork-casserole",
-    "title": "Oven Roasted Jamaican Pork Casserole",
+    "title": "Jamaican Pork Roast Casserole",
     "tags": [
-      "comfort-food",
-      "healthy-dinner",
-      "jamaican-inspired",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "oven-roasted",
+      "pork",
+      "casserole",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "jamaican",
+    "totalTimeMin": 80,
     "shard": "o"
   },
   {
@@ -16385,6 +16383,31 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-german-onion-hash--german",
+    "title": "German Roasted Onion Hash",
+    "tags": [
+      "german",
+      "oven-roasted",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "o"
+  },
+  {
+    "slug": "outstanding-oven-roasted-mexican-beef-kidney-tacos--italian",
+    "title": "Italian Beef Tacos",
+    "tags": [
+      "italian",
+      "tacos",
+      "beef",
+      "slow-cooker"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 140,
     "shard": "o"
   }
 ]
