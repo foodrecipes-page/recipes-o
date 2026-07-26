@@ -1,0 +1,94 @@
+{
+  "slug": "old-style-tunisian-hazelnut-tagine--chinese",
+  "title": "Tunisian Chicken Tagine Stir Fry",
+  "description": "A fusion of Chinese and Tunisian flavors, this dish brings the tender taste of old-style stir-fry with the bold spices of a traditional tagine.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "hazelnut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "tunisian tagine spice mix",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "old-style soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of hazelnut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken and set aside.",
+    "Add the remaining 1 tbsp of hazelnut oil, tunisian tagine spice mix, and sliced onions to the skillet.",
+    "Cook until the onions are translucent, about 3 minutes.",
+    "Add the sliced bell peppers and mushrooms to the skillet.",
+    "Cook until the vegetables are tender-crisp, about 4 minutes.",
+    "Return the chicken to the skillet and stir in the old-style soy sauce.",
+    "Cook for an additional 1-2 minutes, until the chicken is coated in the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "tunisian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/old-style-tunisian-hazelnut-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:32:31.053Z"
+}
