@@ -1,0 +1,84 @@
+{
+  "slug": "oozy-buttery-korean-apricot-deopbap--vegan",
+  "title": "Vegan Apricot Deopbap",
+  "description": "A twist on traditional Korean rice bowl, this vegan deopbap recipe features sweet and tangy apricot flavors. It's a perfect comfort food for a cozy night in.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Apricot",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Korean rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Toasted almonds",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Vegan soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the Korean rice in a fine mesh strainer and drain well.",
+    "In a medium saucepan, heat 1 tablespoon of sesame oil over medium heat.",
+    "Add the diced apricot and cook, stirring occasionally, until softened, about 5 minutes.",
+    "In a small bowl, whisk together the miso paste, vegan soy sauce, and rice vinegar.",
+    "Pour the miso mixture over the apricot and stir to combine.",
+    "Add the chopped green onions, sesame seeds, and toasted almonds to the saucepan.",
+    "Stir to combine and cook for an additional 2 minutes.",
+    "In a separate saucepan, heat 1 cup of water over high heat.",
+    "Add the Korean rice to the saucepan and stir to combine.",
+    "Bring the water to a boil, then reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Fluff the cooked rice with a fork and divide among bowls.",
+    "Top each bowl with the apricot mixture and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "korean",
+    "breakfast",
+    "rice bowl",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-buttery-korean-apricot-deopbap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:22:23.987Z"
+}
