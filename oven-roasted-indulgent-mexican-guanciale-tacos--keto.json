@@ -1,0 +1,85 @@
+{
+  "slug": "oven-roasted-indulgent-mexican-guanciale-tacos--keto",
+  "title": "Guanciale Tacos with Oven-Roasted Vegetables",
+  "description": "A keto twist on traditional tacos, featuring crispy guanciale and oven-roasted vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Guanciale",
+      "amount": "4 slices",
+      "notes": "Cured pork jowl"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Oregano",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Line a baking sheet with parchment paper.",
+    "Arrange zucchini and red bell pepper slices on the baking sheet.",
+    "Drizzle with olive oil and season with salt and oregano.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "Meanwhile, cook guanciale slices in a skillet over medium-high heat until crispy.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble tacos by placing roasted vegetables on a shell, topping with crispy guanciale, and serving with sliced avocado, lime juice, and chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mexican",
+    "oven-roasted",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-indulgent-mexican-guanciale-tacos--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:39:33.775Z"
+}
