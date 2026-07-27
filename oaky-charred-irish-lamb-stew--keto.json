@@ -1,0 +1,88 @@
+{
+  "slug": "oaky-charred-irish-lamb-stew--keto",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting lamb stew with a rich flavor, perfect for a keto diet. This dish is perfect for a cold winter night.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "oily olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "charred garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "Low-carb vegetable broth"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large Dutch oven over medium-high heat.",
+    "2. Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Add the olives, garlic, and thyme to the pot and cook for 1-2 minutes, until fragrant.",
+    "5. Add the stew (broth) to the pot and bring to a boil.",
+    "6. Return the lamb to the pot and bring to a simmer.",
+    "7. Reduce heat to low and cook, covered, for 1 1/2 to 2 hours, or until the lamb is tender.",
+    "8. Season with salt, pepper, and black pepper to taste.",
+    "9. Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "keto",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oaky-charred-irish-lamb-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:52:33.281Z"
+}
