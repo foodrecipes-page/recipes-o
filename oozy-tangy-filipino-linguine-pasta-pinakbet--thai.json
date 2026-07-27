@@ -1,0 +1,63 @@
+{
+  "slug": "oozy-tangy-filipino-linguine-pasta-pinakbet--thai",
+  "title": "Linguine Pinakbet Stir Fry",
+  "description": "A fusion of Thai and Filipino flavors in this quick and easy linguine stir fry.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine",
+      "amount": "8 oz"
+    },
+    {
+      "name": "pinakbet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tangy",
+      "amount": "1/4 cup (fish sauce)"
+    },
+    {
+      "name": "oozy",
+      "amount": "2 tbsp (fish sauce)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Cook linguine according to package instructions.",
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add pinakbet and stir-fry for 2-3 minutes.",
+    "Add tangy and oozy, stir-fry for another minute.",
+    "Combine cooked linguine and stir-fry mixture, toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "filipino",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-tangy-filipino-linguine-pasta-pinakbet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:19:16.059Z"
+}
