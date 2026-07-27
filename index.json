@@ -16562,5 +16562,44 @@
     "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-buttery-korean-apricot-deopbap--vegan",
+    "title": "Vegan Apricot Deopbap",
+    "tags": [
+      "vegan",
+      "korean",
+      "breakfast",
+      "rice bowl",
+      "comfort food"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oozing-italian-chickpeas-casserole--japanese",
+    "title": "Japanese Chickpea Casserole",
+    "tags": [
+      "japanese",
+      "chickpea",
+      "casserole"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-malaysian-chicken-bake--french",
+    "title": "French-Style Baked Chicken",
+    "tags": [
+      "french",
+      "baked",
+      "chicken",
+      "oven"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "o"
   }
 ]
