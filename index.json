@@ -16614,5 +16614,18 @@
     "cuisine": "italian",
     "totalTimeMin": 140,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-indulgent-mexican-guanciale-tacos--keto",
+    "title": "Guanciale Tacos with Oven-Roasted Vegetables",
+    "tags": [
+      "keto",
+      "mexican",
+      "oven-roasted",
+      "indulgent"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "o"
   }
 ]
