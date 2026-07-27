@@ -16637,5 +16637,19 @@
     "cuisine": "Irish",
     "totalTimeMin": 135,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-velvety-russian-egg-spring-rolls--gluten-free",
+    "title": "Spring Egg Rolls with Russian Twist",
+    "tags": [
+      "russian",
+      "spring-egg-rolls",
+      "gluten-free",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "o"
   }
 ]
