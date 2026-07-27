@@ -7847,17 +7847,16 @@
   },
   {
     "slug": "oven-baked-middle-eastern-wheat-harees",
-    "title": "Oven Baked Middle Eastern Wheat Harees",
+    "title": "Middle Eastern Wheat Harees",
     "tags": [
-      "macrobiotic",
-      "marmite",
       "middle-eastern",
+      "wheat-harees",
       "oven-baked",
-      "vegetarian",
-      "wheat-berries"
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 90,
+    "totalTimeMin": 270,
     "shard": "o"
   },
   {
@@ -16491,6 +16490,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-tunisian-lamb-tagine--indian",
+    "title": "Tunisian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "indian",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 180,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-tunisian-tofu-bake--keto",
+    "title": "Tunisian Oven Roasted Tofu",
+    "tags": [
+      "tunisian",
+      "oven-roasted",
+      "tofu",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "o"
   }
 ]
