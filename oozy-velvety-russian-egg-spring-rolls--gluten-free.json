@@ -1,0 +1,72 @@
+{
+  "slug": "oozy-velvety-russian-egg-spring-rolls--gluten-free",
+  "title": "Spring Egg Rolls with Russian Twist",
+  "description": "A creative take on traditional spring egg rolls, this recipe incorporates a rich and creamy Russian-inspired sauce, making it a delicious gluten-free option.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg rolls wrappers (gluten-free)",
+      "amount": "12-15 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Spring roll filling (shredded vegetables, meat, etc.)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian sauce (see below for recipe)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F.",
+    "2. Prepare the spring roll filling according to your preference.",
+    "3. Lay an egg roll wrapper on a clean surface with one corner pointing towards you.",
+    "4. Place about 1 tablespoon of filling in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with water.",
+    "6. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. When the oil is hot, add a few of the egg rolls to the pan (do not overcrowd).",
+    "9. Fry the egg rolls until golden brown, about 2-3 minutes on each side.",
+    "10. Remove the egg rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "11. Serve the egg rolls hot with Russian sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "spring-egg-rolls",
+    "gluten-free",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-velvety-russian-egg-spring-rolls--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:04:39.337Z"
+}
