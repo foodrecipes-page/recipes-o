@@ -1,0 +1,82 @@
+{
+  "slug": "oven-baked-malaysian-chicken-bake--french",
+  "title": "French-Style Baked Chicken",
+  "description": "A simple and flavorful dish that combines the richness of French cuisine with the bold flavors of Southeast Asia.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "Season the chicken with salt, black pepper, garlic powder, onion powder, and paprika.",
+    "Heat the coconut oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is baking, prepare the chicken broth.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the chicken breast with the chicken broth spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "baked",
+    "chicken",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-malaysian-chicken-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:49:47.138Z"
+}
