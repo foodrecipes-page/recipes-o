@@ -13360,18 +13360,14 @@
   },
   {
     "slug": "oven-warmed-irish-monsoon-stew",
-    "title": "Oven-Warmed Irish Monsoon Stew",
+    "title": "Warmed Irish Stew",
     "tags": [
-      "cider-vinegar",
-      "dairy-free",
       "irish",
-      "monsoon-stew",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "lamb"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 90,
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -16626,6 +16622,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oaky-charred-irish-lamb-stew--keto",
+    "title": "Irish Lamb Stew",
+    "tags": [
+      "irish",
+      "lamb",
+      "stew",
+      "keto",
+      "comfort-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 135,
     "shard": "o"
   }
 ]
