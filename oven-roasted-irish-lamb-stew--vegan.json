@@ -1,0 +1,71 @@
+{
+  "slug": "oven-roasted-irish-lamb-stew--vegan",
+  "title": "Roasted Irish Vegetables Stew",
+  "description": "A hearty and flavorful stew made with roasted Irish vegetables, perfect for a cozy evening.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Parsnips",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the sweet potatoes, carrots, and parsnips with olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large pot, sauté the onions and garlic until softened.",
+    "Add the cooked lentils, roasted vegetables, and vegetable broth to the pot.",
+    "Bring to a boil, then reduce the heat and simmer for 10-15 minutes.",
+    "Season with your favorite herbs and spices.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-irish-lamb-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:04:17.490Z"
+}
