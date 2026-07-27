@@ -16548,5 +16548,19 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-tangy-filipino-linguine-pasta-pinakbet--thai",
+    "title": "Linguine Pinakbet Stir Fry",
+    "tags": [
+      "thai",
+      "filipino",
+      "vegetarian",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "o"
   }
 ]
