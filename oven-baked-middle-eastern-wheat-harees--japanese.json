@@ -1,0 +1,77 @@
+{
+  "slug": "oven-baked-middle-eastern-wheat-harees--japanese",
+  "title": "Japanese Harees and Wheat Bake",
+  "description": "A unique fusion dish that brings together the flavors of Japan and Middle Eastern harees, in a baked wheat crust.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Harees",
+      "amount": "250g"
+    },
+    {
+      "name": "Wheat flour",
+      "amount": "200g",
+      "notes": "gluten-free wheat flour"
+    },
+    {
+      "name": "Water",
+      "amount": "150ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sushi vinegar",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Mix harees, wheat flour, and water in a bowl until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Roll out the dough to a thickness of 1cm (0.4in).",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Brush sesame oil over the dough.",
+    "Sprinkle soy sauce, sushi vinegar, and chopped scallions evenly over the dough.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Slice into squares and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "middle-eastern",
+    "fusion",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-middle-eastern-wheat-harees--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:31:37.691Z"
+}
