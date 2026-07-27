@@ -1,0 +1,81 @@
+{
+  "slug": "oven-roasted-american-chicken-drumsticks-skewers--indian",
+  "title": "Indian-Style Roasted Chicken Drumsticks",
+  "description": "Tender and flavorful chicken drumsticks roasted to perfection with a blend of Indian spices. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Drumsticks",
+      "amount": "4-6"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing chicken"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garam masala, cumin powder, coriander powder, red chili powder, salt, and black pepper.",
+    "Add the chicken drumsticks to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 25-30 minutes, or until the chicken is cooked through and slightly charred.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "roasted",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-american-chicken-drumsticks-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:46:19.547Z"
+}
