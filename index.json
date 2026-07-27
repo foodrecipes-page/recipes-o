@@ -12618,20 +12618,14 @@
   },
   {
     "slug": "oven-roasted-uruguayan-beetroot-stir-fry",
-    "title": "oven-roasted uruguayan beetroot stir-fry",
+    "title": "Uruguayan Beetroot Stir Fry",
     "tags": [
-      "beetroot",
-      "easy-dinner",
-      "flexitarian",
-      "one-pan",
-      "stir-fry",
       "uruguayan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "beetroot",
+      "stir-fry"
     ],
     "cuisine": "uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "o"
   },
   {
