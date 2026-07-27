@@ -16517,5 +16517,42 @@
     "cuisine": "North African",
     "totalTimeMin": 30,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-irish-lamb-stew--vegan",
+    "title": "Roasted Irish Vegetables Stew",
+    "tags": [
+      "vegan",
+      "irish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-middle-eastern-wheat-harees--japanese",
+    "title": "Japanese Harees and Wheat Bake",
+    "tags": [
+      "japanese",
+      "middle-eastern",
+      "fusion",
+      "baked"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-american-chicken-drumsticks-skewers--indian",
+    "title": "Indian-Style Roasted Chicken Drumsticks",
+    "tags": [
+      "indian",
+      "chicken",
+      "roasted",
+      "easy-dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "o"
   }
 ]
