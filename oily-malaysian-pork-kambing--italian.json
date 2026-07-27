@@ -1,0 +1,81 @@
+{
+  "slug": "oily-malaysian-pork-kambing--italian",
+  "title": "Kambing Italian-Style Pork Ragu",
+  "description": "A twist on the classic Italian ragu, using kambing meat and incorporating malaysian flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kambing",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malaysian chili",
+      "amount": "1-2 teaspoons",
+      "notes": "depending on desired spiciness"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the kambing and pork shoulder, cooking until browned on all sides, about 5-7 minutes.",
+    "Add the malaysian chili, tomato paste, and crushed tomatoes. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce heat to low and let cook for 2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley or basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "kambing",
+    "pork",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-malaysian-pork-kambing--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:41:00.268Z"
+}
