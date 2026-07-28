@@ -1,0 +1,89 @@
+{
+  "slug": "oozing-oily-ayurvedic-chicken-liver--mexican",
+  "title": "Ayurvedic Chicken Liver Tacos",
+  "description": "A Mexican-inspired twist on traditional Ayurvedic liver recipes, featuring chicken liver in a flavorful and spicy taco format.",
+  "cuisine": "mexican",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "oozing",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": null
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the sliced onion to the skillet and cook for 3-4 minutes, until softened.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chicken liver to the skillet and cook for 3-4 minutes, until browned.",
+    "Add the cumin, chili powder, and salt to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the liver is cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the liver mixture onto a tortilla, followed by a spoonful of diced avocado.",
+    "Serve immediately and garnish with chopped cilantro and a squeeze of lime juice.",
+    "Serve with additional salsa, avocado, or sour cream as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "ayurvedic",
+    "chicken-liver",
+    "tacos"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozing-oily-ayurvedic-chicken-liver--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:15:44.881Z"
+}
