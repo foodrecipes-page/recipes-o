@@ -1,0 +1,90 @@
+{
+  "slug": "open-flame-grilled-slovakian-veal-skewers--mexican",
+  "title": "Slovakian Skewers with Mexican Grilled Flavor",
+  "description": "A unique fusion of Slovakian veal skewers with Mexican grilled flavor, perfect for a casual outdoor dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "2 tbsp",
+      "notes": "Smoked paprika for added depth"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 tsp",
+      "notes": "Dried oregano for Mexican flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Cherry tomatoes halved"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread veal, red onion, bell pepper, zucchini, and cherry tomatoes onto skewers.",
+    "Brush skewers with vegetable oil and season with Slovakian paprika, Mexican oregano, salt, and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until veal is cooked through.",
+    "While skewers are cooking, heat a small amount of oil in a pan over medium heat.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Serve skewers hot, topped with garlic and a sprinkle of Slovakian paprika."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "skewers",
+    "grilled",
+    "slovakian",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/open-flame-grilled-slovakian-veal-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:24:39.854Z"
+}
