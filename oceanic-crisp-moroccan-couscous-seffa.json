@@ -1,0 +1,70 @@
+{
+  "slug": "oceanic-crisp-moroccan-couscous-seffa",
+  "title": "Moroccan Couscous with Oceanic Salad",
+  "description": "A hearty and flavorful North African-inspired dish featuring roasted oceanic vegetables and a crispy couscous salad.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oceanic (such as zucchini, bell peppers and eggplant)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crisp (such as chopped carrots)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss oceanic with olive oil, moroccan spice blend, salt, and pepper. Roast in the oven for 20 minutes.",
+    "Cook couscous according to package instructions.",
+    "In a separate pan, heat a small amount of olive oil and sauté crisp until tender.",
+    "Combine cooked couscous and crisp. Toss with roasted oceanic.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-crisp-moroccan-couscous-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:40:55.555Z"
+}
