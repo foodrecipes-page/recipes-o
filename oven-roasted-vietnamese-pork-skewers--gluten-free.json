@@ -1,0 +1,77 @@
+{
+  "slug": "oven-roasted-vietnamese-pork-skewers--gluten-free",
+  "title": "Vietnamese Pork Skewers",
+  "description": "Delicious and easy-to-make pork skewers marinated in a mixture of fish sauce, lime juice, and spices, and roasted to perfection.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "make sure to trim excess fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "use gluten-free"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "mince before using"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1-inch piece",
+      "notes": "about 2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, garlic, ginger, and black pepper.",
+    "Add the pork cubes to the marinade and mix until they are well coated.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 15-20 minutes, or until the pork is cooked through and slightly charred.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "gluten-free",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-vietnamese-pork-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:54:06.215Z"
+}
