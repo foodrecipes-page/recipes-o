@@ -7615,18 +7615,16 @@
   },
   {
     "slug": "outstandingly-tangy-mexican-chicken-tostada",
-    "title": "Outstandingly Tangy Mexican Chicken Tostada",
+    "title": "Tangy Chicken Tostada",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
       "mexican",
-      "one-pan",
-      "tangy",
-      "weeknight"
+      "chicken",
+      "tostada",
+      "grilled",
+      "easy-to-make"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "o"
   },
   {
@@ -8246,18 +8244,15 @@
   },
   {
     "slug": "oven-cooked-vietnamese-beef-stew",
-    "title": "Oven Cooked Vietnamese Beef Stew",
+    "title": "Vietnamese Beef Stew",
     "tags": [
       "beef",
-      "bitter",
-      "date-night",
-      "one-pot",
-      "oven-cooked",
-      "slow-cook",
-      "stew"
+      "vietnamese",
+      "stew",
+      "oven"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 140,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 170,
     "shard": "o"
   },
   {
@@ -16749,6 +16744,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-algerian-cod-bake--thai",
+    "title": "Thai Cod with Algerian Spices",
+    "tags": [
+      "thai",
+      "algerian",
+      "cod",
+      "baked"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 28,
+    "shard": "o"
+  },
+  {
+    "slug": "oozy-algerian-chicken-tagine--vegetarian",
+    "title": "Vegetarian Algerian Tagine",
+    "tags": [
+      "algerian",
+      "vegetarian",
+      "tagine",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "o"
   }
 ]
