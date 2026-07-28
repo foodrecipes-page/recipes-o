@@ -5459,14 +5459,16 @@
   },
   {
     "slug": "oozy-velvety-moroccan-almond-chebakia",
-    "title": "Moroccan Cheesecake Chebakia Bites",
+    "title": "Moroccan Chebakia Bites with Almond Crunch",
     "tags": [
       "moroccan",
-      "cheesecake",
-      "dessert"
+      "chebakia",
+      "almond",
+      "dessert",
+      "snack"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "o"
   },
   {
@@ -16650,6 +16652,33 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-buttery-kenyan-mincemeat-pilaf--vegan",
+    "title": "Kenyan Vegan Mincemeat Pilaf",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "pilaf",
+      "mincemeat"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 15,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-warmed-irish-monsoon-stew--thai",
+    "title": "Thai Irish Stew",
+    "tags": [
+      "thai",
+      "irish",
+      "lamb",
+      "stew",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 170,
     "shard": "o"
   }
 ]
