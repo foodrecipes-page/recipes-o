@@ -1,0 +1,86 @@
+{
+  "slug": "oven-roasted-slovakian-chickpeas-lasagna--french",
+  "title": "Slovakian-Style French Lasagna",
+  "description": "A unique twist on the classic French dish, combining traditional Slovakian flavors with the comfort of lasagna.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna sheets according to package instructions. Drain and set aside.",
+    "In a blender or food processor, blend chickpeas, ricotta cheese, parsley, garlic, salt, and black pepper until smooth.",
+    "In a large skillet, heat olive oil over medium heat. Add blended chickpea mixture and cook for 2-3 minutes.",
+    "Stir in parmesan cheese and cook for an additional minute.",
+    "In a 9x13-inch baking dish, create a thin layer of the chickpea mixture. Arrange 4 lasagna sheets on top.",
+    "Repeat the layers, ending with a layer of chickpea mixture on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until the top is lightly golden brown.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "chickpea",
+    "french",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-chickpeas-lasagna--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:01:17.676Z"
+}
