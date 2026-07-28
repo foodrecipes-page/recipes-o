@@ -1,0 +1,85 @@
+{
+  "slug": "ocean-fresh-irish-cauliflower-stew--japanese",
+  "title": "Japanese-Style Irish Stew",
+  "description": "A hearty, comforting Irish stew infused with the rich flavors of Japan. A unique twist on a classic dish.",
+  "cuisine": "japanese",
+  "diet": [
+    null,
+    null,
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Stew Meat",
+      "amount": "500g",
+      "notes": "Use either beef or lamb for best results"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "Broken into florets"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Japanese-style soy sauce"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the Irish stew meat in batches until browned on all sides. Remove from pot and set aside.",
+    "Add more oil if necessary, then cook the sliced onions until caramelized.",
+    "Add the minced garlic and grated ginger; cook for 1 minute.",
+    "Add the browned meat back to the pot, along with the soy sauce and sake (if using).",
+    "Stir to combine, then add the cauliflower florets. Cover the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "irish-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-irish-cauliflower-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:32:53.192Z"
+}
