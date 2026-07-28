@@ -1,0 +1,90 @@
+{
+  "slug": "outstandingly-spicy-jamaican-herring-curry--keto",
+  "title": "Jamaican Curry Herring",
+  "description": "A spicy keto dish combining the flavors of Jamaica with the richness of herring.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "4",
+      "notes": "fresh and of good quality"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "spicy and flavorful"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "outstandingly spicy pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the herring fillets and pat them dry.",
+    "Heat the coconut oil in an oven-safe skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the herring fillets and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the herring is cooked through.",
+    "Remove from the oven and sprinkle with thyme, outstandingly spicy pepper, salt, and black pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "curry",
+    "herring",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-spicy-jamaican-herring-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:06:55.280Z"
+}
