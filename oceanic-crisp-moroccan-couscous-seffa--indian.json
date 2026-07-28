@@ -1,0 +1,85 @@
+{
+  "slug": "oceanic-crisp-moroccan-couscous-seffa--indian",
+  "title": "Crisp Couscous Seffa with Oceanic Twist",
+  "description": "A flavorful twist on traditional Indian seffa, incorporating crunchy couscous and a hint of the ocean.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": "preferably North African-style"
+    },
+    {
+      "name": "Oceanic Seffa",
+      "amount": "1 cup",
+      "notes": "dried seffa infused with oceanic flavors"
+    },
+    {
+      "name": "Crisp Moroccan Almonds",
+      "amount": "1/2 cup",
+      "notes": "toasted for added crunch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking couscous"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tsp",
+      "notes": "or substitute with vegetable oil"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "for added Indian flair"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add ghee and turmeric.",
+    "Add couscous and stir-fry until lightly toasted.",
+    "Add oceanic seffa and stir-fry for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Transfer couscous mixture to a serving dish.",
+    "Sprinkle toasted Moroccan almonds on top.",
+    "Garnish with chopped cilantro.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "north-african",
+    "moroccan",
+    "seafood-free",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oceanic-crisp-moroccan-couscous-seffa--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:24:53.185Z"
+}
