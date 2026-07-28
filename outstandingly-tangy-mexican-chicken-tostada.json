@@ -1,0 +1,95 @@
+{
+  "slug": "outstandingly-tangy-mexican-chicken-tostada",
+  "title": "Tangy Chicken Tostada",
+  "description": "A flavorful Mexican dish featuring crispy corn tortillas topped with juicy chicken, creamy slaw, and a drizzle of tangy sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6-8",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "tangy sauce (e.g., sriracha mayo)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken with cumin, paprika, and salt.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the corn tortillas on the grill or in a dry pan.",
+    "Shred the cooked chicken and mix with lime juice.",
+    "Assemble the tostadas by spreading a layer of tangy sauce on each tortilla.",
+    "Top with shredded chicken, red cabbage, red onion, and sliced radishes.",
+    "Serve immediately, garnished with cilantro and lime wedges (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tostada",
+    "grilled",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-tangy-mexican-chicken-tostada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:28:08.086Z"
+}
