@@ -1,0 +1,84 @@
+{
+  "slug": "ocean-fresh-irish-cauliflower-stew",
+  "title": "Irish Stew with Cauliflower",
+  "description": "A hearty and comforting Irish stew made with tender chunks of beef and fresh cauliflower, perfect for a cold evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 medium head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Irish stew seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting beef"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with flour, salt, and pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and brown on all sides, about 5 minutes. Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the cauliflower florets to the pot and cook for an additional 2 minutes.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the beef to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and stir in the Irish stew seasoning and milk (if using). Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "beef",
+    "cauliflower"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ocean-fresh-irish-cauliflower-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:24:39.627Z"
+}
