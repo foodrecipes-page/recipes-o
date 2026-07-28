@@ -16811,5 +16811,18 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-chickpeas-lasagna--french",
+    "title": "Slovakian-Style French Lasagna",
+    "tags": [
+      "lasagna",
+      "chickpea",
+      "french",
+      "slovakian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "o"
   }
 ]
