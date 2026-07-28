@@ -1,0 +1,79 @@
+{
+  "slug": "outstandingly-tangy-mexican-chicken-tostada--thai",
+  "title": "Thai Chicken Tostada",
+  "description": "A unique twist on traditional Mexican tostadas, this Thai-inspired dish combines the flavors of Southeast Asia with the crunch of a Mexican classic.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tostada",
+      "amount": "4-6",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Thai fish sauce"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the chicken breast in the oven for 20-25 minutes, or until cooked through.",
+    "Shred the cooked chicken and set aside.",
+    "Toast the tostadas by baking them in the oven for 5-7 minutes, or until crispy and golden brown.",
+    "In a small bowl, whisk together the fish sauce, lime juice, and chili flakes (if using).",
+    "Assemble the tostadas by spreading a spoonful of the fish sauce mixture on each tostada, followed by a spoonful of the shredded chicken.",
+    "Top each tostada with a sprinkle of cabbage and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "mexican",
+    "chicken",
+    "tostada",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-tangy-mexican-chicken-tostada--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:29:31.699Z"
+}
