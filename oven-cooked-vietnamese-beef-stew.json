@@ -1,0 +1,99 @@
+{
+  "slug": "oven-cooked-vietnamese-beef-stew",
+  "title": "Vietnamese Beef Stew",
+  "description": "A hearty and flavorful Vietnamese-inspired beef stew, perfect for a chilly evening. This dish combines tender beef, vegetables, and aromatic spices for a truly satisfying meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add another tablespoon of oil to the pot and cook the onion and garlic until softened, about 3-4 minutes.",
+    "Stir in the fish sauce, soy sauce, sugar, cinnamon, cumin, coriander, and star anise.",
+    "Return the beef to the pot and add enough beef broth to cover the beef.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Skim off any excess fat that has risen to the surface.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "vietnamese",
+    "stew",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-cooked-vietnamese-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:27:08.724Z"
+}
