@@ -6838,16 +6838,15 @@
   },
   {
     "slug": "outstanding-oven-roasted-british-beef-cornish-pasty",
-    "title": "Traditional British Cornish Pasty Recipe",
+    "title": "Traditional Cornish Beef Pasty",
     "tags": [
+      "beef",
       "british",
       "cornish",
-      "beef",
-      "pasty",
-      "oven-roasted"
+      "pasta"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 65,
+    "cuisine": "british",
+    "totalTimeMin": 45,
     "shard": "o"
   },
   {
@@ -13426,16 +13425,17 @@
   },
   {
     "slug": "overnight-steamed-malaysian-peas-curry",
-    "title": "overnight steamed malaysian peas curry",
+    "title": "Steamed Malaysian Peas Curry",
     "tags": [
-      "crunchy",
-      "lazy-sunday",
-      "macrobiotic-friendly",
-      "one-pan",
-      "sour"
+      "curry",
+      "peas",
+      "malaysian",
+      "steamed",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 20,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 15,
     "shard": "o"
   },
   {
