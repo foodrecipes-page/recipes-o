@@ -1,0 +1,88 @@
+{
+  "slug": "oven-roasted-slovakian-beef-burger--gluten-free",
+  "title": "Slovakian Beef Burger",
+  "description": "A gluten-free Slovakian twist on the classic beef burger, featuring a flavorful roasted beef patty topped with roasted vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef burgers (made from 90% beef)",
+      "amount": "4",
+      "notes": "Use a meat thermometer to ensure internal temperature reaches 63°C for medium-rare"
+    },
+    {
+      "name": "Slovakian-style paprika",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality paprika for best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality extra virgin olive oil for best flavor"
+    },
+    {
+      "name": "Roasted bell peppers",
+      "amount": "2",
+      "notes": "Use any color bell pepper for best flavor"
+    },
+    {
+      "name": "Roasted onions",
+      "amount": "1 medium",
+      "notes": "Use a sweet onion variety for best flavor"
+    },
+    {
+      "name": "Bun (gluten-free)",
+      "amount": "4",
+      "notes": "Use a high-quality gluten-free bun for best texture"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": "Use any lettuce variety for best crunch"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Use any tomato variety for best flavor"
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "1 slice",
+      "notes": "Use any cheese variety for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season beef burgers with Slovakian-style paprika and cook in oven for 12-15 minutes, or until internal temperature reaches 63°C for medium-rare.",
+    "While burgers are cooking, slice roasted bell peppers and onions into thin strips.",
+    "Toast gluten-free buns in oven for 2-3 minutes, or until lightly browned.",
+    "Assemble burgers by spreading a layer of olive oil on the bottom bun, followed by a cooked beef burger, a few slices of roasted bell peppers and onions, a lettuce leaf, a tomato slice, and finally the top bun.",
+    "If using cheese, place on top of burger before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "beef",
+    "burger",
+    "slovakian",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-beef-burger--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:11:07.355Z"
+}
