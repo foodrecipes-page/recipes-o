@@ -1,0 +1,68 @@
+{
+  "slug": "original-oven-roasted-dutch-toffee-popcorn-casserole--mexican",
+  "title": "Mexican Casserole",
+  "description": "A hearty, flavorful Mexican casserole made with original and roasted ingredients, perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Original Tortillas",
+      "amount": "6"
+    },
+    {
+      "name": "Roasted Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Oven Baked Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted Onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dutch-Style Salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Toffee-Crusted Corn",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook oven-baked beans according to package instructions.",
+    "In a separate pan, sauté roasted peppers and onions until softened.",
+    "Add Dutch-style salsa and stir to combine.",
+    "In a large casserole dish, create a layer of tortillas.",
+    "Top with a layer of beans, followed by a layer of the pepper and onion mixture.",
+    "Repeat the layers two more times, finishing with a layer of tortillas on top.",
+    "Bake in the preheated oven for 25-30 minutes, or until the casserole is hot and bubbly.",
+    "Remove from oven and top with toffee-crusted corn.",
+    "Return to oven and bake for an additional 5-10 minutes, or until the corn is lightly toasted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/original-oven-roasted-dutch-toffee-popcorn-casserole--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:43:18.730Z"
+}
