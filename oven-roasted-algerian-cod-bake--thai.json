@@ -1,0 +1,83 @@
+{
+  "slug": "oven-roasted-algerian-cod-bake--thai",
+  "title": "Thai Cod with Algerian Spices",
+  "description": "A flavorful and spicy cod dish inspired by Algerian cuisine, cooked in a Thai style and finished with roasted vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Roasted red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fillets with Algerian spice blend and set aside.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat. Sear the cod for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the cod is cooked through.",
+    "While the cod is cooking, toss the zucchini and bell peppers with a little olive oil, salt, and pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 10-12 minutes, or until tender and lightly browned.",
+    "Remove the skillet from the oven and stir in roasted red pepper flakes and lime juice.",
+    "Serve the cod with roasted vegetables and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "algerian",
+    "cod",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-algerian-cod-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:40:52.410Z"
+}
