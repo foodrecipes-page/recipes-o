@@ -1,0 +1,80 @@
+{
+  "slug": "oven-roasted-slovakian-beef-dumplings--gluten-free",
+  "title": "Slovakian Beef Dumplings",
+  "description": "A traditional Slovakian dish made with beef dumplings, perfect for a cold winter evening. This recipe is also gluten-free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "2 teaspoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Flour",
+      "amount": "500g",
+      "notes": "Gluten-free flour"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "200g",
+      "notes": "Optional"
+    },
+    {
+      "name": "Water",
+      "amount": "200g",
+      "notes": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large mixing bowl, combine the ground beef, caraway seeds, onion, eggs, and gluten-free flour. Mix well until everything is fully incorporated.",
+    "Gradually add the sour cream and water, mixing until the dough comes together. If the dough is too dry, add a little more water.",
+    "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces, about the size of a golf ball.",
+    "Shape each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Brush the tops of the dumplings with a little water and sprinkle with some caraway seeds.",
+    "Bake the dumplings in the preheated oven for about 20-25 minutes, or until they are golden brown.",
+    "Serve the dumplings hot, garnished with some chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "beef",
+    "dumplings",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-slovakian-beef-dumplings--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:21:15.313Z"
+}
