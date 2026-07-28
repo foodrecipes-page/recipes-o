@@ -1,0 +1,56 @@
+{
+  "slug": "outstandingly-buttery-kenyan-mincemeat-pilaf--vegan",
+  "title": "Kenyan Vegan Mincemeat Pilaf",
+  "description": "A unique twist on traditional pilaf, incorporating sweet and tangy Kenyan mincemeat for a flavorful vegan dish.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mincemeat (Kenyan)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/4 cup (use vegan butter substitute)"
+    },
+    {
+      "name": "outstandingly",
+      "amount": "1 tablespoon (note: outstandingly is an adjective, not an ingredient)"
+    }
+  ],
+  "instructions": [
+    "Heat buttery substitute in a pan over medium heat.",
+    "Add pilaf and cook until lightly toasted.",
+    "Stir in Kenyan mincemeat and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegan",
+    "pilaf",
+    "mincemeat"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/outstandingly-buttery-kenyan-mincemeat-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:22:34.393Z"
+}
