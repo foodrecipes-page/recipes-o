@@ -1,0 +1,87 @@
+{
+  "slug": "oven-roasted-canadian-salmon-papillote--vegetarian",
+  "title": "Roasted Canadian Salmon Papillote",
+  "description": "A simple and flavorful recipe that cooks salmon to perfection.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "aluminum foil",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "asparagus",
+      "amount": "4 spears",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "Place a salmon fillet in the center of each piece of aluminum foil.",
+    "Drizzle the lemon juice and olive oil over the salmon.",
+    "Sprinkle the parsley and minced garlic over the salmon.",
+    "Top each salmon fillet with an asparagus spear.",
+    "Fold the foil over the salmon to create a packet and crimp the edges to seal.",
+    "Place the packets on a baking sheet and bake for 12-15 minutes, or until the salmon is cooked through.",
+    "Remove the packets from the oven and let them rest for a few minutes.",
+    "Carefully open the packets and serve the salmon and asparagus hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "salmon",
+    "asparagus",
+    "papillote",
+    "oven-roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-roasted-canadian-salmon-papillote--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:20:12.541Z"
+}
