@@ -16898,5 +16898,31 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "o"
+  },
+  {
+    "slug": "oven-dried-ethiopian-kale-azifa--vegetarian",
+    "title": "Ethiopian Kale Azifa Casserole",
+    "tags": [
+      "vegetarian",
+      "ethiopian",
+      "kale"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "o"
+  },
+  {
+    "slug": "oceanic-crisp-moroccan-couscous-seffa--indian",
+    "title": "Crisp Couscous Seffa with Oceanic Twist",
+    "tags": [
+      "indian",
+      "north-african",
+      "moroccan",
+      "seafood-free",
+      "crunchy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "o"
   }
 ]
