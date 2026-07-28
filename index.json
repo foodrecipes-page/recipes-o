@@ -16771,5 +16771,45 @@
     "cuisine": "North African",
     "totalTimeMin": 50,
     "shard": "o"
+  },
+  {
+    "slug": "oven-roasted-slovakian-beef-burger--gluten-free",
+    "title": "Slovakian Beef Burger",
+    "tags": [
+      "gluten-free",
+      "beef",
+      "burger",
+      "slovakian",
+      "oven-roasted"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-cooked-vietnamese-beef-stew--vegetarian",
+    "title": "Vietnamese Beef Stew",
+    "tags": [
+      "beef",
+      "vietnamese",
+      "stew"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 165,
+    "shard": "o"
+  },
+  {
+    "slug": "outstandingly-tangy-mexican-chicken-tostada--thai",
+    "title": "Thai Chicken Tostada",
+    "tags": [
+      "thai",
+      "mexican",
+      "chicken",
+      "tostada",
+      "quick-and-easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "o"
   }
 ]
