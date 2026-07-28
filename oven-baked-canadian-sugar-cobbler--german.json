@@ -1,0 +1,66 @@
+{
+  "slug": "oven-baked-canadian-sugar-cobbler--german",
+  "title": "Traditional German Apple Cobbler",
+  "description": "A classic German dessert made with sweet apples and a crunchy cobbler topping.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "2-3 (about 2 cups sliced)",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canadian sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Baked Canadian sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cobbler",
+      "amount": "1 cup (all-purpose flour, 1 teaspoon baking powder, 1/2 teaspoon salt)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples. In a large mixing bowl, combine the sliced apples, 1/2 cup sugar, and 2 tablespoons Canadian sugar. Mix well.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the flour, baking powder, and salt for the cobbler topping.",
+    "Add 1 teaspoon baked Canadian sugar to the cobbler mixture and mix well.",
+    "Drop spoonfuls of the cobbler mixture onto the apple mixture, spreading it out evenly to cover the top.",
+    "Bake for 35-40 minutes, or until the cobbler topping is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "apple",
+    "cobbler",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-baked-canadian-sugar-cobbler--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:46:18.963Z"
+}
