@@ -16872,5 +16872,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 135,
     "shard": "o"
+  },
+  {
+    "slug": "oozing-oily-ayurvedic-chicken-liver--mexican",
+    "title": "Ayurvedic Chicken Liver Tacos",
+    "tags": [
+      "mexican",
+      "ayurvedic",
+      "chicken-liver",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-baked-canadian-sugar-cobbler--german",
+    "title": "Traditional German Apple Cobbler",
+    "tags": [
+      "german",
+      "apple",
+      "cobbler",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "o"
   }
 ]
