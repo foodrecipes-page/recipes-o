@@ -1,0 +1,76 @@
+{
+  "slug": "oven-dried-ethiopian-kale-azifa--vegetarian",
+  "title": "Ethiopian Kale Azifa Casserole",
+  "description": "A flavorful, vegetarian casserole combining the spices of Ethiopian cuisine with the nutritious goodness of kale.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Azifa",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Chop the onion and sauté it in olive oil until softened.",
+    "Add the garlic, cumin, turmeric, and paprika, and cook for 1 minute.",
+    "Add the dried azifa and cook for 2 minutes, stirring frequently.",
+    "Add the chopped kale and cook until wilted.",
+    "Transfer the mixture to a baking dish and season with salt and black pepper.",
+    "Bake for 20-25 minutes, or until the kale is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "ethiopian",
+    "kale"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-dried-ethiopian-kale-azifa--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:04:50.259Z"
+}
