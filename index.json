@@ -16924,5 +16924,17 @@
     "cuisine": "indian",
     "totalTimeMin": 15,
     "shard": "o"
+  },
+  {
+    "slug": "oven-crusted-american-beef-burger--gluten-free",
+    "title": "American Gluten-Free Beef Burger",
+    "tags": [
+      "beef-burger",
+      "american-food",
+      "gluten-free"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 22,
+    "shard": "o"
   }
 ]
