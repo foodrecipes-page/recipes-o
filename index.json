@@ -16950,5 +16950,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 170,
     "shard": "o"
+  },
+  {
+    "slug": "oven-kissed-russian-kid-friendly-baked--thai",
+    "title": "Thai Baked Chicken",
+    "tags": [
+      "thai",
+      "baked",
+      "chicken",
+      "curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "o"
+  },
+  {
+    "slug": "oven-warmed-irish-monsoon-stew--vegan",
+    "title": "Monsoon Stew",
+    "tags": [
+      "irish",
+      "stew",
+      "vegan",
+      "warm"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "o"
+  },
+  {
+    "slug": "oily-garlicky-jamaican-frankfurter-stew--keto",
+    "title": "Jamaican Keto Frankfurter Stew",
+    "tags": [
+      "jamaican",
+      "keto",
+      "stew",
+      "low-carb"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
+    "shard": "o"
   }
 ]
