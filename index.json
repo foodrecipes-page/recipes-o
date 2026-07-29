@@ -16936,5 +16936,19 @@
     "cuisine": "American",
     "totalTimeMin": 22,
     "shard": "o"
+  },
+  {
+    "slug": "oozy-creamy-mexican-beef-birria--keto",
+    "title": "Keto Beef Birria Tacos",
+    "tags": [
+      "keto",
+      "mexican",
+      "beef",
+      "birria",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "o"
   }
 ]
