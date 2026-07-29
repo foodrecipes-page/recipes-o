@@ -1,0 +1,98 @@
+{
+  "slug": "oozy-creamy-mexican-beef-birria--keto",
+  "title": "Keto Beef Birria Tacos",
+  "description": "A twist on traditional Mexican birria, this keto version swaps the traditional tortillas for low-carb alternatives and focuses on rich, bold flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (such as shank or brisket)",
+      "amount": "2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "birria seasoning",
+      "amount": "2 tablespoons",
+      "notes": "available at most Mexican markets or online"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded, for serving"
+    },
+    {
+      "name": "low-carb tortillas",
+      "amount": "8-10",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the birria seasoning, chicken broth, tomato paste, tomato sauce, and oregano to the pot.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Return the beef to the pot and cover with a lid.",
+    "Simmer the birria for 2 1/2 hours, or until the meat is tender and falls apart easily.",
+    "Shred the beef with two forks and stir to combine with the sauce.",
+    "Taste and adjust the seasoning as needed.",
+    "Warm the low-carb tortillas according to package instructions.",
+    "Assemble the tacos by spooning the beef and sauce onto a tortilla, followed by a dollop of heavy cream and a sprinkle of shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mexican",
+    "beef",
+    "birria",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oozy-creamy-mexican-beef-birria--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:39:30.013Z"
+}
