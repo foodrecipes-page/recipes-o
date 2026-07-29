@@ -1,0 +1,66 @@
+{
+  "slug": "oily-garlicky-jamaican-frankfurter-stew--keto",
+  "title": "Jamaican Keto Frankfurter Stew",
+  "description": "A flavorful and spicy stew made with jamaican seasoned frankfurters and a blend of aromatic spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican Frankfurters",
+      "amount": "4",
+      "notes": "Make sure to choose a keto-friendly brand"
+    },
+    {
+      "name": "Oily",
+      "amount": "2 tbsp",
+      "notes": "Avocado or coconut oil work well"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": "Minced garlic adds depth to the stew"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "Use a low-carb stew mix or make your own"
+    },
+    {
+      "name": "Frankfurter Seasoning",
+      "amount": "1 tsp",
+      "notes": "Add a Jamaican flair with this seasoning blend"
+    }
+  ],
+  "instructions": [
+    "Heat the oily in a large skillet over medium-high heat",
+    "Add the garlicky and cook for 1 minute until fragrant",
+    "Add the stew mix and cook according to package instructions",
+    "Add the Jamaican frankfurters and cook for an additional 5 minutes",
+    "Season with Frankfurter seasoning and stir to combine",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "keto",
+    "stew",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "32g",
+    "carbs": "6g",
+    "fat": "44g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oily-garlicky-jamaican-frankfurter-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:42:04.758Z"
+}
