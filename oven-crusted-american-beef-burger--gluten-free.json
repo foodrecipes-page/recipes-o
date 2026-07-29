@@ -1,0 +1,84 @@
+{
+  "slug": "oven-crusted-american-beef-burger--gluten-free",
+  "title": "American Gluten-Free Beef Burger",
+  "description": "A delicious beef burger cooked to perfection in the oven with a crispy crust, served on a gluten-free bun.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Gluten-Free Buns",
+      "amount": "4",
+      "notes": "available at most health food stores"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Crusted Burger Mix",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "4"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Divide the ground beef into 4 equal portions and shape into patties.",
+    "Sprinkle the crusted burger mix onto both sides of the patties.",
+    "Season with salt and pepper to taste.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 12-15 minutes, or until the internal temperature reaches 160°F (71°C).",
+    "While the burgers are cooking, toast the gluten-free buns on the oven rack.",
+    "Assemble the burgers with American cheese, onions, lettuce, tomatoes, and mayonnaise.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-burger",
+    "american-food",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/oven-crusted-american-beef-burger--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:03:25.237Z"
+}
